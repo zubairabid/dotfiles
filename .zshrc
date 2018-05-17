@@ -110,7 +110,7 @@ export PATH=$PATH:"/home/zubair/Devops/idea-IU-181.4203.550/bin"
 if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'
 else
-  export EDITOR='mvim'
+  export EDITOR='vim'
 fi
 
 # Compilation flags
