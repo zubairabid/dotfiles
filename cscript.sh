@@ -11,3 +11,7 @@ echo "Copied vimrc"
 
 cp -u ~/.i3/config ~/Documents/dotfiles/
 echo "Copied i3 config"
+
+git add --all
+git commit -m "Daily update: `date`"
+git push origin master
