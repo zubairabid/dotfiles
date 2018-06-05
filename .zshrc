@@ -140,6 +140,10 @@ export PATH=$HOME/gems/bin:$PATH
 
 
 function setproxy() {
+	echo "Configuring proxies for IIIT : ..."
+
+	echo "Setting up env proxy"
+
 	export ALL_PROXY=https://proxy.iiit.ac.in:8080/
 	export all_proxy=https://proxy.iiit.ac.in:8080/
 	
@@ -155,19 +159,38 @@ function setproxy() {
 	export SOCKS_PROXY=socks://proxy.iiit.ac.in:8080/
 	export socks_proxy=socks://proxy.iiit.ac.in:8080/
 
-	echo "Environment variable proxy settings set"
+	echo "Env proxy settings set"
 
+
+	echo "Setting up git proxy using gitproxy and socat"
 	echo '#!/bin/sh' > /usr/bin/gitproxy
 	echo '_proxy=proxy.iiit.ac.in' >> /usr/bin/gitproxy
 	echo '_proxyport=8080' >> /usr/bin/gitproxy
 	echo 'exec socat STDIO PROXY:$_proxy:$1:$2,proxyport=$_proxyport' >> /usr/bin/gitproxy
+
+	echo "Git proxy set"
+
+
+	echo "Setting up Node proxy"
+	npm config set proxy http://proxy.iiit.ac.in:8080
+	npm config set https-proxy http://proxy.iiit.ac.in:8080
+	echo "Set up Node proxy"	
 }
 
 function unsetproxy() {
 	unset {all,https,http,ftp,socks}_proxy
 	unset {ALL,HTTPS,HTTP,FTP,SOCKS}_PROXY
 
-	echo "Environment variable proxy settings unset"
+	echo "Env proxy unset"
+
+	npm config delete proxy
+	npm config delete https-proxy
+
+	echo "Node proxy unset"
 
 	echo '' > /usr/bin/gitproxy
+
+	echo "Git proxy unset"
+
+
 }
