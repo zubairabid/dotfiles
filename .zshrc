@@ -98,6 +98,8 @@ export PATH=$PATH:${BLUESPEC_HOME}/bin
 export PATH=$PATH:${BLUESPEC_HOME}/bin:${BLUESPEC_HOME}/util/flexlm/x86_64_re3\n
 export PATH=$PATH:"/home/zubair/Downloads/Software/pycharm-2017.3.4/bin"
 export PATH=$PATH:"/home/zubair/Devops/idea-IU-181.4203.550/bin"
+export PATH=$PATH:"/home/zubair/Downloads/Software/firefox-dev/firefox"
+export PATH=$PATH:"/home/zubair/Downloads/Software/Telegram"
 
 # User configuration
 
