@@ -9,7 +9,7 @@ echo "Copied zshrc"
 cp -u ~/.vimrc ~/Documents/dotfiles/
 echo "Copied vimrc"
 
-cp -u ~/.i3/config ~/Documents/dotfiles/
+cp -u ~/.i3/config ~/Documents/dotfiles/i3config
 echo "Copied i3 config"
 
 echo "GIT: procedure started"
