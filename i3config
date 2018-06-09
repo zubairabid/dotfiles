@@ -9,6 +9,11 @@
 # layout, use the i3-config-wizard
 #
 
+# ZUBAIR'S ADDITIONS
+# A 3 px border
+set default_border normal 
+
+# Enter Key as primary mod
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -180,3 +185,4 @@ bar {
 # Please remove the following exec line:
 #######################################################################
 exec i3-config-wizard
+
