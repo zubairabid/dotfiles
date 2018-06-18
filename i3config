@@ -13,6 +13,19 @@
 # A 3 px border
 set default_border normal 
 
+# Pulse Audio controls
+# note: the '1' is active sink number. Use pactl list to see which works
+# increase sound volume
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 1 +5%
+
+# lower sound volume
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume 1 -5%
+
+# mute sound 
+bindsym XF86AudioMute exec pactl set-sink-mute toggle
+
+# END ZUBAIR
+
 # Enter Key as primary mod
 set $mod Mod4
 
