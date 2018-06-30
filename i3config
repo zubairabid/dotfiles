@@ -22,7 +22,7 @@ bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 1 +5%
 bindsym XF86AudioLowerVolume exec pactl set-sink-volume 1 -5%
 
 # mute sound 
-bindsym XF86AudioMute exec pactl set-sink-mute toggle
+bindsym XF86AudioMute exec pactl set-sink-mute 1 toggle
 
 # END ZUBAIR
 
