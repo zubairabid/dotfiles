@@ -100,6 +100,7 @@ export PATH=$PATH:"/home/zubair/Downloads/Software/pycharm-2017.3.4/bin"
 export PATH=$PATH:"/home/zubair/Devops/idea-IU-181.4203.550/bin"
 export PATH=$PATH:"/home/zubair/Downloads/Software/firefox-dev/firefox"
 export PATH=$PATH:"/home/zubair/Downloads/Software/Telegram"
+export PATH=$PATH:"/home/zubair/Downloads/Software/ngrok"
 
 # User configuration
 
