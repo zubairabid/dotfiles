@@ -1,2 +1,2 @@
 set autoindent
-set number
+set number relativenumber
