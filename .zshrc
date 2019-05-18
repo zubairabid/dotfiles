@@ -133,14 +133,21 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 export PATH=$PATH:/home/zubair/Qt5.10.0/5.10.0/gcc_64/bin
 export PATH=/usr/lib/x86_64-linux-gnu/qt5/bin:$PATH
 export PATH=/home/zubair/Qt5.10.0/5.10.0/gcc_64/bin:$PATH
+
 export TOP="/home/zubair/Documents/DLP/Sem2CSO/Lab/riscv"
 export RISCV=$TOP/riscv
 export PATH=$PATH:$RISCV/bin
+
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
+
+export GOPATH=$HOME/go
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 
 echo "... set env variables"
 
@@ -154,3 +161,20 @@ echo "... set up nvm"
 
 ##### Welcome message #####
 cowsay -b -W 50 `df ~ -h`
+
+# added by Anaconda3 5.3.1 installer
+# >>> conda init >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$(CONDA_REPORT_ERRORS=false '/home/zubair/anaconda3/bin/conda' shell.bash hook 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    \eval "$__conda_setup"
+else
+    if [ -f "/home/zubair/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/zubair/anaconda3/etc/profile.d/conda.sh"
+        CONDA_CHANGEPS1=false conda activate base
+    else
+        \export PATH="/home/zubair/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda init <<<

@@ -35,6 +35,17 @@ bindsym XF86AudioMute exec pactl set-sink-mute 1 toggle
 # lock
 bindsym $mod+Shift+x exec i3lock --color '$bg-color'
 
+
+# Shifting windows about monitors
+# Shift left
+bindsym $mod+Shift+h move workspace to output left
+# Shift right 
+bindsym $mod+Shift+l move workspace to output right
+
+
+# take a screenshot of the whole screen (all monitors)
+bindsym $mod+p exec gnome-screenshot
+
 # END ZUBAIR
 
 # Enter Key as primary mod
@@ -74,7 +85,7 @@ bindsym $mod+Shift+q kill
 # start dmenu (a program launcher)
 bindsym $mod+Shift+d exec dmenu_run -nb '#0b0c0f' -sb '#E53935'
 # start rofi as alternative to dmenu
-bindsym $mod+d exec rofi -show run -matching fuzzy -lines 8 -width 40 -location 0 -font "Ubuntu Light 13"
+bindsym $mod+d exec rofi -show run -matching fuzzy -font "Ubuntu Light 13"
 # bindsym $mod+d exec dmenu_run 
 # bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 800 -opacity "85" -bw 0 -bc "$bg-color" -bg "$bg-color" -fg "$text-color" -hlbg "$bg-color" -hlfg "#9575cd" -font "Ubuntu Light 14"
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -93,6 +104,9 @@ bindsym $mod+Left focus left
 bindsym $mod+Down focus down
 bindsym $mod+Up focus up
 bindsym $mod+Right focus right
+
+# adding alt+tab support for confused people
+
 
 # move focused window
 bindsym $mod+Shift+$left move left
@@ -150,6 +164,17 @@ bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
+bindsym $mod+Ctrl+1 workspace 11
+bindsym $mod+Ctrl+2 workspace 12
+bindsym $mod+Ctrl+3 workspace 13
+bindsym $mod+Ctrl+4 workspace 14
+bindsym $mod+Ctrl+5 workspace 15
+bindsym $mod+Ctrl+6 workspace 16
+bindsym $mod+Ctrl+7 workspace 17
+bindsym $mod+Ctrl+8 workspace 18
+bindsym $mod+Ctrl+9 workspace 19
+bindsym $mod+Ctrl+0 workspace 20
+
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace 1
@@ -162,6 +187,16 @@ bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
+bindsym $mod+Ctrl+Shift+1 move container to workspace 11
+bindsym $mod+Ctrl+Shift+2 move container to workspace 12
+bindsym $mod+Ctrl+Shift+3 move container to workspace 13
+bindsym $mod+Ctrl+Shift+4 move container to workspace 14
+bindsym $mod+Ctrl+Shift+5 move container to workspace 15
+bindsym $mod+Ctrl+Shift+6 move container to workspace 16
+bindsym $mod+Ctrl+Shift+7 move container to workspace 17
+bindsym $mod+Ctrl+Shift+8 move container to workspace 18
+bindsym $mod+Ctrl+Shift+9 move container to workspace 19
+bindsym $mod+Ctrl+Shift+0 move container to workspace 20
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -201,10 +236,10 @@ bindsym $mod+r mode "resize"
 
 # window colors
 #                       border              background         text                 indicator
-client.focused          $bg-color           $bg-color          $text-color          #00ff00
-client.unfocused        $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
-client.focused_inactive $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
-client.urgent 		$urgent-bg-color    $urgent-bg-color   $text-color 	    #00ff00
+client.focused          $bg-color           $bg-color          $text-color          #3f3f3f
+client.unfocused        $inactive-bg-color  $inactive-bg-color $inactive-text-color #3f3f3f
+client.focused_inactive $inactive-bg-color  $inactive-bg-color $inactive-text-color #3f3f3f
+client.urgent 		$urgent-bg-color    $urgent-bg-color   $text-color 	    #3f3f3f
 
 bar {
         status_command i3blocks -c ~/.i3/i3blocks.conf
@@ -231,5 +266,7 @@ bar {
 # exec i3-config-wizard
 
 exec --no-startup-id nm-applet
+exec --no-startup-id feh --recursive --randomize --bg-scale /home/zubair/Pictures/Wallpapers/newslides/
+# exec compton --config ~/.config/compton.conf
 
-exec compton -f
+bindsym $mod+z exec feh --recursive --randomize --bg-scale /home/zubair/Pictures/Wallpapers/newslides/
