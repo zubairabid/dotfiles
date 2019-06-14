@@ -1,0 +1,50 @@
+[2019-06-14 18:27:20.766] [sharedprocess] [info] main {"machineId":"3b099a0aba2fd1e9fa4e545e79b2a01db39eedcf48d68ed58708aaa246091960"}
+[2019-06-14 18:27:20.824] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:27:20.883] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:27:20.913] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:27:21.148] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:27:21.166] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:27:21.177] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:27:21.230] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:27:21.233] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:27:21.433] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:28:00.744] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-14 18:28:08.099] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:28:08.109] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:28:08.402] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:28:08.432] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:28:08.683] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:28:08.891] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:28:10.581] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:33:10.637] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:38:10.644] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.266] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.293] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.299] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.317] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.524] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:41:53.529] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:41:53.535] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:41:53.605] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.610] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:53.613] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:41:54.031] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:41:54.046] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:41:54.067] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 18:42:06.488] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2019-06-14 18:42:06.500] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-14 18:42:07.209] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/12e93227-5edf-48ca-a27c-d616db2ecb91
+[2019-06-14 18:42:07.537] [sharedprocess] [info] Extracted extension to /home/zubair/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.18.0: dracula-theme.theme-dracula
+[2019-06-14 18:42:07.540] [sharedprocess] [info] Renamed to /home/zubair/.vscode-oss/extensions/dracula-theme.theme-dracula-2.18.0
+[2019-06-14 18:42:07.567] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2019-06-14 18:42:07.638] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2019-06-14 18:43:10.660] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-14 18:43:37.807] [sharedprocess] [info] Installing extension: ms-vscode.theme-markdownkit
+[2019-06-14 18:43:37.815] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-14 18:43:38.307] [sharedprocess] [info] Downloaded extension: ms-vscode.theme-markdownkit /tmp/ac219100-6e1c-4d4c-ab9c-abfdb30fcc52
+[2019-06-14 18:43:38.471] [sharedprocess] [info] Extracted extension to /home/zubair/.vscode-oss/extensions/.ms-vscode.theme-markdownkit-0.1.4: ms-vscode.theme-markdownkit
+[2019-06-14 18:43:38.471] [sharedprocess] [info] Renamed to /home/zubair/.vscode-oss/extensions/ms-vscode.theme-markdownkit-0.1.4
+[2019-06-14 18:43:38.473] [sharedprocess] [info] Installation completed. ms-vscode.theme-markdownkit
+[2019-06-14 18:43:38.605] [sharedprocess] [info] Extensions installed successfully: ms-vscode.theme-markdownkit
+[2019-06-14 18:48:10.675] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-14 18:53:10.684] [sharedprocess] [info] Scanned user extensions: 2

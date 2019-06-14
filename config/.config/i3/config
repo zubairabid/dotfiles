@@ -344,7 +344,7 @@ exec nm-applet
 exec --no-startup-id feh --recursive --randomize --bg-scale /home/zubair/Pictures/Wallpapers/newslides/
 
 # Getting the compositor up and running
-exec --no-startup-id compton
+exec --no-startup-id compton --config .config/compton/compton.conf 
 
 # In case I'm too lazy to use the mouse
 exec --no-startup-id keynav
