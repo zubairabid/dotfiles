@@ -1,0 +1,404 @@
+sw_volume: 98
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 78
+time: 94.025000
+random: 0
+repeat: 0
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:(1994) Dummy/01 Mysterons.flac
+1:(1994) Dummy/02 Sour Times.flac
+2:(1994) Dummy/03 Strangers.flac
+3:(1994) Dummy/04 It Could Be Sweet.flac
+4:(1994) Dummy/05 Wandering Star.flac
+5:(1994) Dummy/06 It's A Fire.flac
+6:(1994) Dummy/07 Numb.flac
+7:(1994) Dummy/08 Roads.flac
+8:(1994) Dummy/09 Pedestal.flac
+9:(1994) Dummy/10 Biscuit.flac
+10:(1994) Dummy/11 Glory Box.flac
+11:(1997) Portishead/01 Cowboys.flac
+12:(1997) Portishead/02 All Mine.flac
+13:(1997) Portishead/03 Undenied.flac
+14:(1997) Portishead/04 Half Day Closing.flac
+15:(1997) Portishead/05 Over.flac
+16:(1997) Portishead/06 Humming.flac
+17:(1997) Portishead/07 Mourning Air.flac
+18:(1997) Portishead/08 Seven Months.flac
+19:(1997) Portishead/09 Only You.flac
+20:(1997) Portishead/10 Elysium.flac
+21:(1997) Portishead/11 Western Eyes.flac
+22:(2008) Third/01 Silence.flac
+23:(2008) Third/02 Hunter.flac
+24:(2008) Third/03 Nylon Smile.flac
+25:(2008) Third/04 The Rip.flac
+26:(2008) Third/05 Plastic.flac
+27:(2008) Third/06 We Carry On.flac
+28:(2008) Third/07 Deep Water.flac
+29:(2008) Third/08 Machine Gun.flac
+30:(2008) Third/09 Small.flac
+31:(2008) Third/10 Magic Doors.flac
+32:(2008) Third/11 Threads.flac
+33:Brockhampton - Iridescence/01 NEW ORLEANS.mp3
+34:Brockhampton - Iridescence/02 THUG LIFE.mp3
+35:Brockhampton - Iridescence/03 BERLIN.mp3
+36:Brockhampton - Iridescence/04 SOMETHING ABOUT HIM.mp3
+37:Brockhampton - Iridescence/05 WHERE THE CASH AT.mp3
+38:Brockhampton - Iridescence/06 WEIGHT.mp3
+39:Brockhampton - Iridescence/07 DISTRICT.mp3
+40:Brockhampton - Iridescence/08 LOOPHOLE.mp3
+41:Brockhampton - Iridescence/09 TAPE.mp3
+42:Brockhampton - Iridescence/10 J'OUVERT.mp3
+43:Brockhampton - Iridescence/11 HONEY.mp3
+44:Brockhampton - Iridescence/12 VIVID.mp3
+45:Brockhampton - Iridescence/13 SAN MARCOS.mp3
+46:Brockhampton - Iridescence/14 TONYA.mp3
+47:Brockhampton - Iridescence/15 FABRIC.mp3
+48:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3
+49:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3
+50:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3
+51:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3
+52:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3
+53:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3
+54:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3
+55:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3
+56:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/09. Baby Boy.mp3
+57:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3
+58:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3
+59:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3
+60:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3
+61:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3
+62:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3
+63:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3
+64:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3
+65:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3
+66:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3
+67:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3
+68:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3
+69:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3
+70:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3
+71:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3
+72:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3
+73:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3
+74:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3
+75:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3
+76:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3
+77:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3
+78:Jonny Greenwood - Phantom Thread [FLAC]/18 For the Hungry Boy.flac
+79:Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 01 THERE IS STILL TIME.flac
+80:Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 02 OXBOW B.flac
+81:Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 03 BATTY'S THEME.flac
+82:Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 04 UPSIDE DOWN COPS.flac
+83:Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 05 ALL CORRUPT EVERYTHING.flac
+84:Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 01 THERE AIN'T NOTHING IT'S JUST PAIN AND THEN YER GONE.flac
+85:Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 02 ACID RAIN.flac
+86:Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 03 ENTANGLED.flac
+87:Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 01 SV_CHEATS 0.flac
+88:Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 02 SHELTER.flac
+89:Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 03 ALT.VEL.PTCH.flac
+90:Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 04 NEGATIVE JUMPSUIT.flac
+91:Lorn/Vessel/LORN - VESSEL - 01 BROKEN MANTRA.flac
+92:Lorn/Vessel/LORN - VESSEL - 02 ANVIL.flac
+93:Lorn/Vessel/LORN - VESSEL - 03 TEMPERED BY YOUR LOVE.flac
+94:Lorn/Vessel/LORN - VESSEL - 04 CONDUIT.flac
+95:Lorn/Vessel/LORN - VESSEL - 05 TATTERED FLAG.flac
+96:Lorn/Vessel/LORN - VESSEL - 06 DIPPED INTO POISON.flac
+97:Lorn/Vessel/LORN - VESSEL - 07 ICE.flac
+98:Lorn/Vessel/LORN - VESSEL - 08 LOCK BITES KEY.flac
+99:Lorn/Vessel/LORN - VESSEL - 09 MOUNT KWAKU.flac
+100:Lorn/Vessel/LORN - VESSEL - 10 MAROONED.flac
+101:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/01.Serenade No.13 'Eine Kleine Nachtmusik' Allegro.flac
+102:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/02.Horn Concerto No.4 Rondo Allegro Vivace.flac
+103:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/03.Cosi Fan Tutte Soave Sia Il Vento.flac
+104:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/04.Violin Sonata K.378 Andantino.flac
+105:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/05.Requiem Confutatis And Lacrymosa.flac
+106:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/06.Symphony No.40 Molto Allegro.flac
+107:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/07.String Quartet 'Hunt' Minuetto.flac
+108:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/08.Don Giovanni La Ci Darem La Mano.flac
+109:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/09.German Dance No.3 'Sleigh Ride'.flac
+110:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/10.Piano Concerto No.20 Allegro Assai.flac
+111:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/11.Marriage Of Figaro Voi Che Sapete.flac
+112:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/12.Symphony No.25 Allegro Con Brio.flac
+113:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/13.Ave Verum Corpus.flac
+114:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/01.Marriage Of Figaro Overture.flac
+115:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/02.Clarinet Concerto Adagio.flac
+116:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/03.Mass In C Minor Kyrie.flac
+117:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/04.Piano Concerto No.21 Andante.flac
+118:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/05.Symphony No.41 'Jupiter' Molto Allegro.flac
+119:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/06.Die Zauberflote Der Holle Rache.flac
+120:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/07.Piano Sonata No.11 Rondo Alla Turca.flac
+121:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/08.Flute And Harp Concerto Andantino.flac
+122:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/09.Serenade For Winds K.361 Menuetto.flac
+123:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/10.Clarinet Quintet Larghetto.flac
+124:Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/11.Violin Concerto No.5 Tempo Di Minuetto.flac
+125:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/01 Burn the Witch.mp3
+126:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/02 Daydreaming.mp3
+127:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/03 Decks Dark.mp3
+128:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/04 Desert Island Disk.mp3
+129:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/05 Ful Stop.mp3
+130:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/06 Glass Eyes.mp3
+131:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/07 Identikit.mp3
+132:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/08 The Numbers.mp3
+133:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/09 Present Tense.mp3
+134:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/10 Tinker Tailor Soldier Sailor Rich.mp3
+135:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/11 True Love Waits.mp3
+136:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/Disc 2/01 Ill Wind.mp3
+137:Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/Disc 2/02 Spectre.mp3
+138:Radiohead/Radiohead - Amnesiac - 320kbps/01 Packt Like Sardines In A Crushd Tin Box.mp3
+139:Radiohead/Radiohead - Amnesiac - 320kbps/02 Pyramid Song.mp3
+140:Radiohead/Radiohead - Amnesiac - 320kbps/03 Pulk-Pull Revolving Doors.mp3
+141:Radiohead/Radiohead - Amnesiac - 320kbps/04 You And Whose Army-.mp3
+142:Radiohead/Radiohead - Amnesiac - 320kbps/05 I Might Be Wrong.mp3
+143:Radiohead/Radiohead - Amnesiac - 320kbps/06 Knives Out.mp3
+144:Radiohead/Radiohead - Amnesiac - 320kbps/07 Morning Bell-Amnesiac.mp3
+145:Radiohead/Radiohead - Amnesiac - 320kbps/08 Dollars And Cents.mp3
+146:Radiohead/Radiohead - Amnesiac - 320kbps/09 Hunting Bears.mp3
+147:Radiohead/Radiohead - Amnesiac - 320kbps/10 Like Spinning Plates.mp3
+148:Radiohead/Radiohead - Amnesiac - 320kbps/11 Life In A Glasshouse Demonoid.mp3
+149:Radiohead/Radiohead - In Rainbows (2007) 320kbps/01 15 Step.mp3
+150:Radiohead/Radiohead - In Rainbows (2007) 320kbps/02 Bodysnatchers.mp3
+151:Radiohead/Radiohead - In Rainbows (2007) 320kbps/03 Nude.mp3
+152:Radiohead/Radiohead - In Rainbows (2007) 320kbps/04 Weird Fishes , Arpeggi.mp3
+153:Radiohead/Radiohead - In Rainbows (2007) 320kbps/05 All I Need.mp3
+154:Radiohead/Radiohead - In Rainbows (2007) 320kbps/06 Faust Arp.mp3
+155:Radiohead/Radiohead - In Rainbows (2007) 320kbps/07 Reckoner.mp3
+156:Radiohead/Radiohead - In Rainbows (2007) 320kbps/08 House Of Cards.mp3
+157:Radiohead/Radiohead - In Rainbows (2007) 320kbps/09 Jigsaw Falling Into Place.mp3
+158:Radiohead/Radiohead - In Rainbows (2007) 320kbps/10 Videotape.mp3
+159:Radiohead/Radiohead - Kid A - 320kbps/01 Everything In Its Right Place.mp3
+160:Radiohead/Radiohead - Kid A - 320kbps/02 Kid A.mp3
+161:Radiohead/Radiohead - Kid A - 320kbps/03 The National Anthem.mp3
+162:Radiohead/Radiohead - Kid A - 320kbps/04 How To Disappear Completely.mp3
+163:Radiohead/Radiohead - Kid A - 320kbps/05 Treefingers.mp3
+164:Radiohead/Radiohead - Kid A - 320kbps/06 Optimistic.mp3
+165:Radiohead/Radiohead - Kid A - 320kbps/07 In Limbo.mp3
+166:Radiohead/Radiohead - Kid A - 320kbps/08 Idioteque.mp3
+167:Radiohead/Radiohead - Kid A - 320kbps/09 Morning Bell.mp3
+168:Radiohead/Radiohead - Kid A - 320kbps/10 Motion Picture Soundtrack Demonoid.mp3
+169:Radiohead/Radiohead - OK Computer/01 Airbag.mp3
+170:Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3
+171:Radiohead/Radiohead - OK Computer/03 Subterranean Homesick Alien.mp3
+172:Radiohead/Radiohead - OK Computer/04 Exit Music (For a Film).mp3
+173:Radiohead/Radiohead - OK Computer/05 Let Down.mp3
+174:Radiohead/Radiohead - OK Computer/06 Karma Police.mp3
+175:Radiohead/Radiohead - OK Computer/07 Fitter Happier.mp3
+176:Radiohead/Radiohead - OK Computer/08 Electioneering.mp3
+177:Radiohead/Radiohead - OK Computer/09 Climbing Up the Walls.mp3
+178:Radiohead/Radiohead - OK Computer/10 No Surprises.mp3
+179:Radiohead/Radiohead - OK Computer/11 Lucky.mp3
+180:Radiohead/Radiohead - OK Computer/12 The Tourist.mp3
+181:Radiohead/Radiohead B-Sides/02-radiohead-faithless_the_wonder_boy-nuhs.mp3
+182:Radiohead/Radiohead B-Sides/03-radiohead-coke_babies-nuhs.mp3
+183:Radiohead/Radiohead B-Sides/02 Yes I Am.mp3
+184:Radiohead/Radiohead B-Sides/02 - Drill EP - Stupid Car.mp3
+185:Radiohead/Radiohead B-Sides/What_is_that_you_See.mp3
+186:Radiohead/Radiohead B-Sides/Give_It_Up.mp3
+187:Radiohead/Radiohead B-Sides/1-02 India Rubber.mp3
+188:Radiohead/Radiohead B-Sides/1-03 How Can You Be Sure_.mp3
+189:Radiohead/Radiohead B-Sides/01 Good Morning Mr. Magpie.mp3
+190:Radiohead/Radiohead B-Sides/13 On The Beach.mp3
+191:Radiohead/Radiohead B-Sides/16 Follow Me Around.mp3
+192:Radiohead/Radiohead B-Sides/Radiohead - 02 - I am Citizen insane.mp3
+193:Radiohead/Radiohead B-Sides/Radiohead - 03 - Fog (again) - Live.mp3
+194:Radiohead/Radiohead B-Sides/2-02 Gagging Order.mp3
+195:Radiohead/Radiohead B-Sides/2-03 I Am A Wicked Child.mp3
+196:Radiohead/Radiohead B-Sides/07 - Chernobyl 2.mp3
+197:Radiohead/Radiohead B-Sides/08 - Momentum.mp3
+198:Radiohead/Radiohead B-Sides/09 - Duped 94bpm.mp3
+199:Radiohead/Radiohead B-Sides/10 - Nasty People.mp3
+200:Radiohead/Radiohead B-Sides/11 - Try to Save Your Prize.mp3
+201:Radiohead/Radiohead B-Sides/12 - Broken Bass Bin.mp3
+202:Radiohead/Radiohead B-Sides/Radiohead - I Want None Of This.mp3
+203:Radiohead/Radiohead B-Sides/1-03 Maquiladora.mp3
+204:Radiohead/Radiohead B-Sides/2-03 Killer Cars.mp3
+205:Radiohead/Radiohead B-Sides/08 - Radiohead - True Love Waits.mp3
+206:Radiohead/Radiohead B-Sides/02 Meeting In The Aisle.mp3
+207:Radiohead/Radiohead B-Sides/03 Lull.mp3
+208:Radiohead/Radiohead B-Sides/02 - Radiohead - Worry Wort.mp3
+209:Radiohead/Radiohead B-Sides/03 - Radiohead - Fog.mp3
+210:Radiohead/Radiohead B-Sides/4 Minute Warning.mp3
+211:Radiohead/Radiohead B-Sides/2-17 Talk Show Host.mp3
+212:Radiohead/Radiohead B-Sides/Nothing_Touches_Me.mp3
+213:Radiohead/Radiohead B-Sides/Phillipa_Chicken.mp3
+214:Radiohead/Radiohead B-Sides/02 The Trickster.mp3
+215:Radiohead/Radiohead B-Sides/03 Lewis (Mistreated).mp3
+216:Radiohead/Radiohead B-Sides/04 Punchdrunk Lovesick Singalong.mp3
+217:Radiohead/Radiohead B-Sides/05 Permanent Daylight.mp3
+218:Radiohead/Radiohead B-Sides/06 Lozenge Of Love.mp3
+219:Radiohead/Radiohead B-Sides/07 You Never Wash Up After Yourself.mp3
+220:Radiohead/Radiohead B-Sides/1-02 Palo Alto.mp3
+221:Radiohead/Radiohead B-Sides/1-03 How I Made My Millions.mp3
+222:Radiohead/Radiohead B-Sides/14- Radiohead - Inside My Head.mp3
+223:Radiohead/Radiohead B-Sides/15- Radiohead - Million Dollar Question.mp3
+224:Radiohead/Radiohead B-Sides/02 Polyethylene (Parts 1& 2).mp3
+225:Radiohead/Radiohead B-Sides/03 Pearly_.mp3
+226:Radiohead/Radiohead B-Sides/02 A Reminder.mp3
+227:Radiohead/Radiohead B-Sides/03 Melatonin.mp3
+228:Radiohead/Radiohead B-Sides/02 The Amazing Sounds Of Orgy.mp3
+229:Radiohead/Radiohead B-Sides/03 Trans-Atlantic Drawl.mp3
+230:Radiohead/Radiohead B-Sides/02 Fast-Track.mp3
+231:Radiohead/Radiohead B-Sides/03 Kinetic.mp3
+232:Radiohead/Radiohead B-Sides/03 - radiohead - pop is dead.mp3
+233:Radiohead/Radiohead B-Sides/02_-_Radiohead_-_Talk_Show_Host.mp3
+234:Radiohead/Radiohead B-Sides/03_-_Radiohead_-_Bishop's_Robes.mp3
+235:Radiohead/Radiohead B-Sides/2-02 Banana Co..mp3
+236:Radiohead/Radiohead B-Sides/2-03 Molasses.mp3
+237:Radiohead/Radiohead B-Sides/2 Paperbag Writer.mp3
+238:Radiohead/Radiohead B-Sides/3 Where Bluebirds Fly.mp3
+239:Radiohead/Radiohead B-Sides/01-Keep_Strong.mp3
+240:Radiohead/Radiohead B-Sides/02-Somebody_else.mp3
+241:Radiohead/Radiohead B-Sides/03-Burning_Bush.mp3
+242:Radiohead/Radiohead B-Sides/04-Climbing_Up_A_Bloody_Great_Hill.mp3
+243:Radiohead/Radiohead B-Sides/05-MrB.mp3
+244:Radiohead/Radiohead B-Sides/07_-_Dance_Sucka.mp3
+245:Radiohead/Radiohead B-Sides/08-Upside_Down.mp3
+246:Radiohead/Radiohead B-Sides/09-Shindig.mp3
+247:Radiohead/Radiohead B-Sides/12-Life_with_the_Big_F.mp3
+248:Radiohead/Radiohead B-Sides/13-Rattlesnake.mp3
+249:Radiohead/Radiohead B-Sides/14-The_New_Generation.mp3
+250:Radiohead/Radiohead B-Sides/Cuttooth.mp3
+251:Radiohead/Radiohead B-Sides/I Promise.mp3
+252:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/101-radiohead-just.mp3
+253:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/102-radiohead-paranoid_android.mp3
+254:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/103-radiohead-karma_police.mp3
+255:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/104-radiohead-creep.mp3
+256:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/105-radiohead-no_surprise.mp3
+257:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/106-radiohead-high_and_dry.mp3
+258:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/107-radiohead-my_iron_lung.mp3
+259:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/108-radiohead-there_there.mp3
+260:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/109-radiohead-lucky.mp3
+261:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/110-radiohead-optimistic.mp3
+262:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/111-radiohead-fake_plastic_tree.mp3
+263:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/112-radiohead-idioteque.mp3
+264:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/113-radiohead-2_and_2_5.mp3
+265:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/114-radiohead-the_bends.mp3
+266:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/115-radiohead-pyramid_song.mp3
+267:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/116-radiohead-street_spirit_(fade_out).mp3
+268:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/117-radiohead-everything_in_its_right_place.mp3
+269:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/201-radiohead-airbag.mp3
+270:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/202-radiohead-i_might_be_wrong.mp3
+271:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/203-radiohead-go_to_sleep.mp3
+272:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/204-radiohead-let_down.mp3
+273:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/205-radiohead-planet_telex.mp3
+274:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/206-radiohead-exit_music_(for_a_film).mp3
+275:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/207-radiohead-the_national_anthem.mp3
+276:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/208-radiohead-knives_out.mp3
+277:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/209-radiohead-talk_show_host.mp3
+278:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/210-radiohead-you.mp3
+279:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/211-radiohead-anyone_can_play_guitar.mp3
+280:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/212-radiohead-how_to_disappear_completely.mp3
+281:Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/213-radiohead-true_love_waits.mp3
+282:The Evening Attraction/The Evening Attraction - Almost Desperate - 01 Making Me Ill.mp3
+283:The Evening Attraction/The Evening Attraction - Almost Desperate - 02 Bad Things.mp3
+284:The Evening Attraction/The Evening Attraction - Almost Desperate - 03 Forgive Myself Away.mp3
+285:The Evening Attraction/The Evening Attraction - Almost Desperate - 04 Late N' Wasted.mp3
+286:The Evening Attraction/The Evening Attraction - Almost Desperate - 05 Lose Yourself.mp3
+287:The Evening Attraction/The Evening Attraction - Almost Desperate - 06 Taken Back.mp3
+288:The Evening Attraction/The Evening Attraction - Almost Desperate - 07 Lullabies, Screams, and Cries.mp3
+289:The Evening Attraction/The Evening Attraction - Almost Desperate - 08 Lost Inside My Head.mp3
+290:The Evening Attraction/The Evening Attraction - Almost Desperate - 09 Darkness (Engulfs Me In).mp3
+291:The Evening Attraction/The Evening Attraction - Almost Desperate - 10 We'll Be Okay.mp3
+292:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/01. Hand Covers Bruise - Trent Reznor and Atticus Ross.flac
+293:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/02. In Motion - Trent Reznor and Atticus Ross.flac
+294:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/03. A Familiar Taste - Trent Reznor and Atticus Ross.flac
+295:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/04. It Catches Up With You - Trent Reznor and Atticus Ross.flac
+296:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/05. Intriguing Possibilities - Trent Reznor and Atticus Ross.flac
+297:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/06. Painted Sun In Abstract - Trent Reznor and Atticus Ross.flac
+298:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/07. 3-14 Every Night - Trent Reznor and Atticus Ross.flac
+299:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/08. Pieces Form The Whole - Trent Reznor and Atticus Ross.flac
+300:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/09. Carbon Prevails - Trent Reznor and Atticus Ross.flac
+301:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/10. Eventually We Find Our Way - Trent Reznor and Atticus Ross.flac
+302:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/11. Penetration - Trent Reznor and Atticus Ross.flac
+303:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/12. In The Hall Of The Mountain King - Trent Reznor and Atticus Ross.flac
+304:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/13. On We March - Trent Reznor and Atticus Ross.flac
+305:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/14. Magnetic - Trent Reznor and Atticus Ross.flac
+306:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/15. Almost Home - Trent Reznor and Atticus Ross.flac
+307:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/16. Hand Covers Bruise, Reprise - Trent Reznor and Atticus Ross.flac
+308:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/17. Complication With Optimistic Outcome - Trent Reznor and Atticus Ross.flac
+309:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/18. The Gentle Hum Of Anxiety - Trent Reznor and Atticus Ross.flac
+310:Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/19. Soft Trees Break The Fall - Trent Reznor and Atticus Ross.flac
+311:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/01 Immigrant Song (with Karen O).flac
+312:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/02 She Reminds Me Of You.flac
+313:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/03 People Lie All The Time.flac
+314:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/04 Pinned And Mounted.flac
+315:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/05 Perihelion.flac
+316:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac
+317:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/07 With The Flies.flac
+318:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/08 Hidden In Snow.flac
+319:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/09 A Thousand Details.flac
+320:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/10 One Particular Moment.flac
+321:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/11 I Can't Take It Anymore.flac
+322:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/12 How Brittle The Bones.flac
+323:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/13 Please Take Your Hand Away.flac
+324:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/01 Cut Into Pieces.flac
+325:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/02 The Splinter.flac
+326:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/03 An Itch.flac
+327:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/04 Hypomania.flac
+328:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/05 Under The Midnight Sun.flac
+329:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/06 Aphelion.flac
+330:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/07 You’re Here.flac
+331:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/08 The Same As The Others.flac
+332:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/09 A Pause For Reflection.flac
+333:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/10 While Waiting.flac
+334:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/11 The Seconds Drag.flac
+335:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/12 Later Into The Night.flac
+336:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/13 Parallel Timeline With Alternate Outcome.flac
+337:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/01 Another Way Of Caring.flac
+338:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/02 A Viable Construct.flac
+339:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/03 Revealed In The Thaw.flac
+340:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/04 Millennia.flac
+341:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/05 We Could Wait Forever.flac
+342:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/06 Oraculum.flac
+343:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/07 Great Bird Of Prey.flac
+344:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/08 The Heretics.flac
+345:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/09 A Pair Of Doves.flac
+346:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/10 Infiltrator.flac
+347:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/11 The Sound Of Forgetting.flac
+348:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/12 Of Secrets.flac
+349:Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/13 Is Your Love Strong Enough.flac
+350:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Snare Liftoff.mp3
+351:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Overture.mp3
+352:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Too Hip to Retire.mp3
+353:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Whiplash.mp3
+354:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Fletchers Song in Club.mp3
+355:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Caravan.mp3
+356:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Whats Your Name.mp3
+357:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Practicing.mp3
+358:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Invited (Includes Dialogue).mp3
+359:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Call from Dad.mp3
+360:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Accident.mp3
+361:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Hug from Dad.mp3
+362:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Drum  Drone.mp3
+363:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Carnegie.mp3
+364:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Breakup.mp3
+365:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Drum Battle.mp3
+366:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Dismissed.mp3
+367:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Good Job.mp3
+368:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Intoit.mp3
+369:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/No Two Words.mp3
+370:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/When I Wake.mp3
+371:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Caseys Song.mp3
+372:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Upswingin.mp3
+373:whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Studio Band Rehearsal After Breakup.mp3
+374:Radiohead/Ok Minidisc/5.mp3
+375:Radiohead/Ok Minidisc/6.mp3
+376:Radiohead/Ok Minidisc/7.mp3
+377:Radiohead/Ok Minidisc/8.mp3
+378:Radiohead/Ok Minidisc/9.mp3
+379:Radiohead/Ok Minidisc/10.mp3
+380:Radiohead/Ok Minidisc/11.mp3
+381:Radiohead/Ok Minidisc/12.mp3
+382:Radiohead/Ok Minidisc/13.mp3
+383:Radiohead/Ok Minidisc/14.mp3
+384:Radiohead/Ok Minidisc/15.mp3
+385:Radiohead/Ok Minidisc/16.mp3
+386:Radiohead/Ok Minidisc/17.mp3
+387:Radiohead/Ok Minidisc/18.mp3
+388:Radiohead/Ok Minidisc/1.mp3
+playlist_end
