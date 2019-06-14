@@ -532,7 +532,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1373,10 +1374,10 @@
             "backupPath": "/home/zubair/.config/Code - OSS/Backups/3d4231041e6cb5d6b3b53cd94a9c7164",
             "uiState": {
                 "mode": 1,
-                "x": 1381,
-                "y": 37,
-                "width": 1890,
-                "height": 1028
+                "x": 15,
+                "y": 571,
+                "width": 1336,
+                "height": 716
             }
         },
         "openedWindows": []
