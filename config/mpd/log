@@ -2995,3 +2995,20 @@ Jun 25 14:05 : exception: OutputThread could not get realtime scheduling, contin
 Jun 25 14:05 : client: [0] opened from 127.0.0.1:50936
 Jun 25 16:26 : client: [0] closed
 Jun 25 16:26 : client: [1] opened from 127.0.0.1:53800
+Jun 25 16:27 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 25 18:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 18:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 18:00 : client: [0] opened from 127.0.0.1:53492
+Jun 25 18:01 : client: [0] closed
+Jun 25 18:01 : client: [1] opened from 127.0.0.1:53500
+Jun 25 18:01 : client: [1] closed
+Jun 25 18:01 : client: [2] opened from 127.0.0.1:53502
+Jun 25 18:01 : client: [3] opened from 127.0.0.1:53504
+Jun 25 18:02 : client: [3] closed
+Jun 25 18:02 : client: [2] closed
+Jun 25 18:02 : client: [4] opened from 127.0.0.1:53508
+Jun 25 18:02 : client: [5] opened from 127.0.0.1:53510
+Jun 25 18:05 : client: [5] closed
+Jun 25 18:05 : client: [4] closed
+Jun 25 18:05 : client: [6] opened from 127.0.0.1:53702
+Jun 25 18:05 : client: [7] opened from 127.0.0.1:53704
