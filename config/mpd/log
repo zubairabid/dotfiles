@@ -2993,3 +2993,5 @@ Jun 24 23:12 : client: [33] closed
 Jun 25 14:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 25 14:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 25 14:05 : client: [0] opened from 127.0.0.1:50936
+Jun 25 16:26 : client: [0] closed
+Jun 25 16:26 : client: [1] opened from 127.0.0.1:53800
