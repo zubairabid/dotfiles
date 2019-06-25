@@ -130,3 +130,10 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 echo "... Conda init done"
+
+
+
+# RUBY WORK
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+export PATH="$PATH:$(ruby -e 'puts Gem.user_dir')/bin"

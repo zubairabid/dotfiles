@@ -1,0 +1,648 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/zubair/Documents/Extras/SraFavour/angelsite
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/footer.html
+> git check-ignore -v -z --stdin
+> git show :_config.yml
+> git check-ignore -v -z --stdin
+> git show :_includes/themes/bootstrap/nav-bar.html
+> git check-ignore -v -z --stdin
+> git show :_includes/themes/bootstrap/nav.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :assets/css/custom.css
+> git check-ignore -v -z --stdin
+> git show :assets/css/custom.1.css
+> git ls-files --stage -- assets/css/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :assets/css/custom2.css
+> git ls-files --stage -- assets/css/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :assets/css/custom.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/nav.html
+> git show :_includes/themes/bootstrap/nav-bar.html
+> git show :_includes/themes/bootstrap/nav.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :assets/css/custom.css
+> git show :assets/css/custom2.css
+> git ls-files --stage -- assets/css/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :assets/css/custom.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_config.yml
+> git show :_includes/themes/bootstrap/footer.html
+> git show :_includes/themes/bootstrap/nav-bar.html
+> git show :_includes/themes/bootstrap/footer.html
+> git show :_includes/themes/bootstrap/default.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/nav.html
+> git show :assets/css/custom.css
+> git show :index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/default.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :assets/css/custom.css
+> git show :_includes/themes/bootstrap/nav.html
+> git show :_includes/themes/bootstrap/nav-bar.html
+> git show :_includes/themes/bootstrap/nav.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :objectives.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :objectives.html
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :objectives.html
+> git push origin new_header
+To github.com:zubairabid/ProjectAngel.git
+   dfd80be..bd3b875  new_header -> new_header
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_header
+> git rev-parse --symbolic-full-name new_header@{u}
+> git rev-list --left-right new_header...refs/remotes/origin/new_header
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :objectives.html

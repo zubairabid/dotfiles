@@ -2,9 +2,14 @@
     "telemetry.machineId": "3b099a0aba2fd1e9fa4e545e79b2a01db39eedcf48d68ed58708aaa246091960",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/zubair/Documents/Extras/SraFavour/angelsite",
+            "file:///home/zubair/Documents/Extras/SraFavour/heliumjk.github.io",
             "file:///home/zubair/Documents/Acads/Projects/graphics-boilerplate/src"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/zubair/Scripts/Wallpaper/defswitch.sh",
+            "file:///home/zubair/Documents/Extras/SraFavour/heliumjk.github.io/%2C"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -49,13 +54,59 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/zubair/Documents/Acads/Projects/graphics-boilerplate/src",
+                                        "external": "file:///home/zubair/Documents/Extras/SraFavour/angelsite",
+                                        "path": "/home/zubair/Documents/Extras/SraFavour/angelsite",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Extras/SraFavour/angelsite"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/Extras/SraFavour/heliumjk.github.io",
+                                        "path": "/home/zubair/Documents/Extras/SraFavour/heliumjk.github.io",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Extras/SraFavour/heliumjk.github.io"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/zubair/Documents/Acads/Projects/graphics-boilerplate/src",
                                         "path": "/home/zubair/Documents/Acads/Projects/graphics-boilerplate/src",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/Acads/Projects/graphics-boilerplate/src"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Scripts/Wallpaper/defswitch.sh",
+                                        "path": "/home/zubair/Scripts/Wallpaper/defswitch.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Scripts/Wallpaper/defswitch.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/Extras/SraFavour/heliumjk.github.io/%2C",
+                                        "path": "/home/zubair/Documents/Extras/SraFavour/heliumjk.github.io/,",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Extras/SraFavour/heliumjk.github.io/,"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -165,7 +216,8 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Folder",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -1370,14 +1422,13 @@
     "pickerWorkingDir": "/home/zubair/Documents/Acads/Projects/graphics-boilerplate",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/zubair/Documents/Acads/Projects/graphics-boilerplate/src",
-            "backupPath": "/home/zubair/.config/Code - OSS/Backups/3d4231041e6cb5d6b3b53cd94a9c7164",
+            "backupPath": "/home/zubair/.config/Code - OSS/Backups/1561222961004",
             "uiState": {
                 "mode": 1,
-                "x": 15,
-                "y": 571,
-                "width": 1336,
-                "height": 716
+                "x": 1130,
+                "y": 132,
+                "width": 658,
+                "height": 348
             }
         },
         "openedWindows": []

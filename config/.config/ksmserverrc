@@ -1,0 +1,34 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=107a737973000156122282700000140960006
+clientId2=107a737973000156078209700000142260007
+clientId3=107a737973000156078209800000142260009
+clientId4=107a737973000156122283400000140960010
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_107a737973000156078209700000142260007_1561222994_798460
+discardCommand3[$e]=rm,$HOME/.config/session/kwin_107a737973000156078209800000142260009_1561222994_890721
+program1=pulseaudio
+program2=/usr/bin/kmix
+program3=/usr/bin/kwin_x11
+program4=/usr/bin/korgac
+restartCommand1=
+restartCommand2=/usr/bin/kmix,-session,107a737973000156078209700000142260007_1561222994_798460
+restartCommand3=/usr/bin/kwin_x11,-session,107a737973000156078209800000142260009_1561222994_890721
+restartCommand4=/usr/bin/korgac,-session,107a737973000156122283400000140960010_1561222994_798401
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=zubair
+userId2=zubair
+userId3=zubair
+userId4=zubair
+wasWm1=false
+wasWm2=false
+wasWm3=true
+wasWm4=false

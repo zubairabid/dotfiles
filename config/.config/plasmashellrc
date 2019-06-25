@@ -1,0 +1,21 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_systemsettings.desktop,1 services_konqbrowser.desktop,1 services_org.kde.konsole.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=36
+
+[PlasmaViews][Panel 23][Horizontal1366]
+alignment=1
+maxLength=1536
+minLength=1536
+offset=0
+panelVisibility=0
+thickness=24
+
+[ScreenConnectors]
+0=eDP
+1=HDMI-A-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

@@ -270,7 +270,7 @@ visualizer_color = 41, 83, 119, 155, 185, 215, 209, 203, 197, 161
 ## Note: Custom command that will be executed each time song changes. Useful for
 ## notifications etc.
 ##
-#execute_on_song_change = ""
+execute_on_song_change = "/home/zubair/Scripts/Notif/ncmpcpp.sh"
 #
 ##
 ## Note: Custom command that will be executed each time player state
@@ -278,7 +278,7 @@ visualizer_color = 41, 83, 119, 155, 185, 215, 209, 203, 197, 161
 ## state (either unknown, play, pause, or stop) for its duration.
 ##
 #
-#execute_on_player_state_change = ""
+#execute_on_player_state_change = "/home/zubair/Scripts/Notif/ncmpcpp.sh"
 #
 #playlist_show_mpd_host = no
 #

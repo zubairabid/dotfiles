@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=$HOME
+ComboIconCache[$e]=file:$HOME,user-home

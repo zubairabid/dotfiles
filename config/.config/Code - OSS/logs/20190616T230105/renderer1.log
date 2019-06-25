@@ -1,0 +1,15 @@
+[2019-06-16 23:01:23.579] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/zubair/Documents/Extras/SraFavour/heliumjk.github.io/.vscode'
+[2019-06-17 00:20:17.894] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:963:433)
+    at Y.updateWidth (file:///usr/lib/code/out/vs/workbench/workbench.main.js:961:270)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5301:532)
+    at i.elementDisposable.i.label.onDidRender (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5285:607)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:983)
+    at D.render (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4424:576)
+    at D.notifyFileDecorationsChanges (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4421:569)
+    at _widgets.forEach.t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4418:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4418:731)
+    at e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:369)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:983)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)

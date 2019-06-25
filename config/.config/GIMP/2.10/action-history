@@ -1,0 +1,15 @@
+# GIMP action-history
+
+(history-item "layers-new" 1)
+(history-item "layers-merge-down" 1)
+(history-item "file-open" 0)
+(history-item "file-quit" 1)
+(history-item "select-all" 0)
+(history-item "file-open-as-layers" 0)
+(history-item "edit-clear" 1)
+(history-item "image-new" 0)
+(history-item "layers-alpha-add" 0)
+(history-item "layers-delete" 0)
+(history-item "file-export-as" 1)
+
+# end of action-history
