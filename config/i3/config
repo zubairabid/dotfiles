@@ -31,14 +31,13 @@ font pango:monospace 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec termite
 
 # kill focused window
 bindsym $mod+Shift+q kill
 
-# start dmenu (a program launcher)
+# start rofi as a program launcher
 # EDITED
-# bindsym $mod+d exec dmenu_run
 # bindsym $mod+d exec ~/Scripts/Rofi/launch.sh
 bindsym $mod+d exec rofi -show run
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -134,16 +133,16 @@ bindsym $mod+7 workspace $ws7
 bindsym $mod+8 workspace $ws8
 bindsym $mod+9 workspace $ws9
 bindsym $mod+0 workspace $ws10
-bindsym Mod1+1 workspace $ws11
-bindsym Mod1+2 workspace $ws12
-bindsym Mod1+3 workspace $ws13
-bindsym Mod1+4 workspace $ws14
-bindsym Mod1+5 workspace $ws15
-bindsym Mod1+6 workspace $ws16
-bindsym Mod1+7 workspace $ws17
-bindsym Mod1+8 workspace $ws18
-bindsym Mod1+9 workspace $ws19
-bindsym Mod1+0 workspace $ws20
+bindsym $mod+Ctrl+1 workspace $ws11
+bindsym $mod+Ctrl+2 workspace $ws12
+bindsym $mod+Ctrl+3 workspace $ws13
+bindsym $mod+Ctrl+4 workspace $ws14
+bindsym $mod+Ctrl+5 workspace $ws15
+bindsym $mod+Ctrl+6 workspace $ws16
+bindsym $mod+Ctrl+7 workspace $ws17
+bindsym $mod+Ctrl+8 workspace $ws18
+bindsym $mod+Ctrl+9 workspace $ws19
+bindsym $mod+Ctrl+0 workspace $ws20
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
@@ -156,16 +155,16 @@ bindsym $mod+Shift+7 move container to workspace $ws7
 bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
-bindsym Mod1+Shift+1 move container to workspace $ws11
-bindsym Mod1+Shift+2 move container to workspace $ws12
-bindsym Mod1+Shift+3 move container to workspace $ws13
-bindsym Mod1+Shift+4 move container to workspace $ws14
-bindsym Mod1+Shift+5 move container to workspace $ws15
-bindsym Mod1+Shift+6 move container to workspace $ws16
-bindsym Mod1+Shift+7 move container to workspace $ws17
-bindsym Mod1+Shift+8 move container to workspace $ws18
-bindsym Mod1+Shift+9 move container to workspace $ws19
-bindsym Mod1+Shift+0 move container to workspace $ws20
+bindsym $mod+Ctrl+Shift+1 move container to workspace $ws11
+bindsym $mod+Ctrl+Shift+2 move container to workspace $ws12
+bindsym $mod+Ctrl+Shift+3 move container to workspace $ws13
+bindsym $mod+Ctrl+Shift+4 move container to workspace $ws14
+bindsym $mod+Ctrl+Shift+5 move container to workspace $ws15
+bindsym $mod+Ctrl+Shift+6 move container to workspace $ws16
+bindsym $mod+Ctrl+Shift+7 move container to workspace $ws17
+bindsym $mod+Ctrl+Shift+8 move container to workspace $ws18
+bindsym $mod+Ctrl+Shift+9 move container to workspace $ws19
+bindsym $mod+Ctrl+Shift+0 move container to workspace $ws20
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -254,13 +253,13 @@ client.urgent		$urgent-bg-color	$urgent-bg-color	$text-color		#3f3f3f
 # Pulse Audio controls
 # note: the '1' is active sink number. Use pactl list to see which works
 # increase sound volume
-bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 1 +5%
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume alsa_output.pci-0000_00_09.2.analog-stereo +5%
 
 # lower sound volume
-bindsym XF86AudioLowerVolume exec pactl set-sink-volume 1 -5%
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume alsa_output.pci-0000_00_09.2.analog-stereo -5%
 
 # mute sound 
-bindsym XF86AudioMute exec pactl set-sink-mute 1 toggle
+bindsym XF86AudioMute exec pactl set-sink-mute alsa_output.pci-0000_00_09.2.analog-stereo toggle
 
 # MPC Audio controls for MPD
 bindsym XF86AudioStop exec mpc stop
@@ -270,11 +269,33 @@ bindsym XF86AudioNext exec mpc next
 
 
 
+################ WORKSPACE-SCREEN-BINDING ##################
+# By default, keep these workspaces on these screens
+
+workspace $ws1 output eDP
+workspace $ws2 output eDP
+workspace $ws3 output eDP
+workspace $ws4 output eDP
+workspace $ws5 output eDP
+workspace $ws6 output eDP
+workspace $ws7 output eDP
+workspace $ws8 output eDP
+workspace $ws9 output eDP
+workspace $ws10 output eDP
+workspace $ws11 output HDMI-A-0
+workspace $ws12 output HDMI-A-0
+workspace $ws13 output HDMI-A-0
+workspace $ws14 output HDMI-A-0
+workspace $ws15 output HDMI-A-0
+workspace $ws16 output HDMI-A-0
+workspace $ws17 output HDMI-A-0
+workspace $ws18 output HDMI-A-0
+workspace $ws19 output HDMI-A-0
+workspace $ws20 output HDMI-A-0
+
+
 
 ########## MISC ##########
-
-# lock
-bindsym $mod+Shift+x exec i3lock --color '$bg-color'
 
 # Shifting windows about monitors
 # Shift left
@@ -282,20 +303,23 @@ bindsym $mod+Ctrl+Shift+Left move workspace to output left
 # Shift right 
 bindsym $mod+Ctrl+Shift+Right move workspace to output right
 
-# take a screenshot of the whole screen (all monitors)
-bindsym $mod+p exec gnome-screenshot
-
 # change wallpaper
-bindsym $mod+z exec feh --recursive --randomize --bg-scale /home/zubair/Pictures/Wallpapers/newslides/
+bindsym $mod+z exec ~/Scripts/Wallpaper/defswitch.sh 
+
+# Popups in fullscreen mode
+popup_during_fullscreen smart
+
 
 ############ SCREENSHOT WITH SCROT ###############
 # Multi-screen screenshots with scrot
-bindsym --release Print exec scrot 'screenshot_%Y%m%d_%H%M%S.png' -e 'mkdir -p ~/Pictures/screenshots && mv $f ~/Pictures/screenshots && xclip -selection clipboard -t image/png -i ~/Pictures/screenshots/`ls -1 -t ~/Pictures/screenshots | head -1`' # All screens
+bindsym --release Print exec ~/Scripts/Screenshots/allscreen.sh 
 
 # OSX-like area selection screenshots
-bindsym --release Shift+Print exec scrot -s 'screenshot_%Y%m%d_%H%M%S.png' -e 'mkdir -p ~/Pictures/screenshots && mv $f ~/Pictures/screenshots && xclip -selection clipboard -t image/png -i ~/Pictures/screenshots/`ls -1 -t ~/Pictures/screenshots | head -1`' # Area selection
+bindsym --release Shift+Print exec ~/Scripts/Screenshots/area.sh 
 
 # Copied from https://www.reddit.com/r/i3wm/comments/65vis5/screenshot_commands_from_my_i3_config/, use for possible screencast
+
+
 
 ############ SCRATCHPAD ###############
 # Make the currently focused window a scratchpad
@@ -303,6 +327,7 @@ bindsym $mod+Shift+minus move scratchpad
 
 # Show the first scratchpad window
 bindsym $mod+minus scratchpad show
+
 
 
 ########### CUSTOM RESIZE ##########
@@ -323,34 +348,57 @@ bindsym $mod+Ctrl+Up resize shrink height 10 px or 10 ppt
 bindsym $mod+Ctrl+Right resize grow width 10 px or 10 ppt
 
 
+
 ################## GAPS ####################
 # Disabling window titlebars
 # You can also use any non-zero value if you'd like to have a border
-for_window [class=".*"] border pixel 1 
+for_window [class=".*"] border pixel 2 
 
 gaps inner 15
 
 # smart_gaps on
 
 
+
+################## COMPTON ###################
+# Restart
+bindsym $mod+Mod1+c exec ~/Scripts/Compton/qstart.sh
+
+# Kill
+bindsym $mod+Ctrl+Mod1+c exec ~/Scripts/Compton/quit.sh
+
+
+################## MULTIMONITOR LAYOUT ###################
+# Default dual
+bindsym $mod+Mod1+l exec ~/Scripts/MultiWindow/roomdesk.sh
+
+# Default eDP
+bindsym $mod+Ctrl+Mod1+l exec ~/Scripts/MultiWindow/eDP_only.sh
+
+# Default HDMI
+bindsym $mod+Shift+Mod1+l exec ~/Scripts/MultiWindow/HDMI_only.sh
+
+
+
 ################ RUN AT STARTUP ###################
 # To display the network manager graphical interface as a widget on the bar
 exec nm-applet
 
-# Enabling tap to click on my system
-exec --no-startup-id xinput set-prop "Synaptics TM3336-001" 281 1
+# Enabling tap to click on my system. Does not always work due to changing property numbers. TODO fix
+# exec --no-startup-id xinput set-prop "Synaptics TM3336-001" 281 1
 
 # Sets a random picture from the Wallpapers folder as my wallpaper
-exec --no-startup-id feh --recursive --randomize --bg-scale /home/zubair/Pictures/Wallpapers/newslides/
+exec --no-startup-id ~/Scripts/Wallpaper/defswitch.sh
 
 # Getting the compositor up and running
-exec --no-startup-id compton
+exec --no-startup-id ~/Scripts/Compton/qstart.sh 
 
 # In case I'm too lazy to use the mouse
 exec --no-startup-id keynav
 
 # MPD daemon start (if no other user instance exists)
 exec --no-startup-id [ ! -s ~/.config/mpd/pid ] && mpd
+exec --no-startup-id [[ -z $(pgrep -xU $UID mpdscribble) ]] && mpdscribble &
 
 exec dunst
 

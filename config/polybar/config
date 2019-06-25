@@ -18,10 +18,10 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #c00b0c0f
+background = #800b0c0f
 ;background-alt = #c00b0c0f
-background-f = #f0000000
-background-uf = #c0000000
+background-f = #444444
+background-uf = #666666
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555

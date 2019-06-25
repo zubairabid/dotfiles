@@ -1515,3 +1515,1481 @@ Jun 14 12:27 : client: [16] closed
 Jun 14 12:27 : client: [17] closed
 Jun 14 12:27 : client: [18] opened from 127.0.0.1:44766
 Jun 14 12:27 : client: [19] opened from 127.0.0.1:44768
+Jun 14 15:37 : client: [5] closed
+Jun 14 15:37 : client: [20] opened from 127.0.0.1:46186
+Jun 14 15:41 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/01 Phantom Thread I.flac"
+Jun 14 15:44 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/02 The Hem.flac"
+Jun 14 15:47 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/03 Sandalwood I.flac"
+Jun 14 15:49 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/04 The Tailor of Fitzrovia.flac"
+Jun 14 15:53 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/05 Alma.flac"
+Jun 14 15:57 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/06 Boletus Felleus.flac"
+Jun 14 16:00 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/07 Phantom Thread II.flac"
+Jun 14 16:03 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/08 Catch Hold.flac"
+Jun 14 16:06 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/09 Never Cursed.flac"
+Jun 14 16:08 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/10 Thats As May Be.flac"
+Jun 14 16:10 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/11 Phantom Thread III.flac"
+Jun 14 16:12 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/12 Ill Follow Tomorrow.flac"
+Jun 14 16:15 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/13 House of Woodcock.flac"
+Jun 14 16:19 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/14 Sandalwood II.flac"
+Jun 14 16:24 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/15 Barbara Rose.flac"
+Jun 14 16:26 : client: [19] closed
+Jun 14 16:26 : client: [18] closed
+Jun 14 16:26 : client: [21] opened from 127.0.0.1:47022
+Jun 14 16:26 : client: [22] opened from 127.0.0.1:47024
+Jun 14 16:27 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/16 Endless Superstition.flac"
+Jun 14 16:28 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jun 14 16:28 : client: [23] opened from 127.0.0.1:47038
+Jun 14 16:28 : client: [23] closed
+Jun 14 16:28 : client: [24] opened from 127.0.0.1:47042
+Jun 14 16:28 : client: [24] closed
+Jun 14 16:28 : client: [25] opened from 127.0.0.1:47046
+Jun 14 16:28 : client: [25] closed
+Jun 14 16:28 : client: [26] opened from 127.0.0.1:47050
+Jun 14 16:28 : client: [26] closed
+Jun 14 16:30 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/17 Phantom Thread IV.flac"
+Jun 14 16:31 : client: [27] opened from 127.0.0.1:47248
+Jun 14 16:31 : client: [27] closed
+Jun 14 16:37 : client: [22] closed
+Jun 14 16:37 : client: [21] closed
+Jun 14 16:37 : client: [28] opened from 127.0.0.1:47392
+Jun 14 16:37 : client: [29] opened from 127.0.0.1:47394
+Jun 14 16:43 : client: [28] closed
+Jun 14 16:43 : client: [29] closed
+Jun 14 16:43 : client: [30] opened from 127.0.0.1:47430
+Jun 14 16:43 : client: [31] opened from 127.0.0.1:47432
+Jun 14 17:58 : client: [31] closed
+Jun 14 17:58 : client: [30] closed
+Jun 14 17:58 : client: [32] opened from 127.0.0.1:48120
+Jun 14 17:58 : client: [33] opened from 127.0.0.1:48122
+Jun 14 17:59 : client: [33] closed
+Jun 14 17:59 : client: [32] closed
+Jun 14 17:59 : client: [34] opened from 127.0.0.1:48124
+Jun 14 17:59 : client: [35] opened from 127.0.0.1:48126
+Jun 14 18:02 : client: [34] closed
+Jun 14 18:02 : client: [35] closed
+Jun 14 18:02 : client: [36] opened from 127.0.0.1:48182
+Jun 14 18:02 : client: [37] opened from 127.0.0.1:48184
+Jun 14 18:04 : client: [36] closed
+Jun 14 18:04 : client: [37] closed
+Jun 14 18:04 : client: [38] opened from 127.0.0.1:48202
+Jun 14 18:04 : client: [39] opened from 127.0.0.1:48204
+Jun 14 18:04 : client: [38] closed
+Jun 14 18:04 : client: [39] closed
+Jun 14 18:04 : client: [40] opened from 127.0.0.1:48208
+Jun 14 18:04 : client: [41] opened from 127.0.0.1:48210
+Jun 14 18:07 : client: [40] closed
+Jun 14 18:07 : client: [41] closed
+Jun 14 18:07 : client: [42] opened from 127.0.0.1:48220
+Jun 14 18:07 : client: [43] opened from 127.0.0.1:48222
+Jun 14 18:09 : client: [44] opened from 127.0.0.1:48260
+Jun 14 18:09 : client: [44] closed
+Jun 14 18:11 : player: played "Jonny Greenwood - Phantom Thread [FLAC]/18 For the Hungry Boy.flac"
+Jun 14 18:12 : player: played "Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 01 THERE IS STILL TIME.flac"
+Jun 14 18:16 : player: played "Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 02 OXBOW B.flac"
+Jun 14 18:21 : player: played "Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 03 BATTY'S THEME.flac"
+Jun 14 18:23 : client: [45] opened from 127.0.0.1:48522
+Jun 14 18:23 : client: [45] closed
+Jun 14 18:23 : client: [46] opened from 127.0.0.1:48534
+Jun 14 18:23 : client: [46] closed
+Jun 14 18:24 : player: played "Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 04 UPSIDE DOWN COPS.flac"
+Jun 14 18:24 : client: [43] closed
+Jun 14 18:24 : client: [42] closed
+Jun 14 18:24 : client: [47] opened from 127.0.0.1:48552
+Jun 14 18:24 : client: [48] opened from 127.0.0.1:48554
+Jun 14 18:25 : client: [48] closed
+Jun 14 18:25 : client: [47] closed
+Jun 14 18:25 : client: [49] opened from 127.0.0.1:48556
+Jun 14 18:25 : client: [50] opened from 127.0.0.1:48558
+Jun 14 18:25 : client: [20] closed
+Jun 14 18:25 : client: [51] opened from 127.0.0.1:48562
+Jun 14 18:27 : player: played "Lorn/The Maze To Nowhere/LORN - THE MAZE TO NOWHERE - 05 ALL CORRUPT EVERYTHING.flac"
+Jun 14 18:28 : player: played "Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 01 THERE AIN'T NOTHING IT'S JUST PAIN AND THEN YER GONE.flac"
+Jun 14 18:29 : client: [50] closed
+Jun 14 18:29 : client: [49] closed
+Jun 14 18:29 : client: [52] opened from 127.0.0.1:48630
+Jun 14 18:29 : client: [53] opened from 127.0.0.1:48632
+Jun 14 18:29 : client: [52] closed
+Jun 14 18:29 : client: [53] closed
+Jun 14 18:29 : client: [54] opened from 127.0.0.1:48636
+Jun 14 18:29 : client: [55] opened from 127.0.0.1:48638
+Jun 14 18:31 : client: [55] closed
+Jun 14 18:31 : client: [54] closed
+Jun 14 18:31 : client: [56] opened from 127.0.0.1:48680
+Jun 14 18:31 : client: [57] opened from 127.0.0.1:48682
+Jun 14 18:31 : player: played "Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 02 ACID RAIN.flac"
+Jun 14 18:31 : client: [56] closed
+Jun 14 18:31 : client: [57] closed
+Jun 14 18:31 : client: [58] opened from 127.0.0.1:48684
+Jun 14 18:31 : client: [59] opened from 127.0.0.1:48686
+Jun 14 18:32 : client: [58] closed
+Jun 14 18:32 : client: [59] closed
+Jun 14 18:32 : client: [60] opened from 127.0.0.1:48688
+Jun 14 18:32 : client: [61] opened from 127.0.0.1:48690
+Jun 14 18:32 : client: [61] closed
+Jun 14 18:32 : client: [60] closed
+Jun 14 18:32 : client: [62] opened from 127.0.0.1:48692
+Jun 14 18:32 : client: [63] opened from 127.0.0.1:48694
+Jun 14 18:33 : client: [63] closed
+Jun 14 18:33 : client: [62] closed
+Jun 14 18:33 : client: [64] opened from 127.0.0.1:48708
+Jun 14 18:33 : client: [65] opened from 127.0.0.1:48710
+Jun 14 18:34 : client: [64] closed
+Jun 14 18:34 : client: [65] closed
+Jun 14 18:34 : client: [66] opened from 127.0.0.1:48720
+Jun 14 18:34 : client: [67] opened from 127.0.0.1:48722
+Jun 14 18:37 : player: played "Lorn/The Maze To Nowhere - Part 2/LORN - THE MAZE TO NOWHERE - PART 2 - 03 ENTANGLED.flac"
+Jun 14 18:39 : client: [67] closed
+Jun 14 18:39 : client: [66] closed
+Jun 14 18:39 : client: [68] opened from 127.0.0.1:48810
+Jun 14 18:39 : client: [69] opened from 127.0.0.1:48812
+Jun 14 18:39 : client: [68] closed
+Jun 14 18:39 : client: [69] closed
+Jun 14 18:39 : client: [70] opened from 127.0.0.1:48814
+Jun 14 18:39 : client: [71] opened from 127.0.0.1:48816
+Jun 14 18:41 : player: played "Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 01 SV_CHEATS 0.flac"
+Jun 14 18:44 : player: played "Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 02 SHELTER.flac"
+Jun 14 18:46 : client: [71] closed
+Jun 14 18:46 : client: [70] closed
+Jun 14 18:46 : client: [72] opened from 127.0.0.1:49162
+Jun 14 18:46 : client: [73] opened from 127.0.0.1:49164
+Jun 14 18:46 : player: played "Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 03 ALT.VEL.PTCH.flac"
+Jun 14 18:47 : client: [74] opened from 127.0.0.1:49176
+Jun 14 18:47 : player: played "Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 04 NEGATIVE JUMPSUIT.flac"
+Jun 14 18:47 : client: [74] closed
+Jun 14 18:50 : client: [72] closed
+Jun 14 18:50 : client: [73] closed
+Jun 14 18:50 : client: [75] opened from 127.0.0.1:49274
+Jun 14 18:50 : client: [76] opened from 127.0.0.1:49276
+Jun 14 18:50 : client: [75] closed
+Jun 14 18:50 : client: [76] closed
+Jun 14 18:50 : client: [77] opened from 127.0.0.1:49286
+Jun 14 18:50 : client: [78] opened from 127.0.0.1:49288
+Jun 14 18:51 : client: [79] opened from 127.0.0.1:49292
+Jun 14 18:51 : client: [79] closed
+Jun 14 18:53 : client: [77] closed
+Jun 14 18:53 : client: [78] closed
+Jun 14 18:53 : client: [80] opened from 127.0.0.1:49316
+Jun 14 18:53 : client: [81] opened from 127.0.0.1:49318
+Jun 14 18:54 : client: [81] closed
+Jun 14 18:54 : client: [80] closed
+Jun 14 18:54 : client: [82] opened from 127.0.0.1:49322
+Jun 14 18:54 : client: [83] opened from 127.0.0.1:49324
+Jun 14 18:54 : player: played "Lorn/The Maze To Nowhere - Part 3/LORN - THE MAZE TO NOWHERE - PART 3 - 04 NEGATIVE JUMPSUIT.flac"
+Jun 14 18:55 : client: [83] closed
+Jun 14 18:55 : client: [82] closed
+Jun 14 18:55 : client: [84] opened from 127.0.0.1:49328
+Jun 14 18:55 : client: [85] opened from 127.0.0.1:49330
+Jun 14 18:56 : client: [84] closed
+Jun 14 18:56 : client: [85] closed
+Jun 14 18:56 : client: [86] opened from 127.0.0.1:49334
+Jun 14 18:56 : client: [87] opened from 127.0.0.1:49336
+Jun 14 18:57 : player: played "Lorn/Vessel/LORN - VESSEL - 01 BROKEN MANTRA.flac"
+Jun 14 18:57 : client: [51] closed
+Jun 14 18:58 : client: [88] opened from 127.0.0.1:49352
+Jun 14 18:59 : client: [88] closed
+Jun 14 19:01 : player: played "Lorn/Vessel/LORN - VESSEL - 02 ANVIL.flac"
+Jun 14 19:02 : player: played "Lorn/Vessel/LORN - VESSEL - 03 TEMPERED BY YOUR LOVE.flac"
+Jun 14 19:05 : player: played "Lorn/Vessel/LORN - VESSEL - 04 CONDUIT.flac"
+Jun 14 19:07 : player: played "Lorn/Vessel/LORN - VESSEL - 05 TATTERED FLAG.flac"
+Jun 14 19:10 : player: played "Lorn/Vessel/LORN - VESSEL - 06 DIPPED INTO POISON.flac"
+Jun 14 19:14 : player: played "Lorn/Vessel/LORN - VESSEL - 07 ICE.flac"
+Jun 14 19:16 : player: played "Lorn/Vessel/LORN - VESSEL - 08 LOCK BITES KEY.flac"
+Jun 14 19:20 : player: played "Lorn/Vessel/LORN - VESSEL - 09 MOUNT KWAKU.flac"
+Jun 14 19:25 : player: played "Lorn/Vessel/LORN - VESSEL - 10 MAROONED.flac"
+Jun 14 19:31 : client: [89] opened from 127.0.0.1:49606
+Jun 14 19:31 : client: [90] opened from 127.0.0.1:49614
+Jun 14 19:31 : client: [90] closed
+Jun 15 14:14 : client: [89] closed
+Jun 15 14:28 : client: [91] opened from 127.0.0.1:53236
+Jun 15 14:28 : client: [92] opened from 127.0.0.1:53240
+Jun 15 14:28 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/01.Serenade No.13 'Eine Kleine Nachtmusik' Allegro.flac"
+Jun 15 14:28 : client: [92] closed
+Jun 15 14:29 : client: [93] opened from 127.0.0.1:53244
+Jun 15 14:29 : client: [93] closed
+Jun 15 14:29 : client: [94] opened from 127.0.0.1:53248
+Jun 15 14:29 : client: [94] closed
+Jun 15 14:29 : client: [95] opened from 127.0.0.1:53252
+Jun 15 14:29 : client: [95] closed
+Jun 15 17:01 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 15 17:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 17:02 : client: [0] opened from 127.0.0.1:38844
+Jun 15 17:02 : client: [1] opened from 127.0.0.1:38846
+Jun 15 17:20 : client: [1] closed
+Jun 15 17:20 : client: [0] closed
+Jun 15 17:20 : client: [2] opened from 127.0.0.1:39266
+Jun 15 17:20 : client: [3] opened from 127.0.0.1:39268
+Jun 15 18:59 : client: [2] closed
+Jun 15 18:59 : client: [3] closed
+Jun 15 18:59 : client: [4] opened from 127.0.0.1:39922
+Jun 15 18:59 : client: [5] opened from 127.0.0.1:39924
+Jun 15 19:00 : client: [5] closed
+Jun 15 19:00 : client: [4] closed
+Jun 15 19:00 : client: [6] opened from 127.0.0.1:39930
+Jun 15 19:00 : client: [7] opened from 127.0.0.1:39932
+Jun 15 19:00 : client: [6] closed
+Jun 15 19:00 : client: [7] closed
+Jun 15 19:00 : client: [8] opened from 127.0.0.1:39934
+Jun 15 19:00 : client: [8] closed
+Jun 15 19:01 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 15 19:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 19:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 19:03 : client: [0] opened from 127.0.0.1:46046
+Jun 15 19:03 : client: [1] opened from 127.0.0.1:46048
+Jun 15 20:10 : client: [1] closed
+Jun 15 20:10 : client: [0] closed
+Jun 15 20:10 : client: [2] opened from 127.0.0.1:46384
+Jun 15 20:10 : client: [3] opened from 127.0.0.1:46386
+Jun 15 20:10 : client: [2] closed
+Jun 15 20:10 : client: [3] closed
+Jun 15 20:10 : client: [4] opened from 127.0.0.1:46388
+Jun 15 20:10 : client: [5] opened from 127.0.0.1:46390
+Jun 15 20:18 : client: [5] closed
+Jun 15 20:18 : client: [4] closed
+Jun 15 20:18 : client: [6] opened from 127.0.0.1:46588
+Jun 15 20:18 : client: [7] opened from 127.0.0.1:46590
+Jun 15 20:18 : client: [6] closed
+Jun 15 20:18 : client: [7] closed
+Jun 15 20:18 : client: [8] opened from 127.0.0.1:46592
+Jun 15 20:18 : client: [9] opened from 127.0.0.1:46594
+Jun 15 20:18 : client: [8] closed
+Jun 15 20:18 : client: [9] closed
+Jun 15 20:18 : client: [10] opened from 127.0.0.1:46596
+Jun 15 20:18 : client: [11] opened from 127.0.0.1:46598
+Jun 15 20:31 : client: [12] opened from 127.0.0.1:46664
+Jun 15 20:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 20:31 : client: [12] closed
+Jun 15 20:31 : client: [13] opened from 127.0.0.1:46668
+Jun 15 20:31 : client: [13] closed
+Jun 16 00:07 : client: [14] opened from 127.0.0.1:48218
+Jun 16 00:07 : client: [14] closed
+Jun 16 00:07 : client: [15] opened from 127.0.0.1:48222
+Jun 16 00:07 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 16 00:07 : client: [15] closed
+Jun 16 00:07 : client: [16] opened from 127.0.0.1:48226
+Jun 16 00:07 : client: [16] closed
+Jun 16 00:07 : client: [17] opened from 127.0.0.1:48230
+Jun 16 00:07 : client: [17] closed
+Jun 16 00:07 : client: [18] opened from 127.0.0.1:48234
+Jun 16 00:07 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 16 00:07 : client: [18] closed
+Jun 16 00:07 : client: [19] opened from 127.0.0.1:48238
+Jun 16 00:07 : client: [19] closed
+Jun 16 00:07 : client: [20] opened from 127.0.0.1:48242
+Jun 16 00:07 : client: [20] closed
+Jun 16 00:07 : client: [21] opened from 127.0.0.1:48246
+Jun 16 00:07 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 16 00:09 : client: [22] opened from 127.0.0.1:48276
+Jun 16 00:09 : client: [22] closed
+Jun 16 00:09 : client: [23] opened from 127.0.0.1:48282
+Jun 16 00:09 : client: [23] closed
+Jun 16 00:09 : client: [24] opened from 127.0.0.1:48290
+Jun 16 00:09 : client: [24] closed
+Jun 16 04:05 : client: [10] closed
+Jun 16 04:05 : client: [11] closed
+Jun 16 04:05 : client: [25] opened from 127.0.0.1:49058
+Jun 16 04:05 : client: [26] opened from 127.0.0.1:49060
+Jun 17 01:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 01:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 01:30 : client: [0] opened from 127.0.0.1:56260
+Jun 17 01:30 : client: [1] opened from 127.0.0.1:56262
+Jun 17 01:30 : client: [2] opened from 127.0.0.1:56266
+Jun 17 01:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 01:30 : client: [2] closed
+Jun 17 01:32 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 01:36 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 17 01:37 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 17 01:40 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 17 01:44 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 17 01:48 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 17 01:51 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 17 01:54 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 17 01:55 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 17 01:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 17 02:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 17 02:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 17 02:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 17 02:10 : client: [3] opened from 127.0.0.1:56986
+Jun 17 02:10 : client: [3] closed
+Jun 17 02:56 : client: [4] opened from 127.0.0.1:57314
+Jun 17 02:56 : client: [4] closed
+Jun 17 02:56 : client: [5] opened from 127.0.0.1:57318
+Jun 17 02:56 : client: [5] closed
+Jun 17 02:56 : client: [6] opened from 127.0.0.1:57322
+Jun 17 02:56 : client: [6] closed
+Jun 17 02:56 : client: [7] opened from 127.0.0.1:57326
+Jun 17 02:56 : client: [7] closed
+Jun 17 10:38 : client: [1] closed
+Jun 17 10:38 : client: [0] closed
+Jun 17 10:38 : client: [8] opened from 127.0.0.1:60698
+Jun 17 10:38 : client: [9] opened from 127.0.0.1:60700
+Jun 17 10:39 : client: [9] closed
+Jun 17 10:39 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 17 13:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 13:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 13:16 : client: [0] opened from 127.0.0.1:60452
+Jun 17 13:18 : client: [0] closed
+Jun 17 13:18 : client: [1] opened from 127.0.0.1:60454
+Jun 17 18:34 : client: [2] opened from 127.0.0.1:33906
+Jun 17 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 18:34 : client: [2] closed
+Jun 17 18:34 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 17 18:36 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 17 18:39 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 17 18:44 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 17 18:49 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 17 18:51 : client: [3] opened from 127.0.0.1:34332
+Jun 17 18:51 : client: [3] closed
+Jun 17 18:51 : client: [4] opened from 127.0.0.1:34336
+Jun 17 18:51 : client: [4] closed
+Jun 17 18:51 : client: [5] opened from 127.0.0.1:34340
+Jun 17 18:51 : client: [5] closed
+Jun 17 18:51 : client: [6] opened from 127.0.0.1:34344
+Jun 17 18:51 : client: [6] closed
+Jun 17 18:51 : client: [7] opened from 127.0.0.1:34348
+Jun 17 18:51 : client: [7] closed
+Jun 17 18:51 : client: [8] opened from 127.0.0.1:34352
+Jun 17 18:51 : client: [8] closed
+Jun 17 18:51 : client: [9] opened from 127.0.0.1:34356
+Jun 17 18:51 : client: [9] closed
+Jun 17 18:51 : client: [10] opened from 127.0.0.1:34360
+Jun 17 18:51 : client: [10] closed
+Jun 17 18:51 : client: [11] opened from 127.0.0.1:34364
+Jun 17 18:51 : client: [11] closed
+Jun 17 18:51 : client: [12] opened from 127.0.0.1:34368
+Jun 17 18:51 : client: [13] opened from 127.0.0.1:34372
+Jun 17 18:51 : client: [12] closed
+Jun 17 18:51 : client: [13] closed
+Jun 17 18:51 : client: [14] opened from 127.0.0.1:34376
+Jun 17 18:51 : client: [14] closed
+Jun 17 18:51 : client: [15] opened from 127.0.0.1:34380
+Jun 17 18:51 : client: [15] closed
+Jun 17 18:51 : client: [16] opened from 127.0.0.1:34384
+Jun 17 18:51 : client: [16] closed
+Jun 17 18:51 : client: [17] opened from 127.0.0.1:34388
+Jun 17 18:51 : client: [17] closed
+Jun 17 18:51 : client: [18] opened from 127.0.0.1:34392
+Jun 17 18:51 : client: [18] closed
+Jun 17 18:51 : client: [19] opened from 127.0.0.1:34396
+Jun 17 18:51 : client: [19] closed
+Jun 17 18:51 : client: [20] opened from 127.0.0.1:34400
+Jun 17 18:51 : client: [20] closed
+Jun 17 18:51 : client: [21] opened from 127.0.0.1:34404
+Jun 17 18:51 : client: [21] closed
+Jun 17 18:51 : client: [22] opened from 127.0.0.1:34408
+Jun 17 18:51 : client: [22] closed
+Jun 17 18:51 : client: [23] opened from 127.0.0.1:34412
+Jun 17 18:51 : client: [23] closed
+Jun 17 18:51 : client: [24] opened from 127.0.0.1:34418
+Jun 17 18:51 : client: [24] closed
+Jun 17 18:51 : client: [25] opened from 127.0.0.1:34422
+Jun 17 18:51 : client: [25] closed
+Jun 17 18:51 : client: [26] opened from 127.0.0.1:34426
+Jun 17 18:51 : client: [26] closed
+Jun 17 18:51 : client: [27] opened from 127.0.0.1:34432
+Jun 17 18:51 : client: [27] closed
+Jun 17 18:51 : client: [28] opened from 127.0.0.1:34436
+Jun 17 18:51 : client: [28] closed
+Jun 17 18:51 : client: [29] opened from 127.0.0.1:34440
+Jun 17 18:51 : client: [29] closed
+Jun 17 18:51 : client: [30] opened from 127.0.0.1:34444
+Jun 17 18:51 : client: [30] closed
+Jun 17 18:51 : client: [31] opened from 127.0.0.1:34448
+Jun 17 18:51 : client: [31] closed
+Jun 17 18:51 : client: [32] opened from 127.0.0.1:34452
+Jun 17 18:51 : client: [32] closed
+Jun 17 18:51 : client: [33] opened from 127.0.0.1:34456
+Jun 17 18:51 : client: [33] closed
+Jun 17 18:51 : client: [34] opened from 127.0.0.1:34460
+Jun 17 18:51 : client: [34] closed
+Jun 17 18:51 : client: [35] opened from 127.0.0.1:34464
+Jun 17 18:51 : client: [35] closed
+Jun 17 18:51 : client: [36] opened from 127.0.0.1:34468
+Jun 17 18:51 : client: [36] closed
+Jun 17 18:52 : client: [37] opened from 127.0.0.1:34472
+Jun 17 18:52 : client: [37] closed
+Jun 17 18:52 : client: [38] opened from 127.0.0.1:34476
+Jun 17 18:52 : client: [38] closed
+Jun 17 18:52 : client: [39] opened from 127.0.0.1:34480
+Jun 17 18:52 : client: [39] closed
+Jun 17 18:52 : client: [40] opened from 127.0.0.1:34484
+Jun 17 18:52 : client: [40] closed
+Jun 17 18:52 : client: [41] opened from 127.0.0.1:34488
+Jun 17 18:52 : client: [41] closed
+Jun 17 18:52 : client: [42] opened from 127.0.0.1:34492
+Jun 17 18:52 : client: [42] closed
+Jun 17 18:52 : client: [43] opened from 127.0.0.1:34496
+Jun 17 18:52 : client: [43] closed
+Jun 17 18:52 : client: [44] opened from 127.0.0.1:34500
+Jun 17 18:52 : client: [44] closed
+Jun 17 18:52 : client: [45] opened from 127.0.0.1:34504
+Jun 17 18:52 : client: [45] closed
+Jun 17 18:52 : client: [46] opened from 127.0.0.1:34508
+Jun 17 18:52 : client: [46] closed
+Jun 17 18:52 : client: [47] opened from 127.0.0.1:34512
+Jun 17 18:52 : client: [47] closed
+Jun 17 18:52 : client: [48] opened from 127.0.0.1:34516
+Jun 17 18:52 : client: [48] closed
+Jun 17 18:52 : client: [49] opened from 127.0.0.1:34520
+Jun 17 18:52 : client: [49] closed
+Jun 17 18:52 : client: [50] opened from 127.0.0.1:34524
+Jun 17 18:52 : client: [50] closed
+Jun 17 18:52 : client: [51] opened from 127.0.0.1:34528
+Jun 17 18:52 : client: [51] closed
+Jun 17 18:52 : client: [52] opened from 127.0.0.1:34532
+Jun 17 18:57 : player: played "Brockhampton - Iridescence/06 WEIGHT.mp3"
+Jun 17 19:00 : player: played "Brockhampton - Iridescence/07 DISTRICT.mp3"
+Jun 17 19:02 : client: [53] opened from 127.0.0.1:34614
+Jun 17 19:02 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/02.Horn Concerto No.4 Rondo Allegro Vivace.flac"
+Jun 17 19:02 : client: [53] closed
+Jun 17 19:02 : client: [52] closed
+Jun 17 19:03 : client: [54] opened from 127.0.0.1:34618
+Jun 17 19:03 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 17 19:04 : client: [54] closed
+Jun 17 19:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 19:09 : client: [55] opened from 127.0.0.1:34672
+Jun 17 19:09 : client: [56] opened from 127.0.0.1:34678
+Jun 17 19:09 : client: [56] closed
+Jun 17 19:12 : client: [57] opened from 127.0.0.1:34720
+Jun 17 19:12 : client: [57] closed
+Jun 17 19:12 : client: [55] closed
+Jun 17 19:12 : client: [58] opened from 127.0.0.1:34724
+Jun 17 19:12 : client: [59] opened from 127.0.0.1:34728
+Jun 17 19:12 : client: [59] closed
+Jun 17 19:12 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 19:14 : client: [58] closed
+Jun 17 19:14 : client: [60] opened from 127.0.0.1:34734
+Jun 17 19:14 : client: [60] closed
+Jun 17 19:14 : client: [61] opened from 127.0.0.1:34740
+Jun 17 19:14 : client: [61] closed
+Jun 17 19:15 : client: [62] opened from 127.0.0.1:34752
+Jun 17 19:16 : client: [63] opened from 127.0.0.1:34756
+Jun 17 19:16 : client: [63] closed
+Jun 17 19:16 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 17 19:16 : client: [64] opened from 127.0.0.1:34760
+Jun 17 19:16 : client: [64] closed
+Jun 17 19:16 : client: [65] opened from 127.0.0.1:34764
+Jun 17 19:16 : client: [65] closed
+Jun 17 19:16 : client: [66] opened from 127.0.0.1:34768
+Jun 17 19:16 : client: [66] closed
+Jun 17 19:16 : client: [67] opened from 127.0.0.1:34772
+Jun 17 19:16 : client: [67] closed
+Jun 17 19:16 : client: [68] opened from 127.0.0.1:34776
+Jun 17 19:16 : client: [68] closed
+Jun 17 19:16 : client: [69] opened from 127.0.0.1:34780
+Jun 17 19:16 : client: [69] closed
+Jun 17 19:16 : client: [70] opened from 127.0.0.1:34784
+Jun 17 19:16 : client: [70] closed
+Jun 17 19:16 : client: [71] opened from 127.0.0.1:34788
+Jun 17 19:16 : client: [71] closed
+Jun 17 19:16 : client: [72] opened from 127.0.0.1:34792
+Jun 17 19:16 : client: [72] closed
+Jun 17 19:16 : client: [73] opened from 127.0.0.1:34796
+Jun 17 19:16 : client: [73] closed
+Jun 17 19:16 : client: [74] opened from 127.0.0.1:34800
+Jun 17 19:16 : client: [74] closed
+Jun 17 19:16 : client: [75] opened from 127.0.0.1:34804
+Jun 17 19:16 : client: [75] closed
+Jun 17 19:16 : client: [76] opened from 127.0.0.1:34810
+Jun 17 19:16 : client: [76] closed
+Jun 17 19:16 : client: [77] opened from 127.0.0.1:34814
+Jun 17 19:16 : client: [77] closed
+Jun 17 19:16 : client: [78] opened from 127.0.0.1:34818
+Jun 17 19:16 : client: [78] closed
+Jun 17 19:16 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 17 19:16 : client: [79] opened from 127.0.0.1:34822
+Jun 17 19:16 : client: [79] closed
+Jun 17 19:16 : client: [80] opened from 127.0.0.1:34826
+Jun 17 19:16 : client: [80] closed
+Jun 17 19:20 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 19:20 : client: [81] opened from 127.0.0.1:34848
+Jun 17 19:20 : client: [81] closed
+Jun 17 19:24 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 17 19:24 : client: [82] opened from 127.0.0.1:34868
+Jun 17 19:24 : client: [82] closed
+Jun 17 19:24 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 17 19:24 : client: [83] opened from 127.0.0.1:34880
+Jun 17 19:24 : client: [83] closed
+Jun 17 19:28 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 17 19:28 : client: [84] opened from 127.0.0.1:34888
+Jun 17 19:28 : client: [84] closed
+Jun 17 19:32 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 17 19:32 : client: [85] opened from 127.0.0.1:34914
+Jun 17 19:32 : client: [85] closed
+Jun 17 19:35 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 17 19:35 : client: [86] opened from 127.0.0.1:34936
+Jun 17 19:35 : client: [86] closed
+Jun 17 19:38 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 17 19:38 : client: [87] opened from 127.0.0.1:34952
+Jun 17 19:38 : client: [87] closed
+Jun 17 19:42 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 17 19:42 : client: [88] opened from 127.0.0.1:34972
+Jun 17 19:42 : client: [88] closed
+Jun 17 19:43 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 17 19:43 : client: [89] opened from 127.0.0.1:34976
+Jun 17 19:43 : client: [89] closed
+Jun 17 19:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 17 19:45 : client: [90] opened from 127.0.0.1:35000
+Jun 17 19:45 : client: [90] closed
+Jun 17 19:48 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 17 19:48 : client: [91] opened from 127.0.0.1:35010
+Jun 17 19:48 : client: [91] closed
+Jun 17 19:48 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 17 19:48 : client: [92] opened from 127.0.0.1:35014
+Jun 17 19:48 : client: [92] closed
+Jun 17 19:54 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 17 19:54 : client: [93] opened from 127.0.0.1:35040
+Jun 17 19:54 : client: [93] closed
+Jun 17 19:59 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 17 19:59 : client: [94] opened from 127.0.0.1:35056
+Jun 17 19:59 : client: [94] closed
+Jun 17 20:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 17 20:00 : client: [95] opened from 127.0.0.1:35072
+Jun 17 20:00 : client: [95] closed
+Jun 17 20:04 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 17 20:04 : client: [96] opened from 127.0.0.1:35084
+Jun 17 20:04 : client: [96] closed
+Jun 17 20:04 : client: [1] closed
+Jun 17 20:04 : client: [62] closed
+Jun 17 20:04 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jun 17 20:08 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 17 20:14 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 17 20:20 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 17 20:24 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3"
+Jun 17 20:28 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3"
+Jun 17 20:32 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3"
+Jun 17 20:34 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3"
+Jun 17 20:36 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jun 17 20:37 : client: [97] opened from 127.0.0.1:35378
+Jun 17 20:37 : client: [98] opened from 127.0.0.1:35386
+Jun 17 20:37 : client: [98] closed
+Jun 17 20:37 : client: [99] opened from 127.0.0.1:35394
+Jun 17 20:37 : client: [99] closed
+Jun 17 20:37 : client: [100] opened from 127.0.0.1:35398
+Jun 17 20:37 : client: [100] closed
+Jun 17 20:37 : client: [101] opened from 127.0.0.1:35402
+Jun 17 20:37 : client: [101] closed
+Jun 17 20:37 : client: [102] opened from 127.0.0.1:35406
+Jun 17 20:37 : client: [102] closed
+Jun 17 20:37 : client: [103] opened from 127.0.0.1:35410
+Jun 17 20:37 : client: [103] closed
+Jun 17 20:37 : client: [104] opened from 127.0.0.1:35414
+Jun 17 20:37 : client: [104] closed
+Jun 17 20:37 : client: [105] opened from 127.0.0.1:35418
+Jun 17 20:37 : client: [105] closed
+Jun 17 20:37 : client: [106] opened from 127.0.0.1:35422
+Jun 17 20:37 : client: [106] closed
+Jun 17 20:37 : client: [107] opened from 127.0.0.1:35426
+Jun 17 20:37 : client: [107] closed
+Jun 17 20:37 : client: [108] opened from 127.0.0.1:35430
+Jun 17 20:37 : client: [108] closed
+Jun 17 20:37 : client: [109] opened from 127.0.0.1:35434
+Jun 17 20:37 : client: [109] closed
+Jun 17 20:37 : client: [110] opened from 127.0.0.1:35438
+Jun 17 20:37 : client: [110] closed
+Jun 17 20:37 : client: [111] opened from 127.0.0.1:35442
+Jun 17 20:37 : client: [111] closed
+Jun 17 20:37 : client: [112] opened from 127.0.0.1:35446
+Jun 17 20:37 : client: [112] closed
+Jun 17 20:37 : client: [113] opened from 127.0.0.1:35450
+Jun 17 20:37 : client: [113] closed
+Jun 17 20:37 : client: [114] opened from 127.0.0.1:35454
+Jun 17 20:37 : client: [114] closed
+Jun 17 20:37 : client: [115] opened from 127.0.0.1:35458
+Jun 17 20:37 : client: [115] closed
+Jun 17 20:37 : client: [116] opened from 127.0.0.1:35462
+Jun 17 20:37 : client: [116] closed
+Jun 17 20:37 : client: [117] opened from 127.0.0.1:35466
+Jun 17 20:37 : client: [117] closed
+Jun 17 20:37 : client: [118] opened from 127.0.0.1:35470
+Jun 17 20:37 : client: [118] closed
+Jun 17 20:37 : client: [119] opened from 127.0.0.1:35476
+Jun 17 20:37 : client: [119] closed
+Jun 17 20:37 : client: [120] opened from 127.0.0.1:35480
+Jun 17 20:37 : client: [120] closed
+Jun 17 20:37 : client: [121] opened from 127.0.0.1:35484
+Jun 17 20:37 : client: [121] closed
+Jun 17 20:37 : client: [122] opened from 127.0.0.1:35488
+Jun 17 20:37 : client: [122] closed
+Jun 17 20:37 : client: [123] opened from 127.0.0.1:35492
+Jun 17 20:37 : client: [123] closed
+Jun 17 20:37 : client: [124] opened from 127.0.0.1:35496
+Jun 17 20:37 : client: [124] closed
+Jun 17 20:37 : client: [125] opened from 127.0.0.1:35500
+Jun 17 20:37 : client: [125] closed
+Jun 17 20:37 : client: [126] opened from 127.0.0.1:35504
+Jun 17 20:37 : client: [126] closed
+Jun 17 20:37 : client: [127] opened from 127.0.0.1:35508
+Jun 17 20:37 : client: [127] closed
+Jun 17 20:37 : client: [128] opened from 127.0.0.1:35512
+Jun 17 20:37 : client: [128] closed
+Jun 17 20:41 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 20:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 17 20:46 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 17 20:49 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 17 20:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 17 20:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 17 21:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 17 21:00 : client: [129] opened from 127.0.0.1:35806
+Jun 17 21:00 : client: [130] opened from 127.0.0.1:35810
+Jun 17 21:00 : client: [130] closed
+Jun 17 21:01 : client: [129] closed
+Jun 17 21:04 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 17 21:05 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 17 21:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 17 21:09 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 17 21:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 17 21:16 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 17 21:20 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 17 21:22 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 17 21:25 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 17 21:30 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 17 21:35 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 17 21:42 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 17 21:46 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3"
+Jun 17 21:49 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3"
+Jun 17 21:54 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3"
+Jun 17 21:56 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3"
+Jun 17 22:01 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3"
+Jun 17 22:04 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3"
+Jun 17 22:08 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3"
+Jun 17 22:15 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/09. Baby Boy.mp3"
+Jun 17 22:18 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3"
+Jun 17 22:24 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3"
+Jun 17 23:13 : client: [131] opened from 127.0.0.1:36916
+Jun 17 23:13 : client: [131] closed
+Jun 17 23:13 : client: [132] opened from 127.0.0.1:36920
+Jun 17 23:13 : client: [132] closed
+Jun 17 23:13 : client: [133] opened from 127.0.0.1:36924
+Jun 17 23:13 : client: [134] opened from 127.0.0.1:36930
+Jun 17 23:13 : client: [135] opened from 127.0.0.1:36934
+Jun 17 23:13 : client: [136] opened from 127.0.0.1:36938
+Jun 17 23:13 : client: [133] closed
+Jun 17 23:13 : client: [137] opened from 127.0.0.1:36942
+Jun 17 23:13 : client: [138] opened from 127.0.0.1:36946
+Jun 17 23:13 : client: [137] closed
+Jun 17 23:13 : client: [135] closed
+Jun 17 23:13 : client: [139] opened from 127.0.0.1:36950
+Jun 17 23:13 : client: [134] closed
+Jun 17 23:13 : client: [136] closed
+Jun 17 23:13 : client: [139] closed
+Jun 17 23:13 : client: [138] closed
+Jun 17 23:13 : client: [140] opened from 127.0.0.1:36954
+Jun 17 23:13 : client: [140] closed
+Jun 17 23:13 : client: [141] opened from 127.0.0.1:36958
+Jun 17 23:13 : client: [141] closed
+Jun 17 23:13 : client: [142] opened from 127.0.0.1:36962
+Jun 17 23:13 : client: [142] closed
+Jun 17 23:13 : client: [143] opened from 127.0.0.1:36966
+Jun 17 23:13 : client: [143] closed
+Jun 17 23:13 : client: [144] opened from 127.0.0.1:36970
+Jun 17 23:13 : client: [144] closed
+Jun 17 23:13 : client: [145] opened from 127.0.0.1:36974
+Jun 17 23:13 : client: [145] closed
+Jun 17 23:13 : client: [146] opened from 127.0.0.1:36978
+Jun 17 23:13 : client: [147] opened from 127.0.0.1:36982
+Jun 17 23:13 : client: [147] closed
+Jun 17 23:13 : client: [146] closed
+Jun 17 23:13 : client: [148] opened from 127.0.0.1:36986
+Jun 17 23:13 : client: [148] closed
+Jun 17 23:13 : client: [149] opened from 127.0.0.1:36990
+Jun 17 23:13 : client: [149] closed
+Jun 17 23:13 : client: [150] opened from 127.0.0.1:36996
+Jun 17 23:13 : client: [150] closed
+Jun 17 23:13 : client: [151] opened from 127.0.0.1:37000
+Jun 17 23:13 : client: [151] closed
+Jun 17 23:13 : client: [152] opened from 127.0.0.1:37004
+Jun 17 23:13 : client: [153] opened from 127.0.0.1:37008
+Jun 17 23:13 : client: [152] closed
+Jun 17 23:13 : client: [153] closed
+Jun 17 23:13 : client: [154] opened from 127.0.0.1:37012
+Jun 17 23:13 : client: [154] closed
+Jun 17 23:13 : client: [155] opened from 127.0.0.1:37016
+Jun 17 23:13 : client: [155] closed
+Jun 17 23:13 : client: [156] opened from 127.0.0.1:37020
+Jun 17 23:13 : client: [156] closed
+Jun 17 23:13 : client: [157] opened from 127.0.0.1:37024
+Jun 17 23:13 : client: [157] closed
+Jun 17 23:13 : client: [158] opened from 127.0.0.1:37028
+Jun 17 23:13 : client: [158] closed
+Jun 17 23:13 : client: [159] opened from 127.0.0.1:37032
+Jun 17 23:13 : client: [159] closed
+Jun 17 23:13 : client: [160] opened from 127.0.0.1:37036
+Jun 17 23:13 : client: [160] closed
+Jun 17 23:13 : client: [161] opened from 127.0.0.1:37040
+Jun 17 23:13 : client: [161] closed
+Jun 17 23:13 : client: [162] opened from 127.0.0.1:37044
+Jun 17 23:13 : client: [162] closed
+Jun 17 23:13 : client: [163] opened from 127.0.0.1:37048
+Jun 17 23:13 : client: [163] closed
+Jun 17 23:13 : client: [164] opened from 127.0.0.1:37052
+Jun 17 23:13 : client: [164] closed
+Jun 17 23:13 : client: [165] opened from 127.0.0.1:37056
+Jun 17 23:13 : client: [165] closed
+Jun 17 23:13 : client: [166] opened from 127.0.0.1:37060
+Jun 17 23:13 : client: [166] closed
+Jun 17 23:13 : client: [167] opened from 127.0.0.1:37066
+Jun 17 23:13 : client: [167] closed
+Jun 17 23:13 : client: [168] opened from 127.0.0.1:37070
+Jun 17 23:13 : client: [168] closed
+Jun 17 23:13 : client: [169] opened from 127.0.0.1:37074
+Jun 17 23:13 : client: [170] opened from 127.0.0.1:37078
+Jun 17 23:13 : client: [169] closed
+Jun 17 23:13 : client: [170] closed
+Jun 17 23:13 : client: [171] opened from 127.0.0.1:37082
+Jun 17 23:13 : client: [171] closed
+Jun 17 23:13 : client: [172] opened from 127.0.0.1:37086
+Jun 17 23:13 : client: [172] closed
+Jun 17 23:13 : client: [173] opened from 127.0.0.1:37090
+Jun 17 23:13 : client: [173] closed
+Jun 17 23:13 : client: [174] opened from 127.0.0.1:37094
+Jun 17 23:13 : client: [174] closed
+Jun 17 23:13 : client: [175] opened from 127.0.0.1:37098
+Jun 17 23:13 : client: [175] closed
+Jun 17 23:13 : client: [176] opened from 127.0.0.1:37102
+Jun 17 23:13 : client: [176] closed
+Jun 17 23:13 : client: [177] opened from 127.0.0.1:37106
+Jun 17 23:13 : client: [177] closed
+Jun 17 23:13 : client: [178] opened from 127.0.0.1:37110
+Jun 17 23:13 : client: [178] closed
+Jun 17 23:13 : client: [179] opened from 127.0.0.1:37114
+Jun 17 23:13 : client: [179] closed
+Jun 17 23:13 : client: [180] opened from 127.0.0.1:37118
+Jun 17 23:13 : client: [180] closed
+Jun 17 23:13 : client: [181] opened from 127.0.0.1:37122
+Jun 17 23:13 : client: [181] closed
+Jun 17 23:13 : client: [182] opened from 127.0.0.1:37126
+Jun 17 23:13 : client: [182] closed
+Jun 17 23:13 : client: [183] opened from 127.0.0.1:37130
+Jun 17 23:13 : client: [183] closed
+Jun 17 23:13 : client: [184] opened from 127.0.0.1:37134
+Jun 17 23:13 : client: [184] closed
+Jun 17 23:13 : client: [185] opened from 127.0.0.1:37138
+Jun 17 23:13 : client: [186] opened from 127.0.0.1:37142
+Jun 17 23:13 : client: [186] closed
+Jun 17 23:13 : client: [187] opened from 127.0.0.1:37146
+Jun 17 23:13 : client: [187] closed
+Jun 17 23:13 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 17 23:13 : client: [188] opened from 127.0.0.1:37150
+Jun 17 23:13 : client: [188] closed
+Jun 17 23:17 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 17 23:17 : client: [189] opened from 127.0.0.1:37216
+Jun 17 23:17 : client: [189] closed
+Jun 17 23:21 : client: [190] opened from 127.0.0.1:37388
+Jun 17 23:21 : client: [190] closed
+Jun 17 23:39 : client: [191] opened from 127.0.0.1:37556
+Jun 17 23:39 : client: [191] closed
+Jun 17 23:39 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 17 23:39 : client: [192] opened from 127.0.0.1:37560
+Jun 17 23:39 : client: [192] closed
+Jun 17 23:39 : client: [193] opened from 127.0.0.1:37564
+Jun 17 23:39 : client: [193] closed
+Jun 17 23:39 : client: [194] opened from 127.0.0.1:37568
+Jun 17 23:39 : client: [194] closed
+Jun 17 23:43 : client: [195] opened from 127.0.0.1:37616
+Jun 17 23:43 : client: [195] closed
+Jun 17 23:47 : client: [196] opened from 127.0.0.1:37706
+Jun 17 23:47 : client: [196] closed
+Jun 17 23:47 : client: [197] opened from 127.0.0.1:37710
+Jun 17 23:47 : client: [197] closed
+Jun 18 00:01 : client: [198] opened from 127.0.0.1:37856
+Jun 18 00:01 : client: [198] closed
+Jun 18 00:01 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 18 00:01 : client: [199] opened from 127.0.0.1:37870
+Jun 18 00:01 : client: [199] closed
+Jun 18 00:02 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 18 00:02 : client: [200] opened from 127.0.0.1:37874
+Jun 18 00:02 : client: [200] closed
+Jun 18 00:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 18 00:06 : client: [201] opened from 127.0.0.1:37882
+Jun 18 00:06 : client: [201] closed
+Jun 18 00:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 18 00:10 : client: [202] opened from 127.0.0.1:37916
+Jun 18 00:10 : client: [202] closed
+Jun 18 00:13 : client: [203] opened from 127.0.0.1:37954
+Jun 18 00:13 : client: [203] closed
+Jun 18 00:35 : client: [185] closed
+Jun 18 01:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 18 02:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 02:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 02:24 : client: [0] opened from 127.0.0.1:53192
+Jun 18 04:03 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 18 12:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 12:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 12:35 : client: [0] opened from 127.0.0.1:36834
+Jun 18 14:34 : client: [0] closed
+Jun 18 14:37 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 18 14:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 14:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 14:38 : client: [0] opened from 127.0.0.1:51448
+Jun 18 14:38 : client: [1] opened from 127.0.0.1:51450
+Jun 18 15:57 : client: [2] opened from 127.0.0.1:52196
+Jun 18 15:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 15:57 : client: [2] closed
+Jun 18 15:58 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 18 15:58 : client: [1] closed
+Jun 18 15:58 : client: [0] closed
+Jun 18 15:58 : client: [3] opened from 127.0.0.1:52204
+Jun 18 15:58 : client: [4] opened from 127.0.0.1:52206
+Jun 18 16:01 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 18 16:04 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 18 16:05 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 18 16:07 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 18 16:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 18 16:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 18 16:16 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 18 16:21 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 18 16:22 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 18 16:26 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 18 16:30 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 18 16:36 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 18 16:38 : client: [5] opened from 127.0.0.1:53000
+Jun 18 16:38 : client: [5] closed
+Jun 18 16:38 : client: [6] opened from 127.0.0.1:53004
+Jun 18 16:38 : client: [6] closed
+Jun 18 16:43 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 18 16:46 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3"
+Jun 18 16:50 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3"
+Jun 18 16:55 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3"
+Jun 18 16:57 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3"
+Jun 18 17:02 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3"
+Jun 18 17:05 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3"
+Jun 18 17:09 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3"
+Jun 18 17:16 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/09. Baby Boy.mp3"
+Jun 18 17:19 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3"
+Jun 18 17:25 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3"
+Jun 19 15:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 15:28 : client: [0] opened from 127.0.0.1:42060
+Jun 19 19:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 19:10 : client: [0] opened from 127.0.0.1:42104
+Jun 19 19:11 : client: [0] closed
+Jun 19 19:11 : client: [1] opened from 127.0.0.1:42106
+Jun 20 00:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 00:05 : client: [0] opened from 127.0.0.1:45010
+Jun 20 00:06 : client: [1] opened from 127.0.0.1:45022
+Jun 20 00:06 : client: [1] closed
+Jun 20 00:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 00:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 00:06 : client: [2] opened from 127.0.0.1:45026
+Jun 20 00:06 : client: [2] closed
+Jun 20 00:39 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 20 01:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 01:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 01:00 : client: [0] opened from 127.0.0.1:45802
+Jun 20 01:00 : client: [1] opened from 127.0.0.1:45804
+Jun 20 07:35 : client: [2] opened from 127.0.0.1:48472
+Jun 20 07:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 07:35 : client: [2] closed
+Jun 20 07:41 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 20 07:41 : client: [3] opened from 127.0.0.1:48538
+Jun 20 07:41 : client: [3] closed
+Jun 20 07:41 : client: [4] opened from 127.0.0.1:48542
+Jun 20 07:41 : client: [4] closed
+Jun 20 07:41 : client: [5] opened from 127.0.0.1:48546
+Jun 20 07:41 : client: [5] closed
+Jun 20 07:41 : client: [6] opened from 127.0.0.1:48550
+Jun 20 07:41 : client: [6] closed
+Jun 20 07:41 : client: [7] opened from 127.0.0.1:48554
+Jun 20 07:41 : client: [7] closed
+Jun 20 07:41 : client: [8] opened from 127.0.0.1:48558
+Jun 20 07:41 : client: [8] closed
+Jun 20 07:41 : client: [9] opened from 127.0.0.1:48562
+Jun 20 07:41 : client: [9] closed
+Jun 20 07:41 : client: [10] opened from 127.0.0.1:48566
+Jun 20 07:41 : client: [10] closed
+Jun 20 07:41 : client: [11] opened from 127.0.0.1:48570
+Jun 20 07:41 : client: [12] opened from 127.0.0.1:48574
+Jun 20 07:41 : client: [12] closed
+Jun 20 07:41 : client: [13] opened from 127.0.0.1:48578
+Jun 20 07:41 : client: [13] closed
+Jun 20 07:41 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 20 07:41 : client: [14] opened from 127.0.0.1:48582
+Jun 20 07:41 : client: [14] closed
+Jun 20 07:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 20 07:45 : client: [15] opened from 127.0.0.1:48592
+Jun 20 07:45 : client: [15] closed
+Jun 20 07:49 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 20 07:49 : client: [16] opened from 127.0.0.1:48616
+Jun 20 07:49 : client: [16] closed
+Jun 20 07:49 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 20 07:49 : client: [17] opened from 127.0.0.1:48620
+Jun 20 07:49 : client: [17] closed
+Jun 20 07:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 20 07:53 : client: [18] opened from 127.0.0.1:48628
+Jun 20 07:53 : client: [18] closed
+Jun 20 07:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 20 07:57 : client: [19] opened from 127.0.0.1:48652
+Jun 20 07:57 : client: [19] closed
+Jun 20 08:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 20 08:00 : client: [20] opened from 127.0.0.1:48674
+Jun 20 08:00 : client: [20] closed
+Jun 20 08:03 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 20 08:03 : client: [21] opened from 127.0.0.1:48698
+Jun 20 08:03 : client: [21] closed
+Jun 20 08:07 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 20 08:07 : client: [22] opened from 127.0.0.1:48864
+Jun 20 08:07 : client: [22] closed
+Jun 20 08:08 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 20 08:08 : client: [23] opened from 127.0.0.1:48884
+Jun 20 08:08 : client: [23] closed
+Jun 20 08:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 20 08:10 : client: [24] opened from 127.0.0.1:48910
+Jun 20 08:10 : client: [24] closed
+Jun 20 08:13 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 20 08:13 : client: [25] opened from 127.0.0.1:48926
+Jun 20 08:13 : client: [25] closed
+Jun 20 08:13 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 20 08:13 : client: [26] opened from 127.0.0.1:48930
+Jun 20 08:13 : client: [26] closed
+Jun 20 08:19 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 20 08:19 : client: [27] opened from 127.0.0.1:48956
+Jun 20 08:19 : client: [27] closed
+Jun 20 08:24 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 20 08:24 : client: [28] opened from 127.0.0.1:48970
+Jun 20 08:24 : client: [28] closed
+Jun 20 08:25 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 20 08:25 : client: [29] opened from 127.0.0.1:48976
+Jun 20 08:25 : client: [29] closed
+Jun 20 08:29 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 20 08:29 : client: [30] opened from 127.0.0.1:49004
+Jun 20 08:29 : client: [30] closed
+Jun 20 08:33 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 20 08:33 : client: [31] opened from 127.0.0.1:49022
+Jun 20 08:33 : client: [31] closed
+Jun 20 08:39 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 20 08:39 : client: [32] opened from 127.0.0.1:49054
+Jun 20 08:39 : client: [32] closed
+Jun 20 08:40 : client: [1] closed
+Jun 20 08:40 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 20 09:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 09:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 09:19 : client: [0] opened from 127.0.0.1:45246
+Jun 20 09:21 : client: [0] closed
+Jun 20 09:21 : client: [1] opened from 127.0.0.1:45270
+Jun 20 09:31 : client: [1] closed
+Jun 20 09:31 : client: [2] opened from 127.0.0.1:45542
+Jun 20 10:10 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 20 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 12:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 12:11 : client: [0] opened from 127.0.0.1:49754
+Jun 20 16:39 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 21 01:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 01:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 01:39 : client: [0] opened from 127.0.0.1:60922
+Jun 21 01:45 : client: [1] opened from 127.0.0.1:60934
+Jun 21 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 01:45 : client: [1] closed
+Jun 21 01:50 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jun 21 01:52 : client: [0] closed
+Jun 21 01:54 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3"
+Jun 21 01:57 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3"
+Jun 21 02:00 : client: [2] opened from 127.0.0.1:32816
+Jun 21 02:00 : client: [3] opened from 127.0.0.1:32818
+Jun 21 02:02 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3"
+Jun 21 02:03 : client: [2] closed
+Jun 21 02:03 : client: [3] closed
+Jun 21 02:03 : client: [4] opened from 127.0.0.1:32822
+Jun 21 02:03 : client: [5] opened from 127.0.0.1:32824
+Jun 21 02:03 : client: [4] closed
+Jun 21 02:03 : client: [5] closed
+Jun 21 02:03 : client: [6] opened from 127.0.0.1:32826
+Jun 21 02:03 : client: [7] opened from 127.0.0.1:32828
+Jun 21 02:04 : client: [7] closed
+Jun 21 02:04 : client: [6] closed
+Jun 21 02:04 : client: [8] opened from 127.0.0.1:32830
+Jun 21 02:04 : client: [9] opened from 127.0.0.1:32832
+Jun 21 02:04 : client: [8] closed
+Jun 21 02:04 : client: [9] closed
+Jun 21 02:04 : client: [10] opened from 127.0.0.1:32834
+Jun 21 02:04 : client: [11] opened from 127.0.0.1:32836
+Jun 21 02:04 : client: [11] closed
+Jun 21 02:04 : client: [10] closed
+Jun 21 02:04 : client: [12] opened from 127.0.0.1:32838
+Jun 21 02:04 : client: [13] opened from 127.0.0.1:32840
+Jun 21 02:04 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3"
+Jun 21 02:04 : client: [12] closed
+Jun 21 02:04 : client: [13] closed
+Jun 21 02:04 : client: [14] opened from 127.0.0.1:32842
+Jun 21 02:04 : client: [15] opened from 127.0.0.1:32844
+Jun 21 02:10 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3"
+Jun 21 02:12 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3"
+Jun 21 02:17 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3"
+Jun 21 02:23 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/09. Baby Boy.mp3"
+Jun 21 02:25 : client: [14] closed
+Jun 21 02:25 : client: [15] closed
+Jun 21 02:25 : client: [16] opened from 127.0.0.1:33156
+Jun 21 02:25 : client: [17] opened from 127.0.0.1:33158
+Jun 21 02:27 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3"
+Jun 21 02:32 : client: [16] closed
+Jun 21 02:32 : client: [17] closed
+Jun 21 02:32 : client: [18] opened from 127.0.0.1:33202
+Jun 21 02:32 : client: [19] opened from 127.0.0.1:33204
+Jun 21 02:33 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3"
+Jun 21 02:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 02:42 : client: [0] opened from 127.0.0.1:59070
+Jun 21 02:42 : client: [1] opened from 127.0.0.1:59072
+Jun 21 02:54 : client: [0] closed
+Jun 21 02:54 : client: [1] closed
+Jun 21 02:54 : client: [2] opened from 127.0.0.1:59268
+Jun 21 02:54 : client: [3] opened from 127.0.0.1:59270
+Jun 21 02:55 : client: [2] closed
+Jun 21 02:55 : client: [3] closed
+Jun 21 02:55 : client: [4] opened from 127.0.0.1:59272
+Jun 21 02:55 : client: [5] opened from 127.0.0.1:59274
+Jun 21 02:56 : client: [5] closed
+Jun 21 02:56 : client: [4] closed
+Jun 21 02:56 : client: [6] opened from 127.0.0.1:59278
+Jun 21 02:56 : client: [7] opened from 127.0.0.1:59280
+Jun 21 02:57 : client: [6] closed
+Jun 21 02:57 : client: [7] closed
+Jun 21 02:57 : client: [8] opened from 127.0.0.1:59282
+Jun 21 02:57 : client: [9] opened from 127.0.0.1:59284
+Jun 21 02:57 : client: [9] closed
+Jun 21 02:57 : client: [8] closed
+Jun 21 02:57 : client: [10] opened from 127.0.0.1:59286
+Jun 21 02:57 : client: [10] closed
+Jun 21 02:57 : client: [11] opened from 127.0.0.1:59288
+Jun 21 02:57 : client: [12] opened from 127.0.0.1:59290
+Jun 21 03:00 : client: [11] closed
+Jun 21 03:00 : client: [12] closed
+Jun 21 03:00 : client: [13] opened from 127.0.0.1:59294
+Jun 21 03:00 : client: [13] closed
+Jun 21 03:00 : client: [14] opened from 127.0.0.1:59296
+Jun 21 03:00 : client: [14] closed
+Jun 21 03:00 : client: [15] opened from 127.0.0.1:59298
+Jun 21 03:00 : client: [16] opened from 127.0.0.1:59300
+Jun 21 03:02 : client: [16] closed
+Jun 21 03:02 : client: [15] closed
+Jun 21 03:02 : client: [17] opened from 127.0.0.1:59304
+Jun 21 03:02 : client: [18] opened from 127.0.0.1:59306
+Jun 21 03:03 : client: [18] closed
+Jun 21 03:03 : client: [17] closed
+Jun 21 03:03 : client: [19] opened from 127.0.0.1:59308
+Jun 21 03:03 : client: [19] closed
+Jun 21 03:03 : client: [20] opened from 127.0.0.1:59310
+Jun 21 03:03 : client: [20] closed
+Jun 21 03:03 : client: [21] opened from 127.0.0.1:59312
+Jun 21 03:03 : client: [22] opened from 127.0.0.1:59314
+Jun 21 18:45 : client: [23] opened from 127.0.0.1:34950
+Jun 21 18:45 : client: [23] closed
+Jun 21 18:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 18:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 18:45 : client: [24] opened from 127.0.0.1:34952
+Jun 21 18:45 : client: [24] closed
+Jun 22 02:54 : client: [22] closed
+Jun 22 02:54 : client: [21] closed
+Jun 22 02:54 : client: [25] opened from 127.0.0.1:37492
+Jun 22 02:54 : client: [26] opened from 127.0.0.1:37494
+Jun 22 14:38 : client: [26] closed
+Jun 22 14:38 : client: [25] closed
+Jun 22 14:38 : client: [27] opened from 127.0.0.1:39670
+Jun 22 14:38 : client: [28] opened from 127.0.0.1:39672
+Jun 22 14:40 : client: [28] closed
+Jun 22 14:40 : client: [27] closed
+Jun 22 14:40 : client: [29] opened from 127.0.0.1:39680
+Jun 22 14:40 : client: [30] opened from 127.0.0.1:39682
+Jun 22 14:41 : client: [30] closed
+Jun 22 14:41 : client: [29] closed
+Jun 22 14:41 : client: [31] opened from 127.0.0.1:39686
+Jun 22 14:41 : client: [32] opened from 127.0.0.1:39688
+Jun 22 14:43 : client: [32] closed
+Jun 22 14:43 : client: [31] closed
+Jun 22 14:43 : client: [33] opened from 127.0.0.1:39698
+Jun 22 14:43 : client: [34] opened from 127.0.0.1:39700
+Jun 22 14:44 : client: [34] closed
+Jun 22 14:44 : client: [33] closed
+Jun 22 14:44 : client: [35] opened from 127.0.0.1:39710
+Jun 22 14:44 : client: [35] closed
+Jun 22 14:44 : client: [36] opened from 127.0.0.1:39712
+Jun 22 14:44 : client: [37] opened from 127.0.0.1:39714
+Jun 22 14:45 : client: [37] closed
+Jun 22 14:45 : client: [36] closed
+Jun 22 14:45 : client: [38] opened from 127.0.0.1:39720
+Jun 22 14:45 : client: [39] opened from 127.0.0.1:39722
+Jun 22 14:46 : client: [39] closed
+Jun 22 14:46 : client: [38] closed
+Jun 22 14:46 : client: [40] opened from 127.0.0.1:39726
+Jun 22 14:46 : client: [41] opened from 127.0.0.1:39728
+Jun 22 14:49 : client: [42] opened from 127.0.0.1:39752
+Jun 22 14:49 : client: [42] closed
+Jun 22 14:54 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 22 14:58 : player: played "(1994) Dummy/02 Sour Times.flac"
+Jun 22 14:59 : client: [41] closed
+Jun 22 14:59 : client: [40] closed
+Jun 22 14:59 : client: [43] opened from 127.0.0.1:39836
+Jun 22 14:59 : client: [44] opened from 127.0.0.1:39838
+Jun 22 15:00 : client: [43] closed
+Jun 22 15:00 : client: [44] closed
+Jun 22 15:00 : client: [45] opened from 127.0.0.1:39850
+Jun 22 15:00 : client: [46] opened from 127.0.0.1:39852
+Jun 22 15:00 : client: [45] closed
+Jun 22 15:00 : client: [46] closed
+Jun 22 15:01 : client: [47] opened from 127.0.0.1:39854
+Jun 22 15:01 : client: [48] opened from 127.0.0.1:39856
+Jun 22 15:02 : client: [48] closed
+Jun 22 15:02 : client: [47] closed
+Jun 22 15:02 : client: [49] opened from 127.0.0.1:39860
+Jun 22 15:02 : client: [50] opened from 127.0.0.1:39862
+Jun 22 15:02 : player: played "(1994) Dummy/03 Strangers.flac"
+Jun 22 15:03 : client: [51] opened from 127.0.0.1:39866
+Jun 22 15:03 : client: [51] closed
+Jun 22 15:03 : client: [52] opened from 127.0.0.1:39870
+Jun 22 15:03 : client: [52] closed
+Jun 22 15:03 : client: [53] opened from 127.0.0.1:39874
+Jun 22 15:03 : client: [53] closed
+Jun 22 15:03 : client: [54] opened from 127.0.0.1:39878
+Jun 22 15:03 : client: [54] closed
+Jun 22 15:03 : client: [55] opened from 127.0.0.1:39882
+Jun 22 15:03 : client: [55] closed
+Jun 22 15:03 : client: [56] opened from 127.0.0.1:39886
+Jun 22 15:03 : client: [56] closed
+Jun 22 15:03 : client: [57] opened from 127.0.0.1:39890
+Jun 22 15:03 : client: [57] closed
+Jun 22 15:03 : client: [58] opened from 127.0.0.1:39894
+Jun 22 15:03 : client: [58] closed
+Jun 22 15:03 : client: [59] opened from 127.0.0.1:39898
+Jun 22 15:03 : client: [59] closed
+Jun 22 15:03 : client: [60] opened from 127.0.0.1:39902
+Jun 22 15:03 : client: [60] closed
+Jun 22 15:03 : client: [61] opened from 127.0.0.1:39906
+Jun 22 15:03 : client: [61] closed
+Jun 22 15:03 : client: [62] opened from 127.0.0.1:39910
+Jun 22 15:03 : client: [62] closed
+Jun 22 15:03 : client: [63] opened from 127.0.0.1:39914
+Jun 22 15:03 : client: [63] closed
+Jun 22 15:03 : client: [64] opened from 127.0.0.1:39918
+Jun 22 15:03 : client: [64] closed
+Jun 22 15:03 : client: [65] opened from 127.0.0.1:39922
+Jun 22 15:03 : client: [65] closed
+Jun 22 15:03 : client: [66] opened from 127.0.0.1:39926
+Jun 22 15:03 : client: [66] closed
+Jun 22 15:03 : client: [67] opened from 127.0.0.1:39930
+Jun 22 15:03 : client: [67] closed
+Jun 22 15:03 : client: [68] opened from 127.0.0.1:39934
+Jun 22 15:03 : client: [68] closed
+Jun 22 15:03 : client: [69] opened from 127.0.0.1:39938
+Jun 22 15:03 : client: [69] closed
+Jun 22 15:03 : client: [70] opened from 127.0.0.1:39942
+Jun 22 15:03 : client: [70] closed
+Jun 22 15:03 : client: [71] opened from 127.0.0.1:39946
+Jun 22 15:03 : client: [71] closed
+Jun 22 15:03 : client: [72] opened from 127.0.0.1:39950
+Jun 22 15:03 : client: [72] closed
+Jun 22 15:03 : client: [73] opened from 127.0.0.1:39954
+Jun 22 15:03 : client: [73] closed
+Jun 22 15:03 : client: [74] opened from 127.0.0.1:39958
+Jun 22 15:03 : client: [74] closed
+Jun 22 15:03 : client: [75] opened from 127.0.0.1:39962
+Jun 22 15:03 : client: [75] closed
+Jun 22 15:03 : client: [76] opened from 127.0.0.1:39966
+Jun 22 15:03 : client: [76] closed
+Jun 22 15:03 : client: [77] opened from 127.0.0.1:39970
+Jun 22 15:03 : client: [77] closed
+Jun 22 15:03 : client: [78] opened from 127.0.0.1:39974
+Jun 22 15:03 : client: [78] closed
+Jun 22 15:03 : client: [79] opened from 127.0.0.1:39978
+Jun 22 15:03 : client: [79] closed
+Jun 22 15:03 : client: [80] opened from 127.0.0.1:39982
+Jun 22 15:03 : client: [80] closed
+Jun 22 15:03 : client: [81] opened from 127.0.0.1:39986
+Jun 22 15:03 : client: [81] closed
+Jun 22 15:03 : client: [82] opened from 127.0.0.1:39990
+Jun 22 15:03 : client: [82] closed
+Jun 22 15:03 : client: [83] opened from 127.0.0.1:39994
+Jun 22 15:03 : client: [83] closed
+Jun 22 15:03 : client: [84] opened from 127.0.0.1:39998
+Jun 22 15:03 : client: [84] closed
+Jun 22 15:06 : player: played "Brockhampton - Iridescence/03 BERLIN.mp3"
+Jun 22 15:06 : client: [85] opened from 127.0.0.1:40018
+Jun 22 15:06 : client: [85] closed
+Jun 22 15:07 : client: [49] closed
+Jun 22 15:07 : client: [50] closed
+Jun 22 15:07 : client: [86] opened from 127.0.0.1:40020
+Jun 22 15:07 : client: [86] closed
+Jun 22 15:08 : client: [87] opened from 127.0.0.1:40022
+Jun 22 15:08 : client: [88] opened from 127.0.0.1:40024
+Jun 22 15:08 : player: played "Brockhampton - Iridescence/05 WHERE THE CASH AT.mp3"
+Jun 22 15:10 : client: [87] closed
+Jun 22 15:10 : client: [88] closed
+Jun 22 15:10 : client: [89] opened from 127.0.0.1:40066
+Jun 22 15:10 : client: [90] opened from 127.0.0.1:40068
+Jun 22 15:12 : client: [90] closed
+Jun 22 15:12 : client: [89] closed
+Jun 22 15:12 : client: [91] opened from 127.0.0.1:40072
+Jun 22 15:12 : client: [91] closed
+Jun 22 15:12 : client: [92] opened from 127.0.0.1:40074
+Jun 22 15:12 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/02.Horn Concerto No.4 Rondo Allegro Vivace.flac"
+Jun 22 15:12 : client: [92] closed
+Jun 22 15:12 : client: [93] opened from 127.0.0.1:40076
+Jun 22 15:12 : client: [93] closed
+Jun 22 15:12 : client: [94] opened from 127.0.0.1:40078
+Jun 22 15:12 : client: [95] opened from 127.0.0.1:40080
+Jun 22 15:15 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/03.Cosi Fan Tutte Soave Sia Il Vento.flac"
+Jun 22 15:22 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/04.Violin Sonata K.378 Andantino.flac"
+Jun 22 15:22 : client: [94] closed
+Jun 22 15:22 : client: [95] closed
+Jun 22 15:22 : client: [96] opened from 127.0.0.1:40128
+Jun 22 15:22 : client: [97] opened from 127.0.0.1:40130
+Jun 22 15:26 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/05.Requiem Confutatis And Lacrymosa.flac"
+Jun 22 15:28 : client: [98] opened from 127.0.0.1:40184
+Jun 22 15:28 : client: [98] closed
+Jun 22 15:33 : client: [97] closed
+Jun 22 15:33 : client: [96] closed
+Jun 22 15:33 : client: [99] opened from 127.0.0.1:40220
+Jun 22 15:33 : client: [100] opened from 127.0.0.1:40222
+Jun 22 15:33 : client: [99] closed
+Jun 22 15:33 : client: [100] closed
+Jun 22 15:33 : client: [101] opened from 127.0.0.1:40226
+Jun 22 15:33 : client: [101] closed
+Jun 22 15:33 : client: [102] opened from 127.0.0.1:40228
+Jun 22 15:33 : client: [103] opened from 127.0.0.1:40230
+Jun 22 15:35 : client: [103] closed
+Jun 22 15:35 : client: [102] closed
+Jun 22 15:35 : client: [104] opened from 127.0.0.1:40256
+Jun 22 15:35 : client: [104] closed
+Jun 22 15:35 : client: [105] opened from 127.0.0.1:40258
+Jun 22 15:35 : client: [106] opened from 127.0.0.1:40260
+Jun 22 16:02 : client: [107] opened from 127.0.0.1:40712
+Jun 22 16:02 : client: [108] opened from 127.0.0.1:40716
+Jun 22 16:02 : client: [108] closed
+Jun 22 16:02 : client: [109] opened from 127.0.0.1:40748
+Jun 22 16:02 : client: [109] closed
+Jun 22 16:03 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 22 16:03 : client: [110] opened from 127.0.0.1:40752
+Jun 22 16:03 : client: [110] closed
+Jun 22 16:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 22 16:06 : client: [111] opened from 127.0.0.1:40814
+Jun 22 16:06 : client: [111] closed
+Jun 22 16:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 22 16:10 : client: [112] opened from 127.0.0.1:40854
+Jun 22 16:10 : client: [112] closed
+Jun 22 16:11 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 22 16:11 : client: [113] opened from 127.0.0.1:40876
+Jun 22 16:11 : client: [113] closed
+Jun 22 16:14 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 22 16:15 : client: [114] opened from 127.0.0.1:40904
+Jun 22 16:15 : client: [114] closed
+Jun 22 16:18 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 22 16:18 : client: [115] opened from 127.0.0.1:40930
+Jun 22 16:18 : client: [115] closed
+Jun 22 16:22 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 22 16:22 : client: [116] opened from 127.0.0.1:40944
+Jun 22 16:22 : client: [116] closed
+Jun 22 16:25 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 22 16:25 : client: [117] opened from 127.0.0.1:40964
+Jun 22 16:25 : client: [117] closed
+Jun 22 16:29 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 22 16:29 : client: [118] opened from 127.0.0.1:40978
+Jun 22 16:29 : client: [118] closed
+Jun 22 16:30 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 22 16:30 : client: [119] opened from 127.0.0.1:41014
+Jun 22 16:30 : client: [119] closed
+Jun 22 16:31 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 22 16:31 : client: [120] opened from 127.0.0.1:41024
+Jun 22 16:31 : client: [120] closed
+Jun 22 16:34 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 22 16:34 : client: [121] opened from 127.0.0.1:41044
+Jun 22 16:34 : client: [121] closed
+Jun 22 16:35 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 22 16:35 : client: [122] opened from 127.0.0.1:41058
+Jun 22 16:35 : client: [122] closed
+Jun 22 16:41 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 22 16:41 : client: [123] opened from 127.0.0.1:41106
+Jun 22 16:41 : client: [123] closed
+Jun 22 16:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 22 16:45 : client: [124] opened from 127.0.0.1:41122
+Jun 22 16:45 : client: [124] closed
+Jun 22 16:47 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 22 16:47 : client: [125] opened from 127.0.0.1:41126
+Jun 22 16:47 : client: [125] closed
+Jun 22 16:50 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 22 16:50 : client: [126] opened from 127.0.0.1:41148
+Jun 22 16:50 : client: [126] closed
+Jun 22 16:55 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 22 16:55 : client: [127] opened from 127.0.0.1:41184
+Jun 22 16:55 : client: [127] closed
+Jun 22 16:58 : client: [106] closed
+Jun 22 16:58 : client: [105] closed
+Jun 22 16:58 : client: [107] closed
+Jun 22 16:58 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jun 22 17:00 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 22 17:02 : client: [128] opened from 127.0.0.1:41214
+Jun 22 17:05 : client: [128] closed
+Jun 22 17:07 : client: [129] opened from 127.0.0.1:41222
+Jun 22 17:08 : client: [129] closed
+Jun 22 17:11 : client: [130] opened from 127.0.0.1:41230
+Jun 22 17:12 : client: [130] closed
+Jun 22 17:12 : client: [131] opened from 127.0.0.1:41234
+Jun 22 17:12 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jun 22 17:13 : client: [131] closed
+Jun 22 17:15 : client: [132] opened from 127.0.0.1:41242
+Jun 22 17:16 : client: [132] closed
+Jun 22 17:25 : client: [133] opened from 127.0.0.1:41336
+Jun 22 17:25 : client: [134] opened from 127.0.0.1:41338
+Jun 22 17:30 : client: [135] opened from 127.0.0.1:41508
+Jun 22 17:31 : client: [136] opened from 127.0.0.1:41512
+Jun 22 17:31 : client: [136] closed
+Jun 22 17:31 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 22 17:31 : client: [137] opened from 127.0.0.1:41516
+Jun 22 17:31 : client: [137] closed
+Jun 22 17:34 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 22 17:34 : client: [138] opened from 127.0.0.1:41536
+Jun 22 17:34 : client: [138] closed
+Jun 22 17:38 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 22 17:38 : client: [139] opened from 127.0.0.1:41556
+Jun 22 17:38 : client: [139] closed
+Jun 22 17:39 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 22 17:39 : client: [140] opened from 127.0.0.1:41572
+Jun 22 17:39 : client: [140] closed
+Jun 22 17:43 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 22 17:43 : client: [141] opened from 127.0.0.1:41576
+Jun 22 17:43 : client: [141] closed
+Jun 22 17:46 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jun 22 17:46 : client: [142] opened from 127.0.0.1:41592
+Jun 22 17:46 : client: [142] closed
+Jun 22 17:50 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jun 22 17:50 : client: [143] opened from 127.0.0.1:41608
+Jun 22 17:50 : client: [143] closed
+Jun 22 17:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jun 22 17:53 : client: [144] opened from 127.0.0.1:41612
+Jun 22 17:53 : client: [144] closed
+Jun 22 17:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jun 22 17:57 : client: [145] opened from 127.0.0.1:41630
+Jun 22 17:57 : client: [145] closed
+Jun 22 17:58 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jun 22 17:58 : client: [146] opened from 127.0.0.1:41634
+Jun 22 17:58 : client: [146] closed
+Jun 22 17:59 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jun 22 17:59 : client: [147] opened from 127.0.0.1:41642
+Jun 22 17:59 : client: [147] closed
+Jun 22 18:02 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jun 22 18:02 : client: [148] opened from 127.0.0.1:41656
+Jun 22 18:02 : client: [148] closed
+Jun 22 18:03 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jun 22 18:03 : client: [149] opened from 127.0.0.1:41660
+Jun 22 18:03 : client: [149] closed
+Jun 22 18:09 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jun 22 18:09 : client: [150] opened from 127.0.0.1:41678
+Jun 22 18:09 : client: [150] closed
+Jun 22 18:13 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jun 22 18:13 : client: [151] opened from 127.0.0.1:41694
+Jun 22 18:13 : client: [151] closed
+Jun 22 18:15 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jun 22 18:15 : client: [152] opened from 127.0.0.1:41700
+Jun 22 18:15 : client: [152] closed
+Jun 22 18:18 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jun 22 18:18 : client: [153] opened from 127.0.0.1:41712
+Jun 22 18:18 : client: [153] closed
+Jun 22 18:23 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 22 18:23 : client: [154] opened from 127.0.0.1:41730
+Jun 22 18:23 : client: [154] closed
+Jun 22 18:26 : client: [155] opened from 127.0.0.1:41746
+Jun 22 18:26 : client: [155] closed
+Jun 22 18:28 : client: [135] closed
+Jun 22 18:29 : client: [134] closed
+Jun 22 18:29 : client: [133] closed
+Jun 22 18:29 : client: [156] opened from 127.0.0.1:41978
+Jun 22 18:29 : client: [157] opened from 127.0.0.1:41980
+Jun 22 18:29 : client: [157] closed
+Jun 22 18:29 : client: [156] closed
+Jun 22 18:29 : client: [158] opened from 127.0.0.1:41982
+Jun 22 18:29 : client: [159] opened from 127.0.0.1:41984
+Jun 22 22:25 : client: [158] closed
+Jun 22 22:25 : client: [159] closed
+Jun 22 22:28 : client: [160] opened from 127.0.0.1:47342
+Jun 22 22:29 : client: [160] closed
+Jun 22 22:29 : client: [161] opened from 127.0.0.1:47348
+Jun 22 22:30 : client: [161] closed
+Jun 22 22:34 : client: [162] opened from 127.0.0.1:47426
+Jun 22 22:34 : client: [163] opened from 127.0.0.1:47428
+Jun 22 22:36 : client: [163] closed
+Jun 22 22:36 : client: [162] closed
+Jun 22 22:36 : client: [164] opened from 127.0.0.1:47434
+Jun 22 22:37 : client: [164] closed
+Jun 22 22:37 : client: [165] opened from 127.0.0.1:47436
+Jun 22 22:37 : client: [165] closed
+Jun 22 22:37 : client: [166] opened from 127.0.0.1:47438
+Jun 22 22:37 : client: [167] opened from 127.0.0.1:47440
+Jun 24 13:41 : client: [166] closed
+Jun 24 13:41 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 24 14:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 24 14:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 24 14:51 : client: [0] opened from 127.0.0.1:42674
+Jun 24 14:53 : client: [1] opened from 127.0.0.1:42680
+Jun 24 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 24 14:53 : client: [1] closed
+Jun 24 14:53 : client: [2] opened from 127.0.0.1:42684
+Jun 24 14:53 : client: [2] closed
+Jun 24 14:53 : client: [3] opened from 127.0.0.1:42688
+Jun 24 14:53 : client: [3] closed
+Jun 24 14:53 : client: [4] opened from 127.0.0.1:42692
+Jun 24 14:53 : client: [4] closed
+Jun 24 14:53 : client: [5] opened from 127.0.0.1:42696
+Jun 24 14:53 : client: [5] closed
+Jun 24 14:53 : client: [6] opened from 127.0.0.1:42700
+Jun 24 14:53 : client: [6] closed
+Jun 24 14:53 : client: [7] opened from 127.0.0.1:42704
+Jun 24 14:53 : client: [7] closed
+Jun 24 14:53 : client: [8] opened from 127.0.0.1:42708
+Jun 24 14:53 : client: [8] closed
+Jun 24 14:53 : client: [9] opened from 127.0.0.1:42712
+Jun 24 14:53 : client: [9] closed
+Jun 24 14:53 : client: [10] opened from 127.0.0.1:42716
+Jun 24 14:53 : client: [10] closed
+Jun 24 14:53 : client: [11] opened from 127.0.0.1:42720
+Jun 24 14:53 : client: [11] closed
+Jun 24 14:53 : client: [12] opened from 127.0.0.1:42724
+Jun 24 14:53 : client: [12] closed
+Jun 24 14:53 : client: [13] opened from 127.0.0.1:42728
+Jun 24 14:53 : client: [13] closed
+Jun 24 14:53 : client: [14] opened from 127.0.0.1:42732
+Jun 24 14:53 : client: [14] closed
+Jun 24 14:53 : client: [15] opened from 127.0.0.1:42736
+Jun 24 14:53 : client: [15] closed
+Jun 24 14:53 : client: [16] opened from 127.0.0.1:42740
+Jun 24 14:53 : client: [16] closed
+Jun 24 14:53 : client: [17] opened from 127.0.0.1:42744
+Jun 24 14:53 : client: [17] closed
+Jun 24 14:53 : client: [18] opened from 127.0.0.1:42748
+Jun 24 14:53 : client: [18] closed
+Jun 24 14:53 : client: [19] opened from 127.0.0.1:42752
+Jun 24 14:53 : client: [19] closed
+Jun 24 14:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jun 24 14:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 24 15:01 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 24 15:01 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 24 15:05 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jun 24 15:09 : client: [20] opened from 127.0.0.1:43244
+Jun 24 15:09 : client: [20] closed
+Jun 24 15:09 : client: [21] opened from 127.0.0.1:43248
+Jun 24 15:09 : client: [21] closed
+Jun 24 15:09 : client: [22] opened from 127.0.0.1:43252
+Jun 24 15:09 : client: [23] opened from 127.0.0.1:43256
+Jun 24 15:09 : client: [23] closed
+Jun 24 15:09 : client: [22] closed
+Jun 24 15:09 : client: [24] opened from 127.0.0.1:43260
+Jun 24 15:09 : client: [24] closed
+Jun 24 15:09 : client: [25] opened from 127.0.0.1:43266
+Jun 24 15:09 : client: [25] closed
+Jun 24 15:12 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Jun 24 15:17 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jun 24 15:17 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jun 24 15:17 : client: [26] opened from 127.0.0.1:43492
+Jun 24 15:17 : client: [26] closed
+Jun 24 16:57 : client: [27] opened from 127.0.0.1:45210
+Jun 24 16:57 : client: [27] closed
+Jun 24 16:57 : client: [28] opened from 127.0.0.1:45214
+Jun 24 16:57 : client: [28] closed
+Jun 24 16:57 : client: [29] opened from 127.0.0.1:45218
+Jun 24 16:57 : client: [29] closed
+Jun 24 16:57 : client: [30] opened from 127.0.0.1:45222
+Jun 24 16:57 : client: [30] closed
+Jun 24 17:00 : client: [31] opened from 127.0.0.1:45274
+Jun 24 17:00 : client: [31] closed
+Jun 24 23:11 : client: [32] opened from 127.0.0.1:54034
+Jun 24 23:11 : client: [32] closed
+Jun 24 23:12 : client: [33] opened from 127.0.0.1:54042
+Jun 24 23:12 : client: [33] closed
+Jun 25 14:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 14:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 14:05 : client: [0] opened from 127.0.0.1:50936
