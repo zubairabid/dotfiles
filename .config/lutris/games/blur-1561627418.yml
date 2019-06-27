@@ -1,0 +1,5 @@
+game:
+  exe: /home/zubair/Downloads/Games/Blur/Blur.exe
+  prefix: ~/Games/.blur
+system: {}
+wine: {}

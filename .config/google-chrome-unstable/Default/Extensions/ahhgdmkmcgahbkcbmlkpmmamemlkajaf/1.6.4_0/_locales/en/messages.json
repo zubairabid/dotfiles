@@ -1,0 +1,10 @@
+{
+   "description": {
+      "description": "description of the extension",
+      "message": "Putting numbers in human terms."
+   },
+   "name": {
+      "description": "name of the extension",
+      "message": "Dictionary of Numbers"
+   }
+}

@@ -1,0 +1,216 @@
+html {
+	height:100%;
+}
+
+body {
+	padding:0;
+	margin:0;
+	width:100%;
+	height:100%;
+	-webkit-transform:translate3d(0,0,0);
+}
+
+#loader {
+	position:fixed;
+	left:10px;
+	top:10px;
+	height:24px;
+	width:24px;
+	background-image: url('img/loader.gif');
+	background-repeat: no-repeat;
+}
+
+#container {
+	position:absolute;
+	left:0;
+	top:0;
+	right:0;
+	bottom:43px;
+	margin-bottom:5px;
+}
+
+.fullscreen #container {
+	bottom:0;
+	margin-bottom:0;
+}
+
+#container div.fullbox {
+	display:block;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	position:absolute;
+}
+
+#container div#clicker {
+	background:transparent;
+	z-index:100;
+}
+
+.fullscreen {
+	cursor: none;
+}
+
+.fullscreen.mouseactive {
+	cursor: default;
+}
+
+#container div#video {
+	background:#000 url('img/libde265_logo.png') no-repeat center center;
+}
+
+#container div embed {
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	display:block;
+	width:100%;
+	height:100%;
+}
+
+.footer {
+	margin-left:10px;
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:8px;
+}
+
+.footer:after {
+	clear:both;
+	content:"";
+}
+
+.column {
+	display:block;
+	width:50%;
+	float:left;
+	max-height:30px;
+	overflow:hidden;
+}}
+
+.left {
+}
+
+.right {
+}
+
+.leftprogress {
+	margin-top:4px;
+}
+
+.rightprogress {
+	float:right;
+	margin-left:10px;
+	line-height:30px;
+}
+
+.progress {
+	margin-bottom:0;
+	cursor:pointer;
+	display:block;
+	width:auto;
+	min-width:30px;
+	margin-left:10px;
+}
+
+.progress .bar {
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+
+.time {
+	display:block;
+	float:left;
+}
+
+.alertify-logs article {
+	bottom:50px;
+}
+
+#powered {
+	float:left;
+	font-size:12px;
+	padding-left:20px;
+	padding-right:10px;
+	text-align:right;
+	line-height:12px;
+	margin-top:3px;
+}
+
+.volumecontainer {
+	position: absolute;
+}
+.volumebar {
+	z-index: 300;
+	margin-top: -150px;
+	margin-left: -134px;
+	position: relative;
+	-webkit-transform:rotate(270deg);
+	-moz-transform:rotate(270deg);
+	-o-transform:rotate(270deg);
+	-ms-transform:rotate(270deg);
+	transform:rotate(270deg);
+	padding: 6px 8px 10px 8px;
+	border: 1px solid rgba(255, 255, 255, 0.3);
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 6px;
+}
+
+input[type="range"] {
+	-webkit-appearance: none;
+	background-color: #aaa;
+	width: 200px;
+	height: 3px;
+	outline: 0;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	background-color: #fff;
+	border-radius: 4px;
+	width: 10px;
+	height: 20px;
+}
+
+#fullscreencontrols {
+	opacity: 0;
+	z-index: 200;
+	position: absolute;
+	bottom: 5%;
+	height: 30px;
+	top: auto;
+	left: 20px;
+	right: 20px;
+	border-radius: 6px;
+	border: 2px solid rgba(255, 255, 255, 0.3);
+	background-color: rgba(0, 0, 0, 0.5);
+	margin: 8px 10%;
+	padding: 10px 10px;
+	-webkit-transition: opacity 0.5s ease-in-out;
+	-moz-transition: opacity 0.5s ease-in-out;
+	transition: opacity 0.5s ease-in-out;
+}
+
+#fullscreencontrols:after {
+	clear:both;
+	content:"";
+}
+
+#fullscreencontrols .time, #fullscreencontrols .volume {
+	color: #fff;
+}
+
+.fullscreen.mouseactive #fullscreencontrols {
+	opacity: 1;
+}
+
+.libjass-wrapper {
+	height: 100%;
+}

@@ -1,0 +1,89 @@
+{
+   "application_description": {
+      "message": "Playback video files containing H.265 / HEVC media."
+   },
+   "application_name": {
+      "message": "H.265 / HEVC player"
+   },
+   "buffer_underrun": {
+      "message": "Your computer is too slow to decode the movie in realtime, playback performance may suffer."
+   },
+   "could_not_load_player": {
+      "message": "The player could not be loaded, please reinstall the application."
+   },
+   "could_not_open_file": {
+      "message": "Could not open selected file."
+   },
+   "doubleclick_fullscreen": {
+      "message": "Please double-click the video to toggle fullscreen."
+   },
+   "error_msg_decoding_audio": {
+      "message": "Error while decoding audio packet."
+   },
+   "error_msg_decoding_video": {
+      "message": "Error while decoding video packet."
+   },
+   "error_msg_no_streams": {
+      "message": "Could not open input, please make sure the selected file is readable and contains a supported video format."
+   },
+   "error_msg_no_supported_streams": {
+      "message": "The selected file uses an unsupported video and/or audio codec. Please select a file containing H.265/HEVC video and AAC, AC3, MP3 or OGG audio."
+   },
+   "error_msg_open_input": {
+      "message": "Could not open input, please make sure the selected file is readable and contains a supported video format."
+   },
+   "filesystem_api_required": {
+      "message": "The chrome.fileSystem API is required to play videos."
+   },
+   "no_subtitle": {
+      "message": "No subtitle"
+   },
+   "open": {
+      "message": "Open"
+   },
+   "open_file_description": {
+      "message": "Movie files"
+   },
+   "open_movie_file": {
+      "message": "Open movie file"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "pause_playback": {
+      "message": "Pause playback"
+   },
+   "play": {
+      "message": "Play"
+   },
+   "player_crashed": {
+      "message": "We are sorry, but the player crashed, please try again."
+   },
+   "start_playback": {
+      "message": "Start playback"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_playback": {
+      "message": "Stop playback"
+   },
+   "subtitle_idx": {
+      "message": "Subtitle $index$",
+      "placeholders": {
+         "index": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "toggle_fullscreen": {
+      "message": "Toggle fullscreen"
+   },
+   "unknown_playback_error": {
+      "message": "The selected file could not be loaded or contains an unsupported format."
+   },
+   "volume": {
+      "message": "Volume"
+   }
+}

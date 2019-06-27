@@ -1,0 +1,570 @@
+{
+   "aboutChangelog": {
+      "description": "'About' section text",
+      "message": "El registro de cambios de la actual versión está disponible \u003Ca id='latest-release' target='_blank' href='#'>aquí\u003C/a>. Para el registro completo de cambios visite \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/releases'>esta página.\u003C/a>"
+   },
+   "aboutExtensionDesc": {
+      "description": "'About' section text",
+      "message": "Web Scrobbler es una extensión de navegador creado para las personas que escuchan música en línea a través de su navegador y les gustaría mantener un historial de reproducción actualizado usando el servicio de scrobbling de Last.fm, Libre.fm y ListenBrainz."
+   },
+   "accountsNotSignedIn": {
+      "description": "'Signed in' label",
+      "message": "No ha iniciado sesión."
+   },
+   "accountsProfile": {
+      "description": "'Signed in' label",
+      "message": "Perfil"
+   },
+   "accountsSignIn": {
+      "description": "Button label",
+      "message": "Iniciar sesión"
+   },
+   "accountsSignOut": {
+      "description": "Button label",
+      "message": "Cerrar sesión"
+   },
+   "accountsSignedInAs": {
+      "description": "'Signed in' label",
+      "message": "Ha iniciado sesión como $1."
+   },
+   "albumTooltip": {
+      "description": "Tooltip text",
+      "message": "Del álbum \"$1\""
+   },
+   "buttonCancel": {
+      "description": "Cancel button label",
+      "message": "Cancelar"
+   },
+   "buttonClear": {
+      "description": "Clear button label",
+      "message": "Limpiar"
+   },
+   "buttonOk": {
+      "description": "OK button label",
+      "message": "OK"
+   },
+   "buttonReset": {
+      "description": "Reset button label",
+      "message": "Restablecer"
+   },
+   "contactGitHubDesc": {
+      "description": "Description for GitHub section",
+      "message": "Informar un problema y contribuir"
+   },
+   "contactPrivacyPolicyDesc": {
+      "description": "Description for privacy section",
+      "message": "Ver política de privacidad"
+   },
+   "contactTitle": {
+      "description": "'Contact' section",
+      "message": "Contacto"
+   },
+   "contactTwitterDesc": {
+      "description": "Description for Twitter section",
+      "message": "Manténgase al día con las actualizaciones y chat rápido"
+   },
+   "contributorsText": {
+      "description": "'About' section text",
+      "message": "Puedes encontrar una lista de los colaboradores \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/graphs/contributors\">en GitHub\u003C/a>"
+   },
+   "contributorsTitle": {
+      "description": "'Contributors' header",
+      "message": "Colaboradores"
+   },
+   "customPatternsAdd": {
+      "description": "Add button",
+      "message": "Agregar patrón"
+   },
+   "customPatternsHint": {
+      "description": "Popup hint",
+      "message": "Agrega patrones de direcciones URL que a continuación el conector debe hacer coincidir."
+   },
+   "disabledSiteButton": {
+      "description": "Button label",
+      "message": "Abrir página de opciones"
+   },
+   "disabledSiteDesc": {
+      "description": "The description of 'disabled' popup",
+      "message": "La extensión no hará scrobble de las canciones de este sitio web hasta que lo habilite desde las opciones de la extensión."
+   },
+   "disabledSiteHeader": {
+      "description": "The header of 'disabled' popup",
+      "message": "Este sitio web está apagado"
+   },
+   "editedTracksTitle": {
+      "description": "Popup title",
+      "message": "Editar canciones"
+   },
+   "extDescription": {
+      "description": "Description of the extension",
+      "message": "Scrobble música desde toda la web!"
+   },
+   "faqAnswer1a": {
+      "description": "Answer #1",
+      "message": "Debe hacer clic en una notificación que se muestra cuando la extensión se carga por primera vez. Entonces, debe otorgar acceso a sus cuentas."
+   },
+   "faqAnswer1b": {
+      "description": "Answer #1",
+      "message": "Nota: en algunos casos, la notificación no se mostrará, por ejemplo, en Mac OS si Chrome se ejecuta en modo de pantalla completa; la extensión abrirá una pestaña donde puede otorgarle acceso a sus cuentas."
+   },
+   "faqAnswer2a": {
+      "description": "Answer #2",
+      "message": "Puede hacerlo haciendo clic derecho en el icono de la extensión verde en la barra de extensión. Usando el menú contextual puede deshabilitar el conector para el actual servicio web."
+   },
+   "faqAnswer2b": {
+      "description": "Answer #2",
+      "message": "Use las casillas de verificación en la página de opciones para deshabilitar un conector determinado, o la casilla \"Alternar\" para deshabilitar el scrobbling global."
+   },
+   "faqAnswer3a": {
+      "description": "Answer #3",
+      "message": "Cuando no se puede reconocer una canción, aparece un icono gris con un signo de interrogación en la barra de extensión. Puede hacer clic en este icono e ingresar los datos correctos en la ventana emergente abierta."
+   },
+   "faqAnswer3b": {
+      "description": "Answer #3",
+      "message": "Además, hay una opción llamada \"Forzar reconocimiento de canción\" que hace que la extensión esté obligada a scrobble la canción incluso si la misma no está validada por Last.fm."
+   },
+   "faqAnswer4a": {
+      "description": "Answer #4",
+      "message": "Parece que la música está alojada en un dominio personalizado y la extensión no puede detectar si está en Bandcamp o no."
+   },
+   "faqAnswer4b": {
+      "description": "Answer #4",
+      "message": "Como una solución alternativa, configure la extensión para que funcione con dominios personalizados de la siguiente manera:"
+   },
+   "faqAnswer4b1": {
+      "description": "Answer #4",
+      "message": "Abra la página de configuración de la extensión y expanda la sección \"Opciones\"."
+   },
+   "faqAnswer4b2": {
+      "description": "Answer #4",
+      "message": "Encuentre el conector Bandcamp en la lista de los servicios soportados."
+   },
+   "faqAnswer4b3": {
+      "description": "Answer #4",
+      "message": "Haga clic en el icono del engranaje cerca de la etiqueta conector."
+   },
+   "faqAnswer4b4": {
+      "description": "Answer #4",
+      "message": "Agregue un patrón de direcciones URL que coincida con la URL del dominio personalizado de Bandcamp y aplique los cambios."
+   },
+   "faqAnswer4c": {
+      "description": "Answer #4",
+      "message": "Puede saber más acerca de los patrones de direcciones URL personalizados \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'> aquí \u003C/a>."
+   },
+   "faqAnswer5": {
+      "description": "Answer #5",
+      "message": "Abra un \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">nuevo problema\u003C/a> en GitHub con su solicitud, y le informaremos si podemos agregar soporte para un determinado sitio web o no. Además, puede dar asistencia al sitio web simplemente bifurcando el \u003Ca href=\"http://github.com/web-scrobbler/web-scrobbler\">repositorio GitHub\u003C/a> y enviándonos una solicitud de integración."
+   },
+   "faqAnswer6": {
+      "description": "Answer #6",
+      "message": "Posiblemente, si tiene sentido. Pero si quieres que agregue algunas funciones no tan útiles pero realmente geniales, probablemente te decepcionará."
+   },
+   "faqAnswer7": {
+      "description": "Answer #7",
+      "message": "El autor original de esta extensión es David Šabata. Ahora la misma es desarrollada y mantenido por el equipo dado en llamar Web Scrobbler Team."
+   },
+   "faqQuestion1": {
+      "description": "Question #1",
+      "message": "¿Cómo empiezo a usar la extensión?"
+   },
+   "faqQuestion2": {
+      "description": "Question #2",
+      "message": "¿Cómo puede desactivar temporariamente el scrobbling?"
+   },
+   "faqQuestion3": {
+      "description": "Question #3",
+      "message": "¡La canción no fue reconocida! ¿Puedes arreglarla?"
+   },
+   "faqQuestion4": {
+      "description": "Question #4",
+      "message": "Algo de música en Bandcamp no puede ser scrobbled. ¿Es posible arreglar eso?"
+   },
+   "faqQuestion5": {
+      "description": "Question #5",
+      "message": "¿Dará soporte al scrobbling en _____ ?"
+   },
+   "faqQuestion6": {
+      "description": "Question #6",
+      "message": "Agregará ______ funcionalidad?"
+   },
+   "faqQuestion7": {
+      "description": "Question #7",
+      "message": "¿Quién es el autor?"
+   },
+   "faqTitle": {
+      "description": "'FAQ' section",
+      "message": "FAQ"
+   },
+   "getStartedHeader": {
+      "description": "The header of 'Get started' popup",
+      "message": "Reproduzca algo de música para empezar"
+   },
+   "getStartedSiteChanged": {
+      "description": "Description of why track is not recognized",
+      "message": "En la mayoría de los casos, esto significa que el sitio -de alguna manera- ha cambiado. El cambio no tiene que ser visible para el usuario, pero significativamente mucho para la extensión."
+   },
+   "getStartedSubheader": {
+      "description": "The subheader of 'Get started' popup",
+      "message": "¿Ya está reproduciéndose?"
+   },
+   "getStartedSubmitIssue": {
+      "description": "Description of how to submit new issue",
+      "message": "El código del conector para este sitio web específico necesita ser actualizado. Puede dirigirse a la \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">lista de problemas\u003C/a> y ver si este sitio web ya fue reportado. Si no lo está, puede informar de este nuevo problema que describa qué está mal, qué comportamiento se espera y qué está sucediendo."
+   },
+   "infoAlbumPlaceholder": {
+      "description": "Placeholder of album input",
+      "message": "Album (opcional)"
+   },
+   "infoArtistPlaceholder": {
+      "description": "Placeholder of artist input",
+      "message": "Artista"
+   },
+   "infoEdit": {
+      "description": "Label of edit button",
+      "message": "Modificar"
+   },
+   "infoEditSkippedTitle": {
+      "description": "Title of edit button",
+      "message": "No puedes editar canciones omitidas"
+   },
+   "infoEditTitle": {
+      "description": "Title of edit button",
+      "message": "Modificar los metadatos de esta canción"
+   },
+   "infoEditUnableTitle": {
+      "description": "Title of edit button",
+      "message": "No puede modificar canciones scrobbled"
+   },
+   "infoLove": {
+      "description": "Label of love/unlove button",
+      "message": "Amar esta canción"
+   },
+   "infoOpenAlbumArt": {
+      "description": "Title of album image",
+      "message": "Abrir la carátula del álbum en una nueva pestaña"
+   },
+   "infoRevert": {
+      "description": "Label of revert button",
+      "message": "Revertir"
+   },
+   "infoRevertTitle": {
+      "description": "Title of revert button",
+      "message": "Revertir cambios"
+   },
+   "infoRevertUnableTitle": {
+      "description": "Title of revert button",
+      "message": "No puede revertir canciones scrobbled"
+   },
+   "infoSkip": {
+      "description": "Label of skip button",
+      "message": "Omitir"
+   },
+   "infoSkipAlreadyTitle": {
+      "description": "Title of skip button",
+      "message": "Ya omitió esta canción"
+   },
+   "infoSkipTitle": {
+      "description": "Title of skip button",
+      "message": "No scrobble la actual canción"
+   },
+   "infoSkipUnableTitle": {
+      "description": "Title of skip button",
+      "message": "No puede omitir canciones scrobbled"
+   },
+   "infoSubmit": {
+      "description": "Label of submit button",
+      "message": "Enviar"
+   },
+   "infoSwap": {
+      "description": "Label of swap button",
+      "message": "Intercambiar"
+   },
+   "infoSwapSkippedTitle": {
+      "description": "Title of swap button",
+      "message": "No puede intercambiar canciones omitidas"
+   },
+   "infoSwapTitle": {
+      "description": "Title of swap button",
+      "message": "Intercambiar título y artista"
+   },
+   "infoSwapUnableTitle": {
+      "description": "Title of swap button",
+      "message": "No puede intercambiar canciones scrobbled"
+   },
+   "infoTrackPlaceholder": {
+      "description": "Placeholder of track input",
+      "message": "Canción"
+   },
+   "infoUnlove": {
+      "description": "Label of love/unlove button",
+      "message": "Desamar esta canción"
+   },
+   "infoViewAlbumPage": {
+      "description": "Placeholder of album input",
+      "message": "Ver página del álbum"
+   },
+   "infoViewArtistPage": {
+      "description": "Placeholder of album input",
+      "message": "Ver página del artista"
+   },
+   "infoViewTrackPage": {
+      "description": "Placeholder of album input",
+      "message": "Ver página de la canción"
+   },
+   "menuDisableConnector": {
+      "description": "Context menu item",
+      "message": "Desactivar conector $1"
+   },
+   "menuDisableUntilTabClosed": {
+      "description": "Context menu item",
+      "message": "Desactivar el conector hasta que la pestaña esté cerrada"
+   },
+   "menuEnableConnector": {
+      "description": "Context menu item",
+      "message": "Activar conector $1"
+   },
+   "noItemsInCache": {
+      "description": "Popup hint",
+      "message": "No hay ítems en caché."
+   },
+   "notificationAuthError": {
+      "description": "Notification title",
+      "message": "Error de autenticación"
+   },
+   "notificationConnectAccounts": {
+      "description": "Notification title",
+      "message": "Conectar sus cuentas"
+   },
+   "notificationConnectAccountsText": {
+      "description": "Notification text",
+      "message": "Haga clic en la notificación para conectar sus cuentas."
+   },
+   "notificationNotRecognized": {
+      "description": "Notification title",
+      "message": "La canción no es reconocida"
+   },
+   "notificationNotRecognizedText": {
+      "description": "Notification text",
+      "message": "Haga clic en el icono en la barra de extensiones para corregir y enviar información de la pista."
+   },
+   "notificationUnableSignIn": {
+      "description": "Notification text",
+      "message": "No es posible iniciar sesión en $1. Por favor inténtelo más tarde."
+   },
+   "optIn": {
+      "description": "Opt in",
+      "message": "Optar por sí"
+   },
+   "optOut": {
+      "description": "Opt out",
+      "message": "Optar por no"
+   },
+   "optionDisableGa": {
+      "description": "Option label",
+      "message": "Desactivar Google Analytics"
+   },
+   "optionDisableGaTitle": {
+      "description": "Option title",
+      "message": "Desactivar envío de datos a Google Analytics"
+   },
+   "optionForceRecognize": {
+      "description": "Option label",
+      "message": "Forzar reconocimiento de canción"
+   },
+   "optionForceRecognizeTitle": {
+      "description": "Option title",
+      "message": "Forzar reconocimiento de canciones desconocidas"
+   },
+   "optionGmPodcasts": {
+      "description": "Option title",
+      "message": "Scrobble podcasts en Google Music"
+   },
+   "optionGmPodcastsTitle": {
+      "description": "Option label",
+      "message": "Scrobble podcasts en Google Music"
+   },
+   "optionUnrecognizedNotifications": {
+      "description": "Option label",
+      "message": "Notificar si la canción no es reconocida"
+   },
+   "optionUnrecognizedNotificationsTitle": {
+      "description": "Option title",
+      "message": "Mostrar notificación si la extensión no reconoce la canción"
+   },
+   "optionUseNotifications": {
+      "description": "Option label",
+      "message": "Usar notificaciones de ahora reproduciendo"
+   },
+   "optionUseNotificationsTitle": {
+      "description": "Option title",
+      "message": "Mostrar notificaciones de ahora reproduciendo para todos los sitios soportados"
+   },
+   "optionYtDesc": {
+      "description": "Description of Youtube options",
+      "message": "Si desactiva ambas opciones, la extensión hará scrobbles de los videos de Youtube en todas las categorías."
+   },
+   "optionYtEntertainmentOnly": {
+      "description": "Option label",
+      "message": "Scrobble videos de la categoría \"Entretenimiento\""
+   },
+   "optionYtEntertainmentOnlyTitle": {
+      "description": "Option title",
+      "message": "Ignorar videos que no están en la categoría Entretenimiento"
+   },
+   "optionYtMusicOnly": {
+      "description": "Option title",
+      "message": "Scrobble videos de la categoría \"Música\""
+   },
+   "optionYtMusicOnlyTitle": {
+      "description": "Option label",
+      "message": "Ignorar videos que no están en la categoría Música"
+   },
+   "optionsAbout": {
+      "description": "'About' section",
+      "message": "Acerca"
+   },
+   "optionsAccounts": {
+      "description": "'Accounts' section",
+      "message": "Cuentas"
+   },
+   "optionsCustomPatternsHint": {
+      "description": "Description of how to configure custom URL patterns",
+      "message": "Clic en el ícono del engranaje para configurar los patrones de direcciones URL personalizadas para los conectores. \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'>Más información\u003C/a>"
+   },
+   "optionsEditedTracks": {
+      "description": "'Edited tracks' header",
+      "message": "Editar canciones"
+   },
+   "optionsEditedTracksDesc": {
+      "description": "Description of edited tracks",
+      "message": "Esta extensión guarda las canciones editadas."
+   },
+   "optionsEditedTracksPopupTitle": {
+      "description": "'Edited tracks' header",
+      "message": "$1 canciones editadas"
+   },
+   "optionsEnableDisableHint": {
+      "description": "Enable/disable hint",
+      "message": "Haga clic en la casilla de verificación para activar/desactivar los conectores."
+   },
+   "optionsExportEdited": {
+      "description": "Button to export edited tracks",
+      "message": "Exportar"
+   },
+   "optionsGeneral": {
+      "description": "'General' section",
+      "message": "General"
+   },
+   "optionsImportEdited": {
+      "description": "Button to import edited tracks",
+      "message": "Importar"
+   },
+   "optionsOptions": {
+      "description": "'Options' section",
+      "message": "Opciones"
+   },
+   "optionsSupportedWebsites": {
+      "description": "'Supported websites' header",
+      "message": "Sitios web soportados"
+   },
+   "optionsTitle": {
+      "description": "Title of options page",
+      "message": "Opciones del Web Scrobbler"
+   },
+   "optionsToggle": {
+      "description": "Label of toggle button",
+      "message": "Alternar"
+   },
+   "optionsViewEdited": {
+      "description": "Button to view edited tracks",
+      "message": "Ver"
+   },
+   "pageActionBase": {
+      "description": "`base` page action title",
+      "message": "Este sitio es apto para scrobbling"
+   },
+   "pageActionDisabled": {
+      "description": "`disabled` page action title",
+      "message": "Este sitio da respaldo al scrobbling, pero lo desactivó"
+   },
+   "pageActionError": {
+      "description": "`loading` page action title",
+      "message": "Ocurrió un error en el servicio. Clic para más información."
+   },
+   "pageActionIgnored": {
+      "description": "`ignored` page action title",
+      "message": "Ignorada $1"
+   },
+   "pageActionLoading": {
+      "description": "`loading` page action title",
+      "message": "Buscando $1"
+   },
+   "pageActionRecognized": {
+      "description": "`recognized` page action title",
+      "message": "Ahora reproduciendo $1"
+   },
+   "pageActionScrobbled": {
+      "description": "`scrobbled` page action title",
+      "message": "Scrobbled $1"
+   },
+   "pageActionSkipped": {
+      "description": "`skipped` page action title",
+      "message": "Omitida $1"
+   },
+   "pageActionUnknown": {
+      "description": "`unknown` page action title",
+      "message": "Esta canción no se reconoció. Clic para enviar información correcta."
+   },
+   "pageActionUnsupported": {
+      "description": "`unsupported` page action title",
+      "message": "Web Scrobbler no da soporte a este sitio web."
+   },
+   "serviceErrorButton": {
+      "description": "Button label",
+      "message": "Abrir página de opciones"
+   },
+   "serviceErrorDesc": {
+      "description": "The description of service error",
+      "message": "Parece que algo salió mal mientras se hacía scrobbling de la canción. Abra la página de opciones e intente volver a autenticarse con los servicios. Si la reautenticación no ayuda, y aún ve este mensaje, cree \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\"> un nuevo problema\u003C/a> en la página del proyecto en GitHub."
+   },
+   "serviceErrorHeader": {
+      "description": "The header of 'error' popup",
+      "message": "Error del servicio"
+   },
+   "showSomeLoveText1": {
+      "description": "",
+      "message": "A diferencia de otras extensiones, ésta no contiene ningún banner parpadeante ni anuncios furtivos."
+   },
+   "showSomeLoveText2": {
+      "description": "",
+      "message": "Desarrollé esta extensión en mi tiempo libre, con el código fuente abierto y lo estoy haciendo y lo haré de forma gratuita. Pero aún así, por favor considerá donar unos cuantos dólares para mantenerme motivado y para asegurarme de que siempre tenga suficiente pizza y café durante mis sesiones de programación nocturna."
+   },
+   "showSomeLoveTitle": {
+      "description": "'Show some love' section",
+      "message": "Muestra algo de cariño"
+   },
+   "startupFinished": {
+      "description": "Startup finished text",
+      "message": "Gracias! Si cambias de parecer, puedes modificarlo desde las opciones."
+   },
+   "startupIntroText": {
+      "description": "Startup intro text",
+      "message": "Antes de empezar a scrobble toda tu música, primero debes revisar y optar positiva o negativamente nuestra política de privacidad"
+   },
+   "startupIntroTitle": {
+      "description": "Startup intro title",
+      "message": "Gracias por decidir instalar Web Scrobbler!"
+   },
+   "startupTitle": {
+      "description": "Title for startup page",
+      "message": "Bienvenido a Web Scrobbler!"
+   },
+   "unsupportedWebsiteDesc": {
+      "description": "The description of 'unsupported' popup",
+      "message": "Web Scrobbler no da soporte al scrobbling desde este sitio web."
+   },
+   "unsupportedWebsiteHeader": {
+      "description": "The header of 'unsupported' popup",
+      "message": "Este sitio web no está soportado"
+   }
+}

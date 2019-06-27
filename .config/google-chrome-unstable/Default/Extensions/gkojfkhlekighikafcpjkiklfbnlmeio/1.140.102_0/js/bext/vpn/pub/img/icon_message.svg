@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+    <defs>
+        <style>
+            .cls-1{fill:#1cb0f6}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="ic_calendar" transform="translate(-175 -1900)">
+        <circle id="Ellipse_301" cx="30" cy="30" r="30" class="cls-1" data-name="Ellipse 301" transform="translate(175 1900)"/>
+        <g id="Group_1645" data-name="Group 1645" transform="translate(-26 1298)">
+            <path id="Subtraction_35" d="M1992-126h-20a4 4 0 0 1-4-4v-16a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4v16a4 4 0 0 1-4 4zm-20-20v16h20v-16z" class="cls-2" data-name="Subtraction 35" transform="translate(-1751 770)"/>
+            <rect id="Rectangle_1017" width="4" height="12" class="cls-2" data-name="Rectangle 1017" rx="2" transform="translate(224 617)"/>
+            <rect id="Rectangle_1019" width="4" height="12" class="cls-2" data-name="Rectangle 1019" rx="2" transform="translate(234 617)"/>
+        </g>
+    </g>
+</svg>

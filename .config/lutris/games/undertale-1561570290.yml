@@ -1,0 +1,5 @@
+game:
+  exe: /home/zubair/Downloads/Games/Undertale_DRMFree/UNDERTALE_WINDOWS.exe
+  prefix: ~/Games/.undertale
+system: {}
+wine: {}

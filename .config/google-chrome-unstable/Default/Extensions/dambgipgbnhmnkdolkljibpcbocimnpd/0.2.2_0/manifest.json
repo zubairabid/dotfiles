@@ -1,0 +1,23 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "author": "struktur AG",
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "naclh265_128.png",
+      "16": "naclh265_16.png",
+      "48": "naclh265_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoiLMixAS5YU/K7oUiQGGFMUQLYCd7femnEgEORUDyGLH7zT37QNPJd+OpfZNwbgjlSgl+DH2vGC/vy9pa4NTSw/LAZAzzlzb/3f4aQ+xwCzj1O2v0ynHDTWUR746xuvTTAbYxi7wxHEq4+TnVzqx2PNbIIRovaNJLK/W+eU1PuXrGAJC6rxaKK5fdBS9BNglGvJzpwQXpbVz4rxh0tSEXw1lc/EBsQhNIaZHu6TZdCkB9HTx6hdwyySOd2j/M1s4TO9hB0TDUwIvY1v+iGyc+fP+AmHPHgg4gVEYZoExPNa8PxHfWf2d7lC8rIyXZ/JriEwY3cq/BHhxz3pcSNLdYQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "40",
+   "name": "__MSG_application_name__",
+   "offline_enabled": true,
+   "permissions": [ "fileSystem", "fullscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.2"
+}

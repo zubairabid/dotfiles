@@ -1,0 +1,36 @@
+{
+   "background": {
+      "page": "js/bg.html"
+   },
+   "browser_action": {
+      "default_icon": "js/bext/vpn/pub/img/icon19_gray.png",
+      "default_popup": "js/popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/bext/vpn/pub/cs_hola.js" ],
+      "matches": [ "https://*.hola.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://client.hola.org https://ajax.cdnjs.com https://cdnjs.cloudflare.com https://client1-holanetworksltd.netdna-ssl.com https://client2-holanetworksltd.netdna-ssl.com https://client3-holanetworksltd.netdna-ssl.com https://ajax.googleapis.com https://ssl.google-analytics.com https://d3vxrebhmlc47q.cloudfront.net https://client-cdn1.hola.org https://client-cdn2.hola.org https://client-cdn3.hola.org https://client-cdn4.hola.org https://client-cdn5.hola.org https://w5t6c5u8.map2.ssl.hwcdn.net https://m3a2r7m3.map2.ssl.hwcdn.net https://p6y7c8h9.map2.ssl.hwcdn.net https://d6g3b3z8.map2.ssl.hwcdn.net https://f9t5n3y6.map2.ssl.hwcdn.net https://s6m9m3g5.map2.ssl.hwcdn.net https://d2ew0cz5tszpw.cloudfront.net https://holaalt-holanetworksltd.netdna-ssl.com https://cdn4.hola.org https://cdn.jsdelivr.net https://clientalt-holanetworksltd.netdna-ssl.com https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "devtools_page": "js/devtools.html",
+   "homepage_url": "https://hola.org",
+   "icons": {
+      "128": "js/bext/vpn/pub/img/icon128.png",
+      "16": "js/bext/vpn/pub/img/icon16.png",
+      "48": "js/bext/vpn/pub/img/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3YOSz7vDWj4WatsffMfOjv0bt8gMXFxKRPml/oRE7VmpRLT8b/vq7em+EZj3AKlj0fAOvrU1YjubIIMlTCZc/RKjNYNjxM4/+4RXGOKbQkM6wWNuQ7prP4Mu0IGBDiVs19dKSwkknAgco2/U4DA6kVXJ4hwedTLlfUsRSN5MKfQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "49",
+   "name": "__MSG_appName__",
+   "optional_permissions": [ "privacy", "\u003Call_urls>" ],
+   "permissions": [ "proxy", "webRequest", "webRequestBlocking", "\u003Call_urls>", "storage", "tabs", "webNavigation", "cookies", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.140.102",
+   "web_accessible_resources": [ "/js/tpopup_local.html", "/js/animation_arrow.html", "/js/bext/vpn/pub/sim_dns_block.html" ]
+}

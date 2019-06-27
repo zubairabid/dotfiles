@@ -1,0 +1,5 @@
+game:
+  exe: /home/zubair/Downloads/Games/oldgamesdownload.com - AoE2/Age of Empires II/empires2.exe
+  prefix: ~/Games/.aoe2
+system: {}
+wine: {}

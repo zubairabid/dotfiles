@@ -1,0 +1,578 @@
+{
+   "aboutChangelog": {
+      "description": "'About' section text",
+      "message": "The changelog of current version is available \u003Ca id='latest-release' target='_blank' href='#'>here\u003C/a>. For the full changelog please visit \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/releases'>this page\u003C/a>."
+   },
+   "aboutExtensionDesc": {
+      "description": "'About' section text",
+      "message": "Web Scrobbler is a browser extension created for people who listen to music online through their browser, and would like to keep an updated playback history using scrobbling services, such as Last.fm, Libre.fm and ListenBrainz."
+   },
+   "accountsNotSignedIn": {
+      "description": "'Signed in' label",
+      "message": "You are not signed in."
+   },
+   "accountsProfile": {
+      "description": "'Signed in' label",
+      "message": "Profile"
+   },
+   "accountsSignIn": {
+      "description": "Button label",
+      "message": "Sign in"
+   },
+   "accountsSignOut": {
+      "description": "Button label",
+      "message": "Sign out"
+   },
+   "accountsSignedInAs": {
+      "description": "'Signed in' label",
+      "message": "You are signed in as $1."
+   },
+   "albumTooltip": {
+      "description": "Tooltip text",
+      "message": "From \"$1\" album"
+   },
+   "buttonCancel": {
+      "description": "Cancel button label",
+      "message": "Cancel"
+   },
+   "buttonClear": {
+      "description": "Clear button label",
+      "message": "Clear"
+   },
+   "buttonOk": {
+      "description": "OK button label",
+      "message": "OK"
+   },
+   "buttonReset": {
+      "description": "Reset button label",
+      "message": "Reset"
+   },
+   "contactGitHubDesc": {
+      "description": "Description for GitHub section",
+      "message": "Report an issue and contribute"
+   },
+   "contactPrivacyPolicyDesc": {
+      "description": "Description for privacy section",
+      "message": "View the privacy policy"
+   },
+   "contactTitle": {
+      "description": "'Contact' section",
+      "message": "Contact"
+   },
+   "contactTwitterDesc": {
+      "description": "Description for Twitter section",
+      "message": "Keep up with the updates and for quick chat"
+   },
+   "contributorsText": {
+      "description": "'About' section text",
+      "message": "You can find the list of contributors \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/graphs/contributors\">right on the GitHub\u003C/a>"
+   },
+   "contributorsTitle": {
+      "description": "'Contributors' header",
+      "message": "Contributors"
+   },
+   "customPatternsAdd": {
+      "description": "Add button",
+      "message": "Add pattern"
+   },
+   "customPatternsHint": {
+      "description": "Popup hint",
+      "message": "Add URL patterns that the connector should match below."
+   },
+   "disabledSiteButton": {
+      "description": "Button label",
+      "message": "Open options page"
+   },
+   "disabledSiteDesc": {
+      "description": "The description of 'disabled' popup",
+      "message": "The extension won't scrobble music from this website until you turn it on in the extension options."
+   },
+   "disabledSiteHeader": {
+      "description": "The header of 'disabled' popup",
+      "message": "This website is turned off"
+   },
+   "editedTracksTitle": {
+      "description": "Popup title",
+      "message": "Edited tracks"
+   },
+   "extDescription": {
+      "description": "Description of the extension",
+      "message": "Scrobble music all around the web!"
+   },
+   "faqAnswer1a": {
+      "description": "Answer #1",
+      "message": "You should click on a notification that is shown when the extension is loaded first time. Then, you should grant access to your accounts."
+   },
+   "faqAnswer1b": {
+      "description": "Answer #1",
+      "message": "Note: In some cases, the notification won't be shown, e.g. on Mac OS if Chrome is running in full-screen mode; the extension will open a tab where you can grant access to your accounts."
+   },
+   "faqAnswer2a": {
+      "description": "Answer #2",
+      "message": "You can do that by right-clicking on the green extension icon in the extension bar. Using the context menu you can disable the connector for current web service."
+   },
+   "faqAnswer2b": {
+      "description": "Answer #2",
+      "message": "Use the checkboxes on the options page to disable certain connector, or the \"Toggle\" checkbox to disable scrobbling globally."
+   },
+   "faqAnswer3a": {
+      "description": "Answer #3",
+      "message": "When a track cannot be recognized, a gray icon with question mark appears in the extension bar. You can click on this icon and input correct data in the opened popup window."
+   },
+   "faqAnswer3b": {
+      "description": "Answer #3",
+      "message": "Also, there's an option called \"Force track recognition\" that makes the extension to force scrobbling the track even if track is not validated by Last.fm."
+   },
+   "faqAnswer4a": {
+      "description": "Answer #4",
+      "message": "Looks like the music is hosted on a custom domain and the extension cannot detect whether it’s Bandcamp or not."
+   },
+   "faqAnswer4b": {
+      "description": "Answer #4",
+      "message": "As a workaround, configure the extension to work with custom domains as follows:"
+   },
+   "faqAnswer4b1": {
+      "description": "Answer #4",
+      "message": "Open the extension setting page and expand the “Options” section."
+   },
+   "faqAnswer4b2": {
+      "description": "Answer #4",
+      "message": "Find the Bandcamp connector in the list of supported services."
+   },
+   "faqAnswer4b3": {
+      "description": "Answer #4",
+      "message": "Click on the gear icon near the connector label."
+   },
+   "faqAnswer4b4": {
+      "description": "Answer #4",
+      "message": "Add URL pattern that matches the Bandcamp custom domain URL and apply the changes."
+   },
+   "faqAnswer4c": {
+      "description": "Answer #4",
+      "message": "You can learn more about the custom URL patterns \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'>here\u003C/a>."
+   },
+   "faqAnswer5": {
+      "description": "Answer #5",
+      "message": "Open a \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">new issue\u003C/a> on GitHub with your request, and we'll tell you if we can add support for the website or not. Also, you can add support for the website by forking the \u003Ca href=\"http://github.com/web-scrobbler/web-scrobbler\">GitHub repository\u003C/a> and sending us a pull request."
+   },
+   "faqAnswer6": {
+      "description": "Answer #6",
+      "message": "Possibly, if it makes sense. But if you want me to add some not-that-useful-but-really-cool functions, you'll probably get disappointed."
+   },
+   "faqAnswer7": {
+      "description": "Answer #7",
+      "message": "The original author of this extension is David Šabata. Now this extension is developed and maintained by so-called Web Scrobbler Team."
+   },
+   "faqQuestion1": {
+      "description": "Question #1",
+      "message": "How can I start using the extension?"
+   },
+   "faqQuestion2": {
+      "description": "Question #2",
+      "message": "How do I temporarily disable scrobbling?"
+   },
+   "faqQuestion3": {
+      "description": "Question #3",
+      "message": "The track was not recognized! Can you fix it?"
+   },
+   "faqQuestion4": {
+      "description": "Question #4",
+      "message": "Some music on Bandcamp cannot be scrobbled. Is it possible to fix this?"
+   },
+   "faqQuestion5": {
+      "description": "Question #5",
+      "message": "Will you add support for scrobbling at ____ ?"
+   },
+   "faqQuestion6": {
+      "description": "Question #6",
+      "message": "Will you add ____ functionality?"
+   },
+   "faqQuestion7": {
+      "description": "Question #7",
+      "message": "Who is the author?"
+   },
+   "faqTitle": {
+      "description": "'FAQ' section",
+      "message": "FAQ"
+   },
+   "getStartedHeader": {
+      "description": "The header of 'Get started' popup",
+      "message": "Play some music to get started"
+   },
+   "getStartedSiteChanged": {
+      "description": "Description of why track is not recognized",
+      "message": "In most cases this means the site has changed somehow. The change does not have to be visible to user, but means a lot to the extension."
+   },
+   "getStartedSubheader": {
+      "description": "The subheader of 'Get started' popup",
+      "message": "Is it already playing?"
+   },
+   "getStartedSubmitIssue": {
+      "description": "Description of how to submit new issue",
+      "message": "The connector code for this specific website needs to be updated. You can navigate to the \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">list of issues\u003C/a> and see if this website is already reported. If it is not, you can submit a new issue describing what's wrong, what's expected behavior and what's happening instead."
+   },
+   "hotkeyToggleConnector": {
+      "description": "Hotkey label",
+      "message": "Toggle connector state"
+   },
+   "hotkeyToggleLove": {
+      "description": "Hotkey label",
+      "message": "Love/unlove current song"
+   },
+   "infoAlbumPlaceholder": {
+      "description": "Placeholder of album input",
+      "message": "Album (optional)"
+   },
+   "infoArtistPlaceholder": {
+      "description": "Placeholder of artist input",
+      "message": "Artist"
+   },
+   "infoEdit": {
+      "description": "Label of edit button",
+      "message": "Edit"
+   },
+   "infoEditSkippedTitle": {
+      "description": "Title of edit button",
+      "message": "You cannot edit skipped track"
+   },
+   "infoEditTitle": {
+      "description": "Title of edit button",
+      "message": "Edit track metadata"
+   },
+   "infoEditUnableTitle": {
+      "description": "Title of edit button",
+      "message": "You cannot edit scrobbled track"
+   },
+   "infoLove": {
+      "description": "Label of love/unlove button",
+      "message": "Love track"
+   },
+   "infoOpenAlbumArt": {
+      "description": "Title of album image",
+      "message": "Open album art in new tab"
+   },
+   "infoRevert": {
+      "description": "Label of revert button",
+      "message": "Revert"
+   },
+   "infoRevertTitle": {
+      "description": "Title of revert button",
+      "message": "Revert changes"
+   },
+   "infoRevertUnableTitle": {
+      "description": "Title of revert button",
+      "message": "You cannot revert scrobbled track"
+   },
+   "infoSkip": {
+      "description": "Label of skip button",
+      "message": "Skip"
+   },
+   "infoSkipAlreadyTitle": {
+      "description": "Title of skip button",
+      "message": "You already skipped this track"
+   },
+   "infoSkipTitle": {
+      "description": "Title of skip button",
+      "message": "Don't scrobble current track"
+   },
+   "infoSkipUnableTitle": {
+      "description": "Title of skip button",
+      "message": "You cannot skip scrobbled tracks"
+   },
+   "infoSubmit": {
+      "description": "Label of submit button",
+      "message": "Submit"
+   },
+   "infoSwap": {
+      "description": "Label of swap button",
+      "message": "Swap"
+   },
+   "infoSwapSkippedTitle": {
+      "description": "Title of swap button",
+      "message": "You cannot swap skipped track"
+   },
+   "infoSwapTitle": {
+      "description": "Title of swap button",
+      "message": "Swap title and artist"
+   },
+   "infoSwapUnableTitle": {
+      "description": "Title of swap button",
+      "message": "You cannot swap scrobbled track"
+   },
+   "infoTrackPlaceholder": {
+      "description": "Placeholder of track input",
+      "message": "Track"
+   },
+   "infoUnlove": {
+      "description": "Label of love/unlove button",
+      "message": "Unlove track"
+   },
+   "infoViewAlbumPage": {
+      "description": "Placeholder of album input",
+      "message": "View album page"
+   },
+   "infoViewArtistPage": {
+      "description": "Placeholder of album input",
+      "message": "View artist page"
+   },
+   "infoViewTrackPage": {
+      "description": "Placeholder of album input",
+      "message": "View track page"
+   },
+   "menuDisableConnector": {
+      "description": "Context menu item",
+      "message": "Disable $1 connector"
+   },
+   "menuDisableUntilTabClosed": {
+      "description": "Context menu item",
+      "message": "Disable connector until tab is closed"
+   },
+   "menuEnableConnector": {
+      "description": "Context menu item",
+      "message": "Enable $1 connector"
+   },
+   "noItemsInCache": {
+      "description": "Popup hint",
+      "message": "No items in cache."
+   },
+   "notificationAuthError": {
+      "description": "Notification title",
+      "message": "Authentication error"
+   },
+   "notificationConnectAccounts": {
+      "description": "Notification title",
+      "message": "Connect your accounts"
+   },
+   "notificationConnectAccountsText": {
+      "description": "Notification text",
+      "message": "Click the notification to connect your accounts."
+   },
+   "notificationNotRecognized": {
+      "description": "Notification title",
+      "message": "The track is not recognized"
+   },
+   "notificationNotRecognizedText": {
+      "description": "Notification text",
+      "message": "Click on the icon in the extensions bar to correct and submit track info."
+   },
+   "notificationUnableSignIn": {
+      "description": "Notification text",
+      "message": "Unable to sign in to $1. Please try later."
+   },
+   "optIn": {
+      "description": "Opt in",
+      "message": "Opt In"
+   },
+   "optOut": {
+      "description": "Opt out",
+      "message": "Opt out"
+   },
+   "optionDisableGa": {
+      "description": "Option label",
+      "message": "Disable Google Analytics"
+   },
+   "optionDisableGaTitle": {
+      "description": "Option title",
+      "message": "Disable sending data to Google Analytics"
+   },
+   "optionForceRecognize": {
+      "description": "Option label",
+      "message": "Force track recognition"
+   },
+   "optionForceRecognizeTitle": {
+      "description": "Option title",
+      "message": "Force recognition of unknown tracks"
+   },
+   "optionGmPodcasts": {
+      "description": "Option title",
+      "message": "Scrobble podcasts on Google Music"
+   },
+   "optionGmPodcastsTitle": {
+      "description": "Option label",
+      "message": "Scrobble podcasts on Google Music"
+   },
+   "optionUnrecognizedNotifications": {
+      "description": "Option label",
+      "message": "Notify if track is not recognized"
+   },
+   "optionUnrecognizedNotificationsTitle": {
+      "description": "Option title",
+      "message": "Show notification if track is not recognized by the extension"
+   },
+   "optionUseNotifications": {
+      "description": "Option label",
+      "message": "Use now playing notifications"
+   },
+   "optionUseNotificationsTitle": {
+      "description": "Option title",
+      "message": "Show now playing notifications for all supported websites"
+   },
+   "optionYtDesc": {
+      "description": "Description of Youtube options",
+      "message": "If you turn off both options, the extension will scrobble Youtube videos from all categories."
+   },
+   "optionYtEntertainmentOnly": {
+      "description": "Option label",
+      "message": "Scrobble videos from \"Entertainment\" category"
+   },
+   "optionYtEntertainmentOnlyTitle": {
+      "description": "Option title",
+      "message": "Ignore videos that are not in Entertainment category"
+   },
+   "optionYtMusicOnly": {
+      "description": "Option title",
+      "message": "Scrobble videos from \"Music\" category"
+   },
+   "optionYtMusicOnlyTitle": {
+      "description": "Option label",
+      "message": "Ignore videos that are not in Music category"
+   },
+   "optionsAbout": {
+      "description": "'About' section",
+      "message": "About"
+   },
+   "optionsAccounts": {
+      "description": "'Accounts' section",
+      "message": "Accounts"
+   },
+   "optionsCustomPatternsHint": {
+      "description": "Description of how to configure custom URL patterns",
+      "message": "Click on the gear icon to configure custom URL patterns for connectors. \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'>Learn more\u003C/a>"
+   },
+   "optionsEditedTracks": {
+      "description": "'Edited tracks' header",
+      "message": "Edited tracks"
+   },
+   "optionsEditedTracksDesc": {
+      "description": "Description of edited tracks",
+      "message": "This extension stores edited tracks."
+   },
+   "optionsEditedTracksPopupTitle": {
+      "description": "'Edited tracks' header",
+      "message": "$1 edited tracks"
+   },
+   "optionsEnableDisableHint": {
+      "description": "Enable/disable hint",
+      "message": "Click on the checkbox to enable/disable connectors."
+   },
+   "optionsExportEdited": {
+      "description": "Button to export edited tracks",
+      "message": "Export"
+   },
+   "optionsGeneral": {
+      "description": "'General' section",
+      "message": "General"
+   },
+   "optionsImportEdited": {
+      "description": "Button to import edited tracks",
+      "message": "Import"
+   },
+   "optionsOptions": {
+      "description": "'Options' section",
+      "message": "Options"
+   },
+   "optionsSupportedWebsites": {
+      "description": "'Supported websites' header",
+      "message": "Supported websites"
+   },
+   "optionsTitle": {
+      "description": "Title of options page",
+      "message": "Web Scrobbler options"
+   },
+   "optionsToggle": {
+      "description": "Label of toggle button",
+      "message": "Toggle"
+   },
+   "optionsViewEdited": {
+      "description": "Button to view edited tracks",
+      "message": "View"
+   },
+   "pageActionBase": {
+      "description": "`base` page action title",
+      "message": "This site is supported for scrobbling"
+   },
+   "pageActionDisabled": {
+      "description": "`disabled` page action title",
+      "message": "This site is supported for scrobbling, but you disabled it"
+   },
+   "pageActionError": {
+      "description": "`loading` page action title",
+      "message": "A service error occurred. Click for more information."
+   },
+   "pageActionIgnored": {
+      "description": "`ignored` page action title",
+      "message": "Ignored $1"
+   },
+   "pageActionLoading": {
+      "description": "`loading` page action title",
+      "message": "Looking up $1"
+   },
+   "pageActionRecognized": {
+      "description": "`recognized` page action title",
+      "message": "Now playing $1"
+   },
+   "pageActionScrobbled": {
+      "description": "`scrobbled` page action title",
+      "message": "Scrobbled $1"
+   },
+   "pageActionSkipped": {
+      "description": "`skipped` page action title",
+      "message": "Skipped $1"
+   },
+   "pageActionUnknown": {
+      "description": "`unknown` page action title",
+      "message": "The track is not recognized. Click to submit correct info."
+   },
+   "pageActionUnsupported": {
+      "description": "`unsupported` page action title",
+      "message": "Web Scrobbler does not support this website."
+   },
+   "serviceErrorButton": {
+      "description": "Button label",
+      "message": "Open options page"
+   },
+   "serviceErrorDesc": {
+      "description": "The description of service error",
+      "message": "Looks like something went wrong while scrobbling the music. Please open the options page and try to reauthenticate with services. If reauthentication doesn't help, and you still see this message, please create \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">a new issue\u003C/a> at the GitHub project page."
+   },
+   "serviceErrorHeader": {
+      "description": "The header of 'error' popup",
+      "message": "Service error"
+   },
+   "showSomeLoveText1": {
+      "description": "",
+      "message": "Unlike other extensions, this one does not contain any flashing banners or sneaky ads."
+   },
+   "showSomeLoveText2": {
+      "description": "",
+      "message": "I develop this extension in my free time, with source wide open and I am and will be doing it for free. But still please consider donating a few bucks to keep me motivated and to make sure I always have enough pizza and coffee for late night programming."
+   },
+   "showSomeLoveTitle": {
+      "description": "'Show some love' section",
+      "message": "Show some love"
+   },
+   "startupFinished": {
+      "description": "Startup finished text",
+      "message": "Thanks! If you change your mind you can change this in the options."
+   },
+   "startupIntroText": {
+      "description": "Startup intro text",
+      "message": "Before we can begin to scrobble all your music, you must first review and opt in (or out) to our privacy policy."
+   },
+   "startupIntroTitle": {
+      "description": "Startup intro title",
+      "message": "Thanks for choosing to install Web Scrobbler!"
+   },
+   "startupTitle": {
+      "description": "Title for startup page",
+      "message": "Welcome to Web Scrobbler!"
+   },
+   "unsupportedWebsiteDesc": {
+      "description": "The description of 'unsupported' popup",
+      "message": "Web Scrobbler does not support scrobbling from this website."
+   },
+   "unsupportedWebsiteHeader": {
+      "description": "The header of 'unsupported' popup",
+      "message": "This website is not supported"
+   }
+}

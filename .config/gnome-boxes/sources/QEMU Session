@@ -1,0 +1,13 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 3f8b1359-01e2-4289-825b-d5b20dc85e99]
+last-seen-name=Zorin-OS-15-Core-64-bit
+uuid=3f8b1359-01e2-4289-825b-d5b20dc85e99
+run-in-bg=true
+access-last-time=1561507958854079
+access-ntimes=1
+access-total-time=2619

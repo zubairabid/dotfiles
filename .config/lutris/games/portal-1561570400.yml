@@ -1,0 +1,6 @@
+game:
+  args: -game portal
+  exe: /home/zubair/Downloads/Games/Portal/[PC] Portal [RIP] [dopeman]/PoRTaL/hl2.exe
+  prefix: ~/Games/.portal
+system: {}
+wine: {}

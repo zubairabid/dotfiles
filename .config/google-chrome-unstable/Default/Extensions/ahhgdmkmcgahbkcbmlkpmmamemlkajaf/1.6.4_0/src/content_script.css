@@ -1,0 +1,199 @@
+/* injected elements */
+.dictionary-of-numbers,
+.dictionary-of-numbers-human-readable {
+    display: inline !important;
+    font-style: inherit; /* do not add important, want to inherit */
+    font-weight: inherit;
+    font-family: inherit;
+    text-decoration: inherit;
+    cursor: inherit;
+    color: inherit;
+    border-width: 0 !important;
+    position: static !important; /* do not inherit absolute positioning */
+    background-color: inherit; /* some sites use dfns with weird styling */
+}
+.dictionary-of-numbers:after,
+.dictionary-of-numbers-human-readable:after,
+.dictionary-of-numbers:before,
+.dictionary-of-numbers-human-readable:before {
+    content: none; /* some sites do weird things with dfns */
+}
+
+/* as you type suggestions popup */
+.dictionary-of-numbers-suggestions,
+.dictionary-of-numbers-suggestions * {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+    vertical-align: baseline !important;
+    border-spacing: 0 !important;
+    border-collapse: collapse !important;
+    z-index: 999999 !important;
+}
+.dictionary-of-numbers-suggestions {
+    box-shadow: 0 0 8px #888888 !important;
+    background: white !important;
+    position: absolute !important;
+    font: 13px/1 Helvetica, Arial, sans-serif !important;
+    color: black !important;
+    max-width: 400px !important;
+    max-height: 200px !important;
+    overflow: auto !important;
+    padding: 5px !important;
+}
+
+.dictionary-of-numbers-suggestions .dictionary-of-numbers-remove {
+    display: block !important;
+    position: absolute !important;
+    right: 7px !important;
+    top: 2px !important;
+    text-decoration: none !important;
+    padding: 2px !important;
+    color: #CCC !important;
+    font-weight: normal !important;
+}
+
+.dictionary-of-numbers-suggestions table {
+}
+
+.dictionary-of-numbers-suggestions ul {
+    list-style: none inside !important;
+    margin-left: 1em !important;
+}
+.dictionary-of-numbers-suggestions li {
+    margin: 5px 0 !important;
+    position: relative !important;
+}
+.dictionary-of-numbers-suggestions li span {
+    position: absolute !important;
+    left: -11px !important;
+}
+.dictionary-of-numbers-suggestions table a {
+    display: block !important;
+    color: #666 !important;
+    line-height: 1.2 !important;
+    text-decoration: underline !important;
+}
+.dictionary-of-numbers-suggestions table a:hover {
+    color: #333 !important;
+}
+
+.dictionary-of-numbers-suggestions table th {
+    font-weight: normal !important;
+    font-style: italic !important;
+    color: black !important;
+    font-size: 13px !important;
+}
+.dictionary-of-numbers-suggestions table th,
+.dictionary-of-numbers-suggestions table td {
+    border-color: none !important;
+    display: none !important;
+    padding: 2px !important;
+}
+.dictionary-of-numbers-suggestions div {
+    display: none !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    margin-bottom: 3px !important;
+}
+.dictionary-of-numbers-suggestions:hover div {
+    display:block !important;
+}
+.dictionary-of-numbers-suggestions:hover table th,
+.dictionary-of-numbers-suggestions:hover table td {
+    display: table-cell !important;
+}
+.dictionary-of-numbers-suggestions:hover table tr {
+    border: 1px solid #eee !important;
+}
+.dictionary-of-numbers-suggestions table tr:first-child th {
+    display: block !important;
+}
+
+
+/* style tooltip for more human readable explanations */
+.dictionary-of-numbers-tooltip {
+  position: absolute;
+  z-index: 1030;
+  display: block;
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: 0;
+  visibility: visible;
+}
+
+.dictionary-of-numbers-tooltip.in {
+  opacity: 0.9;
+}
+
+.dictionary-of-numbers-tooltip.top {
+  padding: 5px 0;
+  margin-top: -3px;
+}
+
+.dictionary-of-numbers-tooltip.right {
+  padding: 0 5px;
+  margin-left: 3px;
+}
+
+.dictionary-of-numbers-tooltip.bottom {
+  padding: 5px 0;
+  margin-top: 3px;
+}
+
+.dictionary-of-numbers-tooltip.left {
+  padding: 0 5px;
+  margin-left: -3px;
+}
+
+.dictionary-of-numbers-tooltip .tooltip-inner {
+  max-width: 200px;
+  padding: 8px;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  background-color: #000000;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.dictionary-of-numbers-tooltip .tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+
+.dictionary-of-numbers-tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-top-color: #000000;
+  border-width: 5px 5px 0;
+}
+
+.dictionary-of-numbers-tooltip.right .tooltip-arrow {
+  top: 50%;
+  left: 0;
+  margin-top: -5px;
+  border-right-color: #000000;
+  border-width: 5px 5px 5px 0;
+}
+
+.dictionary-of-numbers-tooltip.left .tooltip-arrow {
+  top: 50%;
+  right: 0;
+  margin-top: -5px;
+  border-left-color: #000000;
+  border-width: 5px 0 5px 5px;
+}
+
+.dictionary-of-numbers-tooltip.bottom .tooltip-arrow {
+  top: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-bottom-color: #000000;
+  border-width: 0 5px 5px;
+}

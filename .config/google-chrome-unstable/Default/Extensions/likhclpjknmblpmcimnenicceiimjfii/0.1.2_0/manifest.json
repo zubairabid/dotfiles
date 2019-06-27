@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "context.js" ]
+   },
+   "description": "Karma Decay Extension for Google Chrome™. Right click on an image and search for it on reddit using Karma Decay.",
+   "icons": {
+      "128": "img/icon-128.png",
+      "48": "img/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD5PrdvYwHFqrFZhMZtcLyw1igBpYuCazW+/URxL2G9eTLtX7XMBXSsy2rDFPQfHU34cMNH4J2WLgNDBMRgJipbx966spiiQjnUlI3aCrn2BFhXJIwLteTqvU4hcAHgTQuQ3yl6Vv21xpZ97VMW4PfGqvAPYw/UJqufg1hLSGb/kQIDAQAB",
+   "manifest_version": 2,
+   "name": "Karma Decay",
+   "permissions": [ "contextMenus", "tabs", "notifications", "http://*/*", "https://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1.2"
+}

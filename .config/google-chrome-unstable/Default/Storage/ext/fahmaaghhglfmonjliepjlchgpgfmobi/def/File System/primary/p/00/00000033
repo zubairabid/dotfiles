@@ -1,0 +1,61 @@
+
+
+-------session starts-------
+
+[6-27 10:2:37.996] INFO: lsUserAddedMusicSourceIds=null
+[6-27 10:2:37.996] INFO: lsLastTrackFailureLoggingTime=null
+[6-27 10:2:38.917] INFO: Fetched user settings from server.
+[6-27 10:2:38.928] INFO: chromeapp:E ready
+[6-27 10:2:44.280] INFO: Got the drag_and_drop directory
+[6-27 10:2:44.527] INFO: MediaGallery: name=/home/zubair/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[6-27 10:2:44.527] INFO: MediaGallery: name=/home/zubair/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[6-27 10:2:44.527] INFO: MediaGallery: name=/home/zubair/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[6-27 10:2:44.550] INFO: Starts a quick scan on /home/zubair/Music
+[6-27 10:2:44.552] INFO: Iterating over dir / from source /home/zubair/Music
+[6-27 10:2:44.554] INFO: Starts a quick scan on /home/zubair/Pictures
+[6-27 10:2:44.554] INFO: Iterating over dir / from source /home/zubair/Pictures
+[6-27 10:2:44.554] INFO: Starts a quick scan on /home/zubair/Videos
+[6-27 10:2:44.555] INFO: Iterating over dir / from source /home/zubair/Videos
+[6-27 10:2:44.564] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube from source /home/zubair/Music
+[6-27 10:2:44.727] INFO: Iterating over dir /IIIT work from source /home/zubair/Pictures
+[6-27 10:2:44.727] INFO: Iterating over dir /Movies from source /home/zubair/Videos
+[6-27 10:2:44.727] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/Covers from source /home/zubair/Music
+[6-27 10:2:44.754] INFO: Iterating over dir /IIIT work/Ping from source /home/zubair/Pictures
+[6-27 10:2:44.755] INFO: Iterating over dir /Movies/Alien DC (1979) [1080p] from source /home/zubair/Videos
+[6-27 10:2:44.755] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1 from source /home/zubair/Music
+[6-27 10:2:44.762] INFO: Iterating over dir /IIIT work/ecell from source /home/zubair/Pictures
+[6-27 10:2:44.762] INFO: Iterating over dir /Movies/Lock, Stock and Two Smoking Barrels (1998) [1080p] from source /home/zubair/Videos
+[6-27 10:2:44.762] INFO: /home/zubair/Music contains music file
+[6-27 10:2:44.775] INFO: Iterating over dir /IIIT work/ecell/res from source /home/zubair/Pictures
+[6-27 10:2:44.775] INFO: Iterating over dir /Movies/DC from source /home/zubair/Videos
+[6-27 10:2:44.778] INFO: Iterating over dir /IIIT work/ecell/CoreTeamPhotos from source /home/zubair/Pictures
+[6-27 10:2:44.780] INFO: Iterating over dir /Movies/One Flew Over The Cuckoo's Nest (1975) [1080p] from source /home/zubair/Videos
+[6-27 10:2:44.793] INFO: Iterating over dir /IIIT work/AlumniCell from source /home/zubair/Pictures
+[6-27 10:2:44.831] INFO: Iterating over dir /Movies/Donnie Darko (2001) - 1080p from source /home/zubair/Videos
+[6-27 10:2:44.846] INFO: Iterating over dir /IIIT work/AlumniCell/Resources from source /home/zubair/Pictures
+[6-27 10:2:44.917] INFO: Iterating over dir /Movies/Her (2013) [1080p] from source /home/zubair/Videos
+[6-27 10:2:44.952] INFO: Iterating over dir /IIIT work/AlumniCell/Resources/Branding from source /home/zubair/Pictures
+[6-27 10:2:45.47] INFO: Iterating over dir /Movies/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG from source /home/zubair/Videos
+[6-27 10:2:45.111] INFO: Iterating over dir /IIIT work/AlumniCell/video from source /home/zubair/Pictures
+[6-27 10:2:45.239] INFO: Iterating over dir /Movies/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG/Subs from source /home/zubair/Videos
+[6-27 10:2:45.255] INFO: Iterating over dir /IIIT work/AlumniCell/video/out from source /home/zubair/Pictures
+[6-27 10:2:45.337] INFO: Iterating over dir /Movies/Contact.1997.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[6-27 10:2:45.431] INFO: Iterating over dir /IIIT work/AlumniCell/video/thumbnail from source /home/zubair/Pictures
+[6-27 10:2:45.453] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx] from source /home/zubair/Videos
+[6-27 10:2:45.597] INFO: Iterating over dir /IIIT work/AlumniCell/video/assets from source /home/zubair/Pictures
+[6-27 10:2:45.648] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx]/Others from source /home/zubair/Videos
+[6-27 10:2:45.707] INFO: Iterating over dir /IIIT work/AlumniCell/WS from source /home/zubair/Pictures
+[6-27 10:2:45.733] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx]/Subtitles from source /home/zubair/Videos
+[6-27 10:2:45.815] INFO: Iterating over dir /IIIT work/AlumniCell/Renders from source /home/zubair/Pictures
+[6-27 10:2:45.817] INFO: Iterating over dir /Movies/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM] from source /home/zubair/Videos
+[6-27 10:2:45.918] INFO: Iterating over dir /IIIT work/convincebatch from source /home/zubair/Pictures
+[6-27 10:2:46.55] INFO: /home/zubair/Pictures does not contain music file
+[6-27 10:2:46.55] INFO: /home/zubair/Videos does not contain music file
+[6-27 10:2:46.56] INFO: lsUserSelectedDownloadDirId=null
+[6-27 10:2:46.58] INFO: lsDefaultDownloadLocationId=null
+[6-27 10:2:46.59] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[6-27 10:2:46.59] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[6-27 10:2:50.981] INFO: lsAppActivated=false
+[6-27 10:2:50.981] INFO: lsDragAndDropActivated=false
+[6-27 10:2:51.1] INFO: Nacl version: 1.0.467.4929
+[6-27 10:2:51.10] INFO: lsAppActivated=false

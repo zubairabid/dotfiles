@@ -1,0 +1,89 @@
+{
+   "application_description": {
+      "message": "Програвач для відео файлів, що містять H.265 / HEVC медіа."
+   },
+   "application_name": {
+      "message": "H.265 / HEVC програвач"
+   },
+   "buffer_underrun": {
+      "message": "Швидкість програвання може бути зниженою через швидкість Вашого комп'ютера."
+   },
+   "could_not_load_player": {
+      "message": "Неможливо завантажити програвач, будь ласка, перевстановіть додаток."
+   },
+   "could_not_open_file": {
+      "message": "Не вдалося відкрити вибраний файл."
+   },
+   "doubleclick_fullscreen": {
+      "message": "Будь ласка, натисніть на відео двічі, щоб перейти в повноекранний режим."
+   },
+   "error_msg_decoding_audio": {
+      "message": "Помилка при декодуванні аудіо пакету."
+   },
+   "error_msg_decoding_video": {
+      "message": "Помилка при декодуванні відео пакету."
+   },
+   "error_msg_no_streams": {
+      "message": "Не вдалося відкрити вхідний потік, будь ласка, переконайтеся, що вибраний файл може бути прочитано і він містить формат відео, що підтримується."
+   },
+   "error_msg_no_supported_streams": {
+      "message": "Вибраний файл використовує відео та/або аудіо кодек, що не підтримуються. Будь ласка, виберіть файл, який містить H.265/HEVC відео та AAC, AC3, MP3 чи OGG аудіо."
+   },
+   "error_msg_open_input": {
+      "message": "Не вдалося відкрити вхідний потік, будь ласка, переконайтеся, що вибраний файл може бути прочитано і він містить формат відео, що підтримується."
+   },
+   "filesystem_api_required": {
+      "message": "Для програвання відео необхідний ’chrome.fileSystem API’."
+   },
+   "no_subtitle": {
+      "message": "Ні субтитрів"
+   },
+   "open": {
+      "message": "Відкрити"
+   },
+   "open_file_description": {
+      "message": "Файли фільмів"
+   },
+   "open_movie_file": {
+      "message": "Відкрити файл фільму"
+   },
+   "pause": {
+      "message": "Призупинити"
+   },
+   "pause_playback": {
+      "message": "Призупинити програвання"
+   },
+   "play": {
+      "message": "Відтворити"
+   },
+   "player_crashed": {
+      "message": "Вибачте, програвач завершив роботу некоректно, будь ласка, спробуйте ще раз."
+   },
+   "start_playback": {
+      "message": "Почати програвання"
+   },
+   "stop": {
+      "message": "Зупинити"
+   },
+   "stop_playback": {
+      "message": "Зупинити програвання"
+   },
+   "subtitle_idx": {
+      "message": "субтитри $index$",
+      "placeholders": {
+         "index": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "toggle_fullscreen": {
+      "message": "Перемкнути повноекранний режим"
+   },
+   "unknown_playback_error": {
+      "message": "Вибраний файл неможливо завантажити або він містить формат, що не підтримується."
+   },
+   "volume": {
+      "message": "Гучність"
+   }
+}

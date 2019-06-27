@@ -1,0 +1,570 @@
+{
+   "aboutChangelog": {
+      "description": "'About' section text",
+      "message": "Список изменений текущей версии доступен \u003Ca id='latest-release' target='_blank' href='#'>здесь\u003C/a>. Полный список изменений вы можете посмотреть на \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/releases'>этой странице\u003C/a>."
+   },
+   "aboutExtensionDesc": {
+      "description": "'About' section text",
+      "message": "Web Scrobbler — это расширение для браузера, созданное для тех, кто слушает музыку, используя онлайн-сервисы, и хотел бы иметь постоянно обновлённую историю прослушивания с помощью таких сервисов, как Last.fm, Libre.fm и ListenBrainz."
+   },
+   "accountsNotSignedIn": {
+      "description": "'Signed in' label",
+      "message": "Вы не вошли."
+   },
+   "accountsProfile": {
+      "description": "'Signed in' label",
+      "message": "Профиль"
+   },
+   "accountsSignIn": {
+      "description": "Button label",
+      "message": "Войти"
+   },
+   "accountsSignOut": {
+      "description": "Button label",
+      "message": "Выйти"
+   },
+   "accountsSignedInAs": {
+      "description": "'Signed in' label",
+      "message": "Вы вошли как $1."
+   },
+   "albumTooltip": {
+      "description": "Tooltip text",
+      "message": "Из альбома \"$1\""
+   },
+   "buttonCancel": {
+      "description": "Cancel button label",
+      "message": "Отмена"
+   },
+   "buttonClear": {
+      "description": "Clear button label",
+      "message": "Очистить"
+   },
+   "buttonOk": {
+      "description": "OK button label",
+      "message": "ОК"
+   },
+   "buttonReset": {
+      "description": "Reset button label",
+      "message": "Сброс"
+   },
+   "contactGitHubDesc": {
+      "description": "Description for GitHub section",
+      "message": "Поучаствовать в развитии проекта"
+   },
+   "contactPrivacyPolicyDesc": {
+      "description": "Description for privacy section",
+      "message": "Посмотреть политику конфиденциальности"
+   },
+   "contactTitle": {
+      "description": "'Contact' section",
+      "message": "Контакты"
+   },
+   "contactTwitterDesc": {
+      "description": "Description for Twitter section",
+      "message": "Следить за обновлениями или поболтать"
+   },
+   "contributorsText": {
+      "description": "'About' section text",
+      "message": "Вы можете посмотреть список участников проекта на \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/graphs/contributors\">странице проекта\u003C/a> на GitHub."
+   },
+   "contributorsTitle": {
+      "description": "'Contributors' header",
+      "message": "Участники проекта"
+   },
+   "customPatternsAdd": {
+      "description": "Add button",
+      "message": "Добавить шаблон"
+   },
+   "customPatternsHint": {
+      "description": "Popup hint",
+      "message": "Добавьте необходимые шаблоны URL для коннектора."
+   },
+   "disabledSiteButton": {
+      "description": "Button label",
+      "message": "Открыть настройки"
+   },
+   "disabledSiteDesc": {
+      "description": "The description of 'disabled' popup",
+      "message": "Расширение не будет скробблить музыку с этого сайта, пока вы не включите этот сайт в настройках расширения."
+   },
+   "disabledSiteHeader": {
+      "description": "The header of 'disabled' popup",
+      "message": "Вы отключили этот сайт"
+   },
+   "editedTracksTitle": {
+      "description": "Popup title",
+      "message": "Сохранённая информация о треках"
+   },
+   "extDescription": {
+      "description": "Description of the extension",
+      "message": "Скробблите музыку со всего Интернета!"
+   },
+   "faqAnswer1a": {
+      "description": "Answer #1",
+      "message": "Необходимо кликнуть на уведомление, которое показывается после установки расширения. После этого нужно дать расширению доступ к своим аккаунтам."
+   },
+   "faqAnswer1b": {
+      "description": "Answer #1",
+      "message": "Примечание: в некоторых случая уведомление может не показываться, например, на MacOS, если Chrome развёрнут на весь экран. В таком случае, расширение создаст новую вкладку самостоятельно, где вы сможете дать ему доступ к своим аккаунтам."
+   },
+   "faqAnswer2a": {
+      "description": "Answer #2",
+      "message": "Вы можете это сделать, кликнув на значок расширения справа от адресной строки. Используя контекстное меню, вы можете отключить скробблинг для текущего сайта."
+   },
+   "faqAnswer2b": {
+      "description": "Answer #2",
+      "message": "Используйте галочки ниже, чтобы отключить определённые сайты, или переключатель, чтобы отключить скробблинг глобально."
+   },
+   "faqAnswer3a": {
+      "description": "Answer #3",
+      "message": "Когда расширение не может распознать трек, справа от адресной строки появляется иконка со знаком вопроса. Кликнув на эту иконку, вы можете скорректировать данные о треке в появившемся всплывающем окне."
+   },
+   "faqAnswer3b": {
+      "description": "Answer #3",
+      "message": "Также, есть опция \"Принудительное распознавание\", включение которой позволяет скробблить треки, которые расширение не смогло распознать."
+   },
+   "faqAnswer4a": {
+      "description": "Answer #4",
+      "message": "Похоже, треки расположены на нестандартном домене, и расширение не может определить, что это Bandcamp."
+   },
+   "faqAnswer4b": {
+      "description": "Answer #4",
+      "message": "Как вариант, настройте расширение для работы с нестандартными доменами следующим образом:"
+   },
+   "faqAnswer4b1": {
+      "description": "Answer #4",
+      "message": "Откройте страницу с настройками и разверните раздел \"Настройки\"."
+   },
+   "faqAnswer4b2": {
+      "description": "Answer #4",
+      "message": "Найдите Bandcamp в списке поддерживаемых сайтов."
+   },
+   "faqAnswer4b3": {
+      "description": "Answer #4",
+      "message": "Кликните на иконку с шестерёнкой возле названия коннектора."
+   },
+   "faqAnswer4b4": {
+      "description": "Answer #4",
+      "message": "Добавьте шаблон URL, который будет соответствовать нестандартному домену Bandcamp, и примените изменения."
+   },
+   "faqAnswer4c": {
+      "description": "Answer #4",
+      "message": "Вы можете узнать больше о пользовательских шаблонах URL \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'>здесь\u003C/a>."
+   },
+   "faqAnswer5": {
+      "description": "Answer #5",
+      "message": "Создайте \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">новый багрепорт\u003C/a> на GitHub, и мы вам скажем, сможем ли мы добавить поддержку или нет. Также,  вы можете добавить поддержку сайта самостоятельно, форкнув \u003Ca href=\"http://github.com/web-scrobbler/web-scrobbler\">проект на GitHub\u003C/a> и отправив нам пулл-реквест."
+   },
+   "faqAnswer6": {
+      "description": "Answer #6",
+      "message": "Возможно, если это будет иметь смысл. Но, если вы хотите предложить какую-то крутую-но-ненужную-фичу, я, вероятно, вас разочарую."
+   },
+   "faqAnswer7": {
+      "description": "Answer #7",
+      "message": "Первоначальный автор этого расширения — David Šabata. На данный момент расширение разрабатывает так называемая команда \"Web Scrobbler\"."
+   },
+   "faqQuestion1": {
+      "description": "Question #1",
+      "message": "Как мне начать использовать расширение?"
+   },
+   "faqQuestion2": {
+      "description": "Question #2",
+      "message": "Как временно отключить скробблинг?"
+   },
+   "faqQuestion3": {
+      "description": "Question #3",
+      "message": "Трек не распознан. Вы можете исправить это?"
+   },
+   "faqQuestion4": {
+      "description": "Question #4",
+      "message": "Некоторые треки на Bandcamp не скробблятся. Это возможно исправить?"
+   },
+   "faqQuestion5": {
+      "description": "Question #5",
+      "message": "Добавите ли вы поддержку ____?"
+   },
+   "faqQuestion6": {
+      "description": "Question #6",
+      "message": "Добавите ли вы ____ функционал?"
+   },
+   "faqQuestion7": {
+      "description": "Question #7",
+      "message": "Кто автор расширения?"
+   },
+   "faqTitle": {
+      "description": "'FAQ' section",
+      "message": "ЧаВо"
+   },
+   "getStartedHeader": {
+      "description": "The header of 'Get started' popup",
+      "message": "Включите любой трек для начала"
+   },
+   "getStartedSiteChanged": {
+      "description": "Description of why track is not recognized",
+      "message": "В большинстве случаев это означает, что на сайте произошли какие-либо изменения. Эти изменения могут быть незаметными для пользователя, но критичными для расширения."
+   },
+   "getStartedSubheader": {
+      "description": "The subheader of 'Get started' popup",
+      "message": "Уже что-то играет?"
+   },
+   "getStartedSubmitIssue": {
+      "description": "Description of how to submit new issue",
+      "message": "Расширение должно быть обновлено для поддержки этого сайта. Вы можете открыть список \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">багрепортов\u003C/a> и посмотреть, не сообщил кто-либо о данной проблеме. Если нет, то вы можете создать новый багрепорт с подробным описанием проблемы."
+   },
+   "infoAlbumPlaceholder": {
+      "description": "Placeholder of album input",
+      "message": "Альбом (необязательно)"
+   },
+   "infoArtistPlaceholder": {
+      "description": "Placeholder of artist input",
+      "message": "Исполнитель"
+   },
+   "infoEdit": {
+      "description": "Label of edit button",
+      "message": "Изменить"
+   },
+   "infoEditSkippedTitle": {
+      "description": "Title of edit button",
+      "message": "Вы не можете редактировать информацию о треке, который пропустили"
+   },
+   "infoEditTitle": {
+      "description": "Title of edit button",
+      "message": "Изменить информацию о треке"
+   },
+   "infoEditUnableTitle": {
+      "description": "Title of edit button",
+      "message": "Вы не можете изменить информацию о треке, который был заскробблен"
+   },
+   "infoLove": {
+      "description": "Label of love/unlove button",
+      "message": "Нравится"
+   },
+   "infoOpenAlbumArt": {
+      "description": "Title of album image",
+      "message": "Открыть обложку альбома в новой вкладке"
+   },
+   "infoRevert": {
+      "description": "Label of revert button",
+      "message": "Отменить"
+   },
+   "infoRevertTitle": {
+      "description": "Title of revert button",
+      "message": "Отменить изменения"
+   },
+   "infoRevertUnableTitle": {
+      "description": "Title of revert button",
+      "message": "Вы не можете сбросить информацию о треке, который был заскробблен"
+   },
+   "infoSkip": {
+      "description": "Label of skip button",
+      "message": "Пропустить"
+   },
+   "infoSkipAlreadyTitle": {
+      "description": "Title of skip button",
+      "message": "Вы уже пропустили этот трек"
+   },
+   "infoSkipTitle": {
+      "description": "Title of skip button",
+      "message": "Не скробблить текущий трек"
+   },
+   "infoSkipUnableTitle": {
+      "description": "Title of skip button",
+      "message": "Вы не можете пропустить треки, которые уже заскробблены"
+   },
+   "infoSubmit": {
+      "description": "Label of submit button",
+      "message": "Принять"
+   },
+   "infoSwap": {
+      "description": "Label of swap button",
+      "message": "Поменять"
+   },
+   "infoSwapSkippedTitle": {
+      "description": "Title of swap button",
+      "message": "Вы не можете изменить пропущенный трек"
+   },
+   "infoSwapTitle": {
+      "description": "Title of swap button",
+      "message": "Поменять исполнителя и название трека местами"
+   },
+   "infoSwapUnableTitle": {
+      "description": "Title of swap button",
+      "message": "Вы не можете изменить заскробленный трек"
+   },
+   "infoTrackPlaceholder": {
+      "description": "Placeholder of track input",
+      "message": "Название"
+   },
+   "infoUnlove": {
+      "description": "Label of love/unlove button",
+      "message": "Не нравится"
+   },
+   "infoViewAlbumPage": {
+      "description": "Placeholder of album input",
+      "message": "Посмотреть страницу альбома"
+   },
+   "infoViewArtistPage": {
+      "description": "Placeholder of album input",
+      "message": "Посмотреть страницу исполнителя"
+   },
+   "infoViewTrackPage": {
+      "description": "Placeholder of album input",
+      "message": "Посмотреть страницу трека"
+   },
+   "menuDisableConnector": {
+      "description": "Context menu item",
+      "message": "Отключить $1"
+   },
+   "menuDisableUntilTabClosed": {
+      "description": "Context menu item",
+      "message": "Отключить коннектор, пока открыта вкладка"
+   },
+   "menuEnableConnector": {
+      "description": "Context menu item",
+      "message": "Включить $1"
+   },
+   "noItemsInCache": {
+      "description": "Popup hint",
+      "message": "Нет сохранённых данных."
+   },
+   "notificationAuthError": {
+      "description": "Notification title",
+      "message": "Ошибка авторизации"
+   },
+   "notificationConnectAccounts": {
+      "description": "Notification title",
+      "message": "Подключите ваши аккаунты"
+   },
+   "notificationConnectAccountsText": {
+      "description": "Notification text",
+      "message": "Кликните на уведомление, чтобы подключить ваши аккаунты."
+   },
+   "notificationNotRecognized": {
+      "description": "Notification title",
+      "message": "Трек не распознан"
+   },
+   "notificationNotRecognizedText": {
+      "description": "Notification text",
+      "message": "Кликните на иконку справа от адресной строки, чтобы скорректировать информацию о треке."
+   },
+   "notificationUnableSignIn": {
+      "description": "Notification text",
+      "message": "Невозможно войти в $1. Пожалуйста, попробуйте позже."
+   },
+   "optIn": {
+      "description": "Opt in",
+      "message": "Принять"
+   },
+   "optOut": {
+      "description": "Opt out",
+      "message": "Отклонить"
+   },
+   "optionDisableGa": {
+      "description": "Option label",
+      "message": "Отключить Google Analytics"
+   },
+   "optionDisableGaTitle": {
+      "description": "Option title",
+      "message": "Отключить отправку анонимной статистики использования расширения"
+   },
+   "optionForceRecognize": {
+      "description": "Option label",
+      "message": "Принудительное распознавание"
+   },
+   "optionForceRecognizeTitle": {
+      "description": "Option title",
+      "message": "Принудительное распознавание треков"
+   },
+   "optionGmPodcasts": {
+      "description": "Option title",
+      "message": "Скроблить подкасты Google Play Music"
+   },
+   "optionGmPodcastsTitle": {
+      "description": "Option label",
+      "message": "Скроблить подкасты Google Play Music"
+   },
+   "optionUnrecognizedNotifications": {
+      "description": "Option label",
+      "message": "Уведомлять, если трек не распознан"
+   },
+   "optionUnrecognizedNotificationsTitle": {
+      "description": "Option title",
+      "message": "Показывать уведомление, если расширение не смогло распознать трек"
+   },
+   "optionUseNotifications": {
+      "description": "Option label",
+      "message": "Уведомлять о проигрываемом треке"
+   },
+   "optionUseNotificationsTitle": {
+      "description": "Option title",
+      "message": "Показывать уведомления о проигрываемом треке для всех поддерживаемых сайтов"
+   },
+   "optionYtDesc": {
+      "description": "Description of Youtube options",
+      "message": "Если вы отключите обе настройки, расширение будет скробблить видео из всех категорий."
+   },
+   "optionYtEntertainmentOnly": {
+      "description": "Option label",
+      "message": "Скробблить видео только из категории \"Развлечения\""
+   },
+   "optionYtEntertainmentOnlyTitle": {
+      "description": "Option title",
+      "message": "Игнорировать треки, которые не в категории \"Развлечения\""
+   },
+   "optionYtMusicOnly": {
+      "description": "Option title",
+      "message": "Скробблить видео только из категории \"Музыка\""
+   },
+   "optionYtMusicOnlyTitle": {
+      "description": "Option label",
+      "message": "Игнорировать треки, которые не в категории \"Музыка\""
+   },
+   "optionsAbout": {
+      "description": "'About' section",
+      "message": "О расширении"
+   },
+   "optionsAccounts": {
+      "description": "'Accounts' section",
+      "message": "Аккаунты"
+   },
+   "optionsCustomPatternsHint": {
+      "description": "Description of how to configure custom URL patterns",
+      "message": "Кликните на иконку с шестерёнкой, чтобы настроить пользовательские шаблоны URL для коннекторов. \u003Ca target='_blank' href='https://github.com/web-scrobbler/web-scrobbler/wiki/Custom-URL-patterns'>Узнать больше\u003C/a>"
+   },
+   "optionsEditedTracks": {
+      "description": "'Edited tracks' header",
+      "message": "Сохранённая информация о треках"
+   },
+   "optionsEditedTracksDesc": {
+      "description": "Description of edited tracks",
+      "message": "Расширение хранит редактированную вами информацию о треках."
+   },
+   "optionsEditedTracksPopupTitle": {
+      "description": "'Edited tracks' header",
+      "message": "$1 сохранённых треков"
+   },
+   "optionsEnableDisableHint": {
+      "description": "Enable/disable hint",
+      "message": "Поставьте или снимите галочку, чтобы включить или выключить коннекторы."
+   },
+   "optionsExportEdited": {
+      "description": "Button to export edited tracks",
+      "message": "Экспорт"
+   },
+   "optionsGeneral": {
+      "description": "'General' section",
+      "message": "Общие"
+   },
+   "optionsImportEdited": {
+      "description": "Button to import edited tracks",
+      "message": "Импорт"
+   },
+   "optionsOptions": {
+      "description": "'Options' section",
+      "message": "Настройки"
+   },
+   "optionsSupportedWebsites": {
+      "description": "'Supported websites' header",
+      "message": "Поддерживаемые сайты"
+   },
+   "optionsTitle": {
+      "description": "Title of options page",
+      "message": "Настройки Web Scrobbler"
+   },
+   "optionsToggle": {
+      "description": "Label of toggle button",
+      "message": "Переключить"
+   },
+   "optionsViewEdited": {
+      "description": "Button to view edited tracks",
+      "message": "Посмотреть"
+   },
+   "pageActionBase": {
+      "description": "`base` page action title",
+      "message": "Этот сайт поддерживается расширением"
+   },
+   "pageActionDisabled": {
+      "description": "`disabled` page action title",
+      "message": "Расширение поддерживает этот сайт, но вы отключили его"
+   },
+   "pageActionError": {
+      "description": "`loading` page action title",
+      "message": "Произошла служебная ошибка. Кликните для подробностей."
+   },
+   "pageActionIgnored": {
+      "description": "`ignored` page action title",
+      "message": "Проигнорировано $1"
+   },
+   "pageActionLoading": {
+      "description": "`loading` page action title",
+      "message": "Поиск $1"
+   },
+   "pageActionRecognized": {
+      "description": "`recognized` page action title",
+      "message": "Сейчас играет $1"
+   },
+   "pageActionScrobbled": {
+      "description": "`scrobbled` page action title",
+      "message": "Заскробблено $1"
+   },
+   "pageActionSkipped": {
+      "description": "`skipped` page action title",
+      "message": "Пропущено $1"
+   },
+   "pageActionUnknown": {
+      "description": "`unknown` page action title",
+      "message": "Трек не распознан. Кликните, чтобы ввести верные данные."
+   },
+   "pageActionUnsupported": {
+      "description": "`unsupported` page action title",
+      "message": "Web Scrobbler не поддерживает этот сайт."
+   },
+   "serviceErrorButton": {
+      "description": "Button label",
+      "message": "Открыть настройки"
+   },
+   "serviceErrorDesc": {
+      "description": "The description of service error",
+      "message": "Похоже, что-то произошло не так во время скробблинга трека. Пожалуйста, откройте страницу с настройками и попробуйте авторизоваться заново. Если это не помогает, пожалуйста, \u003Ca href=\"https://github.com/web-scrobbler/web-scrobbler/issues\" target=\"_blank\">сообщите о проблеме\u003C/a> на странице проекта на GitHub."
+   },
+   "serviceErrorHeader": {
+      "description": "The header of 'error' popup",
+      "message": "Служебная ошибка"
+   },
+   "showSomeLoveText1": {
+      "description": "",
+      "message": "В отличие от других расширений, это не содержит рекламные баннеры."
+   },
+   "showSomeLoveText2": {
+      "description": "",
+      "message": "Я разрабатываю это расширение в свободное время, и я делаю и буду делать это безвозмездно. Однако, вы можете сделать пожертвование, чтобы убедиться, что у меня достаточно кофе и пиццы для ночного кодинга."
+   },
+   "showSomeLoveTitle": {
+      "description": "'Show some love' section",
+      "message": "Пожертвования"
+   },
+   "startupFinished": {
+      "description": "Startup finished text",
+      "message": "Спасибо! Если вы захотите изменить свой выбор, вы можете сделать это в настройках расширения."
+   },
+   "startupIntroText": {
+      "description": "Startup intro text",
+      "message": "Прежде, чем мы начнём скробблить ваши композиции, вам следует ознакомиться с нашей политикой конфиденциальности и принять или отклонить её."
+   },
+   "startupIntroTitle": {
+      "description": "Startup intro title",
+      "message": "Благодарим за установку Web Scrobbler!"
+   },
+   "startupTitle": {
+      "description": "Title for startup page",
+      "message": "Добро пожаловать в Web Scrobbler!"
+   },
+   "unsupportedWebsiteDesc": {
+      "description": "The description of 'unsupported' popup",
+      "message": "Web Scrobbler не поддерживает скробблинг с этого сайта."
+   },
+   "unsupportedWebsiteHeader": {
+      "description": "The header of 'unsupported' popup",
+      "message": "Этот сайт не поддерживается"
+   }
+}

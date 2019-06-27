@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>drumbit</title>
+  <link href="css/jquery-ui.min.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+</head>
+<body>
+  <div class="bar">
+    <div class="title-bar-buttons">
+      <button id="mini-app"></button>
+      <button id="close-app"></button>
+    </div>
+  </div>  
+  <div class="preload">
+    <img src="css/images/preloader.gif">
+  </div>       
+  <div class="wrapper">
+    <div class="control">  
+      <div class="master-control"><!-- master vol, tempo, kits -->
+        <p>
+          <i class="vol-icon fa fa-volume-up"></i>
+          <span>Master volume</span> 
+        </p>
+        <span class="tooltip-master-vol"></span> <!-- Tooltip -->
+        <div id="master-vol"></div>
+        <p>
+          <i class="metronome-icon"></i>
+          <span>Tempo</span> 
+        </p>
+        <input id="tempo"> bpm
+        <div class="swing">
+          <span class="swing-label">Swing</span>
+          <span class="tooltip-swing-factor"></span> <!-- Tooltip -->
+          <div id="swing-factor"></div> 
+        </div>    
+        <div class="drum-kits">
+          <div class="preload-kit">
+            <img src="css/images/preloader.gif">
+          </div>            
+          <select id="kits"></select>
+        </div>    
+        <div class="impulse-responses">
+          <div class="preload-impulse">
+            <img src="css/images/preloader.gif">
+          </div>             
+          <select id="impulses"></select>
+          <div class="effects-level">     
+            <span class="tooltip-convolver-level"></span> <!-- Tooltip -->
+            <div id="convolver-level"></div>      
+          </div>           
+        </div>  
+        <div class="demos-and-filters">
+          <select id="demos">
+            <option value="none">No Demo</option>
+            <option value="rock">Rock</option>
+            <option value="rock2">Rock II</option>
+            <option value="funk">Funk</option>
+            <option value="funk2">Funk II</option>
+            <option value="bossa">Bossa Nova</option>
+            <option value="hip-hop">Hip-Hop</option>
+          </select>  
+          <table class="filters-leds">
+            <tr>
+              <td><button id="lowpass-led"></button></td>
+              <td><span>Low</span></td>
+              <td><button id="highpass-led"></button></td>
+              <td><span>High Pass</span></td>
+            </tr>              
+            <tr>
+              <td><button id="compressor-led"></button></td>
+              <td colspan="3"><span>Compressor</span></td>
+            </tr>  
+          </table>
+        </div>                   
+      </div> 
+      
+      <div class="visual-eq"><!-- visualizer -->
+        <div class="eq-colors">
+          <div class="eq-color" id="red"></div>
+          <div class="eq-color" id="yellow"></div>
+          <div class="eq-color" id="purple"></div>
+          <div class="eq-color" id="green"></div>  
+        </div>
+        <div id="marketing">
+          <div></div>
+      </div>       
+        <canvas height="170" width="375" class="visualizer"></canvas>
+      </div>
+      <div class="options">
+        <button tabindex="-1" class="btn-panels" id="panning" data-tooltip="Left-right distribution"><i class="fa fa-sliders" aria-hidden="true"></i> Panning</button>
+        <button tabindex="-1" class="btn-panels" id="filtering" data-tooltip="Audio equalization"><i class="fa fa-filter" aria-hidden="true"></i> Filters</button>
+        <button tabindex="-1" class="btn-panels" id="preferences" data-tooltip="Startup defaults"><i class="fa fa-cog" aria-hidden="true"></i> Preferences</button>
+        <a tabindex="-1" id="plus" href="https://chrome.google.com/webstore/detail/drumbit-plus/ibljjpnohhiphakedmfkklinogeomelb"
+          target="_blank" data-tooltip="Plus edition"><i class="fa fa-chrome" aria-hidden="true"></i> Plus</a>            
+        <a tabindex="-1" id="help" href="https://drumbit.app/help/?edition=free" target="_blank" data-tooltip="Help page"><i class="fa fa-question-circle" aria-hidden="true"></i> Help</a>
+      </div>      
+      <div class="features"><!-- open, save, play, etc -->
+        <h1>
+          <img id="logo" src="css/images/drumbit-logo.png" alt="drumbit" />
+          <span>by <a href="https://pluraldev.com/apps/" target = "_blank">João Santos</a></span>
+        </h1>
+        <div class="row-a">
+          <div id="gen-wav">Generating sound file...</div>
+          <div id="rec">REC <span id="minutes">00</span>:<span id="seconds">00</span></div>
+          <button tabindex="-1" id="open" data-tooltip="Open file"><i class="fa fa-folder-open"></i></button>
+          <button tabindex="-1" id="save" data-tooltip="Save file"><i class="fa fa-floppy-o"></i></button>
+          <button tabindex="-1" id="clear-all" data-tooltip="Clear all"><i class="fa fa-refresh"></i></button>
+          <button tabindex="-1" id="clear" data-tooltip="Clear"><i class="fa fa-undo"></i></button>
+          <button tabindex="-1" id="record"><i class="fa fa-circle"></i></button>  
+        </div>
+        <div class="row-b">
+          <div class="copy-paste"><span id="copy">Copy</span><span id="paste">Paste</span></div>
+          <button id="pattern-0" class="patterns">1</button>
+          <button id="pattern-1" class="patterns">2</button>
+          <button id="pattern-2" class="patterns">3</button>
+          <button id="pattern-3" class="patterns">4</button>
+          <button id="play"><i class="fa fa-play"></i></button>          
+        </div>  
+        <div class="ads">
+          
+        </div>     
+      </div>
+    </div>
+    <div class="machine">
+      <div id="sequencer"> 
+        <div class="preload-file">
+          <img src="css/images/preloader.gif">
+        </div>          
+      </div>
+    </div>
+    <!--Panel -->
+    <!-- preferences -->
+    <div class="panel preferences-panel">
+      <span id="close-preferences" class="ui-icon ui-icon-circle-close"></span>
+      <div>
+        <label>Master Vol.</label><input id="default-master-vol">
+        <span class="pref-tempo"><label>Tempo</label><input id="default-tempo"></span>
+      </div>
+      <div class="pref-default-kit">
+        <select id="default-kit"></select>        
+      </div>  
+      <div class="pref-reset">
+        <button id="reset">Reset</button>
+      </div>        
+      <div class="pref-tooltips">
+        <label>Tooltips</label><input type="checkbox" class="custom-check" id="default-tooltips">
+        <span>*take effect after restart</span>
+      </div>
+      <!-- <span id="current-version"></span> -->
+      <button id="save-preferences">OK</button>
+    </div>       
+    
+    <!-- panning -->
+    <div class="panel panning-panel">
+      <span id="close-panning" class="ui-icon ui-icon-circle-close"></span>
+      <div class="trk-pans">
+        <p class="trk-name-0"></p>
+        <p class="trk-name-1"></p>
+        <p class="trk-name-2"></p>
+        <p class="trk-name-3"></p>
+        <p class="trk-name-4"></p>
+        <p class="trk-name-5"></p>
+        <p class="trk-name-6"></p>
+        <p class="trk-name-7"></p>      
+      </div>
+      <div id="pan"></div>
+    </div>    
+    
+    <!-- filters -->
+    <div class="panel filters-panel">
+      <span id="close-filters" class="ui-icon ui-icon-circle-close"></span>
+      <select id="filters"></select>
+      <div class="filter">
+        <div id="compressor">
+          <div id="add-compressor">
+            <input type="radio" id="compressor-on" name="compressor"><label for="compressor-on">ON</label>
+            <input type="radio" id="compressor-off" name="compressor" checked="checked"><label for="compressor-off">OFF</label>
+          </div>
+          <div class="filter-levels">
+            <div class="filter-level">
+              <label>Threshold</label>
+              <span class="tooltip-compressor-threshold"></span> <!-- Tooltip --> 
+              <div id="compressor-threshold"></div> <span class="filter-unit">dB</span>              
+            </div>
+            <div class="filter-level">
+              <label>Ratio</label>
+              <span class="tooltip-compressor-ratio"></span> <!-- Tooltip -->           
+              <div id="compressor-ratio"></div> <span class="filter-unit">:1</span>                 
+            </div>
+            <div class="filter-level">
+              <label>Attack</label>
+              <span class="tooltip-compressor-attack"></span> <!-- Tooltip -->            
+              <div id="compressor-attack"></div> <span class="filter-unit">ms</span>                
+            </div>
+            <div class="filter-level">
+              <label>Release</label>
+              <span class="tooltip-compressor-release"></span> <!-- Tooltip -->             
+              <div id="compressor-release"></div> <span class="filter-unit">ms</span>                   
+            </div>          
+            <div class="filter-level">
+              <label>Knee</label>
+              <span class="tooltip-compressor-knee"></span> <!-- Tooltip -->         
+              <div id="compressor-knee"></div> <span class="filter-unit">dB</span>    
+            </div>           
+          </div>
+        </div>
+        <div id="lowpass">
+          <div id="add-lowpass">
+            <input type="radio" id="lowpass-on" name="lowpass"><label for="lowpass-on">ON</label>
+            <input type="radio" id="lowpass-off" name="lowpass" checked="checked"><label for="lowpass-off">OFF</label>
+          </div> 
+          <div class="filter-levels">
+            <div class="filter-level">
+              <label>Frequency</label>
+              <span class="tooltip-lowpass-frequency"></span> <!-- Tooltip --> 
+              <div id="lowpass-frequency"></div> <span class="filter-unit">Hz</span>              
+            </div>
+            <div class="filter-level">
+              <label>Q</label>
+              <span class="tooltip-lowpass-q"></span> <!-- Tooltip -->           
+              <div id="lowpass-q"></div> <span class="filter-unit"></span>                 
+            </div>          
+          </div>        
+        </div>    
+        <div id="highpass">
+          <div id="add-highpass">
+            <input type="radio" id="highpass-on" name="highpass"><label for="highpass-on">ON</label>
+            <input type="radio" id="highpass-off" name="highpass" checked="checked"><label for="highpass-off">OFF</label>
+          </div> 
+          <div class="filter-levels">
+            <div class="filter-level">
+              <label>Frequency</label>
+              <span class="tooltip-highpass-frequency"></span> <!-- Tooltip --> 
+              <div id="highpass-frequency"></div> <span class="filter-unit">Hz</span>              
+            </div>
+            <div class="filter-level">
+              <label>Q</label>
+              <span class="tooltip-highpass-q"></span> <!-- Tooltip -->           
+              <div id="highpass-q"></div> <span class="filter-unit"></span>                 
+            </div>          
+          </div>    
+        </div>       
+      </div>
+    </div>   
+    
+    <!-- Invalid File Dialog -->
+    <div id="invalid-file-dialog" title="Open File">
+      <p></p>
+    </div>     
+    <!-- Reset Dialog --> 
+    <div id="reset-dialog" title="Reset">
+      <p>
+        <i class="fa fa-exclamation-triangle"></i>
+        This action will reset all settings to their defaults.
+      </p>     
+    </div>  
+      
+    <!-- Clear Dialog -->  
+    <div id="clear-dialog" title="Clear all">
+      <i class="fa fa-exclamation-triangle"></i>
+      <p>
+        This action will clear all the patterns along with panning, volumes and pitches.
+      </p>
+      <label>Don't show again</label><input type="checkbox" class="custom-check" id="clear-show">
+    </div>   
+  
+    <!-- Notice -->  
+    <div id="notice-dialog" title="Important notice">
+      <p>
+          No more new features will be added to this edition. The <a href="https://drumbit.app" target="_blank">Web App</a>, 
+          also free and compatible with all modern browsers, and the  <a href="https://chrome.google.com/webstore/detail/drumbit-plus/ibljjpnohhiphakedmfkklinogeomelb" target="_blank">drumbit Plus edition</a>, will continue to move forward. Please, consider using them instead.      
+      </p>
+      <p>
+        Checkout the new features, including "Keys mode" on <a href="https://drumbit.app" target="_blank">drumbit.app</a>.
+      </p>
+      <label>Don't show again</label><input type="checkbox" class="custom-check" id="notice-show">
+    </div>   
+       
+  </div><!--/ wrapper -->
+  
+  <script src="js/jquery.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/recorder.js"></script>
+  <script src="js/tuna.js"></script>
+  <script src="js/drumbit.js"></script>
+</body>
+</html>

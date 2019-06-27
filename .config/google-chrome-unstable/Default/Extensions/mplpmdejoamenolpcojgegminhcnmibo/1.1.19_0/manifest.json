@@ -1,0 +1,21 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "description": "A very easy to use drum machine.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+z3kWLgGJPXqPsDXgIffTHI+w1AqMuj58Xi+ebmEi2CcAhytwty78euFtuHHkg6cQGQBNWuDBU6dPsVAfTxPcHj9rnjQDQUcDwNOPVeO3hzaDav3hG3QpPi9zbskCb6kysnscxeEr/xLK5dScD/6GV0btjHVyGddm/K0/Yb/tKrxRVAzN5DJZWnm6GN5rB74YujbuuUuRwyzMQKH/pn7YJndmnJ2XW3GlhLTElgiy9tdk/rQ38iCrESazFFll0i/MjyAgK5nQk9FT4uQP3AQeVGhQ0vou9pw0vH4u/Usp4uGbd4fcgNtSJ0BkPBUW55QaF3gX5dRaJLaf761wDmxwIDAQAB",
+   "manifest_version": 2,
+   "name": "drumbit",
+   "offline_enabled": true,
+   "permissions": [ "storage", {
+      "fileSystem": [ "write" ]
+   } ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.19"
+}

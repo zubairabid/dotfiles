@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html ng-app="h265player" ng-csp="">
+<head>
+    <link rel="stylesheet" href="css/alertify-0.4.0rc1.css" />
+    <link rel="stylesheet" href="css/alertify-0.4.0rc1.bootstrap.css" />
+    <link rel="stylesheet" href="css/bootstrap-2.3.2.min.css" />
+    <link rel="stylesheet" href="css/libjass-0.10.0.css" />
+    <link rel="stylesheet" href="app.css" />
+    <style type="text/css">
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+      display: none !important;
+    }
+    </style>
+</head>
+<body data-ng-controller="PlayerController">
+    <div id="loader" data-ng-show="loading"></div>
+    <div id="container">
+        <div id="clicker" class="fullbox" data-ng-mousemove="mouseMove($event)" data-ng-dblclick="toggleFullscreen()"></div>
+        <div id="fullscreencontrols" data-ng-mousemove="mouseMove($event)" data-ng-if="isFullscreen()">
+            <div class="column left">
+                <form class="form-inline">
+                    <button class="btn"
+                            data-ng-click="openMovie()"><i class="icon-folder-open" title="{{'open_movie_file' | i18n}}"></i> {{'open' | i18n}}</button>
+                    <button class="btn"
+                            data-ng-click="playMovie()"
+                            data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting'}"
+                            data-ng-disabled="state === 'empty'"
+                            data-ng-show="state !== 'playing' && state !== 'finished'"><i class="icon-play" title="{{'start_playback' | i18n}}"></i> {{'play' | i18n}}</button>
+                    <button class="btn"
+                            data-ng-click="pauseMovie()"
+                            data-ng-class="{'disabled': state !== 'playing'}"
+                            data-ng-disabled="state === 'empty'"
+                            data-ng-show="state === 'playing' || state === 'finished'"><i class="icon-pause" title="{{'pause_playback' | i18n}}"></i> {{'pause' | i18n}}</button>
+                    <button class="btn"
+                            data-ng-click="stopMovie()"
+                            data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting'}"
+                            data-ng-disabled="state === 'empty'"><i class="icon-stop" title="{{'stop_playback' | i18n}}"></i> {{'stop' | i18n}}</button>
+                    <button class="btn"
+                            data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting' || state === 'finished'}"
+                            data-ng-click="toggleFullscreen()"
+                            data-ng-disabled="state === 'empty' || state === 'finished'"><i class="icon-fullscreen" title="{{'toggle_fullscreen' | i18n}}"></i></button>
+                    <button class="btn"
+                            data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting' || state === 'finished'}"
+                            data-ng-click="volume_visible=!volume_visible"
+                            data-ng-disabled="state === 'empty' || state === 'finished'"><i class="icon-volume-up" title="{{'volume' | i18n}}"></i></button>
+                    <span ng-show="volume_visible" class="volumecontainer">
+                        <div class="volumebar">
+                            <input type="range" min="0" max="200" step="1" value="100" data-ng-model="$parent.volume" />
+                        </div>
+                    </span>
+                    <span ng-show="volume_visible" class="volume">{{ volume }} %</span>
+                    <select ng-show="has_subtitles" class="form-control" data-ng-model="$parent.current_subtitle" data-ng-options="sub.id as sub.title for sub in subtitles_list">
+                        <option value="">{{'no_subtitle' | i18n}}</option>
+                    </select>
+                </form>
+            </div>
+            <div class="column right">
+                <div class="rightprogress">
+                    <div class="time">{{timestamp}}</div>
+                </div>
+                <div class="leftprogress">
+                    <div class="progress" ng-click="seekMovie($event)">
+                        <div class="bar" style="width: {{progress}}%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="video" class="fullbox" video-container></div>
+        <div id="subtitles"></div>
+    </div>
+    <div class="footer" ng-cloak>
+        <div class="column left">
+            <form class="form-inline">
+                <button class="btn"
+                        data-ng-click="openMovie()"><i class="icon-folder-open" title="{{'open_movie_file' | i18n}}"></i> {{'open' | i18n}}</button>
+                <button class="btn"
+                        data-ng-click="playMovie()"
+                        data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting'}"
+                        data-ng-disabled="state === 'empty'"
+                        data-ng-show="state !== 'playing' && state !== 'finished'"><i class="icon-play" title="{{'start_playback' | i18n}}"></i> {{'play' | i18n}}</button>
+                <button class="btn"
+                        data-ng-click="pauseMovie()"
+                        data-ng-class="{'disabled': state !== 'playing'}"
+                        data-ng-disabled="state === 'empty'"
+                        data-ng-show="state === 'playing' || state === 'finished'"><i class="icon-pause" title="{{'pause_playback' | i18n}}"></i> {{'pause' | i18n}}</button>
+                <button class="btn"
+                        data-ng-click="stopMovie()"
+                        data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting'}"
+                        data-ng-disabled="state === 'empty'"><i class="icon-stop" title="{{'stop_playback' | i18n}}"></i> {{'stop' | i18n}}</button>
+                <button class="btn"
+                        data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting' || state === 'finished'}"
+                        data-ng-click="toggleFullscreen()"
+                        data-ng-disabled="state === 'empty' || state === 'finished'"><i class="icon-fullscreen" title="{{'toggle_fullscreen' | i18n}}"></i></button>
+                <button class="btn"
+                        data-ng-class="{'disabled': state === 'empty' || state === 'loading' || state === 'starting' || state === 'finished'}"
+                        data-ng-click="volume_visible=!volume_visible"
+                        data-ng-disabled="state === 'empty' || state === 'finished'"><i class="icon-volume-up" title="{{'volume' | i18n}}"></i></button>
+                <span ng-show="volume_visible" class="volumecontainer">
+                    <div class="volumebar">
+                        <input type="range" min="0" max="200" step="1" value="100" data-ng-model="volume" />
+                    </div>
+                </span>
+                <span ng-show="volume_visible" class="volume">{{ volume }} %</span>
+                <select ng-show="has_subtitles" class="form-control" data-ng-model="current_subtitle" data-ng-options="sub.id as sub.title for sub in subtitles_list">
+                    <option value="">{{'no_subtitle' | i18n}}</option>
+                </select>
+            </form>
+        </div>
+        <div class="column right">
+            <div class="rightprogress">
+                <div class="time">{{timestamp}}</div>
+                <div id="powered">
+                    <div>powered by<br/><a target="_blank" href="http://www.libde265.org">libde265</a></div>
+                </div>
+            </div>
+            <div class="leftprogress">
+                <div class="progress" ng-click="seekMovie($event)">
+                    <div class="bar" style="width: {{progress}}%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/angular-1.1.5.min.js"></script>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap-2.3.2.min.js"></script>
+    <script src="js/alertify-0.4.0rc1.min.js"></script>
+    <script src="js/bigscreen-2.0.4.min.js"></script>
+    <script src="js/underscore-1.7.0.min.js"></script>
+    <script src="js/libjass-0.10.0.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

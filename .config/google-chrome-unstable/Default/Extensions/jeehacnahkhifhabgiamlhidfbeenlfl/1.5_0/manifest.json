@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon128.png",
+         "16": "icon16.png",
+         "64": "icon64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "How to use"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.min.js", "arrive.min.js", "inject.js", "hotstar-free.js" ],
+      "matches": [ "https://www.hotstar.com/*", "http://www.hotstar.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "Watch free worldcup 2019 without subscription in hotstar",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "64": "icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwDWB+qq0dY70CZqNFE9LqbVxw1QgFwcGY4pJT8v8RPT9Zl5Iwg0zFp+by3z9FZgJJR2ZkDcqcVD8NA/5YyjOTwMWNyQ9KgwXHrnuKLtktscESNod9OCL+zfAqDKKv/tbodP1UAQFkMF/5pU4BqszV2lyHJ0ktFudBFlrA/zL8HA4/lTd6smi4TSB1JqBtmf/Vl8MbRg5c2c2NMchS+DLPXHDF4jTSLflLb+7NFFRT9W64erniwk2A1I9GK75QpV0TkRqHVCrAANyb2dtwM+gQ4AfN3Z5/A+JccgJNCxBYK452WxuoM4ZyBHboEM8y9PMpcVzPoQRzdZYpjsOpZerkwIDAQAB",
+   "manifest_version": 2,
+   "name": "Hotstar free live - Free worldcup 2019",
+   "permissions": [ "browsingData", "activeTab", "tabs", "http://*.hotstar.com/*", "https://*.hotstar.com/*", "storage", "webRequest", "webRequestBlocking", "*://*.akamaihd.net/*", "*://*.akamaized.net/*", "*://*.akamai.com/*", "*://*.hotstar-cdn.net/*", "http://*.amazon.in/*", "https://*.amazon.in/*", "http://*.flipkart.com/*", "https://*.flipkart.com/*", "cookies" ],
+   "short_name": "hotstar unblock",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5",
+   "web_accessible_resources": [ "*.png", "*.html", "*.js" ]
+}

@@ -1,0 +1,89 @@
+{
+   "application_description": {
+      "message": "Reproducción de archivos de vídeo H.265 / HEVC."
+   },
+   "application_name": {
+      "message": "Reproductor H.265 / HEVC"
+   },
+   "buffer_underrun": {
+      "message": "Su equipo es demasiado lento para decodificar el video en tiempo real, el rendimiento de la reproducción puede verse afectado."
+   },
+   "could_not_load_player": {
+      "message": "El reproductor no se pudo cargar. Por favor, vuelva a instalar la aplicación."
+   },
+   "could_not_open_file": {
+      "message": "No se pudo abrir el archivo seleccionado."
+   },
+   "doubleclick_fullscreen": {
+      "message": "Por favor, haga doble clic en el vídeo para activar/desactivar el modo pantalla completa."
+   },
+   "error_msg_decoding_audio": {
+      "message": "Error al decodificar paquete de audio."
+   },
+   "error_msg_decoding_video": {
+      "message": "Error al decodificar paquete de video."
+   },
+   "error_msg_no_streams": {
+      "message": "No se pudo abrir el archivo. Por favor, asegúrese de que el archivo seleccionado es legible y contiene un formato de vídeo compatible."
+   },
+   "error_msg_no_supported_streams": {
+      "message": "El archivo seleccionado utiliza un codec de vídeo y/o audio no soportado/s. Por favor, seleccione un archivo de vídeo codificado con el codec de video H.265/HEVC y con el codec de audio AAC, AC3, MP3 o OGG."
+   },
+   "error_msg_open_input": {
+      "message": "No se pudo abrir el archivo. Por favor, asegúrese de que el archivo seleccionado es legible y contiene un formato de vídeo compatible."
+   },
+   "filesystem_api_required": {
+      "message": "Se requiere chrome.fileSystem API para reproducir vídeos."
+   },
+   "no_subtitle": {
+      "message": "Sin subtítulos"
+   },
+   "open": {
+      "message": "Abrir"
+   },
+   "open_file_description": {
+      "message": "Archivos de vídeo"
+   },
+   "open_movie_file": {
+      "message": "Abrir archivo de vídeo"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "pause_playback": {
+      "message": "Pausar reproducción"
+   },
+   "play": {
+      "message": "Play"
+   },
+   "player_crashed": {
+      "message": "Lo sentimos, el reproductor ha fallado. Por favor, inténtelo de nuevo."
+   },
+   "start_playback": {
+      "message": "Comenzar reproducción"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_playback": {
+      "message": "Parar reproducción"
+   },
+   "subtitle_idx": {
+      "message": "Subtítulo $index$",
+      "placeholders": {
+         "index": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "toggle_fullscreen": {
+      "message": "Cambiar a modo pantalla completa"
+   },
+   "unknown_playback_error": {
+      "message": "El archivo seleccionado no se puede cargar o contiene un formato no compatible."
+   },
+   "volume": {
+      "message": "Intensidad de sonido"
+   }
+}

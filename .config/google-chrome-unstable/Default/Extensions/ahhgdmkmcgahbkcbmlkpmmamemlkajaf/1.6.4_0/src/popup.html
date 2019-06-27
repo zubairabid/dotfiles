@@ -1,0 +1,38 @@
+<!doctype HTML>
+<html>
+    <head>
+        <title>Dictionary of Numbers</title>
+        <link href="./popup.css" type="text/css" rel="stylesheet" />
+
+    </head>
+    <body>
+        <div id="wrapper">
+            <h1>Dictionary of Numbers</h1>
+
+            <ul id="actions">
+                <li>
+                    <a href="#null" id="toggle" class="on">
+                        <span class="on">Pause Dictionary of Numbers</span>
+                        <span class="off">Dictionary of Numbers is paused. <b>Resume?</b></span>
+                    </a>
+                </li>
+            </ul>
+
+            <div id="search">
+                <div id="query">
+                    <input type="search" placeholder="Enter number..." results="5" autosave="dictionary_of_numbers" autofocus />
+                </div>
+
+                <div id="results"></div>
+            </div> <!-- #search -->
+
+        </div> <!-- #wrapper -->
+
+        <script src="../lib/underscore-min.js"></script>
+        <script src="../lib/underscore.string.min.js"></script>
+        <script src="../lib/jquery.min.js"></script>
+        <script src="../lib/async.min.js"></script>
+        <script src="./DictionaryofNumbers.js"></script>
+        <script src="./popup.js"></script>
+    </body>
+</html>

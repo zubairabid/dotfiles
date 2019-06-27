@@ -1,0 +1,10 @@
+AADHAR
+ICSE
+VLC
+Westeros
+Xubuntu
+Zubair
+manoeuvre
+sudo
+xubuntu
+checksum_v1 = f50f158dfb04f391aab50c443daae226

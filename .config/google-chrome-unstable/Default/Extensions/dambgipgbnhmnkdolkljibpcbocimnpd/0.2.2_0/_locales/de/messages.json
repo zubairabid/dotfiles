@@ -1,0 +1,89 @@
+{
+   "application_description": {
+      "message": "Player für H.265 / HEVC Videodateien."
+   },
+   "application_name": {
+      "message": "H.265 / HEVC Player"
+   },
+   "buffer_underrun": {
+      "message": "Ihr Computer ist zu langsam, um das Video in Echtzeit zu dekodieren. Die Abspielgeschwindigkeit ist möglicherweise zu niedrig."
+   },
+   "could_not_load_player": {
+      "message": "Der Player konnte nicht gestartet werden, bitte installieren Sie die App neu."
+   },
+   "could_not_open_file": {
+      "message": "Die gewählte Datei kann nicht geöffnet werden."
+   },
+   "doubleclick_fullscreen": {
+      "message": "Bitte klicken Sie doppelt auf das Video, um zum Vollbild-Modus zu wechseln."
+   },
+   "error_msg_decoding_audio": {
+      "message": "Fehler beim Dekodieren eines Audio-Paketes."
+   },
+   "error_msg_decoding_video": {
+      "message": "Fehler beim Dekodieren eines Video-Paketes."
+   },
+   "error_msg_no_streams": {
+      "message": "Die gewählte Datei kann nicht geöffnet werden, bitte stellen Sie sicher, dass sie lesbar ist und ein unterstützes Format enthält."
+   },
+   "error_msg_no_supported_streams": {
+      "message": "Die gewählte Datei enthält keine unterstützen Audio- und/oder Videoformate. Bitte wählen Sie eine Datei mit H.265/HEVC Video und AAC, AC3, MP3 oder OGG Audio aus."
+   },
+   "error_msg_open_input": {
+      "message": "Die gewählte Datei kann nicht geöffnet werden, bitte stellen Sie sicher, dass sie lesbar ist und ein unterstützes Format enthält."
+   },
+   "filesystem_api_required": {
+      "message": "Die chrome.fileSystem API wird benötigt, um Videos abzuspielen."
+   },
+   "no_subtitle": {
+      "message": "Keine Untertitel"
+   },
+   "open": {
+      "message": "Öffnen"
+   },
+   "open_file_description": {
+      "message": "Videodateien"
+   },
+   "open_movie_file": {
+      "message": "Videodatei öffnen"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "pause_playback": {
+      "message": "Wiedergabe unterbrechen"
+   },
+   "play": {
+      "message": "Abspielen"
+   },
+   "player_crashed": {
+      "message": "Es tut uns leid, aber der Player hat sich unerwartet beendet. Bitte versuchen Sie es noch einmal."
+   },
+   "start_playback": {
+      "message": "Wiedergabe starten"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_playback": {
+      "message": "Wiedergabe beenden"
+   },
+   "subtitle_idx": {
+      "message": "Untertitel $index$",
+      "placeholders": {
+         "index": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "toggle_fullscreen": {
+      "message": "Vollbild umschalten"
+   },
+   "unknown_playback_error": {
+      "message": "Die gewählte Datei kann nicht geöffnet werden, oder enthält ein nicht unterstützes Format."
+   },
+   "volume": {
+      "message": "Lautstärke"
+   }
+}

@@ -1,0 +1,58 @@
+#wrapper {
+    font: 13px/1 Helvetica, Arial, sans-serif;
+    width: 300px;
+}
+h1 {
+    text-align: right;
+    margin: 0;
+    font-size: 12px;
+}
+ul  {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+#actions li {
+    margin: 3px;
+}
+#actions a {
+    display: block;
+    color: #333;
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+}
+#actions a:hover {
+    border: 1px solid #ccc;
+    background-color: #f2f2f2;
+}
+
+/* show and hide toggle link text*/
+#toggle.on .on { display: block; }
+#toggle.on .off { display: none; }
+#toggle.off .on { display: none; }
+#toggle.off .off { display: block; }
+
+#query {
+    margin: 0 0 -5px 0;
+    padding: 8px 0;
+    border-top: 1px solid #ccc;
+}
+#query input {
+    width: 100%;
+}
+
+#results #quantities {
+    margin: 0;
+}
+#results #quantities {
+    margin-left: 1em;
+}
+#results #quantities li {
+    margin: 5px 0;
+    position: relative;
+}
+#results #quantities li span {
+    position: absolute;
+    left: -11px;
+}
