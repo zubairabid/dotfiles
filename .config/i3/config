@@ -367,6 +367,9 @@ bindsym $mod+Mod1+c exec ~/Scripts/Compton/qstart.sh
 # Kill
 bindsym $mod+Ctrl+Mod1+c exec ~/Scripts/Compton/quit.sh
 
+# Alternate Configuration
+bindsym $mod+Shift+Mod1+c exec ~/Scripts/Compton/qtrans.sh
+
 
 ################## MULTIMONITOR LAYOUT ###################
 # Default dual
