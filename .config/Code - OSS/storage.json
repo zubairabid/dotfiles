@@ -54,6 +54,7 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "fsPath": "/home/zubair/Documents/Extras/SraFavour/angelsite",
                                         "external": "file:///home/zubair/Documents/Extras/SraFavour/angelsite",
                                         "path": "/home/zubair/Documents/Extras/SraFavour/angelsite",
                                         "scheme": "file"
@@ -216,8 +217,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -584,8 +584,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -867,8 +866,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1425,10 +1423,10 @@
             "backupPath": "/home/zubair/.config/Code - OSS/Backups/1561222961004",
             "uiState": {
                 "mode": 1,
-                "x": 1381,
-                "y": 37,
-                "width": 1890,
-                "height": 1028
+                "x": 2333,
+                "y": 36,
+                "width": 939,
+                "height": 1030
             }
         },
         "openedWindows": []
