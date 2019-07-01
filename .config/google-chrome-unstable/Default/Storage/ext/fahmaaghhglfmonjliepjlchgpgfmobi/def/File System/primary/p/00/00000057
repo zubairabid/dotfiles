@@ -1,0 +1,39 @@
+
+
+-------session starts-------
+
+[6-29 21:0:7.794] INFO: Fetched user settings from server.
+[6-29 21:0:7.799] INFO: chromeapp:E ready
+[6-29 21:0:9.491] INFO: lsUserAddedMusicSourceIds=null
+[6-29 21:0:9.491] INFO: lsLastTrackFailureLoggingTime=null
+[6-29 21:0:13.983] INFO: Got the drag_and_drop directory
+[6-29 21:0:14.847] INFO: MediaGallery: name=/home/zubair/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[6-29 21:0:14.847] INFO: MediaGallery: name=/home/zubair/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[6-29 21:0:14.847] INFO: MediaGallery: name=/home/zubair/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[6-29 21:0:14.849] INFO: Starts a quick scan on /home/zubair/Music
+[6-29 21:0:14.849] INFO: Iterating over dir / from source /home/zubair/Music
+[6-29 21:0:14.849] INFO: Starts a quick scan on /home/zubair/Pictures
+[6-29 21:0:14.850] INFO: Iterating over dir / from source /home/zubair/Pictures
+[6-29 21:0:14.850] INFO: Starts a quick scan on /home/zubair/Videos
+[6-29 21:0:14.850] INFO: Iterating over dir / from source /home/zubair/Videos
+[6-29 21:0:14.856] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube from source /home/zubair/Music
+[6-29 21:0:15.0] INFO: Iterating over dir /IIIT work from source /home/zubair/Pictures
+[6-29 21:0:15.87] INFO: Iterating over dir /Movies from source /home/zubair/Videos
+[6-29 21:0:15.89] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/Covers from source /home/zubair/Music
+[6-29 21:0:15.192] INFO: Iterating over dir /IIIT work/Ping from source /home/zubair/Pictures
+[6-29 21:0:16.48] INFO: Iterating over dir /Movies/Alien DC (1979) [1080p] from source /home/zubair/Videos
+[6-29 21:0:16.49] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1 from source /home/zubair/Music
+[6-29 21:0:16.81] INFO: Iterating over dir /IIIT work/ecell from source /home/zubair/Pictures
+[6-29 21:0:16.228] INFO: Iterating over dir /Movies/Lock, Stock and Two Smoking Barrels (1998) [1080p] from source /home/zubair/Videos
+[6-29 21:0:16.230] INFO: /home/zubair/Music contains music file
+[6-29 21:0:16.312] INFO: Iterating over dir /IIIT work/ecell/res from source /home/zubair/Pictures
+[6-29 21:0:16.350] INFO: /home/zubair/Pictures does not contain music file
+[6-29 21:0:16.351] INFO: /home/zubair/Videos does not contain music file
+[6-29 21:0:16.351] INFO: lsUserSelectedDownloadDirId=null
+[6-29 21:0:16.355] INFO: lsDefaultDownloadLocationId=null
+[6-29 21:0:16.355] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[6-29 21:0:16.355] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[6-29 21:0:19.316] INFO: lsAppActivated=false
+[6-29 21:0:19.316] INFO: lsDragAndDropActivated=false
+[6-29 21:0:19.317] INFO: Nacl version: 1.0.467.4929
+[6-29 21:0:19.319] INFO: lsAppActivated=false

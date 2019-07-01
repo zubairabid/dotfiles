@@ -1,9 +1,9 @@
 sw_volume: 96
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 893
-time: 9.641000
+state: play
+current: 905
+time: 118.476000
 random: 0
 repeat: 0
 single: 0
@@ -916,4 +916,23 @@ playlist_begin
 901:Radiohead/Radiohead - OK Computer/10 No Surprises.mp3
 902:Radiohead/Radiohead - OK Computer/11 Lucky.mp3
 903:Radiohead/Radiohead - OK Computer/12 The Tourist.mp3
+904:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3
+905:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3
+906:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3
+907:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3
+908:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3
+909:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3
+910:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3
+911:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3
+912:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3
+913:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3
+914:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3
+915:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3
+916:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3
+917:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3
+918:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3
+919:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3
+920:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3
+921:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3
+922:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3
 playlist_end

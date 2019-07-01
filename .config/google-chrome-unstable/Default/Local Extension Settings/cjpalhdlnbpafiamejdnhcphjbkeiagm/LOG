@@ -1,18 +1,3 @@
-2019/06/27-15:32:38.811 229b Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2019/06/27-15:32:38.811 229b Recovering log #12
-2019/06/27-15:32:38.941 229b Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000012.log 
-2019/06/27-15:35:50.126 24a3 Level-0 table #16: started
-2019/06/27-15:35:50.446 24a3 Level-0 table #16: 3715408 bytes OK
-2019/06/27-15:35:50.498 24a3 Delete type=0 #12
-2019/06/27-15:35:50.505 24a3 Compacting 4@0 + 1@1 files
-2019/06/27-15:35:50.967 24a3 Generated table #17@0: 9 keys, 2109808 bytes
-2019/06/27-15:35:51.619 24a3 Generated table #18@0: 9 keys, 2286397 bytes
-2019/06/27-15:35:52.089 24a3 Generated table #19@0: 7 keys, 2658706 bytes
-2019/06/27-15:35:52.308 24a3 Generated table #20@0: 8 keys, 1263977 bytes
-2019/06/27-15:35:52.308 24a3 Compacted 4@0 + 1@1 files => 8318888 bytes
-2019/06/27-15:35:52.362 24a3 compacted to: files[ 0 4 1 0 0 0 0 ]
-2019/06/27-15:35:52.362 24a3 Delete type=2 #16
-2019/06/27-15:35:52.363 24a3 Delete type=2 #13
-2019/06/27-15:35:52.364 24a3 Delete type=2 #9
-2019/06/27-15:35:52.364 24a3 Delete type=2 #11
-2019/06/27-15:35:52.381 24a3 Delete type=2 #7
+2019/06/30-02:30:08.425 41b Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/06/30-02:30:08.425 41b Recovering log #28
+2019/06/30-02:30:09.055 41b Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000028.log 

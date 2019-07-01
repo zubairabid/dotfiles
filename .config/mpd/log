@@ -3126,3 +3126,133 @@ Jun 27 10:24 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid And
 Jun 27 11:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 27 11:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 27 11:49 : client: [0] opened from 127.0.0.1:60896
+Jun 27 19:50 : client: [0] closed
+Jun 27 19:50 : client: [1] opened from 127.0.0.1:37698
+Jun 27 19:56 : client: [1] closed
+Jun 27 19:56 : client: [2] opened from 127.0.0.1:37800
+Jun 28 00:21 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Jun 28 14:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 14:42 : client: [0] opened from 127.0.0.1:57204
+Jun 28 15:05 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Jun 28 15:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 15:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 15:15 : client: [0] opened from 127.0.0.1:54372
+Jun 28 23:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 23:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 23:14 : client: [0] opened from 127.0.0.1:38516
+Jun 29 00:57 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Jun 29 02:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 02:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 02:07 : client: [0] opened from 127.0.0.1:45870
+Jun 29 03:04 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Jun 29 15:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 15:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 15:22 : client: [0] opened from 127.0.0.1:50926
+Jun 29 15:22 : client: [1] opened from 127.0.0.1:50928
+Jun 29 15:28 : client: [0] closed
+Jun 29 15:28 : client: [1] closed
+Jun 29 15:28 : client: [2] opened from 127.0.0.1:50964
+Jun 29 15:28 : client: [3] opened from 127.0.0.1:50966
+Jun 29 16:14 : client: [4] opened from 127.0.0.1:51760
+Jun 29 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 16:14 : client: [4] closed
+Jun 29 16:14 : client: [5] opened from 127.0.0.1:51762
+Jun 29 16:14 : client: [5] closed
+Jun 29 16:32 : client: [2] closed
+Jun 29 16:32 : client: [3] closed
+Jun 29 16:32 : client: [6] opened from 127.0.0.1:52024
+Jun 29 16:32 : client: [7] opened from 127.0.0.1:52026
+Jun 29 16:33 : client: [7] closed
+Jun 29 16:33 : client: [6] closed
+Jun 29 16:33 : client: [8] opened from 127.0.0.1:52036
+Jun 29 16:33 : client: [9] opened from 127.0.0.1:52038
+Jun 29 16:34 : client: [9] closed
+Jun 29 16:34 : client: [8] closed
+Jun 29 16:34 : client: [10] opened from 127.0.0.1:52042
+Jun 29 16:34 : client: [11] opened from 127.0.0.1:52044
+Jun 29 16:35 : client: [12] opened from 127.0.0.1:52052
+Jun 29 16:35 : client: [13] opened from 127.0.0.1:52056
+Jun 29 16:35 : client: [13] closed
+Jun 29 16:35 : client: [12] closed
+Jun 29 17:09 : client: [11] closed
+Jun 29 17:09 : client: [10] closed
+Jun 29 17:09 : client: [14] opened from 127.0.0.1:52798
+Jun 29 17:09 : client: [15] opened from 127.0.0.1:52800
+Jun 29 19:06 : client: [16] opened from 127.0.0.1:54932
+Jun 29 19:06 : client: [16] closed
+Jun 29 19:06 : client: [17] opened from 127.0.0.1:54938
+Jun 29 19:06 : client: [17] closed
+Jun 29 19:06 : client: [18] opened from 127.0.0.1:54942
+Jun 29 19:06 : client: [18] closed
+Jun 29 19:06 : client: [19] opened from 127.0.0.1:54946
+Jun 29 19:06 : client: [19] closed
+Jun 29 19:06 : client: [20] opened from 127.0.0.1:54950
+Jun 29 19:06 : client: [20] closed
+Jun 29 19:06 : client: [21] opened from 127.0.0.1:54954
+Jun 29 19:06 : client: [21] closed
+Jun 29 19:06 : client: [22] opened from 127.0.0.1:54966
+Jun 29 19:06 : client: [22] closed
+Jun 29 19:06 : client: [23] opened from 127.0.0.1:54978
+Jun 29 19:06 : client: [23] closed
+Jun 29 19:10 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jun 29 19:16 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jun 29 19:21 : player: played "Radiohead/Radiohead - OK Computer/01 Airbag.mp3"
+Jun 29 19:27 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Jun 29 19:31 : player: played "Radiohead/Radiohead - OK Computer/03 Subterranean Homesick Alien.mp3"
+Jun 29 19:36 : player: played "Radiohead/Radiohead - OK Computer/04 Exit Music (For a Film).mp3"
+Jun 29 19:40 : player: played "Radiohead/Radiohead - OK Computer/05 Let Down.mp3"
+Jun 29 19:45 : player: played "Radiohead/Radiohead - OK Computer/06 Karma Police.mp3"
+Jun 29 19:47 : player: played "Radiohead/Radiohead - OK Computer/07 Fitter Happier.mp3"
+Jun 29 19:50 : player: played "Radiohead/Radiohead - OK Computer/08 Electioneering.mp3"
+Jun 29 19:55 : player: played "Radiohead/Radiohead - OK Computer/09 Climbing Up the Walls.mp3"
+Jun 29 19:59 : player: played "Radiohead/Radiohead - OK Computer/10 No Surprises.mp3"
+Jun 29 20:03 : player: played "Radiohead/Radiohead - OK Computer/11 Lucky.mp3"
+Jun 29 20:08 : player: played "Radiohead/Radiohead - OK Computer/12 The Tourist.mp3"
+Jun 29 23:12 : client: [15] closed
+Jun 29 23:12 : client: [14] closed
+Jun 29 23:12 : client: [24] opened from 127.0.0.1:57894
+Jun 29 23:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 23:40 : client: [0] opened from 127.0.0.1:49498
+Jun 29 23:41 : client: [1] opened from 127.0.0.1:49508
+Jun 29 23:41 : client: [1] closed
+Jun 30 02:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 02:27 : client: [0] opened from 127.0.0.1:41498
+Jun 30 04:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 04:46 : client: [0] opened from 127.0.0.1:33142
+Jun 30 18:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 18:46 : client: [0] opened from 127.0.0.1:44314
+Jun 30 18:46 : client: [1] opened from 127.0.0.1:44316
+Jul 01 20:34 : client: [0] closed
+Jul 01 20:34 : client: [1] closed
+Jul 01 20:34 : client: [2] opened from 127.0.0.1:60144
+Jul 01 20:34 : client: [3] opened from 127.0.0.1:60146
+Jul 01 20:36 : client: [3] closed
+Jul 01 20:36 : client: [2] closed
+Jul 01 20:36 : client: [4] opened from 127.0.0.1:60162
+Jul 01 20:36 : client: [5] opened from 127.0.0.1:60164
+Jul 01 20:36 : client: [5] closed
+Jul 01 20:36 : client: [4] closed
+Jul 01 20:36 : client: [6] opened from 127.0.0.1:60176
+Jul 01 20:36 : client: [7] opened from 127.0.0.1:60178
+Jul 01 20:39 : client: [7] closed
+Jul 01 20:39 : client: [6] closed
+Jul 01 20:39 : client: [8] opened from 127.0.0.1:60274
+Jul 01 20:39 : client: [9] opened from 127.0.0.1:60276
+Jul 01 20:40 : client: [8] closed
+Jul 01 20:40 : client: [9] closed
+Jul 01 20:40 : client: [10] opened from 127.0.0.1:60282
+Jul 01 20:40 : client: [11] opened from 127.0.0.1:60284
+Jul 01 20:41 : client: [12] opened from 127.0.0.1:60292
+Jul 01 20:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 01 20:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 01 20:42 : client: [13] opened from 127.0.0.1:60296
+Jul 01 20:42 : client: [13] closed
+Jul 01 20:42 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jul 01 20:42 : client: [14] opened from 127.0.0.1:60300
+Jul 01 20:42 : client: [14] closed
+Jul 01 20:43 : client: [12] closed
+Jul 01 20:43 : client: [15] opened from 127.0.0.1:60312
+Jul 01 20:43 : client: [16] opened from 127.0.0.1:60316
+Jul 01 20:43 : client: [16] closed
+Jul 01 20:44 : client: [15] closed

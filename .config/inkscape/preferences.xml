@@ -132,8 +132,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="0"
-         height="0"
+         width="293.905"
+         height="153.488"
          rx="0"
          ry="0" />
       <eventcontext
@@ -324,7 +324,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px"
+       unit="mm"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -354,8 +354,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="0"
-       y="0"
+       x="541.115"
+       y="524.459"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -422,7 +422,9 @@
        offset="0"
        offsetunits="mm" />
     <group
-       unit="px"
+       measure-end="0,0"
+       measure-start="0,0"
+       unit="mm"
        offset="5"
        scale="100"
        precision="2"
@@ -609,9 +611,9 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="26"
-       x="1873"
-       y="246"
+       page="45"
+       x="230"
+       y="90"
        w="906"
        h="587" />
     <group
@@ -630,7 +632,7 @@
     </group>
     <group
        id="save_as"
-       default="org.inkscape.output.svg.inkscape"
+       default="org.inkscape.print.eps.cairo"
        append_extension="1"
        enable_preview="1"
        path=""
@@ -644,7 +646,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/zubair/Downloads/" />
+       path="/home/zubair/Documents/Ping/Jul 19/Vectors/Buildings/" />
     <group
        id="import"
        enable_preview="1"
@@ -677,7 +679,19 @@
        id="treeeditor" />
     <group
        id="layers"
-       maxDepth="20" />
+       maxDepth="20"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="244"
+       h="179"
+       visible="1"
+       state="3"
+       placement="1" />
     <group
        id="extensioneditor" />
     <group
@@ -696,6 +710,20 @@
        on-focus="1.0"
        on-blur="0.50"
        animate-time="100" />
+    <group
+       id="objects"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="320"
+       h="855"
+       visible="1"
+       state="2"
+       placement="1" />
   </group>
   <group
      id="printing">
@@ -983,15 +1011,31 @@
        id="rendering" />
   </group>
   <group
-     id="extensions" />
+     id="extensions"
+     org.inkscape.print.eps.cairo.PSlevel="PS3"
+     org.inkscape.print.eps.cairo.resolution="96"
+     org.inkscape.print.eps.cairo.bleed="0"
+     org.inkscape.render.seamless_pattern_procedural.width="100"
+     org.inkscape.render.seamless_pattern_procedural.height="100"
+     org.inkscape.render.empty_video.size="Custom"
+     org.inkscape.render.empty_video.width="1920"
+     org.inkscape.render.empty_video.height="1080"
+     org.inkscape.render.empty_page.size="a3"
+     org.inkscape.render.empty_page.orientation="horizontal"
+     org.inkscape.render.empty_page.background="normal"
+     org.inkscape.render.empty_icon.size="16"
+     org.inkscape.render.empty_generic_canvas.width="800"
+     org.inkscape.render.empty_generic_canvas.height="600"
+     org.inkscape.render.empty_generic_canvas.unit="px"
+     org.inkscape.render.empty_generic_canvas.background="normal" />
   <group
      id="desktop"
      style="line-height:1.25;fill:#262425;fill-opacity:0.93193716">
     <group
-       width="658"
-       height="714"
-       x="690"
-       y="560"
+       width="1890"
+       height="1028"
+       x="1380"
+       y="36"
        fullscreen="0"
        id="geometry"
        maximized="0" />

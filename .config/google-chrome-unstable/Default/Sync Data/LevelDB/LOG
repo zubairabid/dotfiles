@@ -1,3 +1,15 @@
-2019/06/27-15:32:27.431 2220 Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/06/27-15:32:27.432 2220 Recovering log #12
-2019/06/27-15:32:27.791 2220 Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000012.log 
+2019/06/30-02:29:56.975 3b6 Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/06/30-02:29:57.003 3b6 Recovering log #16
+2019/06/30-02:29:57.101 3b6 Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000016.log 
+2019/06/30-02:33:43.446 605 Level-0 table #19: started
+2019/06/30-02:33:43.575 605 Level-0 table #19: 124882 bytes OK
+2019/06/30-02:33:43.626 605 Delete type=0 #16
+2019/06/30-02:33:43.626 605 Compacting 4@0 + 1@1 files
+2019/06/30-02:33:43.670 605 Generated table #20@0: 1610 keys, 273470 bytes
+2019/06/30-02:33:43.671 605 Compacted 4@0 + 1@1 files => 273470 bytes
+2019/06/30-02:33:43.721 605 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/06/30-02:33:43.722 605 Delete type=2 #13
+2019/06/30-02:33:43.744 605 Delete type=2 #19
+2019/06/30-02:33:43.744 605 Delete type=2 #10
+2019/06/30-02:33:43.753 605 Delete type=2 #15
+2019/06/30-02:33:43.753 605 Delete type=2 #7
