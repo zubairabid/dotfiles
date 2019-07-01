@@ -364,7 +364,7 @@ bindsym $mod+Ctrl+Right resize grow width 10 px or 10 ppt
 ################## GAPS ####################
 # Disabling window titlebars
 # You can also use any non-zero value if you'd like to have a border
-for_window [class=".*"] border pixel 1 
+for_window [class=".*"] border pixel 0 
 
 gaps inner 15
 
