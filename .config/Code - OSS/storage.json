@@ -593,8 +593,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1416,7 +1415,7 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#131313",
+    "themeBackground": "#282a36",
     "pickerWorkingDir": "/home/zubair/Documents/Acads/Projects/graphics-boilerplate",
     "windowsState": {
         "lastActiveWindow": {

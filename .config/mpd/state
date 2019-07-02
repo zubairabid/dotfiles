@@ -1,9 +1,9 @@
-sw_volume: 96
+sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
-current: 0
-time: 4.302000
+current: 344
+time: 4.041000
 random: 0
 repeat: 0
 single: 0
@@ -935,4 +935,22 @@ playlist_begin
 920:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3
 921:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3
 922:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3
+923:Jonny Greenwood - Phantom Thread [FLAC]/01 Phantom Thread I.flac
+924:Jonny Greenwood - Phantom Thread [FLAC]/02 The Hem.flac
+925:Jonny Greenwood - Phantom Thread [FLAC]/03 Sandalwood I.flac
+926:Jonny Greenwood - Phantom Thread [FLAC]/04 The Tailor of Fitzrovia.flac
+927:Jonny Greenwood - Phantom Thread [FLAC]/05 Alma.flac
+928:Jonny Greenwood - Phantom Thread [FLAC]/06 Boletus Felleus.flac
+929:Jonny Greenwood - Phantom Thread [FLAC]/07 Phantom Thread II.flac
+930:Jonny Greenwood - Phantom Thread [FLAC]/08 Catch Hold.flac
+931:Jonny Greenwood - Phantom Thread [FLAC]/09 Never Cursed.flac
+932:Jonny Greenwood - Phantom Thread [FLAC]/10 Thats As May Be.flac
+933:Jonny Greenwood - Phantom Thread [FLAC]/11 Phantom Thread III.flac
+934:Jonny Greenwood - Phantom Thread [FLAC]/12 Ill Follow Tomorrow.flac
+935:Jonny Greenwood - Phantom Thread [FLAC]/13 House of Woodcock.flac
+936:Jonny Greenwood - Phantom Thread [FLAC]/14 Sandalwood II.flac
+937:Jonny Greenwood - Phantom Thread [FLAC]/15 Barbara Rose.flac
+938:Jonny Greenwood - Phantom Thread [FLAC]/16 Endless Superstition.flac
+939:Jonny Greenwood - Phantom Thread [FLAC]/17 Phantom Thread IV.flac
+940:Jonny Greenwood - Phantom Thread [FLAC]/18 For the Hungry Boy.flac
 playlist_end

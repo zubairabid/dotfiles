@@ -1,0 +1,22 @@
+[2019-07-01 22:41:58.038] [exthost] [info] extension host started
+[2019-07-01 22:41:58.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-01 22:41:58.337] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-07-01 22:41:58.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-01 22:41:58.590] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2019-07-01 22:41:59.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-01 22:41:59.396] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2019-07-01 22:41:59.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-01 22:41:59.678] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-07-01 22:42:00.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-01 22:42:00.158] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-07-01 22:42:00.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-01 22:42:00.211] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-07-01 22:42:01.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-01 22:42:01.034] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-07-01 22:42:01.140] [exthost] [info] eager extensions activated
+[2019-07-01 22:44:09.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-01 22:44:09.750] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-07-01 22:44:09.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-01 22:44:09.845] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-07-01 22:44:10.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-01 22:44:10.286] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension

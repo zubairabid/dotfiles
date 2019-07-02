@@ -1,0 +1,47 @@
+
+
+-------session starts-------
+
+[7-2 9:58:39.945] INFO: lsUserAddedMusicSourceIds=null
+[7-2 9:58:39.945] INFO: lsLastTrackFailureLoggingTime=null
+[7-2 9:58:45.68] INFO: Got the drag_and_drop directory
+[7-2 9:58:45.960] INFO: MediaGallery: name=/home/zubair/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[7-2 9:58:45.960] INFO: MediaGallery: name=/home/zubair/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[7-2 9:58:45.960] INFO: MediaGallery: name=/home/zubair/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[7-2 9:58:45.992] INFO: Starts a quick scan on /home/zubair/Music
+[7-2 9:58:45.993] INFO: Iterating over dir / from source /home/zubair/Music
+[7-2 9:58:46.23] INFO: Starts a quick scan on /home/zubair/Pictures
+[7-2 9:58:46.23] INFO: Iterating over dir / from source /home/zubair/Pictures
+[7-2 9:58:46.27] INFO: Starts a quick scan on /home/zubair/Videos
+[7-2 9:58:46.27] INFO: Iterating over dir / from source /home/zubair/Videos
+[7-2 9:58:46.91] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube from source /home/zubair/Music
+[7-2 9:58:46.245] INFO: Iterating over dir /IIIT work from source /home/zubair/Pictures
+[7-2 9:58:46.323] INFO: Iterating over dir /Movies from source /home/zubair/Videos
+[7-2 9:58:46.346] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/Covers from source /home/zubair/Music
+[7-2 9:58:46.358] INFO: Iterating over dir /IIIT work/Ping from source /home/zubair/Pictures
+[7-2 9:58:46.927] INFO: Iterating over dir /Movies/Alien DC (1979) [1080p] from source /home/zubair/Videos
+[7-2 9:58:46.931] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1 from source /home/zubair/Music
+[7-2 9:58:46.977] INFO: Iterating over dir /IIIT work/ecell from source /home/zubair/Pictures
+[7-2 9:58:46.998] INFO: Iterating over dir /Movies/Lock, Stock and Two Smoking Barrels (1998) [1080p] from source /home/zubair/Videos
+[7-2 9:58:46.999] INFO: /home/zubair/Music contains music file
+[7-2 9:58:47.61] INFO: Iterating over dir /IIIT work/ecell/res from source /home/zubair/Pictures
+[7-2 9:58:47.127] INFO: Iterating over dir /IIIT work/ecell/CoreTeamPhotos from source /home/zubair/Pictures
+[7-2 9:58:47.142] INFO: Iterating over dir /Movies/DC from source /home/zubair/Videos
+[7-2 9:58:47.215] INFO: Iterating over dir /IIIT work/AlumniCell from source /home/zubair/Pictures
+[7-2 9:58:47.232] INFO: Iterating over dir /Movies/One Flew Over The Cuckoo's Nest (1975) [1080p] from source /home/zubair/Videos
+[7-2 9:58:47.271] INFO: Iterating over dir /IIIT work/AlumniCell/Resources from source /home/zubair/Pictures
+[7-2 9:58:47.409] INFO: Iterating over dir /Movies/Donnie Darko (2001) - 1080p from source /home/zubair/Videos
+[7-2 9:58:47.416] INFO: Iterating over dir /IIIT work/AlumniCell/Resources/Branding from source /home/zubair/Pictures
+[7-2 9:58:47.463] INFO: Iterating over dir /Movies/Her (2013) [1080p] from source /home/zubair/Videos
+[7-2 9:58:47.501] INFO: Iterating over dir /IIIT work/AlumniCell/video from source /home/zubair/Pictures
+[7-2 9:58:47.553] INFO: /home/zubair/Pictures does not contain music file
+[7-2 9:58:47.564] INFO: /home/zubair/Videos does not contain music file
+[7-2 9:58:47.569] INFO: lsUserSelectedDownloadDirId=null
+[7-2 9:58:47.643] INFO: lsDefaultDownloadLocationId=null
+[7-2 9:58:47.643] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[7-2 9:58:47.644] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[7-2 9:58:54.908] INFO: lsAppActivated=false
+[7-2 9:58:54.910] INFO: lsDragAndDropActivated=false
+[7-2 9:58:54.910] INFO: Nacl version: 1.0.467.4929
+[7-2 9:58:54.919] INFO: lsAppActivated=false
+[7-2 9:58:59.250] INFO: Error fetching features, backoff count: 1
