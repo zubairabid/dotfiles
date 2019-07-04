@@ -335,8 +335,8 @@
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
        selcue="1">
       <group
-         display_unit="0"
-         id="lineheight" />
+         id="lineheight"
+         display_unit="0" />
     </eventcontext>
     <eventcontext
        id="nodes"
@@ -354,8 +354,8 @@
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="541.115"
-       y="524.459"
+       x="0"
+       y="0"
        edit_clipping_paths="0"
        edit_masks="0" />
     <eventcontext
@@ -422,14 +422,14 @@
        offset="0"
        offsetunits="mm" />
     <group
-       measure-end="0,0"
-       measure-start="0,0"
-       unit="mm"
-       offset="5"
-       scale="100"
-       precision="2"
+       id="measure"
        fontsize="10"
-       id="measure" />
+       precision="2"
+       scale="100"
+       offset="5"
+       unit="mm"
+       measure-start="0,0"
+       measure-end="0,0" />
   </group>
   <group
      id="palette">
@@ -687,8 +687,8 @@
        panel_border="0"
        x="0"
        y="0"
-       w="244"
-       h="179"
+       w="1"
+       h="1"
        visible="1"
        state="3"
        placement="1" />
@@ -711,19 +711,19 @@
        on-blur="0.50"
        animate-time="100" />
     <group
-       id="objects"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       panel_border="0"
-       x="0"
-       y="0"
-       w="320"
-       h="855"
-       visible="1"
+       placement="1"
        state="2"
-       placement="1" />
+       visible="1"
+       h="187"
+       w="243"
+       y="0"
+       x="0"
+       panel_border="0"
+       panel_wrap="0"
+       panel_mode="1"
+       panel_ratio="100"
+       panel_size="1"
+       id="objects" />
   </group>
   <group
      id="printing">
@@ -1032,9 +1032,9 @@
      id="desktop"
      style="line-height:1.25;fill:#262425;fill-opacity:0.93193716">
     <group
-       width="1890"
-       height="1028"
-       x="1380"
+       width="939"
+       height="1030"
+       x="2333"
        y="36"
        fullscreen="0"
        id="geometry"

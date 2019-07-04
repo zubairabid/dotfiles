@@ -5,7 +5,7 @@
   <property name="panels" type="array">
     <value type="int" value="1"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=1643;y=10"/>
+      <property name="position" type="string" value="p=6;x=2326;y=10"/>
       <property name="span-monitors" type="bool" value="false"/>
       <property name="size" type="uint" value="21"/>
       <property name="length" type="uint" value="100"/>

@@ -39,11 +39,14 @@ bindsym $mod+Shift+q kill
 # start rofi as a program launcher
 # EDITED
 # bindsym $mod+d exec ~/Scripts/Rofi/launch.sh
-bindsym $mod+d exec rofi -show run
+bindsym Mod1+d exec rofi -show run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+#
+# Rofi sidetab
+bindsym $mod+d exec rofi -show drun -config ~/.config/rofi/config.themed
 
 # change focus
 # EDITED
@@ -410,8 +413,8 @@ bindsym $mod+Shift+Mod1+l exec ~/Scripts/MultiWindow/HDMI_only.sh
 # To display the network manager graphical interface as a widget on the bar
 exec nm-applet
 
-# Enabling tap to click on my system. Does not always work due to changing property numbers. TODO fix
-# exec --no-startup-id xinput set-prop "Synaptics TM3336-001" 281 1
+# Enabling tap to click on my system. Does not always work due to changing property numbers.
+exec --no=startup-id xinput set-prop "Synaptics TM3336-001" "libinput Tapping Enabled" 1
 
 # Sets a random picture from the Wallpapers folder as my wallpaper
 exec --no-startup-id ~/Scripts/Wallpaper/defswitch.sh

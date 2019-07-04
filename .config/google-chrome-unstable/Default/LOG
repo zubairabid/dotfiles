@@ -1,5 +1,43 @@
-2019/06/22-17:23:58.387 6bd1 Recovering log #8
-2019/06/22-17:23:58.583 6bd1 Level-0 table #10: started
-2019/06/22-17:23:58.857 6bd1 Level-0 table #10: 6381 bytes OK
-2019/06/22-17:23:59.368 6bd1 Delete type=3 #7
-2019/06/22-17:23:59.368 6bd1 Delete type=0 #8
+2019/07/02-21:20:07.168 7ed Recovering log #11
+2019/07/02-21:20:07.168 7ed Level-0 table #13: started
+2019/07/02-21:20:07.237 7ed Level-0 table #13: 157 bytes OK
+2019/07/02-21:20:07.339 7ed Delete type=0 #11
+2019/07/02-21:20:07.339 7ed Delete type=3 #9
+2019/07/02-21:39:25.381 182e Level-0 table #16: started
+2019/07/02-21:39:25.492 182e Level-0 table #16: 11179 bytes OK
+2019/07/02-21:39:25.545 182e Delete type=0 #14
+2019/07/02-21:39:25.545 182e Compacting 2@0 + 0@1 files
+2019/07/02-21:39:25.577 182e Generated table #17@0: 2 keys, 1275 bytes
+2019/07/02-21:39:25.577 182e Compacted 2@0 + 0@1 files => 1275 bytes
+2019/07/02-21:39:25.627 182e compacted to: files[ 2 1 0 0 0 0 0 ]
+2019/07/02-21:39:25.628 182e Delete type=2 #16
+2019/07/02-21:39:25.628 182e Delete type=2 #5
+2019/07/02-21:46:49.692 182e Level-0 table #19: started
+2019/07/02-21:46:49.760 182e Level-0 table #19: 14009 bytes OK
+2019/07/02-21:46:49.811 182e Delete type=0 #15
+2019/07/02-21:54:11.934 182e Level-0 table #21: started
+2019/07/02-21:54:12.099 182e Level-0 table #21: 14019 bytes OK
+2019/07/02-21:54:12.161 182e Delete type=0 #18
+2019/07/02-21:54:12.161 182e Compacting 2@0 + 0@1 files
+2019/07/02-21:54:12.161 182e Compacted 2@0 + 0@1 files => 0 bytes
+2019/07/02-21:54:12.211 182e compacted to: files[ 2 1 0 0 0 0 0 ]
+2019/07/02-21:54:12.212 182e Delete type=2 #13
+2019/07/02-21:54:12.212 182e Delete type=2 #10
+2019/07/02-23:50:05.236 182e Level-0 table #23: started
+2019/07/02-23:50:05.347 182e Level-0 table #23: 10915 bytes OK
+2019/07/02-23:50:05.454 182e Delete type=0 #20
+2019/07/03-00:00:21.559 182e Level-0 table #25: started
+2019/07/03-00:00:21.641 182e Level-0 table #25: 10342 bytes OK
+2019/07/03-00:00:21.693 182e Delete type=0 #22
+2019/07/03-00:00:21.693 182e Compacting 4@0 + 1@1 files
+2019/07/03-00:00:21.814 182e Generated table #26@0: 4 keys, 1991 bytes
+2019/07/03-00:00:21.814 182e Compacted 4@0 + 1@1 files => 1991 bytes
+2019/07/03-00:00:21.864 182e compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/07/03-00:00:21.864 182e Delete type=2 #17
+2019/07/03-00:00:21.864 182e Delete type=2 #23
+2019/07/03-00:00:21.864 182e Delete type=2 #21
+2019/07/03-00:00:21.865 182e Delete type=2 #19
+2019/07/03-00:00:21.865 182e Delete type=2 #25
+2019/07/03-03:36:32.270 182e Level-0 table #28: started
+2019/07/03-03:36:32.428 182e Level-0 table #28: 10310 bytes OK
+2019/07/03-03:36:32.535 182e Delete type=0 #24

@@ -1,0 +1,119 @@
+
+
+-------session starts-------
+
+[7-2 23:7:18.431] INFO: Fetched user settings from server.
+[7-2 23:7:18.437] INFO: chromeapp:E ready
+[7-2 23:7:19.147] INFO: lsUserAddedMusicSourceIds=null
+[7-2 23:7:19.147] INFO: lsLastTrackFailureLoggingTime=null
+[7-2 23:7:24.56] INFO: Got the drag_and_drop directory
+[7-2 23:7:24.60] INFO: MediaGallery: name=/home/zubair/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[7-2 23:7:24.60] INFO: MediaGallery: name=/home/zubair/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[7-2 23:7:24.60] INFO: MediaGallery: name=/home/zubair/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[7-2 23:7:24.61] INFO: Starts a quick scan on /home/zubair/Music
+[7-2 23:7:24.62] INFO: Iterating over dir / from source /home/zubair/Music
+[7-2 23:7:24.62] INFO: Starts a quick scan on /home/zubair/Pictures
+[7-2 23:7:24.62] INFO: Iterating over dir / from source /home/zubair/Pictures
+[7-2 23:7:24.62] INFO: Starts a quick scan on /home/zubair/Videos
+[7-2 23:7:24.62] INFO: Iterating over dir / from source /home/zubair/Videos
+[7-2 23:7:24.193] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube from source /home/zubair/Music
+[7-2 23:7:24.195] INFO: Iterating over dir /IIIT work from source /home/zubair/Pictures
+[7-2 23:7:24.279] INFO: Iterating over dir /Movies from source /home/zubair/Videos
+[7-2 23:7:24.387] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/Covers from source /home/zubair/Music
+[7-2 23:7:24.388] INFO: Iterating over dir /IIIT work/Ping from source /home/zubair/Pictures
+[7-2 23:7:24.388] INFO: Iterating over dir /Movies/Alien DC (1979) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.441] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1 from source /home/zubair/Music
+[7-2 23:7:24.444] INFO: Iterating over dir /IIIT work/ecell from source /home/zubair/Pictures
+[7-2 23:7:24.444] INFO: Iterating over dir /Movies/Lock, Stock and Two Smoking Barrels (1998) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.518] INFO: /home/zubair/Music contains music file
+[7-2 23:7:24.519] INFO: Iterating over dir /IIIT work/ecell/res from source /home/zubair/Pictures
+[7-2 23:7:24.520] INFO: Iterating over dir /Movies/DC from source /home/zubair/Videos
+[7-2 23:7:24.520] INFO: Iterating over dir /IIIT work/ecell/CoreTeamPhotos from source /home/zubair/Pictures
+[7-2 23:7:24.523] INFO: Iterating over dir /Movies/One Flew Over The Cuckoo's Nest (1975) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.525] INFO: Iterating over dir /IIIT work/AlumniCell from source /home/zubair/Pictures
+[7-2 23:7:24.526] INFO: Iterating over dir /Movies/Donnie Darko (2001) - 1080p from source /home/zubair/Videos
+[7-2 23:7:24.527] INFO: Iterating over dir /IIIT work/AlumniCell/Resources from source /home/zubair/Pictures
+[7-2 23:7:24.528] INFO: Iterating over dir /Movies/Her (2013) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.529] INFO: Iterating over dir /IIIT work/AlumniCell/Resources/Branding from source /home/zubair/Pictures
+[7-2 23:7:24.531] INFO: Iterating over dir /Movies/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG from source /home/zubair/Videos
+[7-2 23:7:24.532] INFO: Iterating over dir /IIIT work/AlumniCell/video from source /home/zubair/Pictures
+[7-2 23:7:24.534] INFO: Iterating over dir /Movies/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG/Subs from source /home/zubair/Videos
+[7-2 23:7:24.534] INFO: Iterating over dir /IIIT work/AlumniCell/video/out from source /home/zubair/Pictures
+[7-2 23:7:24.536] INFO: Iterating over dir /Movies/Contact.1997.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:24.538] INFO: Iterating over dir /IIIT work/AlumniCell/video/thumbnail from source /home/zubair/Pictures
+[7-2 23:7:24.539] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx] from source /home/zubair/Videos
+[7-2 23:7:24.541] INFO: Iterating over dir /IIIT work/AlumniCell/video/assets from source /home/zubair/Pictures
+[7-2 23:7:24.541] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx]/Others from source /home/zubair/Videos
+[7-2 23:7:24.544] INFO: Iterating over dir /Movies/Apocalypse Now Redux (1979) 1080p BrRip 5.1 x264 aac [TuGAZx]/Subtitles from source /home/zubair/Videos
+[7-2 23:7:24.546] INFO: Iterating over dir /IIIT work/AlumniCell/WS from source /home/zubair/Pictures
+[7-2 23:7:24.547] INFO: Iterating over dir /Movies/Star Wars The Last Jedi (2017) [BluRay] [1080p] [YTS.AM] from source /home/zubair/Videos
+[7-2 23:7:24.549] INFO: Iterating over dir /IIIT work/AlumniCell/Renders from source /home/zubair/Pictures
+[7-2 23:7:24.550] INFO: Iterating over dir /Movies/Ex Machina (2015) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.555] INFO: Iterating over dir /IIIT work/convincebatch from source /home/zubair/Pictures
+[7-2 23:7:24.555] INFO: Iterating over dir /Movies/Aliens DC (1986) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.557] INFO: Iterating over dir /Kerala from source /home/zubair/Pictures
+[7-2 23:7:24.557] INFO: Iterating over dir /Movies/DirectorSorted from source /home/zubair/Videos
+[7-2 23:7:24.560] INFO: Iterating over dir /Kerala/ZubairOP5 from source /home/zubair/Pictures
+[7-2 23:7:24.561] INFO: Iterating over dir /Movies/DirectorSorted/Aronofsky from source /home/zubair/Videos
+[7-2 23:7:24.568] INFO: Iterating over dir /Kerala/AbbuOP3 from source /home/zubair/Pictures
+[7-2 23:7:24.569] INFO: Iterating over dir /Movies/DirectorSorted/Aronofsky/Black.Swan.2010.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:24.582] INFO: Iterating over dir /Kerala/ShoaibNikon from source /home/zubair/Pictures
+[7-2 23:7:24.582] INFO: Iterating over dir /Movies/DirectorSorted/Aronofsky/Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:24.585] INFO: Iterating over dir /Kerala/ShoaibNikon/2017 from source /home/zubair/Pictures
+[7-2 23:7:24.623] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros from source /home/zubair/Videos
+[7-2 23:7:24.700] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12 from source /home/zubair/Pictures
+[7-2 23:7:24.701] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/O Brother, Where Art Thou (2000) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.705] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/25 from source /home/zubair/Pictures
+[7-2 23:7:24.743] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/No Country for Old Men 2007 1080p BluRay x264 AC3 - Ozlem from source /home/zubair/Videos
+[7-2 23:7:24.795] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/24 from source /home/zubair/Pictures
+[7-2 23:7:24.807] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/Inside.Llewyn.Davis.2013.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:24.817] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/21 from source /home/zubair/Pictures
+[7-2 23:7:24.817] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/Fargo (1996) [1080p] from source /home/zubair/Videos
+[7-2 23:7:24.819] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/26 from source /home/zubair/Pictures
+[7-2 23:7:24.820] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/Hail Caesar 2016 1080p WEB-DL x264 AC3-JYK from source /home/zubair/Videos
+[7-2 23:7:24.826] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/18 from source /home/zubair/Pictures
+[7-2 23:7:24.827] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/Hail Caesar 2016 1080p WEB-DL x264 AC3-JYK/Subs from source /home/zubair/Videos
+[7-2 23:7:24.829] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/23 from source /home/zubair/Pictures
+[7-2 23:7:24.829] INFO: Iterating over dir /Movies/DirectorSorted/CoenBros/The Big Lebowski 1998.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:24.835] INFO: Iterating over dir /Kerala/ShoaibNikon/2017/12/22 from source /home/zubair/Pictures
+[7-2 23:7:24.877] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick from source /home/zubair/Videos
+[7-2 23:7:24.881] INFO: Iterating over dir /webpage from source /home/zubair/Pictures
+[7-2 23:7:24.950] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/Full.Metal.Jacket.1987.1080p.BluRay.H264.AAC-RARBG from source /home/zubair/Videos
+[7-2 23:7:24.992] INFO: Iterating over dir /zubweb from source /home/zubair/Pictures
+[7-2 23:7:24.992] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/Eyes Wide Shut (1999) [1080p] from source /home/zubair/Videos
+[7-2 23:7:25.1] INFO: Iterating over dir /Personal from source /home/zubair/Pictures
+[7-2 23:7:25.1] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/A.Clockwork.Orange.1971.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:25.36] INFO: Iterating over dir /Personal/Photos from source /home/zubair/Pictures
+[7-2 23:7:25.40] INFO: Iterating over dir /Personal/Documents from source /home/zubair/Pictures
+[7-2 23:7:25.40] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous from source /home/zubair/Videos
+[7-2 23:7:25.43] INFO: Iterating over dir /Personal/Documents/Digha_Swapnadeepp from source /home/zubair/Pictures
+[7-2 23:7:25.44] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/The.Shining.1980.US.1080p.BluRay.H264.AAC-RARBG from source /home/zubair/Videos
+[7-2 23:7:25.102] INFO: Iterating over dir /PJ Workspace from source /home/zubair/Pictures
+[7-2 23:7:25.113] INFO: Iterating over dir /Movies/DirectorSorted/Kubrick/Dr.Strangelove.1964.720p.BluRay.x264-SiNNERS from source /home/zubair/Videos
+[7-2 23:7:25.115] INFO: Iterating over dir /CasualArt from source /home/zubair/Pictures
+[7-2 23:7:25.118] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve from source /home/zubair/Videos
+[7-2 23:7:25.119] INFO: Iterating over dir /CasualArt/EditedPhotos from source /home/zubair/Pictures
+[7-2 23:7:25.320] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Prisoners.2013.1080p.BluRay.DTS.x264-ETRG from source /home/zubair/Videos
+[7-2 23:7:25.323] INFO: Iterating over dir /CasualArt/EditedPhotos/Fin from source /home/zubair/Pictures
+[7-2 23:7:25.380] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Prisoners.2013.1080p.BluRay.DTS.x264-ETRG/Source vs. ETRG [BADASSMEDIA] - Screenshot Evaluations from source /home/zubair/Videos
+[7-2 23:7:25.382] INFO: Iterating over dir /CasualArt/Album from source /home/zubair/Pictures
+[7-2 23:7:25.399] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Prisoners.2013.1080p.BluRay.DTS.x264-ETRG/External AC3 from source /home/zubair/Videos
+[7-2 23:7:25.439] INFO: Iterating over dir /stickerwork from source /home/zubair/Pictures
+[7-2 23:7:25.440] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Prisoners.2013.1080p.BluRay.DTS.x264-ETRG/Screenshots from source /home/zubair/Videos
+[7-2 23:7:25.487] INFO: Iterating over dir /stickerwork/tshirt from source /home/zubair/Pictures
+[7-2 23:7:25.507] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Prisoners.2013.1080p.BluRay.DTS.x264-ETRG/Subtitles from source /home/zubair/Videos
+[7-2 23:7:25.508] INFO: Iterating over dir /stickerwork/tshirt/OG from source /home/zubair/Pictures
+[7-2 23:7:25.514] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Incendies.2010.1080p.BluRay.H264.AAC-RARBG from source /home/zubair/Videos
+[7-2 23:7:25.516] INFO: Iterating over dir /stickerwork/sup from source /home/zubair/Pictures
+[7-2 23:7:25.553] INFO: Iterating over dir /Movies/DirectorSorted/Villeneuve/Incendies.2010.1080p.BluRay.H264.AAC-RARBG/Subs from source /home/zubair/Videos
+[7-2 23:7:25.556] INFO: Iterating over dir /stickerwork/sup/fin from source /home/zubair/Pictures
+[7-2 23:7:25.563] INFO: /home/zubair/Pictures does not contain music file
+[7-2 23:7:25.563] INFO: /home/zubair/Videos does not contain music file
+[7-2 23:7:25.564] INFO: lsUserSelectedDownloadDirId=null
+[7-2 23:7:25.567] INFO: lsDefaultDownloadLocationId=null
+[7-2 23:7:25.567] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[7-2 23:7:25.567] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[7-2 23:7:27.362] INFO: lsAppActivated=false
+[7-2 23:7:27.363] INFO: lsDragAndDropActivated=false
+[7-2 23:7:27.363] INFO: Nacl version: 1.0.467.4929
+[7-2 23:7:27.364] INFO: lsAppActivated=false

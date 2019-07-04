@@ -137,7 +137,15 @@ echo "... Conda init done"
 
 
 
+echo "Begin Ruby Gems init ..."
 # RUBY WORK
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
 export PATH="$PATH:$(ruby -e 'puts Gem.user_dir')/bin"
+echo "... Ruby Gems init done"
+
+echo "Begin nvm init ..."
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+echo "... nvm init done"
