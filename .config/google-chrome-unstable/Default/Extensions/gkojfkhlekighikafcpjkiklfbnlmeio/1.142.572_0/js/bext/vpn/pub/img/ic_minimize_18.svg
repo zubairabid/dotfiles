@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:rgba(0,0,0,.38)}
+        </style>
+    </defs>
+    <g id="ic_minimize_18" transform="translate(-1 -1)">
+        <path id="Path_37502" d="M0 0h18v18H0z" class="cls-1" data-name="Path 37502" transform="translate(1 1)"/>
+        <path id="Rectangle_1211" d="M0 0h12v2H0z" class="cls-2" data-name="Rectangle 1211" transform="translate(4 9)"/>
+    </g>
+</svg>

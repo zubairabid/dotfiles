@@ -271,6 +271,11 @@ bindsym XF86AudioPlay exec mpc toggle
 bindsym XF86AudioPrev exec mpc prev
 bindsym XF86AudioNext exec mpc next
 
+# PlayerCTL Audio controls for Spotify
+bindsym $mod+XF86AudioStop exec playerctl stop
+bindsym $mod+XF86AudioPlay exec playerctl toggle
+bindsym $mod+XF86AudioPrev exec playerctl prev
+bindsym $mod+XF86AudioNext exec playerctl next
 
 
 ################ WORKSPACE-SCREEN-BINDING ##################
@@ -421,7 +426,7 @@ bindsym $mod+Shift+Mod1+l exec ~/Scripts/MultiWindow/HDMI_only.sh
 exec nm-applet
 
 # Enabling tap to click on my system. Does not always work due to changing property numbers.
-exec --no=startup-id xinput set-prop "Synaptics TM3336-001" "libinput Tapping Enabled" 1
+exec xinput set-prop "Synaptics TM3336-001" "libinput Tapping Enabled" 1
 
 # Sets a random picture from the Wallpapers folder as my wallpaper
 exec --no-startup-id ~/Scripts/Wallpaper/defswitch.sh

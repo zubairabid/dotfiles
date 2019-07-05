@@ -981,3 +981,71 @@
 [Modules] Host is up to date.
 [Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
 [Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discordapp.com discordapp.com:443
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discordapp.com discordapp.com:443
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discordapp.com discordapp.com:443
+[Modules] Checking for host updates.
+[Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discordapp.com discordapp.com:443
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/zubair/.config/discord/0.0.9/modules
+[Modules] Module installed file path: /home/zubair/.config/discord/0.0.9/modules/installed.json
+[Modules] Module download path: /home/zubair/.config/discord/0.0.9/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_media...
+[Modules] Fetching discord_media@0 from https://discordapp.com/api/modules/stable/discord_media/0
+[Modules] Streaming discord_media@0 [251 bytes] to /home/zubair/.config/discord/0.0.9/modules/pending/discord_media-0.zip
+[Modules] Finished module downloads. [success: 0] [failure: 1]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/zubair/.config/discord/0.0.9/modules
+[Modules] Module installed file path: /home/zubair/.config/discord/0.0.9/modules/installed.json
+[Modules] Module download path: /home/zubair/.config/discord/0.0.9/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.

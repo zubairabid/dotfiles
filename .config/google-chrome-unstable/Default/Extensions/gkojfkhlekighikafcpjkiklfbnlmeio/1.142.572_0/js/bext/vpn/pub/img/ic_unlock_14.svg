@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ic_unlock_14" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#25d366}
+        </style>
+    </defs>
+    <path id="Path_37498" d="M0 0h14v14H0z" class="cls-1" data-name="Path 37498"/>
+    <g id="Group_1676" data-name="Group 1676">
+        <path id="Path_37507" d="M10 5H4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-3 5a1 1 0 1 1 1-1 1 1 0 0 1-1 1z" class="cls-2" data-name="Path 37507"/>
+        <path id="Path_37508" d="M10 7H9V4a2 2 0 0 0-3.608-1.189l-.8-.6A3 3 0 0 1 10 4z" class="cls-2" data-name="Path 37508"/>
+    </g>
+</svg>

@@ -1,9 +1,9 @@
 sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 434
-time: 4.099000
+state: pause
+current: 943
+time: 27.331000
 random: 0
 repeat: 0
 single: 0
@@ -953,4 +953,34 @@ playlist_begin
 938:Jonny Greenwood - Phantom Thread [FLAC]/16 Endless Superstition.flac
 939:Jonny Greenwood - Phantom Thread [FLAC]/17 Phantom Thread IV.flac
 940:Jonny Greenwood - Phantom Thread [FLAC]/18 For the Hungry Boy.flac
+941:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3
+942:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3
+943:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3
+944:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3
+945:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3
+946:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3
+947:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3
+948:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3
+949:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3
+950:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3
+951:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3
+952:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3
+953:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3
+954:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3
+955:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3
+956:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3
+957:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3
+958:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3
+959:Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3
+960:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3
+961:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3
+962:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3
+963:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3
+964:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3
+965:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3
+966:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3
+967:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3
+968:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/09. Baby Boy.mp3
+969:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3
+970:Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3
 playlist_end

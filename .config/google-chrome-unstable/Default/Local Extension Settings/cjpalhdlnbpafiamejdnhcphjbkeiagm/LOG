@@ -1,3 +1,9 @@
-2019/07/04-03:37:44.916 3249 Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2019/07/04-03:37:44.917 3249 Recovering log #43
-2019/07/04-03:37:44.960 3249 Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000043.log 
+2019/07/05-16:09:24.290 7e3 Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/07/05-16:09:24.291 7e3 Recovering log #43
+2019/07/05-16:09:24.739 7e3 Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000043.log 
+2019/07/05-16:16:33.404 923 Level-0 table #50: started
+2019/07/05-16:16:33.597 923 Level-0 table #50: 2708043 bytes OK
+2019/07/05-16:16:33.648 923 Delete type=0 #43
+2019/07/05-16:19:34.872 923 Level-0 table #52: started
+2019/07/05-16:19:35.067 923 Level-0 table #52: 2537524 bytes OK
+2019/07/05-16:19:35.119 923 Delete type=0 #49

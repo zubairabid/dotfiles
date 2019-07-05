@@ -1,3 +1,6 @@
-2019/07/04-03:37:42.669 32b6 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/07/04-03:37:42.670 32b6 Recovering log #39
-2019/07/04-03:37:42.671 32b6 Reusing old log Session Storage/000039.log 
+2019/07/05-16:09:17.298 7da Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/07/05-16:09:17.299 7da Recovering log #39
+2019/07/05-16:09:17.360 7da Reusing old log Session Storage/000039.log 
+2019/07/05-16:12:11.058 7e3 Level-0 table #43: started
+2019/07/05-16:12:11.214 7e3 Level-0 table #43: 20071 bytes OK
+2019/07/05-16:12:11.248 7e3 Delete type=0 #39

@@ -3955,3 +3955,97 @@ Jul 05 01:13 : client: [113] opened from 127.0.0.1:42906
 Jul 05 01:13 : client: [113] closed
 Jul 05 01:13 : client: [112] closed
 Jul 05 01:13 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Breakup.mp3"
+Jul 05 01:15 : client: [114] opened from 127.0.0.1:42922
+Jul 05 01:15 : client: [115] opened from 127.0.0.1:42926
+Jul 05 01:15 : client: [115] closed
+Jul 05 01:15 : client: [114] closed
+Jul 05 01:16 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Drum Battle.mp3"
+Jul 05 01:18 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Dismissed.mp3"
+Jul 05 01:20 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Good Job.mp3"
+Jul 05 01:23 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Intoit.mp3"
+Jul 05 01:25 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/No Two Words.mp3"
+Jul 05 01:29 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/When I Wake.mp3"
+Jul 05 01:31 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Caseys Song.mp3"
+Jul 05 01:31 : client: [116] opened from 127.0.0.1:43284
+Jul 05 01:31 : client: [116] closed
+Jul 05 01:54 : client: [117] opened from 127.0.0.1:43498
+Jul 05 01:54 : client: [117] closed
+Jul 05 01:56 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Upswingin.mp3"
+Jul 05 01:56 : client: [118] opened from 127.0.0.1:43512
+Jul 05 01:56 : client: [118] closed
+Jul 05 01:57 : client: [119] opened from 127.0.0.1:43580
+Jul 05 01:57 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Studio Band Rehearsal After Breakup.mp3"
+Jul 05 01:57 : client: [119] closed
+Jul 05 02:42 : client: [120] opened from 127.0.0.1:44732
+Jul 05 02:46 : client: [120] closed
+Jul 05 03:03 : client: [111] closed
+Jul 05 03:03 : client: [121] opened from 127.0.0.1:44940
+Jul 05 03:04 : client: [122] opened from 127.0.0.1:44954
+Jul 05 03:04 : client: [122] closed
+Jul 05 03:04 : client: [123] opened from 127.0.0.1:44958
+Jul 05 03:04 : client: [123] closed
+Jul 05 03:04 : client: [124] opened from 127.0.0.1:44960
+Jul 05 03:04 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Studio Band Rehearsal After Breakup.mp3"
+Jul 05 03:04 : client: [124] closed
+Jul 05 03:08 : client: [121] closed
+Jul 05 03:08 : client: [125] opened from 127.0.0.1:45020
+Jul 05 14:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 14:17 : client: [0] opened from 127.0.0.1:52438
+Jul 05 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 15:47 : client: [0] opened from 127.0.0.1:34522
+Jul 05 15:48 : client: [1] opened from 127.0.0.1:34528
+Jul 05 16:08 : client: [1] closed
+Jul 05 18:50 : client: [2] opened from 127.0.0.1:35874
+Jul 05 18:50 : client: [2] closed
+Jul 05 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 18:50 : client: [3] opened from 127.0.0.1:35878
+Jul 05 18:52 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jul 05 18:52 : client: [0] closed
+Jul 05 18:52 : client: [3] closed
+Jul 05 18:52 : client: [4] opened from 127.0.0.1:35882
+Jul 05 18:52 : client: [5] opened from 127.0.0.1:35888
+Jul 05 18:52 : client: [4] closed
+Jul 05 18:52 : client: [6] opened from 127.0.0.1:35890
+Jul 05 18:52 : client: [5] closed
+Jul 05 18:52 : client: [6] closed
+Jul 05 18:52 : client: [7] opened from 127.0.0.1:35894
+Jul 05 18:52 : client: [7] closed
+Jul 05 18:52 : client: [8] opened from 127.0.0.1:35898
+Jul 05 18:52 : client: [8] closed
+Jul 05 18:52 : client: [9] opened from 127.0.0.1:35902
+Jul 05 18:52 : client: [9] closed
+Jul 05 18:53 : client: [10] opened from 127.0.0.1:35908
+Jul 05 18:53 : client: [11] opened from 127.0.0.1:35912
+Jul 05 18:53 : client: [11] closed
+Jul 05 18:53 : client: [12] opened from 127.0.0.1:35916
+Jul 05 18:53 : client: [12] closed
+Jul 05 18:53 : client: [13] opened from 127.0.0.1:35920
+Jul 05 18:53 : client: [13] closed
+Jul 05 18:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Jul 05 18:53 : client: [14] opened from 127.0.0.1:35924
+Jul 05 18:53 : client: [14] closed
+Jul 05 18:53 : client: [10] closed
+Jul 05 18:53 : client: [15] opened from 127.0.0.1:35932
+Jul 05 18:53 : client: [15] closed
+Jul 05 19:05 : client: [16] opened from 127.0.0.1:35968
+Jul 05 19:05 : client: [16] closed
+Jul 05 19:06 : client: [17] opened from 127.0.0.1:35972
+Jul 05 19:06 : client: [17] closed
+Jul 05 19:25 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jul 05 19:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 19:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 19:25 : client: [0] opened from 127.0.0.1:36040
+Jul 05 19:48 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jul 05 21:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 21:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 21:14 : client: [0] opened from 127.0.0.1:57480
+Jul 05 21:14 : client: [1] opened from 127.0.0.1:57482
+Jul 05 21:22 : client: [0] closed
+Jul 05 21:22 : client: [1] closed
+Jul 05 21:22 : client: [2] opened from 127.0.0.1:57774
+Jul 05 21:22 : client: [3] opened from 127.0.0.1:57776
+Jul 05 22:04 : client: [2] closed
+Jul 05 22:04 : client: [3] closed
+Jul 05 22:04 : client: [4] opened from 127.0.0.1:58652
+Jul 05 22:04 : client: [5] opened from 127.0.0.1:58654
