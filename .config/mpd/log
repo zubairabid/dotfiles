@@ -4049,3 +4049,16 @@ Jul 05 22:04 : client: [2] closed
 Jul 05 22:04 : client: [3] closed
 Jul 05 22:04 : client: [4] opened from 127.0.0.1:58652
 Jul 05 22:04 : client: [5] opened from 127.0.0.1:58654
+Jul 06 03:24 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jul 06 14:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 06 14:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 06 14:22 : client: [0] opened from 127.0.0.1:60054
+Jul 06 14:22 : client: [0] closed
+Jul 06 14:22 : client: [1] opened from 127.0.0.1:60064
+Jul 06 14:22 : client: [1] closed
+Jul 06 14:22 : client: [2] opened from 127.0.0.1:60066
+Jul 06 14:22 : client: [3] opened from 127.0.0.1:60068
+Jul 06 14:43 : client: [3] closed
+Jul 06 14:43 : client: [2] closed
+Jul 06 14:43 : client: [4] opened from 127.0.0.1:60452
+Jul 06 14:43 : client: [5] opened from 127.0.0.1:60454
