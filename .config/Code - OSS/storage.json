@@ -3,6 +3,11 @@
     "openedPathsList": {
         "workspaces3": [
             "file:///home/zubair/Documents/Extras/SraFavour/angelsite",
+            "file:///home/zubair/Documents/Acads/Projects/SSAD13/myproject",
+            "file:///home/zubair/Documents/ECell/megathon_2019",
+            "file:///home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019",
+            "file:///home/zubair/Documents/Acads/Projects/SSAD13/src/smile",
+            "file:///home/zubair/Documents/ECell/megathon",
             "file:///home/zubair/Documents/Extras/SraFavour/heliumjk.github.io",
             "file:///home/zubair/Documents/Acads/Projects/graphics-boilerplate/src"
         ],
@@ -61,6 +66,61 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/Extras/SraFavour/angelsite"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/Acads/Projects/SSAD13/myproject",
+                                        "path": "/home/zubair/Documents/Acads/Projects/SSAD13/myproject",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Acads/Projects/SSAD13/myproject"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/ECell/megathon_2019",
+                                        "path": "/home/zubair/Documents/ECell/megathon_2019",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ECell/megathon_2019"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019",
+                                        "path": "/home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Hackathons/IBM_hack/IBM-Hack-2019"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/Acads/Projects/SSAD13/src/smile",
+                                        "path": "/home/zubair/Documents/Acads/Projects/SSAD13/src/smile",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Acads/Projects/SSAD13/src/smile"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zubair/Documents/ECell/megathon",
+                                        "path": "/home/zubair/Documents/ECell/megathon",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ECell/megathon"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -167,6 +227,10 @@
                                 {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
+                                },
+                                {
+                                    "id": "settings.filterByOnline",
+                                    "label": "&&Online Services Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -386,46 +450,54 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "Toggle &&Full Screen"
+                                    "label": "&&Full Screen"
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
-                                    "label": "Toggle Zen Mode"
+                                    "label": "Zen Mode"
                                 },
                                 {
                                     "id": "workbench.action.toggleCenteredLayout",
-                                    "label": "Toggle Centered Layout"
-                                },
-                                {
-                                    "id": "workbench.action.toggleMenuBar",
-                                    "label": "Toggle Menu &&Bar"
+                                    "label": "Centered Layout"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.toggleMenuBar",
+                                    "label": "Show Menu &&Bar",
+                                    "checked": true
+                                },
+                                {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Toggle Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleStatusbarVisibility",
+                                    "label": "Show S&&tatus Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleActivityBarVisibility",
+                                    "label": "Show &&Activity Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarPosition",
                                     "label": "&&Move Side Bar Right"
                                 },
                                 {
-                                    "id": "workbench.action.toggleStatusbarVisibility",
-                                    "label": "&&Hide Status Bar"
-                                },
-                                {
                                     "id": "workbench.action.togglePanelPosition",
-                                    "label": "Toggle Panel Position"
-                                },
-                                {
-                                    "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "Hide &&Activity Bar"
-                                },
-                                {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Toggle &&Panel"
+                                    "label": "Move Panel Right"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -562,21 +634,21 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Toggle &&Minimap",
+                        "label": "Show &&Minimap",
+                        "checked": true
+                    },
+                    {
+                        "id": "breadcrumbs.toggle",
+                        "label": "Show &&Breadcrumbs",
                         "checked": true
                     },
                     {
                         "id": "editor.action.toggleRenderWhitespace",
-                        "label": "Toggle &&Render Whitespace"
+                        "label": "&&Render Whitespace"
                     },
                     {
                         "id": "editor.action.toggleRenderControlCharacter",
-                        "label": "Toggle &&Control Characters"
-                    },
-                    {
-                        "id": "breadcrumbs.toggle",
-                        "label": "Toggle &&Breadcrumbs",
-                        "checked": true
+                        "label": "Render &&Control Characters"
                     }
                 ]
             },
@@ -584,7 +656,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -593,7 +666,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1064,8 +1138,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+Shift+W",
-                "userSettingsLabel": "ctrl+shift+w"
+                "label": "Ctrl+W",
+                "userSettingsLabel": "ctrl+w"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1396,8 +1470,8 @@
                 "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
-                "label": "Ctrl+\\",
-                "userSettingsLabel": "ctrl+\\"
+                "label": "Ctrl+Shift+5",
+                "userSettingsLabel": "ctrl+shift+5"
             },
             "workbench.action.tasks.build": {
                 "label": "Ctrl+Shift+B",
@@ -1416,17 +1490,17 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#282a36",
-    "pickerWorkingDir": "/home/zubair/Documents/Acads/Projects/graphics-boilerplate",
+    "pickerWorkingDir": "/home/zubair/Documents/Extras/SraFavour",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/zubair/Documents/Extras/SraFavour/angelsite",
-            "backupPath": "/home/zubair/.config/Code - OSS/Backups/0f22b3149fb4be9379d9aee8c309600b",
+            "folder": "file:///home/zubair/Documents/ECell/megathon_2019",
+            "backupPath": "/home/zubair/.config/Code - OSS/Backups/b6cd432981cf375d42f543cd904d646b",
             "uiState": {
                 "mode": 1,
-                "x": 1380,
-                "y": 36,
-                "width": 1892,
-                "height": 1030
+                "x": 0,
+                "y": 54,
+                "width": 1366,
+                "height": 768
             }
         },
         "openedWindows": []

@@ -1,0 +1,43 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/zubair/Documents/ECell/megathon_2019
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :index.md
+> git show :_layouts/home.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse problemstatements
+> git rev-parse --symbolic-full-name problemstatements@{u}
+fatal: no upstream configured for branch 'problemstatements'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_layouts/home.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse problemstatements
+> git rev-parse --symbolic-full-name problemstatements@{u}
+fatal: no upstream configured for branch 'problemstatements'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse problemstatements
+> git rev-parse --symbolic-full-name problemstatements@{u}
+fatal: no upstream configured for branch 'problemstatements'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

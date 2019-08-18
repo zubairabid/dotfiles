@@ -1,0 +1,6 @@
+[Added Associations]
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+text/plain=nvim.desktop;
+
+[Default Applications]
+text/plain=nvim.desktop

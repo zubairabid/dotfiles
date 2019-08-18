@@ -2,13 +2,14 @@
 
 (tool "gimp-move-tool")
 (paint-info "gimp-paintbrush")
-(brush "2. Hardness 050")
+(foreground (color-rgb 0.715556 0.000000 0.000000))
+(brush "Untitled")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(font "Sans-serif")
+(font "Lato")
 (tool-preset "Core Pointer")
 
 # end of user context

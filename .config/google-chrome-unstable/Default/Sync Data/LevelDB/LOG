@@ -1,6 +1,24 @@
-2019/07/05-16:09:12.429 76c Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/07/05-16:09:12.472 76c Recovering log #31
-2019/07/05-16:09:12.704 76c Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000031.log 
-2019/07/05-16:09:40.692 923 Level-0 table #35: started
-2019/07/05-16:09:40.894 923 Level-0 table #35: 144257 bytes OK
-2019/07/05-16:09:41.009 923 Delete type=0 #31
+2019/08/17-15:03:42.474 483 Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/08/17-15:03:42.474 483 Recovering log #101
+2019/08/17-15:03:42.714 483 Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000101.log 
+2019/08/17-15:03:57.327 5f5 Level-0 table #105: started
+2019/08/17-15:03:57.751 5f5 Level-0 table #105: 109071 bytes OK
+2019/08/17-15:03:58.241 5f5 Delete type=0 #101
+2019/08/17-15:03:58.550 5f5 Compacting 4@0 + 1@1 files
+2019/08/17-15:03:59.081 5f5 Generated table #106@0: 2797 keys, 342275 bytes
+2019/08/17-15:03:59.081 5f5 Compacted 4@0 + 1@1 files => 342275 bytes
+2019/08/17-15:03:59.614 5f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/08/17-15:03:59.614 5f5 Delete type=2 #102
+2019/08/17-15:03:59.728 5f5 Delete type=2 #105
+2019/08/17-15:03:59.729 5f5 Delete type=2 #96
+2019/08/17-15:03:59.791 5f5 Delete type=2 #99
+2019/08/17-15:03:59.791 5f5 Delete type=2 #93
+2019/08/17-20:46:54.207 5f5 Level-0 table #108: started
+2019/08/17-20:46:54.272 5f5 Level-0 table #108: 123627 bytes OK
+2019/08/17-20:46:54.323 5f5 Delete type=0 #104
+2019/08/18-04:00:12.954 5f5 Level-0 table #110: started
+2019/08/18-04:00:13.003 5f5 Level-0 table #110: 95662 bytes OK
+2019/08/18-04:00:13.054 5f5 Delete type=0 #107
+2019/08/18-10:51:19.627 5f5 Level-0 table #112: started
+2019/08/18-10:51:19.729 5f5 Level-0 table #112: 112976 bytes OK
+2019/08/18-10:51:19.846 5f5 Delete type=0 #109

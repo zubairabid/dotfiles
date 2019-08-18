@@ -11,13 +11,12 @@
     (size 640 480))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 967 36)
-    (size 939 1030)
-    (monitor 1)
+    (position 14 36)
+    (size 1338 718)
     (open-on-exit)
     (aux-info
-        (left-docks-width "184")
-        (right-docks-width "209")
+        (left-docks-width "222")
+        (right-docks-width "202")
         (maximized "no"))
     (gimp-toolbox
         (side left)
@@ -58,9 +57,14 @@
             (dockable "gimp-document-list"
                 (tab-style automatic)
                 (aux-info
-                    (show-button-bar "true"))))
+                    (show-button-bar "true")))
+            (dockable "gimp-brush-editor"
+                (tab-style automatic)
+                (aux-info
+                    (edit-active "true")
+                    (current-data "Untitled"))))
         (book
-            (position 331)
+            (position 392)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)
@@ -79,20 +83,31 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 79 85)
-    (size 1002 665)
-    (monitor 1))
+    (position 96 46)
+    (size 1002 722))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
-    (position 297 0))
+    (position 369 119))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 433 11)
-    (size 1002 665))
+    (position 267 103)
+    (size 1002 722)
+    (monitor 1))
 (session-info "toplevel"
     (factory-entry "gimp-levels-tool-dialog")
     (position 155 31)
     (size 429 496))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 0 0))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 364 103)
+    (size 1002 665))
+(session-info "toplevel"
+    (factory-entry "gimp-action-search-dialog")
+    (position 804 598)
+    (size 166 50))
 
 (hide-docks no)
 (single-window-mode yes)

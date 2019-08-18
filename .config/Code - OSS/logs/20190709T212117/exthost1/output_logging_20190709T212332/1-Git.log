@@ -1,0 +1,22 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/zubair/Documents/Acads/Projects/SSAD13
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :src/smile/manage.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/smile/smile/settings.py
+> git show :src/smile/smile/urls.py
+> git check-ignore -v -z --stdin
+> git show :src/smile/api/tests.py
+> git show :src/smile/api/urls.py

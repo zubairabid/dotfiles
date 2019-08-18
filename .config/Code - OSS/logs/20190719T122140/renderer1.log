@@ -1,0 +1,113 @@
+[2019-07-19 12:22:52.581] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019/.vscode'
+[2019-07-20 03:49:54.016] [renderer1] [error] Invalid guestInstanceId: null: Error: Invalid guestInstanceId: null
+    at Object.getGuestForWebContents (/usr/lib/electron4/resources/electron.asar/browser/guest-view-manager.js:425:11)
+    at /usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:444:34
+    at EventEmitter.ipcMain.on.args (/usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:273:21)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/usr/lib/electron4/resources/electron.asar/browser/api/web-contents.js:368:21)
+    at WebContents.emit (events.js:182:13)
+[2019-07-20 03:52:45.809] [renderer1] [error] Invalid guestInstanceId: null: Error: Invalid guestInstanceId: null
+    at Object.getGuestForWebContents (/usr/lib/electron4/resources/electron.asar/browser/guest-view-manager.js:425:11)
+    at /usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:444:34
+    at EventEmitter.ipcMain.on.args (/usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:273:21)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/usr/lib/electron4/resources/electron.asar/browser/api/web-contents.js:368:21)
+    at WebContents.emit (events.js:182:13)
+[2019-07-20 03:52:58.263] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-20 03:56:20.472] [renderer1] [error] Invalid guestInstanceId: null: Error: Invalid guestInstanceId: null
+    at Object.getGuestForWebContents (/usr/lib/electron4/resources/electron.asar/browser/guest-view-manager.js:425:11)
+    at /usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:444:34
+    at EventEmitter.ipcMain.on.args (/usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:273:21)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/usr/lib/electron4/resources/electron.asar/browser/api/web-contents.js:368:21)
+    at WebContents.emit (events.js:182:13)
+[2019-07-20 03:56:21.809] [renderer1] [info] Requested uninstalling the extension himanoa.python-autopep8 from window 1
+[2019-07-20 03:56:46.746] [renderer1] [error] Invalid guestInstanceId: null: Error: Invalid guestInstanceId: null
+    at Object.getGuestForWebContents (/usr/lib/electron4/resources/electron.asar/browser/guest-view-manager.js:425:11)
+    at /usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:444:34
+    at EventEmitter.ipcMain.on.args (/usr/lib/electron4/resources/electron.asar/browser/rpc-server.js:273:21)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/usr/lib/electron4/resources/electron.asar/browser/api/web-contents.js:368:21)
+    at WebContents.emit (events.js:182:13)
+[2019-07-20 04:09:09.664] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 00:33:57.206] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-21 00:34:05.699] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-21 00:34:07.975] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:19:52.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:22:15.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:22:34.311] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:22:37.092] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:22:38.264] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:23:15.929] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:23:42.228] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:23:58.671] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:24:01.191] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:24:08.053] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:28:59.454] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-21 02:28:59.848] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:29:08.045] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-21 02:29:11.865] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:674)
+    at s.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:94:14)
+    at j.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:948:812)
+    at W.revealMarkersForCurrentActiveEditor (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:174)
+    at W.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5360:31)
+    at W.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5357:350)
+    at W._register.e (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5356:360)
+    at d.fire (file:///usr/lib/code/out/vs/workbench/workbench.main.js:77:1003)
+    at setTimeout (file:///usr/lib/code/out/vs/workbench/workbench.main.js:74:652)
+[2019-07-21 02:29:36.723] [renderer1] [error] Model is disposed!: Error: Model is disposed!
+    at P._assertNotDisposed (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1179:509)
+    at P.getVersionId (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1184:300)
+    at e.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:4842:533)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/lib/code/out/vs/workbench/workbench.main.js:34:454)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-21 02:29:37.268] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:30:09.953] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-07-21 02:30:37.829] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

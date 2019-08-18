@@ -1,0 +1,75 @@
+
+
+-------session starts-------
+
+[8-17 9:33:57.118] INFO: Fetched user settings from server.
+[8-17 9:33:57.122] INFO: chromeapp:E ready
+[8-17 9:34:3.402] INFO: Got the drag_and_drop directory
+[8-17 9:34:6.312] INFO: MediaGallery: name=/home/zubair/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[8-17 9:34:6.312] INFO: MediaGallery: name=/home/zubair/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[8-17 9:34:6.312] INFO: MediaGallery: name=/home/zubair/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[8-17 9:34:6.314] INFO: Starts a quick scan on /home/zubair/Music
+[8-17 9:34:6.315] INFO: Iterating over dir / from source /home/zubair/Music
+[8-17 9:34:6.315] INFO: Starts a quick scan on /home/zubair/Pictures
+[8-17 9:34:6.315] INFO: Iterating over dir / from source /home/zubair/Pictures
+[8-17 9:34:6.315] INFO: Starts a quick scan on /home/zubair/Videos
+[8-17 9:34:6.315] INFO: Iterating over dir / from source /home/zubair/Videos
+[8-17 9:34:6.749] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube from source /home/zubair/Music
+[8-17 9:34:7.136] INFO: Iterating over dir /IIIT work from source /home/zubair/Pictures
+[8-17 9:34:7.229] INFO: Iterating over dir /Movies from source /home/zubair/Videos
+[8-17 9:34:7.251] INFO: lsUserAddedMusicSourceIds=null
+[8-17 9:34:7.251] INFO: lsLastTrackFailureLoggingTime=null
+[8-17 9:34:7.328] INFO: Iterating over dir /Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/Covers from source /home/zubair/Music
+[8-17 9:34:7.437] INFO: Iterating over dir /IIIT work/Ping from source /home/zubair/Pictures
+[8-17 9:34:7.815] INFO: /home/zubair/Music does not contain music file
+[8-17 9:34:7.816] INFO: /home/zubair/Pictures does not contain music file
+[8-17 9:34:7.816] INFO: /home/zubair/Videos does not contain music file
+[8-17 9:34:7.817] INFO: lsUserSelectedDownloadDirId=null
+[8-17 9:34:7.819] INFO: lsDefaultDownloadLocationId=null
+[8-17 9:34:7.820] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[8-17 9:34:7.820] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[8-17 9:34:20.605] INFO: lsAppActivated=false
+[8-17 9:34:20.605] INFO: lsDragAndDropActivated=false
+[8-17 9:34:20.606] INFO: Nacl version: 1.0.467.4929
+[8-17 9:34:20.608] INFO: lsAppActivated=false
+[8-17 11:23:43.442] INFO: Fetched user settings from server.
+[8-17 11:33:55.627] INFO: Starting periodic scan.
+[8-17 11:33:55.629] INFO: lsSyncMusicEnabled=null
+[8-17 11:33:55.629] INFO: lsAppActivated=false
+[8-17 13:17:5.191] INFO: Fetched user settings from server.
+[8-17 13:33:55.627] INFO: Starting periodic scan.
+[8-17 13:33:55.627] INFO: lsSyncMusicEnabled=null
+[8-17 13:33:55.627] INFO: lsAppActivated=false
+[8-17 15:5:43.1] INFO: Fetched user settings from server.
+[8-17 15:33:55.625] INFO: Starting periodic scan.
+[8-17 15:33:55.626] INFO: lsSyncMusicEnabled=null
+[8-17 15:33:55.626] INFO: lsAppActivated=false
+[8-17 16:56:8.995] INFO: Fetched user settings from server.
+[8-17 17:33:55.626] INFO: Starting periodic scan.
+[8-17 17:33:55.627] INFO: lsSyncMusicEnabled=null
+[8-17 17:33:55.627] INFO: lsAppActivated=false
+[8-17 18:51:43.457] INFO: Fetched user settings from server.
+[8-17 19:33:55.626] INFO: Starting periodic scan.
+[8-17 19:33:55.626] INFO: lsSyncMusicEnabled=null
+[8-17 19:33:55.626] INFO: lsAppActivated=false
+[8-17 20:56:14.983] INFO: Fetched user settings from server.
+[8-17 21:33:55.625] INFO: Starting periodic scan.
+[8-17 21:33:55.625] INFO: lsSyncMusicEnabled=null
+[8-17 21:33:55.625] INFO: lsAppActivated=false
+[8-17 22:54:18.414] INFO: Fetched user settings from server.
+[8-17 23:33:55.626] INFO: Starting periodic scan.
+[8-17 23:33:55.626] INFO: lsSyncMusicEnabled=null
+[8-17 23:33:55.626] INFO: lsAppActivated=false
+[8-18 0:51:8.680] INFO: Fetched user settings from server.
+[8-18 1:33:55.625] INFO: Starting periodic scan.
+[8-18 1:33:55.626] INFO: lsSyncMusicEnabled=null
+[8-18 1:33:55.626] INFO: lsAppActivated=false
+[8-18 3:1:6.672] INFO: Fetched user settings from server.
+[8-18 3:33:55.625] INFO: Starting periodic scan.
+[8-18 3:33:55.626] INFO: lsSyncMusicEnabled=null
+[8-18 3:33:55.626] INFO: lsAppActivated=false
+[8-18 5:7:17.106] INFO: Fetched user settings from server.
+[8-18 5:33:55.625] INFO: Starting periodic scan.
+[8-18 5:33:55.625] INFO: lsSyncMusicEnabled=null
+[8-18 5:33:55.625] INFO: lsAppActivated=false
+[8-18 7:6:20.858] INFO: Fetched user settings from server.

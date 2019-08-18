@@ -1,3 +1,6 @@
-2019/07/04-03:27:18.410 2ccd Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/07/04-03:27:18.410 2ccd Recovering log #31
-2019/07/04-03:27:18.412 2ccd Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000031.log 
+2019/08/12-20:54:49.918 54b Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/08/12-20:54:50.032 54b Recovering log #98
+2019/08/12-20:54:50.467 54b Reusing old log /home/zubair/.config/google-chrome-unstable/Default/Sync Data/LevelDB/000098.log 
+2019/08/12-20:56:42.205 747 Level-0 table #102: started
+2019/08/12-20:56:43.325 747 Level-0 table #102: 115699 bytes OK
+2019/08/12-20:56:43.376 747 Delete type=0 #98

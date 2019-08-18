@@ -1,4 +1,4 @@
-; gimp GtkAccelMap rc-file         -*- scheme -*-
+; gimp-2.10 GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-spyrogimp" "")
@@ -17,9 +17,11 @@
 ; (gtk_accel_path "<Actions>/vectors/vectors-color-tag-orange" "")
 ; (gtk_accel_path "<Actions>/view/view-zoom-8-1-accel" "KP_4")
 ; (gtk_accel_path "<Actions>/context/context-background-value-set" "")
+; (gtk_accel_path "<Actions>/windows/windows-display-0003" "")
 ; (gtk_accel_path "<Actions>/context/context-paint-mode-menu" "")
 ; (gtk_accel_path "<Actions>/filters/filters-motion-blur-linear" "")
 ; (gtk_accel_path "<Actions>/filters/filters-gegl-graph" "")
+; (gtk_accel_path "<Actions>/windows/windows-display-0002" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-select-set" "")
 ; (gtk_accel_path "<Actions>/edit/edit-copy" "<Primary>c")
 ; (gtk_accel_path "<Actions>/context/context-brush-shape-circle" "")
@@ -925,6 +927,7 @@
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-weave" "")
 ; (gtk_accel_path "<Actions>/filters/filters-blur-menu" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-aspect-decrease" "")
+; (gtk_accel_path "<Actions>/brush-editor/brush-editor-edit-active" "")
 ; (gtk_accel_path "<Actions>/tools/tools-paintbrush-angle-set" "")
 ; (gtk_accel_path "<Actions>/context/context-pattern-select-next" "")
 ; (gtk_accel_path "<Actions>/channels/channels-lower" "")
@@ -1177,6 +1180,7 @@
 ; (gtk_accel_path "<Actions>/drawable/drawable-equalize" "")
 ; (gtk_accel_path "<Actions>/context/context-font-select-first" "")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-animationunoptimize" "")
+; (gtk_accel_path "<Actions>/brush-editor/brush-editor-popup" "")
 ; (gtk_accel_path "<Actions>/layers/layers-mask-selection-replace" "")
 ; (gtk_accel_path "<Actions>/plug-in/python-fu-foggify" "")
 ; (gtk_accel_path "<Actions>/patterns/patterns-refresh" "")

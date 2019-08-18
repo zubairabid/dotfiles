@@ -324,7 +324,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="mm"
+       unit="px"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -427,7 +427,7 @@
        precision="2"
        scale="100"
        offset="5"
-       unit="mm"
+       unit="px"
        measure-start="0,0"
        measure-end="0,0" />
   </group>
@@ -624,9 +624,22 @@
        id="export"
        default=""
        append_extension="1"
-       path="">
+       path=""
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="350"
+       h="433"
+       visible="1"
+       state="2"
+       placement="1">
       <group
-         id="exportarea" />
+         id="exportarea"
+         value="drawing" />
       <group
          id="defaultxdpi" />
     </group>
@@ -646,14 +659,14 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/zubair/Documents/Ping/Jul 19/Vectors/Buildings/" />
+       path="/home/zubair/Documents/Ping/Jul 19/" />
     <group
        id="import"
        enable_preview="1"
-       path="/home/zubair/Documents/Extras/SraFavour/angelsite/assets/images/"
+       path="/home/zubair/Documents/Ping/Logo/"
        ask="1"
        link="embed"
-       scale="auto"
+       scale="optimizeQuality"
        forcexdpi="0" />
     <group
        id="debug"
@@ -712,10 +725,10 @@
        animate-time="100" />
     <group
        placement="1"
-       state="2"
+       state="3"
        visible="1"
-       h="187"
-       w="243"
+       h="1"
+       w="1"
        y="0"
        x="0"
        panel_border="0"
@@ -881,7 +894,7 @@
        value="0" />
     <group
        id="stickyzoom"
-       value="0" />
+       value="1" />
     <group
        id="selcue"
        value="2" />
@@ -1024,17 +1037,20 @@
      org.inkscape.render.empty_page.orientation="horizontal"
      org.inkscape.render.empty_page.background="normal"
      org.inkscape.render.empty_icon.size="16"
-     org.inkscape.render.empty_generic_canvas.width="800"
-     org.inkscape.render.empty_generic_canvas.height="600"
+     org.inkscape.render.empty_generic_canvas.width="150"
+     org.inkscape.render.empty_generic_canvas.height="150"
      org.inkscape.render.empty_generic_canvas.unit="px"
-     org.inkscape.render.empty_generic_canvas.background="normal" />
+     org.inkscape.render.empty_generic_canvas.background="normal"
+     org.inkscape.render.empty_dvd_cover.spine="14"
+     org.inkscape.render.empty_dvd_cover.bleed="3"
+     org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality" />
   <group
      id="desktop"
      style="line-height:1.25;fill:#262425;fill-opacity:0.93193716">
     <group
-       width="939"
-       height="1030"
-       x="2333"
+       width="1338"
+       height="718"
+       x="14"
        y="36"
        fullscreen="0"
        id="geometry"

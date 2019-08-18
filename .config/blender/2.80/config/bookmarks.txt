@@ -1,0 +1,14 @@
+[Bookmarks]
+/usr/share/fonts/
+/home/zubair/Videos/NLE/
+[Recent]
+/home/zubair/Videos/NLE/BadGuy/process/credits/
+/home/zubair/Videos/NLE/BadGuyBloopers/
+/home/zubair/Videos/NLE/BadGuy/
+/home/zubair/Videos/NLE/
+/usr/share/fonts/ubuntu/
+/usr/share/fonts/TTF/
+/usr/share/fonts/
+/home/zubair/Videos/NLE/BadGuy/process/
+/home/zubair/Videos/NLE/BadGuyBloopers/Process/
+/home/zubair/Videos/NLE/BadGuyBloopers/Raw/Footage/

@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Dracula",
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "terminal.integrated.rendererType": "dom"
 }

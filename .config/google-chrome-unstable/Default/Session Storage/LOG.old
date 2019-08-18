@@ -1,3 +1,9 @@
-2019/07/04-03:27:19.363 2d39 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/07/04-03:27:19.364 2d39 Recovering log #39
-2019/07/04-03:27:19.365 2d39 Reusing old log Session Storage/000039.log 
+2019/08/12-20:54:55.291 5b7 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/12-20:54:55.292 5b7 Recovering log #108
+2019/08/12-20:54:55.606 5b7 Reusing old log Session Storage/000108.log 
+2019/08/12-20:59:34.177 5bd Level-0 table #113: started
+2019/08/12-20:59:34.402 5bd Level-0 table #113: 15846 bytes OK
+2019/08/12-20:59:35.195 5bd Delete type=0 #108
+2019/08/12-21:27:09.967 96d Level-0 table #115: started
+2019/08/12-21:27:10.187 96d Level-0 table #115: 19780 bytes OK
+2019/08/12-21:27:10.980 96d Delete type=0 #112

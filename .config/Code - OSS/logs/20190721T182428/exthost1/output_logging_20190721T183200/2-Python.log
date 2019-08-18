@@ -1,0 +1,55 @@
+Starting Jedi Python language engine.
+##########Linting Output - pep8##########
+16,3,E,E227:missing whitespace around bitwise or shift operator
+16,7,E,E225:missing whitespace around operator
+17,3,E,E225:missing whitespace around operator
+17,5,E,E225:missing whitespace around operator
+17,7,E,E225:missing whitespace around operator
+19,7,E,E225:missing whitespace around operator
+21,1,E,E302:expected 2 blank lines, found 1
+44,9,E,E101:indentation contains mixed spaces and tabs
+44,9,W,W191:indentation contains tabs
+45,9,E,E101:indentation contains mixed spaces and tabs
+45,9,W,W191:indentation contains tabs
+46,9,E,E101:indentation contains mixed spaces and tabs
+46,9,W,W191:indentation contains tabs
+47,10,E,E128:continuation line under-indented for visual indent
+76,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+16,3,E,E227:missing whitespace around bitwise or shift operator
+16,7,E,E225:missing whitespace around operator
+17,3,E,E225:missing whitespace around operator
+17,5,E,E225:missing whitespace around operator
+17,7,E,E225:missing whitespace around operator
+19,7,E,E225:missing whitespace around operator
+21,1,E,E302:expected 2 blank lines, found 1
+44,9,E,E101:indentation contains mixed spaces and tabs
+44,9,W,W191:indentation contains tabs
+45,9,E,E101:indentation contains mixed spaces and tabs
+45,9,W,W191:indentation contains tabs
+46,9,E,E101:indentation contains mixed spaces and tabs
+46,9,W,W191:indentation contains tabs
+47,10,E,E128:continuation line under-indented for visual indent
+76,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+41,9,E,E101:indentation contains mixed spaces and tabs
+41,9,W,W191:indentation contains tabs
+42,9,E,E101:indentation contains mixed spaces and tabs
+42,9,W,W191:indentation contains tabs
+43,9,E,E101:indentation contains mixed spaces and tabs
+43,9,W,W191:indentation contains tabs
+44,10,E,E128:continuation line under-indented for visual indent
+73,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+73,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########

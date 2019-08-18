@@ -1,0 +1,1819 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git show :energy-auditor/greenticks/settings/base.py
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git check-ignore -v -z --stdin
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git check-ignore -v -z --stdin
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/__init__.py
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/forms.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git show :energy-auditor/energyaudit/predictapi.py
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/forms.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/admin.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/tests.py
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/urls.py
+> git show :energy-auditor/energyaudit/views.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/views.py
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git show :energy-auditor/greenticks/settings/base.py
+> git show :energy-auditor/greenticks/settings/local.py
+> git show :energy-auditor/greenticks/settings/production.py
+> git show :energy-auditor/greenticks/settings/base.py
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/greenticks/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/greenticks/wsgi.py
+> git show :energy-auditor/manage.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+fatal: no upstream configured for branch 'zubmod'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/manage.py
+> git push -u origin zubmod
+remote: 
+remote: Create a pull request for 'zubmod' on GitHub by visiting:        
+remote:      https://github.com/RohanChacko/IBM-Hack-2019/pull/new/zubmod        
+remote: 
+To github.com:RohanChacko/IBM-Hack-2019.git
+ * [new branch]      zubmod -> zubmod
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/manage.py
+> git pull --tags origin zubmod
+> git show :energy-auditor/manage.py
+> git show :energy-auditor/manage.py
+From github.com:RohanChacko/IBM-Hack-2019
+ * branch            zubmod     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/manage.py
+> git status -z -u
+> git show :energy-auditor/manage.py
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/urls.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git pull --tags origin master
+> git show :energy-auditor/energyaudit/urls.py
+From github.com:RohanChacko/IBM-Hack-2019
+ * branch            master     -> FETCH_HEAD
+   4483fb6..a198fd7  master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 0ee67e604aecabe5adf3d2b40f361c021d10ca0d
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 0ee67e604aecabe5adf3d2b40f361c021d10ca0d
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git show :energy-auditor/energyaudit/urls.py
+> git show :energy-auditor/manage.py
+> git show :energy-auditor/greenticks/urls.py
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 0ee67e604aecabe5adf3d2b40f361c021d10ca0d
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 7b6ea42f8be23ccb13f6d864a0f2c7d674d55ca0
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 7b6ea42f8be23ccb13f6d864a0f2c7d674d55ca0
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B ea08b5891bcb73481c866c160883f3b29fad8ae3
+> git show :energy-auditor/energyaudit/forms.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B ea08b5891bcb73481c866c160883f3b29fad8ae3
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B ea08b5891bcb73481c866c160883f3b29fad8ae3
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B ea08b5891bcb73481c866c160883f3b29fad8ae3
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B ea08b5891bcb73481c866c160883f3b29fad8ae3
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/apps.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/forms.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git show :energy-auditor/energyaudit/forms.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 0ee67e604aecabe5adf3d2b40f361c021d10ca0d
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B 0ee67e604aecabe5adf3d2b40f361c021d10ca0d
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubmod
+> git rev-parse --symbolic-full-name zubmod@{u}
+> git rev-list --left-right zubmod...refs/remotes/origin/zubmod
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubrefresh
+> git rev-parse --symbolic-full-name zubrefresh@{u}
+fatal: no upstream configured for branch 'zubrefresh'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zubrefresh
+> git rev-parse --symbolic-full-name zubrefresh@{u}
+fatal: no upstream configured for branch 'zubrefresh'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/__init__.py
+> git show :energy-auditor/energyaudit/admin.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/for_demo.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/forms.py
+> git show :energy-auditor/energyaudit/forms.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/tests.py
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/greenticks/urls.py
+> git show :energy-auditor/greenticks/wsgi.py
+> git show :energy-auditor/greenticks/__init__.py
+> git show :energy-auditor/greenticks/wsgi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/greenticks/urls.py
+> git show :energy-auditor/greenticks/__init__.py
+> git show :energy-auditor/greenticks/settings/production.py
+> git show :energy-auditor/greenticks/settings/local.py
+> git show :energy-auditor/greenticks/settings/base.py
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git show :energy-auditor/greenticks/wsgi.py
+> git show :energy-auditor/greenticks/settings/__init__.py
+> git show :energy-auditor/energyaudit/views.py
+> git show :energy-auditor/energyaudit/urls.py
+> git show :energy-auditor/energyaudit/forms.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zublintnew
+> git rev-parse --symbolic-full-name zublintnew@{u}
+fatal: no upstream configured for branch 'zublintnew'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/admin.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git show :energy-auditor/energyaudit/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

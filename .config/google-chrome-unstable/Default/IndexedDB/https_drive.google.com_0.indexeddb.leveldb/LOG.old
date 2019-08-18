@@ -1,0 +1,20 @@
+2019/08/18-03:12:44.254 52fc Reusing MANIFEST /home/zubair/.config/google-chrome-unstable/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/08/18-03:12:44.255 52fc Recovering log #163
+2019/08/18-03:12:44.255 52fc Reusing old log /home/zubair/.config/google-chrome-unstable/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000163.log 
+2019/08/18-03:12:47.037 96e Compacting 2@0 + 3@1 files
+2019/08/18-03:12:47.345 96e Generated table #166@0: 31 keys, 2105302 bytes
+2019/08/18-03:12:47.463 96e Generated table #167@0: 1 keys, 2718671 bytes
+2019/08/18-03:12:47.498 96e Generated table #168@0: 14 keys, 1763 bytes
+2019/08/18-03:12:47.498 96e Compacted 2@0 + 3@1 files => 4825736 bytes
+2019/08/18-03:12:47.547 96e compacted to: files[ 0 3 1 0 0 0 0 ]
+2019/08/18-03:12:47.548 96e Delete type=2 #164
+2019/08/18-03:12:47.548 96e Delete type=2 #162
+2019/08/18-03:12:47.550 96e Delete type=2 #159
+2019/08/18-03:12:47.552 96e Delete type=2 #158
+2019/08/18-03:12:47.553 96e Delete type=2 #160
+2019/08/18-03:12:49.788 96e Level-0 table #170: started
+2019/08/18-03:12:49.938 96e Level-0 table #170: 1675114 bytes OK
+2019/08/18-03:12:49.989 96e Delete type=0 #163
+2019/08/18-03:12:53.190 96e Level-0 table #172: started
+2019/08/18-03:12:53.598 96e Level-0 table #172: 1687346 bytes OK
+2019/08/18-03:12:53.667 96e Delete type=0 #169

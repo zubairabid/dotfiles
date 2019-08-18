@@ -1,0 +1,9 @@
+/home/zubair/Videos/NLE/BadGuy/process/credits/creds.blend
+/home/zubair/Videos/NLE/BadGuyBloopers/chroma.blend
+/home/zubair/Videos/NLE/BadGuyBloopers/chroma2.blend
+/home/zubair/Videos/NLE/BadGuy/Boiler.blend
+/home/zubair/Videos/NLE/textanims.blend
+/home/zubair/Videos/NLE/BadGuyBloopers/bloop.blend
+/home/zubair/Videos/NLE/BadGuyBloopers/blur.blend
+/home/zubair/Videos/NLE/startup.blend
+/home/zubair/Videos/obh.blend

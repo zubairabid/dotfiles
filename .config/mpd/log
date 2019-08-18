@@ -4062,3 +4062,779 @@ Jul 06 14:43 : client: [3] closed
 Jul 06 14:43 : client: [2] closed
 Jul 06 14:43 : client: [4] opened from 127.0.0.1:60452
 Jul 06 14:43 : client: [5] opened from 127.0.0.1:60454
+Jul 06 20:41 : client: [6] opened from 127.0.0.1:36404
+Jul 06 20:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 06 20:41 : client: [6] closed
+Jul 06 20:45 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Jul 06 20:46 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Jul 06 20:49 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Jul 06 20:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Jul 06 20:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Jul 06 20:58 : client: [7] opened from 127.0.0.1:36618
+Jul 06 20:58 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jul 06 20:58 : client: [7] closed
+Jul 07 00:09 : client: [8] opened from 127.0.0.1:39270
+Jul 07 00:09 : client: [8] closed
+Jul 07 00:09 : client: [9] opened from 127.0.0.1:39274
+Jul 07 00:09 : client: [10] opened from 127.0.0.1:39278
+Jul 07 00:09 : client: [10] closed
+Jul 07 00:12 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Jul 07 00:12 : client: [11] opened from 127.0.0.1:39304
+Jul 07 00:12 : client: [11] closed
+Jul 07 00:12 : client: [12] opened from 127.0.0.1:39306
+Jul 07 00:12 : client: [12] closed
+Jul 07 04:08 : client: [9] closed
+Jul 07 04:28 : client: [4] closed
+Jul 07 04:28 : client: [5] closed
+Jul 07 04:28 : client: [13] opened from 127.0.0.1:42052
+Jul 07 04:28 : client: [14] opened from 127.0.0.1:42054
+Jul 07 04:28 : client: [14] closed
+Jul 07 04:28 : client: [13] closed
+Jul 07 04:28 : client: [15] opened from 127.0.0.1:42056
+Jul 07 04:28 : client: [16] opened from 127.0.0.1:42058
+Jul 07 17:57 : client: [17] opened from 127.0.0.1:48596
+Jul 07 17:57 : client: [17] closed
+Jul 07 17:58 : client: [18] opened from 127.0.0.1:48616
+Jul 07 17:58 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jul 07 17:58 : client: [18] closed
+Jul 07 17:58 : client: [19] opened from 127.0.0.1:48618
+Jul 07 17:58 : client: [19] closed
+Jul 07 17:58 : client: [20] opened from 127.0.0.1:48620
+Jul 07 17:58 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jul 07 17:58 : client: [20] closed
+Jul 07 18:02 : client: [21] opened from 127.0.0.1:48710
+Jul 07 18:02 : client: [21] closed
+Jul 07 18:06 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Jul 07 18:07 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Jul 07 18:09 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Jul 07 18:11 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Jul 07 18:12 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Jul 07 18:18 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Jul 07 18:23 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/15 II. Zealots of Stockholm (Free In.mp3"
+Jul 07 18:24 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/16 III. Urn.mp3"
+Jul 07 18:27 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/17 I. Pink Toes (feat. Jhene Aiko).mp3"
+Jul 07 18:32 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jul 07 18:33 : client: [22] opened from 127.0.0.1:48990
+Jul 07 18:33 : client: [22] closed
+Jul 07 18:33 : client: [23] opened from 127.0.0.1:48994
+Jul 07 18:33 : client: [23] closed
+Jul 07 18:33 : client: [24] opened from 127.0.0.1:48998
+Jul 07 18:33 : client: [24] closed
+Jul 07 18:33 : client: [25] opened from 127.0.0.1:49002
+Jul 07 18:33 : client: [25] closed
+Jul 07 18:33 : client: [26] opened from 127.0.0.1:49006
+Jul 07 18:33 : client: [26] closed
+Jul 07 18:33 : client: [27] opened from 127.0.0.1:49010
+Jul 07 18:33 : client: [27] closed
+Jul 07 18:33 : client: [28] opened from 127.0.0.1:49014
+Jul 07 18:33 : client: [28] closed
+Jul 07 18:33 : client: [29] opened from 127.0.0.1:49018
+Jul 07 18:33 : client: [29] closed
+Jul 07 18:33 : client: [30] opened from 127.0.0.1:49022
+Jul 07 18:33 : client: [30] closed
+Jul 07 18:33 : client: [31] opened from 127.0.0.1:49026
+Jul 07 18:33 : client: [31] closed
+Jul 07 18:33 : client: [32] opened from 127.0.0.1:49030
+Jul 07 18:33 : client: [32] closed
+Jul 07 18:33 : client: [33] opened from 127.0.0.1:49034
+Jul 07 18:33 : client: [33] closed
+Jul 07 18:33 : client: [34] opened from 127.0.0.1:49038
+Jul 07 18:33 : client: [34] closed
+Jul 07 18:33 : client: [35] opened from 127.0.0.1:49042
+Jul 07 18:33 : client: [35] closed
+Jul 07 18:33 : client: [36] opened from 127.0.0.1:49046
+Jul 07 18:33 : client: [36] closed
+Jul 07 18:33 : client: [37] opened from 127.0.0.1:49050
+Jul 07 18:33 : client: [37] closed
+Jul 07 18:33 : client: [38] opened from 127.0.0.1:49054
+Jul 07 18:33 : client: [38] closed
+Jul 07 18:33 : client: [39] opened from 127.0.0.1:49058
+Jul 07 18:33 : client: [39] closed
+Jul 07 18:33 : client: [40] opened from 127.0.0.1:49062
+Jul 07 18:33 : client: [40] closed
+Jul 07 18:33 : client: [41] opened from 127.0.0.1:49066
+Jul 07 18:33 : client: [41] closed
+Jul 07 18:33 : client: [42] opened from 127.0.0.1:49070
+Jul 07 18:33 : client: [42] closed
+Jul 07 18:33 : client: [43] opened from 127.0.0.1:49074
+Jul 07 18:33 : client: [43] closed
+Jul 07 18:33 : client: [44] opened from 127.0.0.1:49078
+Jul 07 18:33 : client: [44] closed
+Jul 07 18:38 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/18 II. Earth_ The Oldest Computer (T.mp3"
+Jul 07 18:43 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/19 III. Life_ The Biggest Troll (And.mp3"
+Jul 07 18:50 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/01. Me and Your Mama.mp3"
+Jul 07 18:54 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/02. Have Some Love.mp3"
+Jul 07 18:57 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/03. Boogieman.mp3"
+Jul 07 19:02 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/04. Zombies.mp3"
+Jul 07 19:04 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/05. Riot.mp3"
+Jul 07 19:09 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/06. Redbone.mp3"
+Jul 07 19:12 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/07. California.mp3"
+Jul 07 19:16 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/08. Terrified.mp3"
+Jul 07 19:22 : client: [45] opened from 127.0.0.1:49528
+Jul 07 19:22 : client: [45] closed
+Jul 07 19:26 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/10. The Night Me and Your Mama Met.mp3"
+Jul 07 19:32 : player: played "Childish Gambino - Awaken, My Love! (2016) (MP3 320K)/11. Stand Tall.mp3"
+Jul 08 01:40 : client: [46] opened from 127.0.0.1:55476
+Jul 08 01:40 : client: [46] closed
+Jul 08 01:40 : client: [47] opened from 127.0.0.1:55482
+Jul 08 01:40 : client: [47] closed
+Jul 08 12:41 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jul 08 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 13:08 : client: [0] opened from 127.0.0.1:41090
+Jul 09 00:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 00:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 00:42 : client: [0] opened from 127.0.0.1:55684
+Jul 09 03:11 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jul 09 10:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 10:34 : client: [0] opened from 127.0.0.1:36796
+Jul 08 15:16 : client: [0] closed
+Jul 08 15:16 : client: [1] opened from 127.0.0.1:39448
+Jul 08 15:18 : client: [1] closed
+Jul 07 15:46 : client: [2] opened from 127.0.0.1:40294
+Jul 10 03:56 : client: [3] opened from 127.0.0.1:47218
+Jul 10 03:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 03:56 : client: [3] closed
+Jul 10 03:57 : client: [4] opened from 127.0.0.1:47226
+Jul 10 03:57 : client: [4] closed
+Jul 10 12:29 : player: played "(1994) Dummy/01 Mysterons.flac"
+Jul 10 12:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 12:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 12:40 : client: [0] opened from 127.0.0.1:35678
+Jul 10 13:41 : client: [0] closed
+Jul 10 13:41 : client: [1] opened from 127.0.0.1:37038
+Jul 11 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 13:08 : client: [0] opened from 127.0.0.1:57576
+Jul 11 13:08 : client: [1] opened from 127.0.0.1:57580
+Jul 11 13:08 : client: [2] opened from 127.0.0.1:57584
+Jul 11 13:08 : client: [2] closed
+Jul 11 13:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 13:09 : client: [3] opened from 127.0.0.1:57588
+Jul 11 13:09 : client: [3] closed
+Jul 11 13:09 : client: [4] opened from 127.0.0.1:57592
+Jul 11 13:09 : client: [4] closed
+Jul 11 13:09 : client: [5] opened from 127.0.0.1:57596
+Jul 11 13:09 : client: [5] closed
+Jul 11 13:09 : client: [6] opened from 127.0.0.1:57600
+Jul 11 13:09 : client: [6] closed
+Jul 11 13:09 : client: [7] opened from 127.0.0.1:57604
+Jul 11 13:09 : client: [7] closed
+Jul 11 13:09 : client: [8] opened from 127.0.0.1:57608
+Jul 11 13:09 : client: [8] closed
+Jul 11 13:09 : client: [1] closed
+Jul 11 13:13 : player: played "(1994) Dummy/04 It Could Be Sweet.flac"
+Jul 11 13:13 : client: [0] closed
+Jul 11 13:13 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jul 11 13:13 : client: [9] opened from 127.0.0.1:57622
+Jul 11 13:14 : client: [10] opened from 127.0.0.1:57628
+Jul 11 13:14 : client: [10] closed
+Jul 11 13:14 : client: [11] opened from 127.0.0.1:57636
+Jul 11 13:14 : client: [11] closed
+Jul 11 13:14 : client: [12] opened from 127.0.0.1:57640
+Jul 11 13:14 : client: [12] closed
+Jul 11 13:15 : client: [9] closed
+Jul 11 13:15 : exception: Failed to play on "pulse audio" (pulse): suspended
+Jul 11 13:15 : client: [13] opened from 127.0.0.1:57668
+Jul 11 13:19 : player: played "(1994) Dummy/08 Roads.flac"
+Jul 11 13:22 : player: played "(1994) Dummy/09 Pedestal.flac"
+Jul 11 13:27 : player: played "(1994) Dummy/10 Biscuit.flac"
+Jul 11 13:33 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 11 13:33 : client: [14] opened from 127.0.0.1:58104
+Jul 11 13:33 : client: [14] closed
+Jul 11 15:03 : client: [15] opened from 127.0.0.1:58658
+Jul 11 15:03 : client: [15] closed
+Jul 11 15:04 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 11 21:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 21:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 21:06 : client: [0] opened from 127.0.0.1:38164
+Jul 13 16:38 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 13 16:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 13 16:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 13 16:39 : client: [0] opened from 127.0.0.1:57238
+Jul 14 17:53 : client: [0] closed
+Jul 14 17:53 : client: [1] opened from 127.0.0.1:41890
+Jul 14 17:53 : client: [1] closed
+Jul 14 17:53 : client: [2] opened from 127.0.0.1:41896
+Jul 14 17:53 : client: [3] opened from 127.0.0.1:41898
+Jul 14 18:08 : client: [3] closed
+Jul 14 18:08 : client: [2] closed
+Jul 14 18:08 : client: [4] opened from 127.0.0.1:42034
+Jul 14 18:08 : client: [5] opened from 127.0.0.1:42036
+Jul 17 07:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 07:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 07:17 : client: [0] opened from 127.0.0.1:36394
+Jul 17 07:17 : client: [1] opened from 127.0.0.1:36396
+Jul 17 10:20 : client: [0] closed
+Jul 17 10:20 : client: [1] closed
+Jul 17 10:20 : client: [2] opened from 127.0.0.1:38042
+Jul 17 10:20 : client: [3] opened from 127.0.0.1:38044
+Jul 17 10:20 : client: [2] closed
+Jul 17 10:20 : client: [3] closed
+Jul 17 10:20 : client: [4] opened from 127.0.0.1:38046
+Jul 17 10:20 : client: [4] closed
+Jul 17 10:20 : client: [5] opened from 127.0.0.1:38048
+Jul 17 10:20 : client: [5] closed
+Jul 17 10:20 : client: [6] opened from 127.0.0.1:38052
+Jul 17 13:25 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 17 15:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 15:23 : client: [0] opened from 127.0.0.1:39144
+Jul 17 15:37 : client: [0] closed
+Jul 17 15:37 : client: [1] opened from 127.0.0.1:39450
+Jul 17 17:15 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 18 00:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 00:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 00:46 : client: [0] opened from 127.0.0.1:35950
+Jul 18 00:47 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 18 00:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 00:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 00:49 : client: [0] opened from 127.0.0.1:55136
+Jul 19 18:18 : client: [0] closed
+Jul 19 18:45 : client: [1] opened from 127.0.0.1:55618
+Jul 21 11:01 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 21 17:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 17:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 17:55 : client: [0] opened from 127.0.0.1:55886
+Jul 21 23:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 21 23:02 : client: [0] opened from 127.0.0.1:50876
+Jul 23 11:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 23 11:40 : client: [0] opened from 127.0.0.1:50998
+Jul 25 20:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 20:21 : client: [0] opened from 127.0.0.1:51736
+Jul 27 00:52 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 27 00:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 00:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 00:56 : client: [0] opened from 127.0.0.1:37582
+Jul 27 06:20 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 28 18:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 18:08 : client: [0] opened from 127.0.0.1:43220
+Jul 29 01:12 : client: [1] opened from 127.0.0.1:45876
+Jul 29 01:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 01:12 : client: [1] closed
+Jul 29 01:12 : client: [2] opened from 127.0.0.1:45880
+Jul 29 01:12 : client: [2] closed
+Jul 29 09:52 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 29 11:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:35 : client: [0] opened from 127.0.0.1:36318
+Jul 29 13:01 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 30 09:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 09:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 09:56 : client: [0] opened from 127.0.0.1:48128
+Jul 30 13:01 : client: [1] opened from 127.0.0.1:49150
+Jul 30 13:01 : client: [2] opened from 127.0.0.1:49154
+Jul 30 13:01 : client: [2] closed
+Jul 30 13:01 : client: [1] closed
+Jul 30 20:10 : player: played "(1994) Dummy/11 Glory Box.flac"
+Jul 30 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 21:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 21:21 : client: [0] opened from 127.0.0.1:51984
+Aug 02 01:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 01:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 01:11 : client: [0] opened from 127.0.0.1:37410
+Aug 02 09:05 : client: [1] opened from 127.0.0.1:45456
+Aug 02 09:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 09:05 : client: [1] closed
+Aug 02 09:09 : player: played "(1994) Dummy/11 Glory Box.flac"
+Aug 02 09:14 : player: played "(1997) Portishead/01 Cowboys.flac"
+Aug 02 09:18 : player: played "(1997) Portishead/02 All Mine.flac"
+Aug 02 09:22 : player: played "(1997) Portishead/03 Undenied.flac"
+Aug 02 09:26 : player: played "(1997) Portishead/04 Half Day Closing.flac"
+Aug 02 09:30 : player: played "(1997) Portishead/05 Over.flac"
+Aug 02 09:36 : player: played "(1997) Portishead/06 Humming.flac"
+Aug 02 09:40 : player: played "(1997) Portishead/07 Mourning Air.flac"
+Aug 02 09:45 : player: played "(1997) Portishead/08 Seven Months.flac"
+Aug 02 09:50 : player: played "(1997) Portishead/09 Only You.flac"
+Aug 02 09:56 : player: played "(1997) Portishead/10 Elysium.flac"
+Aug 02 10:00 : player: played "(1997) Portishead/11 Western Eyes.flac"
+Aug 02 10:05 : player: played "(2008) Third/01 Silence.flac"
+Aug 02 10:09 : player: played "(2008) Third/02 Hunter.flac"
+Aug 02 10:12 : player: played "(2008) Third/03 Nylon Smile.flac"
+Aug 02 10:17 : player: played "(2008) Third/04 The Rip.flac"
+Aug 02 10:20 : player: played "(2008) Third/05 Plastic.flac"
+Aug 02 10:27 : player: played "(2008) Third/06 We Carry On.flac"
+Aug 02 10:28 : player: played "(2008) Third/07 Deep Water.flac"
+Aug 02 10:33 : player: played "(2008) Third/08 Machine Gun.flac"
+Aug 02 10:40 : player: played "(2008) Third/09 Small.flac"
+Aug 02 10:43 : player: played "(2008) Third/10 Magic Doors.flac"
+Aug 02 10:49 : player: played "(2008) Third/11 Threads.flac"
+Aug 02 10:53 : player: played "Brockhampton - Iridescence/01 NEW ORLEANS.mp3"
+Aug 02 10:55 : player: played "Brockhampton - Iridescence/02 THUG LIFE.mp3"
+Aug 02 10:58 : player: played "Brockhampton - Iridescence/03 BERLIN.mp3"
+Aug 02 11:00 : player: played "Brockhampton - Iridescence/04 SOMETHING ABOUT HIM.mp3"
+Aug 02 11:02 : player: played "Brockhampton - Iridescence/05 WHERE THE CASH AT.mp3"
+Aug 02 11:05 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/02.Horn Concerto No.4 Rondo Allegro Vivace.flac"
+Aug 02 11:09 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/03.Cosi Fan Tutte Soave Sia Il Vento.flac"
+Aug 02 11:15 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/04.Violin Sonata K.378 Andantino.flac"
+Aug 02 11:20 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/05.Requiem Confutatis And Lacrymosa.flac"
+Aug 02 11:27 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/06.Symphony No.40 Molto Allegro.flac"
+Aug 02 11:31 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/07.String Quartet 'Hunt' Minuetto.flac"
+Aug 02 11:35 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/08.Don Giovanni La Ci Darem La Mano.flac"
+Aug 02 11:38 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/09.German Dance No.3 'Sleigh Ride'.flac"
+Aug 02 11:45 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/10.Piano Concerto No.20 Allegro Assai.flac"
+Aug 02 11:48 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/11.Marriage Of Figaro Voi Che Sapete.flac"
+Aug 02 11:56 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/12.Symphony No.25 Allegro Con Brio.flac"
+Aug 02 11:59 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD1/13.Ave Verum Corpus.flac"
+Aug 02 12:03 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/01.Marriage Of Figaro Overture.flac"
+Aug 02 12:10 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/02.Clarinet Concerto Adagio.flac"
+Aug 02 12:17 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/03.Mass In C Minor Kyrie.flac"
+Aug 02 12:24 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/04.Piano Concerto No.21 Andante.flac"
+Aug 02 12:33 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/05.Symphony No.41 'Jupiter' Molto Allegro.flac"
+Aug 02 12:36 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/06.Die Zauberflote Der Holle Rache.flac"
+Aug 02 12:40 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/07.Piano Sonata No.11 Rondo Alla Turca.flac"
+Aug 02 12:49 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/08.Flute And Harp Concerto Andantino.flac"
+Aug 02 12:57 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/09.Serenade For Winds K.361 Menuetto.flac"
+Aug 02 13:03 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/10.Clarinet Quintet Larghetto.flac"
+Aug 02 13:13 : player: played "Mozart - The Very Best Of Mozart (2005) {FLAC} vtwin88cube/CD2/11.Violin Concerto No.5 Tempo Di Minuetto.flac"
+Aug 02 13:16 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/01 Burn the Witch.mp3"
+Aug 02 13:22 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/02 Daydreaming.mp3"
+Aug 02 13:27 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/03 Decks Dark.mp3"
+Aug 02 13:31 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/04 Desert Island Disk.mp3"
+Aug 02 13:37 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/05 Ful Stop.mp3"
+Aug 02 13:39 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/06 Glass Eyes.mp3"
+Aug 02 13:44 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/07 Identikit.mp3"
+Aug 02 13:49 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/08 The Numbers.mp3"
+Aug 02 13:54 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/09 Present Tense.mp3"
+Aug 02 13:59 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/10 Tinker Tailor Soldier Sailor Rich.mp3"
+Aug 02 14:04 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/11 True Love Waits.mp3"
+Aug 02 14:08 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/Disc 2/01 Ill Wind.mp3"
+Aug 02 14:11 : player: played "Radiohead/Radiohead - A Moon Shaped Pool (2016) 320kbps/Disc 2/02 Spectre.mp3"
+Aug 02 14:15 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/01 Packt Like Sardines In A Crushd Tin Box.mp3"
+Aug 02 14:20 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/02 Pyramid Song.mp3"
+Aug 02 14:24 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/03 Pulk-Pull Revolving Doors.mp3"
+Aug 02 14:27 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/04 You And Whose Army-.mp3"
+Aug 02 14:32 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/05 I Might Be Wrong.mp3"
+Aug 02 14:36 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/06 Knives Out.mp3"
+Aug 02 14:39 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/07 Morning Bell-Amnesiac.mp3"
+Aug 02 14:44 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/08 Dollars And Cents.mp3"
+Aug 02 14:46 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/09 Hunting Bears.mp3"
+Aug 02 14:50 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/10 Like Spinning Plates.mp3"
+Aug 02 14:54 : player: played "Radiohead/Radiohead - Amnesiac - 320kbps/11 Life In A Glasshouse Demonoid.mp3"
+Aug 02 14:58 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/01 15 Step.mp3"
+Aug 02 15:02 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/02 Bodysnatchers.mp3"
+Aug 02 15:06 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/03 Nude.mp3"
+Aug 02 15:11 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/04 Weird Fishes , Arpeggi.mp3"
+Aug 02 15:15 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/05 All I Need.mp3"
+Aug 02 15:17 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/06 Faust Arp.mp3"
+Aug 02 15:22 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/07 Reckoner.mp3"
+Aug 02 15:27 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/08 House Of Cards.mp3"
+Aug 02 15:31 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/09 Jigsaw Falling Into Place.mp3"
+Aug 02 15:35 : player: played "Radiohead/Radiohead - In Rainbows (2007) 320kbps/10 Videotape.mp3"
+Aug 02 15:39 : player: played "Radiohead/Radiohead - Kid A - 320kbps/01 Everything In Its Right Place.mp3"
+Aug 02 15:44 : player: played "Radiohead/Radiohead - Kid A - 320kbps/02 Kid A.mp3"
+Aug 02 15:50 : player: played "Radiohead/Radiohead - Kid A - 320kbps/03 The National Anthem.mp3"
+Aug 02 15:56 : player: played "Radiohead/Radiohead - Kid A - 320kbps/04 How To Disappear Completely.mp3"
+Aug 02 15:59 : player: played "Radiohead/Radiohead - Kid A - 320kbps/05 Treefingers.mp3"
+Aug 02 16:04 : player: played "Radiohead/Radiohead - Kid A - 320kbps/06 Optimistic.mp3"
+Aug 02 16:08 : player: played "Radiohead/Radiohead - Kid A - 320kbps/07 In Limbo.mp3"
+Aug 02 16:13 : player: played "Radiohead/Radiohead - Kid A - 320kbps/08 Idioteque.mp3"
+Aug 02 16:17 : player: played "Radiohead/Radiohead - Kid A - 320kbps/09 Morning Bell.mp3"
+Aug 02 16:24 : player: played "Radiohead/Radiohead - Kid A - 320kbps/10 Motion Picture Soundtrack Demonoid.mp3"
+Aug 02 16:28 : player: played "Radiohead/Radiohead - OK Computer/01 Airbag.mp3"
+Aug 02 16:35 : player: played "Radiohead/Radiohead - OK Computer/02 Paranoid Android.mp3"
+Aug 02 16:39 : player: played "Radiohead/Radiohead - OK Computer/03 Subterranean Homesick Alien.mp3"
+Aug 02 16:43 : player: played "Radiohead/Radiohead - OK Computer/04 Exit Music (For a Film).mp3"
+Aug 02 16:48 : player: played "Radiohead/Radiohead - OK Computer/05 Let Down.mp3"
+Aug 02 16:52 : player: played "Radiohead/Radiohead - OK Computer/06 Karma Police.mp3"
+Aug 02 16:54 : player: played "Radiohead/Radiohead - OK Computer/07 Fitter Happier.mp3"
+Aug 02 16:58 : player: played "Radiohead/Radiohead - OK Computer/08 Electioneering.mp3"
+Aug 02 17:03 : player: played "Radiohead/Radiohead - OK Computer/09 Climbing Up the Walls.mp3"
+Aug 02 17:06 : player: played "Radiohead/Radiohead - OK Computer/10 No Surprises.mp3"
+Aug 02 17:11 : player: played "Radiohead/Radiohead - OK Computer/11 Lucky.mp3"
+Aug 02 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 21:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 21:29 : client: [0] opened from 127.0.0.1:39878
+Aug 03 02:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 03 02:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 03 02:34 : client: [0] opened from 127.0.0.1:42712
+Aug 03 02:52 : player: played "Radiohead/Radiohead - OK Computer/12 The Tourist.mp3"
+Aug 03 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 03 12:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 03 12:45 : client: [0] opened from 127.0.0.1:51504
+Aug 03 19:34 : client: [1] opened from 127.0.0.1:56172
+Aug 03 19:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 03 19:34 : client: [1] closed
+Aug 03 19:39 : player: played "Radiohead/Radiohead - OK Computer/12 The Tourist.mp3"
+Aug 03 19:44 : player: played "Radiohead/Radiohead B-Sides/02-radiohead-faithless_the_wonder_boy-nuhs.mp3"
+Aug 03 19:47 : player: played "Radiohead/Radiohead B-Sides/03-radiohead-coke_babies-nuhs.mp3"
+Aug 03 19:51 : player: played "Radiohead/Radiohead B-Sides/02 Yes I Am.mp3"
+Aug 03 19:53 : player: played "Radiohead/Radiohead B-Sides/02 - Drill EP - Stupid Car.mp3"
+Aug 03 19:57 : player: played "Radiohead/Radiohead B-Sides/What_is_that_you_See.mp3"
+Aug 03 20:01 : player: played "Radiohead/Radiohead B-Sides/Give_It_Up.mp3"
+Aug 03 20:05 : player: played "Radiohead/Radiohead B-Sides/1-02 India Rubber.mp3"
+Aug 03 20:09 : player: played "Radiohead/Radiohead B-Sides/1-03 How Can You Be Sure_.mp3"
+Aug 03 20:12 : player: played "Radiohead/Radiohead B-Sides/01 Good Morning Mr. Magpie.mp3"
+Aug 03 20:17 : player: played "Radiohead/Radiohead B-Sides/13 On The Beach.mp3"
+Aug 03 20:20 : player: played "Radiohead/Radiohead B-Sides/16 Follow Me Around.mp3"
+Aug 03 20:24 : player: played "Radiohead/Radiohead B-Sides/Radiohead - 02 - I am Citizen insane.mp3"
+Aug 03 20:26 : player: played "Radiohead/Radiohead B-Sides/Radiohead - 03 - Fog (again) - Live.mp3"
+Aug 03 20:30 : player: played "Radiohead/Radiohead B-Sides/2-02 Gagging Order.mp3"
+Aug 03 20:33 : player: played "Radiohead/Radiohead B-Sides/2-03 I Am A Wicked Child.mp3"
+Aug 03 20:35 : player: played "Radiohead/Radiohead B-Sides/07 - Chernobyl 2.mp3"
+Aug 03 20:37 : player: played "Radiohead/Radiohead B-Sides/08 - Momentum.mp3"
+Aug 03 20:39 : player: played "Radiohead/Radiohead B-Sides/09 - Duped 94bpm.mp3"
+Aug 03 20:40 : player: played "Radiohead/Radiohead B-Sides/10 - Nasty People.mp3"
+Aug 03 20:41 : player: played "Radiohead/Radiohead B-Sides/11 - Try to Save Your Prize.mp3"
+Aug 03 20:41 : player: played "Radiohead/Radiohead B-Sides/12 - Broken Bass Bin.mp3"
+Aug 03 20:45 : player: played "Radiohead/Radiohead B-Sides/Radiohead - I Want None Of This.mp3"
+Aug 03 20:48 : player: played "Radiohead/Radiohead B-Sides/1-03 Maquiladora.mp3"
+Aug 03 20:51 : player: played "Radiohead/Radiohead B-Sides/2-03 Killer Cars.mp3"
+Aug 03 20:56 : player: played "Radiohead/Radiohead B-Sides/08 - Radiohead - True Love Waits.mp3"
+Aug 03 20:59 : player: played "Radiohead/Radiohead B-Sides/02 Meeting In The Aisle.mp3"
+Aug 03 21:02 : player: played "Radiohead/Radiohead B-Sides/03 Lull.mp3"
+Aug 03 21:06 : player: played "Radiohead/Radiohead B-Sides/02 - Radiohead - Worry Wort.mp3"
+Aug 03 21:10 : player: played "Radiohead/Radiohead B-Sides/03 - Radiohead - Fog.mp3"
+Aug 03 21:14 : player: played "Radiohead/Radiohead B-Sides/4 Minute Warning.mp3"
+Aug 03 21:18 : player: played "Radiohead/Radiohead B-Sides/2-17 Talk Show Host.mp3"
+Aug 03 21:22 : player: played "Radiohead/Radiohead B-Sides/Nothing_Touches_Me.mp3"
+Aug 03 21:26 : player: played "Radiohead/Radiohead B-Sides/Phillipa_Chicken.mp3"
+Aug 03 21:30 : player: played "Radiohead/Radiohead B-Sides/02 The Trickster.mp3"
+Aug 03 21:34 : player: played "Radiohead/Radiohead B-Sides/03 Lewis (Mistreated).mp3"
+Aug 03 21:38 : player: played "Radiohead/Radiohead B-Sides/04 Punchdrunk Lovesick Singalong.mp3"
+Aug 03 21:41 : player: played "Radiohead/Radiohead B-Sides/05 Permanent Daylight.mp3"
+Aug 03 21:43 : player: played "Radiohead/Radiohead B-Sides/06 Lozenge Of Love.mp3"
+Aug 03 21:45 : player: played "Radiohead/Radiohead B-Sides/07 You Never Wash Up After Yourself.mp3"
+Aug 03 21:49 : player: played "Radiohead/Radiohead B-Sides/1-02 Palo Alto.mp3"
+Aug 03 21:52 : player: played "Radiohead/Radiohead B-Sides/1-03 How I Made My Millions.mp3"
+Aug 03 21:55 : player: played "Radiohead/Radiohead B-Sides/14- Radiohead - Inside My Head.mp3"
+Aug 03 21:58 : player: played "Radiohead/Radiohead B-Sides/15- Radiohead - Million Dollar Question.mp3"
+Aug 03 22:03 : player: played "Radiohead/Radiohead B-Sides/02 Polyethylene (Parts 1& 2).mp3"
+Aug 03 22:06 : player: played "Radiohead/Radiohead B-Sides/03 Pearly_.mp3"
+Aug 03 22:10 : player: played "Radiohead/Radiohead B-Sides/02 A Reminder.mp3"
+Aug 03 22:12 : player: played "Radiohead/Radiohead B-Sides/03 Melatonin.mp3"
+Aug 03 22:16 : player: played "Radiohead/Radiohead B-Sides/02 The Amazing Sounds Of Orgy.mp3"
+Aug 03 22:19 : player: played "Radiohead/Radiohead B-Sides/03 Trans-Atlantic Drawl.mp3"
+Aug 03 22:22 : player: played "Radiohead/Radiohead B-Sides/02 Fast-Track.mp3"
+Aug 03 22:26 : player: played "Radiohead/Radiohead B-Sides/03 Kinetic.mp3"
+Aug 03 22:29 : player: played "Radiohead/Radiohead B-Sides/03 - radiohead - pop is dead.mp3"
+Aug 03 22:33 : player: played "Radiohead/Radiohead B-Sides/02_-_Radiohead_-_Talk_Show_Host.mp3"
+Aug 03 22:37 : player: played "Radiohead/Radiohead B-Sides/03_-_Radiohead_-_Bishop's_Robes.mp3"
+Aug 03 22:39 : player: played "Radiohead/Radiohead B-Sides/2-02 Banana Co..mp3"
+Aug 03 22:42 : player: played "Radiohead/Radiohead B-Sides/2-03 Molasses.mp3"
+Aug 03 22:46 : player: played "Radiohead/Radiohead B-Sides/2 Paperbag Writer.mp3"
+Aug 03 22:50 : player: played "Radiohead/Radiohead B-Sides/3 Where Bluebirds Fly.mp3"
+Aug 03 22:54 : player: played "Radiohead/Radiohead B-Sides/01-Keep_Strong.mp3"
+Aug 03 22:56 : player: played "Radiohead/Radiohead B-Sides/02-Somebody_else.mp3"
+Aug 03 23:01 : player: played "Radiohead/Radiohead B-Sides/03-Burning_Bush.mp3"
+Aug 03 23:05 : player: played "Radiohead/Radiohead B-Sides/04-Climbing_Up_A_Bloody_Great_Hill.mp3"
+Aug 03 23:10 : player: played "Radiohead/Radiohead B-Sides/05-MrB.mp3"
+Aug 03 23:11 : player: played "Radiohead/Radiohead B-Sides/07_-_Dance_Sucka.mp3"
+Aug 03 23:14 : player: played "Radiohead/Radiohead B-Sides/08-Upside_Down.mp3"
+Aug 03 23:18 : player: played "Radiohead/Radiohead B-Sides/09-Shindig.mp3"
+Aug 03 23:19 : player: played "Radiohead/Radiohead B-Sides/12-Life_with_the_Big_F.mp3"
+Aug 03 23:26 : player: played "Radiohead/Radiohead B-Sides/13-Rattlesnake.mp3"
+Aug 03 23:29 : player: played "Radiohead/Radiohead B-Sides/14-The_New_Generation.mp3"
+Aug 03 23:35 : player: played "Radiohead/Radiohead B-Sides/Cuttooth.mp3"
+Aug 03 23:39 : player: played "Radiohead/Radiohead B-Sides/I Promise.mp3"
+Aug 03 23:43 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/101-radiohead-just.mp3"
+Aug 03 23:49 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/102-radiohead-paranoid_android.mp3"
+Aug 03 23:53 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/103-radiohead-karma_police.mp3"
+Aug 03 23:57 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/104-radiohead-creep.mp3"
+Aug 04 00:01 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/105-radiohead-no_surprise.mp3"
+Aug 04 00:05 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/106-radiohead-high_and_dry.mp3"
+Aug 04 00:10 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/107-radiohead-my_iron_lung.mp3"
+Aug 04 00:15 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/108-radiohead-there_there.mp3"
+Aug 04 00:20 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/109-radiohead-lucky.mp3"
+Aug 04 00:25 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/110-radiohead-optimistic.mp3"
+Aug 04 00:30 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/111-radiohead-fake_plastic_tree.mp3"
+Aug 04 00:34 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/112-radiohead-idioteque.mp3"
+Aug 04 00:37 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/113-radiohead-2_and_2_5.mp3"
+Aug 04 00:42 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/114-radiohead-the_bends.mp3"
+Aug 04 00:46 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/115-radiohead-pyramid_song.mp3"
+Aug 04 00:51 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/116-radiohead-street_spirit_(fade_out).mp3"
+Aug 04 00:55 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/117-radiohead-everything_in_its_right_place.mp3"
+Aug 04 01:00 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/201-radiohead-airbag.mp3"
+Aug 04 01:04 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/202-radiohead-i_might_be_wrong.mp3"
+Aug 04 01:08 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/203-radiohead-go_to_sleep.mp3"
+Aug 04 01:13 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/204-radiohead-let_down.mp3"
+Aug 04 01:17 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/205-radiohead-planet_telex.mp3"
+Aug 04 01:18 : exception: Failed to play on "pulse audio" (pulse): suspended
+Aug 04 01:22 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/206-radiohead-exit_music_(for_a_film).mp3"
+Aug 04 01:27 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/207-radiohead-the_national_anthem.mp3"
+Aug 04 01:32 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/208-radiohead-knives_out.mp3"
+Aug 04 01:36 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/209-radiohead-talk_show_host.mp3"
+Aug 04 01:40 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/210-radiohead-you.mp3"
+Aug 04 01:43 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/211-radiohead-anyone_can_play_guitar.mp3"
+Aug 04 01:49 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/212-radiohead-how_to_disappear_completely.mp3"
+Aug 04 01:54 : player: played "Radiohead/Radiohead-The_Best_Of-(Advance)-2CD-2008-pLAN9/213-radiohead-true_love_waits.mp3"
+Aug 04 01:58 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 01 Making Me Ill.mp3"
+Aug 04 02:02 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 02 Bad Things.mp3"
+Aug 04 02:05 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 03 Forgive Myself Away.mp3"
+Aug 04 02:08 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 04 Late N' Wasted.mp3"
+Aug 04 02:11 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 05 Lose Yourself.mp3"
+Aug 04 02:15 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 06 Taken Back.mp3"
+Aug 04 02:19 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 07 Lullabies, Screams, and Cries.mp3"
+Aug 04 02:22 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 08 Lost Inside My Head.mp3"
+Aug 04 02:26 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 09 Darkness (Engulfs Me In).mp3"
+Aug 04 02:30 : player: played "The Evening Attraction/The Evening Attraction - Almost Desperate - 10 We'll Be Okay.mp3"
+Aug 04 02:35 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/01. Hand Covers Bruise - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:39 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/02. In Motion - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:43 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/03. A Familiar Taste - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:45 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/04. It Catches Up With You - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:49 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/05. Intriguing Possibilities - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:53 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/06. Painted Sun In Abstract - Trent Reznor and Atticus Ross.flac"
+Aug 04 02:57 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/07. 3-14 Every Night - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:01 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/08. Pieces Form The Whole - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:05 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/09. Carbon Prevails - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:09 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/10. Eventually We Find Our Way - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:10 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/11. Penetration - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:13 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/12. In The Hall Of The Mountain King - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:17 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/13. On We March - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:19 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/14. Magnetic - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:23 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/15. Almost Home - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:25 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/16. Hand Covers Bruise, Reprise - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:28 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/17. Complication With Optimistic Outcome - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:32 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/18. The Gentle Hum Of Anxiety - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:37 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/19. Soft Trees Break The Fall - Trent Reznor and Atticus Ross.flac"
+Aug 04 03:39 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/01 Immigrant Song (with Karen O).flac"
+Aug 04 03:44 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/02 She Reminds Me Of You.flac"
+Aug 04 03:48 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/03 People Lie All The Time.flac"
+Aug 04 03:53 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/04 Pinned And Mounted.flac"
+Aug 04 03:59 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/05 Perihelion.flac"
+Aug 04 04:03 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 04 04:11 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/07 With The Flies.flac"
+Aug 04 04:16 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/08 Hidden In Snow.flac"
+Aug 04 04:20 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/09 A Thousand Details.flac"
+Aug 04 04:27 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/10 One Particular Moment.flac"
+Aug 04 04:29 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/11 I Can't Take It Anymore.flac"
+Aug 04 04:31 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/12 How Brittle The Bones.flac"
+Aug 04 04:37 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/13 Please Take Your Hand Away.flac"
+Aug 04 04:41 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/01 Cut Into Pieces.flac"
+Aug 04 04:43 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/02 The Splinter.flac"
+Aug 04 04:48 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/03 An Itch.flac"
+Aug 04 04:53 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/04 Hypomania.flac"
+Aug 04 05:00 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/05 Under The Midnight Sun.flac"
+Aug 04 05:04 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/06 Aphelion.flac"
+Aug 04 05:07 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/07 You’re Here.flac"
+Aug 04 05:11 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/08 The Same As The Others.flac"
+Aug 04 05:15 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/09 A Pause For Reflection.flac"
+Aug 04 05:17 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/10 While Waiting.flac"
+Aug 04 05:22 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/11 The Seconds Drag.flac"
+Aug 04 05:27 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/12 Later Into The Night.flac"
+Aug 04 05:33 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 2/13 Parallel Timeline With Alternate Outcome.flac"
+Aug 04 05:40 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/01 Another Way Of Caring.flac"
+Aug 04 05:43 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/02 A Viable Construct.flac"
+Aug 04 05:46 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/03 Revealed In The Thaw.flac"
+Aug 04 05:47 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/04 Millennia.flac"
+Aug 04 05:52 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/05 We Could Wait Forever.flac"
+Aug 04 06:00 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/06 Oraculum.flac"
+Aug 04 06:06 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/07 Great Bird Of Prey.flac"
+Aug 04 06:11 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/08 The Heretics.flac"
+Aug 04 06:13 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/09 A Pair Of Doves.flac"
+Aug 04 06:20 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/10 Infiltrator.flac"
+Aug 04 06:22 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/11 The Sound Of Forgetting.flac"
+Aug 04 06:26 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/12 Of Secrets.flac"
+Aug 04 06:30 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 3/13 Is Your Love Strong Enough.flac"
+Aug 04 06:31 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Snare Liftoff.mp3"
+Aug 04 06:34 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Overture.mp3"
+Aug 04 06:38 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Too Hip to Retire.mp3"
+Aug 04 06:39 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Whiplash.mp3"
+Aug 04 06:41 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Fletchers Song in Club.mp3"
+Aug 04 06:50 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Caravan.mp3"
+Aug 04 06:52 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Whats Your Name.mp3"
+Aug 04 06:53 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Practicing.mp3"
+Aug 04 06:54 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Invited (Includes Dialogue).mp3"
+Aug 04 06:55 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Call from Dad.mp3"
+Aug 04 07:00 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Accident.mp3"
+Aug 04 07:02 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Hug from Dad.mp3"
+Aug 04 07:03 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Drum  Drone.mp3"
+Aug 04 07:04 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Carnegie.mp3"
+Aug 04 07:04 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Breakup.mp3"
+Aug 04 07:06 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Drum Battle.mp3"
+Aug 04 07:09 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Dismissed.mp3"
+Aug 04 07:11 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Good Job.mp3"
+Aug 04 07:14 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Intoit.mp3"
+Aug 04 07:16 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/No Two Words.mp3"
+Aug 04 07:20 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/When I Wake.mp3"
+Aug 04 07:22 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Caseys Song.mp3"
+Aug 04 07:24 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Upswingin.mp3"
+Aug 04 07:25 : player: played "whiplash original motion picture soundtrack 320kbps.zip/whiplash original motion picture soundtrack 320kbps/Studio Band Rehearsal After Breakup.mp3"
+Aug 04 08:23 : player: played "Radiohead/Ok Minidisc/5.mp3"
+Aug 04 08:58 : player: played "Radiohead/Ok Minidisc/6.mp3"
+Aug 04 09:54 : player: played "Radiohead/Ok Minidisc/7.mp3"
+Aug 04 10:20 : client: [2] opened from 127.0.0.1:38780
+Aug 04 10:20 : client: [2] closed
+Aug 07 20:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 20:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 20:17 : client: [0] opened from 127.0.0.1:49764
+Aug 07 20:17 : client: [1] opened from 127.0.0.1:49766
+Aug 07 20:17 : client: [2] opened from 127.0.0.1:49770
+Aug 07 20:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 20:17 : client: [2] closed
+Aug 07 20:24 : client: [3] opened from 127.0.0.1:49850
+Aug 07 20:24 : client: [3] closed
+Aug 07 20:24 : client: [4] opened from 127.0.0.1:49854
+Aug 07 20:24 : client: [4] closed
+Aug 07 20:24 : client: [5] opened from 127.0.0.1:49856
+Aug 07 20:24 : client: [5] closed
+Aug 07 20:24 : client: [6] opened from 127.0.0.1:49858
+Aug 07 20:24 : client: [6] closed
+Aug 07 20:24 : client: [7] opened from 127.0.0.1:49860
+Aug 07 20:24 : client: [7] closed
+Aug 07 20:24 : client: [8] opened from 127.0.0.1:49862
+Aug 07 20:24 : client: [8] closed
+Aug 07 20:24 : client: [9] opened from 127.0.0.1:49864
+Aug 07 20:24 : client: [9] closed
+Aug 07 20:24 : client: [10] opened from 127.0.0.1:49866
+Aug 07 20:24 : client: [10] closed
+Aug 07 20:24 : client: [11] opened from 127.0.0.1:49868
+Aug 07 20:24 : client: [11] closed
+Aug 07 20:24 : client: [12] opened from 127.0.0.1:49870
+Aug 07 20:24 : client: [12] closed
+Aug 07 20:24 : client: [13] opened from 127.0.0.1:49872
+Aug 07 20:24 : client: [13] closed
+Aug 07 20:24 : client: [14] opened from 127.0.0.1:49874
+Aug 07 20:24 : client: [14] closed
+Aug 07 20:24 : client: [15] opened from 127.0.0.1:49876
+Aug 07 20:24 : client: [15] closed
+Aug 07 20:28 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Aug 07 20:32 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Aug 07 20:33 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Aug 07 20:36 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Aug 07 20:40 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Aug 07 20:44 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Aug 07 20:47 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/08 IV. Sweatpants.mp3"
+Aug 07 20:50 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/09 V. 3005.mp3"
+Aug 07 20:51 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/10 Playing Around Before the Party S.mp3"
+Aug 07 20:53 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/11 I. The Party.mp3"
+Aug 07 20:56 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/12 II. No exit.mp3"
+Aug 07 20:57 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/13 Death By Numbers.mp3"
+Aug 07 21:02 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/14 I. Flight of the Navigator.mp3"
+Aug 07 21:06 : client: [16] opened from 127.0.0.1:50404
+Aug 07 21:06 : client: [16] closed
+Aug 08 00:52 : client: [17] opened from 127.0.0.1:52748
+Aug 08 00:52 : client: [17] closed
+Aug 08 00:53 : client: [18] opened from 127.0.0.1:52750
+Aug 08 00:53 : client: [18] closed
+Aug 08 00:53 : client: [19] opened from 127.0.0.1:52764
+Aug 08 00:53 : client: [20] opened from 127.0.0.1:52768
+Aug 08 00:53 : client: [20] closed
+Aug 08 00:54 : client: [21] opened from 127.0.0.1:52774
+Aug 08 00:54 : client: [21] closed
+Aug 08 00:54 : client: [19] closed
+Aug 08 00:58 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/01. Hand Covers Bruise - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:03 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/02. In Motion - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:07 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/03. A Familiar Taste - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:08 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/04. It Catches Up With You - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:13 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/05. Intriguing Possibilities - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:16 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/06. Painted Sun In Abstract - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:20 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/07. 3-14 Every Night - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:25 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/08. Pieces Form The Whole - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:28 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/09. Carbon Prevails - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:33 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/10. Eventually We Find Our Way - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:34 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/11. Penetration - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:36 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/12. In The Hall Of The Mountain King - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:41 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/13. On We March - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:43 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/14. Magnetic - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:46 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/15. Almost Home - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:48 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/16. Hand Covers Bruise, Reprise - Trent Reznor and Atticus Ross.flac"
+Aug 08 01:51 : client: [22] opened from 127.0.0.1:53956
+Aug 08 01:51 : client: [22] closed
+Aug 08 02:13 : client: [23] opened from 127.0.0.1:54214
+Aug 08 02:13 : client: [23] closed
+Aug 08 02:14 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/17. Complication With Optimistic Outcome - Trent Reznor and Atticus Ross.flac"
+Aug 08 02:18 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/18. The Gentle Hum Of Anxiety - Trent Reznor and Atticus Ross.flac"
+Aug 08 02:23 : player: played "Trent Reznor and Atticus Ross/The Social Network - Trent Reznor and Atticus Ross 2010 [FLAC] [h33t] - Kitlope/19. Soft Trees Break The Fall - Trent Reznor and Atticus Ross.flac"
+Aug 08 02:25 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/01 Immigrant Song (with Karen O).flac"
+Aug 08 02:30 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/02 She Reminds Me Of You.flac"
+Aug 08 02:34 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/03 People Lie All The Time.flac"
+Aug 08 02:39 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/04 Pinned And Mounted.flac"
+Aug 08 02:45 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/05 Perihelion.flac"
+Aug 08 02:45 : client: [24] opened from 127.0.0.1:55198
+Aug 08 02:45 : client: [24] closed
+Aug 08 03:24 : client: [1] closed
+Aug 08 03:24 : client: [0] closed
+Aug 08 03:24 : client: [25] opened from 127.0.0.1:55528
+Aug 08 03:24 : client: [26] opened from 127.0.0.1:55530
+Aug 08 09:26 : client: [25] closed
+Aug 08 09:26 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 08 23:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 23:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 23:38 : client: [0] opened from 127.0.0.1:55328
+Aug 08 23:38 : client: [1] opened from 127.0.0.1:55330
+Aug 09 00:27 : client: [2] opened from 127.0.0.1:55478
+Aug 09 00:27 : client: [3] opened from 127.0.0.1:55482
+Aug 09 00:27 : client: [3] closed
+Aug 09 18:54 : client: [1] closed
+Aug 09 18:54 : client: [0] closed
+Aug 09 18:54 : client: [4] opened from 127.0.0.1:35826
+Aug 09 18:54 : client: [4] closed
+Aug 09 18:54 : client: [5] opened from 127.0.0.1:35828
+Aug 09 18:56 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 09 19:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 19:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 19:12 : client: [0] opened from 127.0.0.1:56200
+Aug 10 16:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 16:53 : client: [0] opened from 127.0.0.1:34088
+Aug 10 20:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 20:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 20:37 : client: [0] opened from 127.0.0.1:36464
+Aug 11 15:06 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 11 15:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 15:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 15:27 : client: [0] opened from 127.0.0.1:42526
+Aug 11 18:18 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 12 10:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 10:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 10:31 : client: [0] opened from 127.0.0.1:50154
+Aug 12 17:35 : player: played "Trent Reznor and Atticus Ross/Trent Reznor and Atticus Ross-The Girl with the Dragon Tattoo OST (2011) FLAC/Disc 1/06 What If We Could.flac"
+Aug 12 20:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 20:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 20:53 : client: [0] opened from 127.0.0.1:54146
+Aug 12 20:54 : client: [1] opened from 127.0.0.1:54166
+Aug 12 20:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 20:54 : client: [1] closed
+Aug 12 20:55 : client: [2] opened from 127.0.0.1:54174
+Aug 12 20:55 : client: [2] closed
+Aug 16 20:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:26 : client: [0] opened from 127.0.0.1:45424
+Aug 16 20:26 : client: [1] opened from 127.0.0.1:45422
+Aug 16 20:26 : client: [2] opened from 127.0.0.1:45428
+Aug 16 20:26 : client: [3] opened from 127.0.0.1:45432
+Aug 16 20:26 : client: [3] closed
+Aug 16 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:26 : client: [4] opened from 127.0.0.1:45436
+Aug 16 20:26 : client: [4] closed
+Aug 16 20:26 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Aug 16 20:26 : client: [5] opened from 127.0.0.1:45440
+Aug 16 20:26 : client: [5] closed
+Aug 16 20:27 : client: [6] opened from 127.0.0.1:45444
+Aug 16 20:27 : client: [6] closed
+Aug 16 20:27 : client: [7] opened from 127.0.0.1:45448
+Aug 16 20:27 : client: [7] closed
+Aug 16 20:27 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Aug 16 20:27 : client: [8] opened from 127.0.0.1:45452
+Aug 16 20:27 : client: [8] closed
+Aug 16 20:28 : client: [9] opened from 127.0.0.1:45456
+Aug 16 20:28 : client: [9] closed
+Aug 16 20:28 : client: [10] opened from 127.0.0.1:45460
+Aug 16 20:28 : client: [10] closed
+Aug 16 20:28 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/01 The Library (Intro).mp3"
+Aug 16 20:28 : client: [11] opened from 127.0.0.1:45464
+Aug 16 20:28 : client: [11] closed
+Aug 16 20:32 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/02 I. Crawl.mp3"
+Aug 16 20:32 : client: [12] opened from 127.0.0.1:45468
+Aug 16 20:32 : client: [12] closed
+Aug 16 20:36 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/03 II. Worldstar.mp3"
+Aug 16 20:36 : client: [13] opened from 127.0.0.1:45510
+Aug 16 20:36 : client: [13] closed
+Aug 16 20:37 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/04 Dial Up.mp3"
+Aug 16 20:37 : client: [14] opened from 127.0.0.1:45516
+Aug 16 20:37 : client: [14] closed
+Aug 16 20:41 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/05 I. The Worst Guys (feat. Chance t.mp3"
+Aug 16 20:41 : client: [15] opened from 127.0.0.1:45534
+Aug 16 20:41 : client: [15] closed
+Aug 16 20:44 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/06 II. Shadows.mp3"
+Aug 16 20:44 : client: [16] opened from 127.0.0.1:45566
+Aug 16 20:44 : client: [16] closed
+Aug 16 20:48 : client: [17] opened from 127.0.0.1:45580
+Aug 16 20:48 : player: played "Childish Gambino - Because The Internet [iTunes][320kbps][MafiaSSS][GloRG]/07 III. Telegraph Ave. (_Oakland_ by.mp3"
+Aug 16 20:48 : client: [17] closed

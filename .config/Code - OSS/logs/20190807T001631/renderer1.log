@@ -1,0 +1,2 @@
+[2019-08-07 00:17:07.365] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/zubair/Documents/ECell/megathon_2019/.vscode'
+[2019-08-07 00:17:07.366] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/zubair/Documents/ECell/megathon_2019/.vscode'

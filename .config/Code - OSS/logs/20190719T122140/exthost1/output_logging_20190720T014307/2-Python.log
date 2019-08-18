@@ -1,0 +1,1800 @@
+Starting Jedi Python language engine.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+##########Linting Output - pep8##########
+11,1,E,E302:expected 2 blank lines, found 1
+37,1,E,E302:expected 2 blank lines, found 1
+41,1,E,E302:expected 2 blank lines, found 1
+46,1,E,E302:expected 2 blank lines, found 1
+53,1,E,E302:expected 2 blank lines, found 1
+58,1,E,E302:expected 2 blank lines, found 1
+68,37,E,E262:inline comment should start with '# '
+69,6,E,E221:multiple spaces before operator
+69,37,E,E262:inline comment should start with '# '
+83,1,E,E302:expected 2 blank lines, found 1
+156,1,E,E302:expected 2 blank lines, found 1
+177,1,E,E302:expected 2 blank lines, found 1
+196,1,E,E302:expected 2 blank lines, found 1
+233,80,E,E501:line too long (89 > 79 characters)
+235,80,E,E501:line too long (81 > 79 characters)
+260,1,E,E302:expected 2 blank lines, found 1
+276,1,E,E302:expected 2 blank lines, found 1
+315,1,E,E302:expected 2 blank lines, found 1
+367,1,E,E302:expected 2 blank lines, found 1
+379,1,E,E302:expected 2 blank lines, found 1
+396,1,E,E302:expected 2 blank lines, found 1
+409,1,E,E302:expected 2 blank lines, found 1
+426,1,E,E302:expected 2 blank lines, found 1
+430,1,E,E302:expected 2 blank lines, found 1
+434,1,E,E302:expected 2 blank lines, found 1
+774,1,E,E302:expected 2 blank lines, found 1
+813,13,E,E129:visually indented line with same indent as next logical line
+873,5,E,E303:too many blank lines (2)
+897,5,E,E303:too many blank lines (2)
+1104,80,E,E501:line too long (83 > 79 characters)
+1162,1,E,E302:expected 2 blank lines, found 1
+1185,80,E,E501:line too long (94 > 79 characters)
+1187,80,E,E501:line too long (88 > 79 characters)
+1198,13,E,E129:visually indented line with same indent as next logical line
+1198,27,E,E227:missing whitespace around bitwise or shift operator
+1310,25,E,E261:at least two spaces before inline comment
+1329,80,E,E501:line too long (86 > 79 characters)
+1334,80,E,E501:line too long (84 > 79 characters)
+1336,80,E,E501:line too long (80 > 79 characters)
+1354,10,E,E225:missing whitespace around operator
+1375,27,E,E127:continuation line over-indented for visual indent
+1395,5,E,E303:too many blank lines (2)
+1509,1,E,E302:expected 2 blank lines, found 1
+1510,80,E,E501:line too long (81 > 79 characters)
+1520,5,E,E129:visually indented line with same indent as next logical line
+1520,32,E,E227:missing whitespace around bitwise or shift operator
+1618,80,E,E501:line too long (81 > 79 characters)
+1709,9,E,E301:expected 1 blank line, found 0
+1739,5,E,E303:too many blank lines (2)
+1762,80,E,E501:line too long (90 > 79 characters)
+1901,80,E,E501:line too long (85 > 79 characters)
+1906,80,E,E501:line too long (81 > 79 characters)
+2012,25,E,E261:at least two spaces before inline comment
+2078,80,E,E501:line too long (89 > 79 characters)
+2136,1,E,E302:expected 2 blank lines, found 1
+2141,5,E,E301:expected 1 blank line, found 0
+2315,80,E,E501:line too long (80 > 79 characters)
+2330,80,E,E501:line too long (80 > 79 characters)
+2332,80,E,E501:line too long (80 > 79 characters)
+2334,80,E,E501:line too long (80 > 79 characters)
+2347,80,E,E501:line too long (80 > 79 characters)
+2392,80,E,E501:line too long (80 > 79 characters)
+2418,80,E,E501:line too long (80 > 79 characters)
+2420,80,E,E501:line too long (80 > 79 characters)
+2438,80,E,E501:line too long (80 > 79 characters)
+2447,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+13,1,E,E302:expected 2 blank lines, found 1
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+23,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,27,E,E231:missing whitespace after ','
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+44,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+53,1,W,W191:indentation contains tabs
+53,33,E,E261:at least two spaces before inline comment
+54,1,W,W191:indentation contains tabs
+57,1,W,W191:indentation contains tabs
+57,2,E,E303:too many blank lines (2)
+58,1,W,W191:indentation contains tabs
+59,1,E,E101:indentation contains mixed spaces and tabs
+59,57,E,E128:continuation line under-indented for visual indent
+60,57,E,E128:continuation line under-indented for visual indent
+62,1,E,E101:indentation contains mixed spaces and tabs
+62,1,W,W191:indentation contains tabs
+62,1,W,W293:blank line contains whitespace
+63,1,W,W191:indentation contains tabs
+63,2,E,E303:too many blank lines (2)
+64,1,W,W191:indentation contains tabs
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+66,80,E,E501:line too long (96 > 79 characters)
+67,1,W,W191:indentation contains tabs
+68,1,W,W191:indentation contains tabs
+70,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+73,1,W,W191:indentation contains tabs
+75,1,W,W191:indentation contains tabs
+80,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+13,1,E,E302:expected 2 blank lines, found 1
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+23,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,27,E,E231:missing whitespace after ','
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+44,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+53,1,W,W191:indentation contains tabs
+53,33,E,E261:at least two spaces before inline comment
+54,1,W,W191:indentation contains tabs
+57,1,W,W191:indentation contains tabs
+57,2,E,E303:too many blank lines (2)
+58,1,W,W191:indentation contains tabs
+59,1,E,E101:indentation contains mixed spaces and tabs
+59,57,E,E128:continuation line under-indented for visual indent
+60,57,E,E128:continuation line under-indented for visual indent
+62,1,E,E101:indentation contains mixed spaces and tabs
+62,1,W,W191:indentation contains tabs
+62,1,W,W293:blank line contains whitespace
+63,1,W,W191:indentation contains tabs
+63,2,E,E303:too many blank lines (2)
+64,1,W,W191:indentation contains tabs
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+66,80,E,E501:line too long (96 > 79 characters)
+67,1,W,W191:indentation contains tabs
+68,1,W,W191:indentation contains tabs
+70,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+73,1,W,W191:indentation contains tabs
+75,1,W,W191:indentation contains tabs
+80,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+11,1,E,E302:expected 2 blank lines, found 1
+37,1,E,E302:expected 2 blank lines, found 1
+41,1,E,E302:expected 2 blank lines, found 1
+46,1,E,E302:expected 2 blank lines, found 1
+53,1,E,E302:expected 2 blank lines, found 1
+58,1,E,E302:expected 2 blank lines, found 1
+68,37,E,E262:inline comment should start with '# '
+69,6,E,E221:multiple spaces before operator
+69,37,E,E262:inline comment should start with '# '
+83,1,E,E302:expected 2 blank lines, found 1
+156,1,E,E302:expected 2 blank lines, found 1
+177,1,E,E302:expected 2 blank lines, found 1
+196,1,E,E302:expected 2 blank lines, found 1
+233,80,E,E501:line too long (89 > 79 characters)
+235,80,E,E501:line too long (81 > 79 characters)
+260,1,E,E302:expected 2 blank lines, found 1
+276,1,E,E302:expected 2 blank lines, found 1
+315,1,E,E302:expected 2 blank lines, found 1
+367,1,E,E302:expected 2 blank lines, found 1
+379,1,E,E302:expected 2 blank lines, found 1
+396,1,E,E302:expected 2 blank lines, found 1
+409,1,E,E302:expected 2 blank lines, found 1
+426,1,E,E302:expected 2 blank lines, found 1
+430,1,E,E302:expected 2 blank lines, found 1
+434,1,E,E302:expected 2 blank lines, found 1
+774,1,E,E302:expected 2 blank lines, found 1
+813,13,E,E129:visually indented line with same indent as next logical line
+873,5,E,E303:too many blank lines (2)
+897,5,E,E303:too many blank lines (2)
+1104,80,E,E501:line too long (83 > 79 characters)
+1162,1,E,E302:expected 2 blank lines, found 1
+1185,80,E,E501:line too long (94 > 79 characters)
+1187,80,E,E501:line too long (88 > 79 characters)
+1198,13,E,E129:visually indented line with same indent as next logical line
+1198,27,E,E227:missing whitespace around bitwise or shift operator
+1310,25,E,E261:at least two spaces before inline comment
+1329,80,E,E501:line too long (86 > 79 characters)
+1334,80,E,E501:line too long (84 > 79 characters)
+1336,80,E,E501:line too long (80 > 79 characters)
+1354,10,E,E225:missing whitespace around operator
+1375,27,E,E127:continuation line over-indented for visual indent
+1395,5,E,E303:too many blank lines (2)
+1509,1,E,E302:expected 2 blank lines, found 1
+1510,80,E,E501:line too long (81 > 79 characters)
+1520,5,E,E129:visually indented line with same indent as next logical line
+1520,32,E,E227:missing whitespace around bitwise or shift operator
+1618,80,E,E501:line too long (81 > 79 characters)
+1709,9,E,E301:expected 1 blank line, found 0
+1739,5,E,E303:too many blank lines (2)
+1762,80,E,E501:line too long (90 > 79 characters)
+1901,80,E,E501:line too long (85 > 79 characters)
+1906,80,E,E501:line too long (81 > 79 characters)
+2012,25,E,E261:at least two spaces before inline comment
+2078,80,E,E501:line too long (89 > 79 characters)
+2136,1,E,E302:expected 2 blank lines, found 1
+2141,5,E,E301:expected 1 blank line, found 0
+2315,80,E,E501:line too long (80 > 79 characters)
+2330,80,E,E501:line too long (80 > 79 characters)
+2332,80,E,E501:line too long (80 > 79 characters)
+2334,80,E,E501:line too long (80 > 79 characters)
+2347,80,E,E501:line too long (80 > 79 characters)
+2392,80,E,E501:line too long (80 > 79 characters)
+2418,80,E,E501:line too long (80 > 79 characters)
+2420,80,E,E501:line too long (80 > 79 characters)
+2438,80,E,E501:line too long (80 > 79 characters)
+2447,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+13,1,E,E302:expected 2 blank lines, found 1
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+23,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+26,27,E,E231:missing whitespace after ','
+27,1,W,W191:indentation contains tabs
+29,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+31,14,E,E231:missing whitespace after ','
+32,1,W,W191:indentation contains tabs
+32,1,W,W293:blank line contains whitespace
+33,1,W,W191:indentation contains tabs
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+38,1,W,W191:indentation contains tabs
+40,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+44,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+53,1,W,W191:indentation contains tabs
+53,33,E,E261:at least two spaces before inline comment
+54,1,W,W191:indentation contains tabs
+57,1,W,W191:indentation contains tabs
+57,2,E,E303:too many blank lines (2)
+58,1,W,W191:indentation contains tabs
+59,1,E,E101:indentation contains mixed spaces and tabs
+59,57,E,E128:continuation line under-indented for visual indent
+60,57,E,E128:continuation line under-indented for visual indent
+62,1,E,E101:indentation contains mixed spaces and tabs
+62,1,W,W191:indentation contains tabs
+62,1,W,W293:blank line contains whitespace
+63,1,W,W191:indentation contains tabs
+63,2,E,E303:too many blank lines (2)
+64,1,W,W191:indentation contains tabs
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+66,80,E,E501:line too long (96 > 79 characters)
+67,1,W,W191:indentation contains tabs
+68,1,W,W191:indentation contains tabs
+70,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+73,1,W,W191:indentation contains tabs
+75,1,W,W191:indentation contains tabs
+80,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,27,E,E231:missing whitespace after ','
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+43,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+46,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+52,1,W,W191:indentation contains tabs
+54,1,W,W191:indentation contains tabs
+54,33,E,E261:at least two spaces before inline comment
+55,1,W,W191:indentation contains tabs
+58,1,W,W191:indentation contains tabs
+58,2,E,E303:too many blank lines (2)
+59,1,W,W191:indentation contains tabs
+60,1,E,E101:indentation contains mixed spaces and tabs
+60,57,E,E128:continuation line under-indented for visual indent
+61,57,E,E128:continuation line under-indented for visual indent
+63,1,E,E101:indentation contains mixed spaces and tabs
+63,1,W,W191:indentation contains tabs
+63,1,W,W293:blank line contains whitespace
+64,1,W,W191:indentation contains tabs
+64,2,E,E303:too many blank lines (2)
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+67,1,W,W191:indentation contains tabs
+67,80,E,E501:line too long (96 > 79 characters)
+68,1,W,W191:indentation contains tabs
+69,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+72,1,W,W191:indentation contains tabs
+74,1,W,W191:indentation contains tabs
+76,1,W,W191:indentation contains tabs
+81,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+43,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+46,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+52,1,W,W191:indentation contains tabs
+54,1,W,W191:indentation contains tabs
+54,33,E,E261:at least two spaces before inline comment
+55,1,W,W191:indentation contains tabs
+58,1,W,W191:indentation contains tabs
+58,2,E,E303:too many blank lines (2)
+59,1,W,W191:indentation contains tabs
+60,1,E,E101:indentation contains mixed spaces and tabs
+60,57,E,E128:continuation line under-indented for visual indent
+61,57,E,E128:continuation line under-indented for visual indent
+63,1,E,E101:indentation contains mixed spaces and tabs
+63,1,W,W191:indentation contains tabs
+63,1,W,W293:blank line contains whitespace
+64,1,W,W191:indentation contains tabs
+64,2,E,E303:too many blank lines (2)
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+67,1,W,W191:indentation contains tabs
+67,80,E,E501:line too long (96 > 79 characters)
+68,1,W,W191:indentation contains tabs
+69,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+72,1,W,W191:indentation contains tabs
+74,1,W,W191:indentation contains tabs
+76,1,W,W191:indentation contains tabs
+81,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+5,1,E,E302:expected 2 blank lines, found 1
+21,5,E,E303:too many blank lines (2)
+22,40,E,E231:missing whitespace after ','
+24,55,E,E251:unexpected spaces around keyword / parameter equals
+24,57,E,E251:unexpected spaces around keyword / parameter equals
+26,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+43,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+46,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+52,1,W,W191:indentation contains tabs
+54,1,W,W191:indentation contains tabs
+54,33,E,E261:at least two spaces before inline comment
+55,1,W,W191:indentation contains tabs
+58,1,W,W191:indentation contains tabs
+58,2,E,E303:too many blank lines (2)
+59,1,W,W191:indentation contains tabs
+60,1,E,E101:indentation contains mixed spaces and tabs
+60,57,E,E128:continuation line under-indented for visual indent
+61,57,E,E128:continuation line under-indented for visual indent
+63,1,E,E101:indentation contains mixed spaces and tabs
+63,1,W,W191:indentation contains tabs
+63,1,W,W293:blank line contains whitespace
+64,1,W,W191:indentation contains tabs
+64,2,E,E303:too many blank lines (2)
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+67,1,W,W191:indentation contains tabs
+67,80,E,E501:line too long (96 > 79 characters)
+68,1,W,W191:indentation contains tabs
+69,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+72,1,W,W191:indentation contains tabs
+74,1,W,W191:indentation contains tabs
+76,1,W,W191:indentation contains tabs
+81,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+5,1,E,E302:expected 2 blank lines, found 1
+21,5,E,E303:too many blank lines (2)
+22,40,E,E231:missing whitespace after ','
+24,55,E,E251:unexpected spaces around keyword / parameter equals
+24,57,E,E251:unexpected spaces around keyword / parameter equals
+26,1,E,E302:expected 2 blank lines, found 1
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+
+Linter 'pep8' is not installed. Please install it or select another linter".
+Error: Module 'pep8' not installed.
+##########Linting Output - pep8##########
+5,1,E,E302:expected 2 blank lines, found 1
+21,5,E,E303:too many blank lines (2)
+22,40,E,E231:missing whitespace after ','
+24,55,E,E251:unexpected spaces around keyword / parameter equals
+24,57,E,E251:unexpected spaces around keyword / parameter equals
+26,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+22,5,E,E303:too many blank lines (2)
+23,40,E,E231:missing whitespace after ','
+25,55,E,E251:unexpected spaces around keyword / parameter equals
+25,57,E,E251:unexpected spaces around keyword / parameter equals
+27,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+22,40,E,E231:missing whitespace after ','
+24,55,E,E251:unexpected spaces around keyword / parameter equals
+24,57,E,E251:unexpected spaces around keyword / parameter equals
+26,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+26,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+7,1,E,E302:expected 2 blank lines, found 1
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+10,1,W,W191:indentation contains tabs
+12,1,W,W191:indentation contains tabs
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+7,1,E,E302:expected 2 blank lines, found 1
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+10,1,W,W191:indentation contains tabs
+12,1,W,W191:indentation contains tabs
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+11,1,W,W191:indentation contains tabs
+12,1,W,W191:indentation contains tabs
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+1,35,E,E231:missing whitespace after ','
+1,52,E,E231:missing whitespace after ','
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+19,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+1,35,E,E231:missing whitespace after ','
+1,52,E,E231:missing whitespace after ','
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+19,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+19,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+19,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+43,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+46,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+51,1,W,W191:indentation contains tabs
+52,1,W,W191:indentation contains tabs
+54,1,W,W191:indentation contains tabs
+54,33,E,E261:at least two spaces before inline comment
+55,1,W,W191:indentation contains tabs
+58,1,W,W191:indentation contains tabs
+58,2,E,E303:too many blank lines (2)
+59,1,W,W191:indentation contains tabs
+60,1,E,E101:indentation contains mixed spaces and tabs
+60,57,E,E128:continuation line under-indented for visual indent
+61,57,E,E128:continuation line under-indented for visual indent
+63,1,E,E101:indentation contains mixed spaces and tabs
+63,1,W,W191:indentation contains tabs
+63,1,W,W293:blank line contains whitespace
+64,1,W,W191:indentation contains tabs
+64,2,E,E303:too many blank lines (2)
+65,1,W,W191:indentation contains tabs
+66,1,W,W191:indentation contains tabs
+67,1,W,W191:indentation contains tabs
+67,80,E,E501:line too long (96 > 79 characters)
+68,1,W,W191:indentation contains tabs
+69,1,W,W191:indentation contains tabs
+71,1,W,W191:indentation contains tabs
+72,1,W,W191:indentation contains tabs
+74,1,W,W191:indentation contains tabs
+76,1,W,W191:indentation contains tabs
+81,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+39,80,E,E501:line too long (81 > 79 characters)
+67,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,3,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,75,W,W291:trailing whitespace
+69,1,E,E101:indentation contains mixed spaces and tabs
+69,1,W,W191:indentation contains tabs
+69,2,E,E116:unexpected indentation (comment)
+70,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,3,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,75,W,W291:trailing whitespace
+69,1,E,E101:indentation contains mixed spaces and tabs
+69,1,W,W191:indentation contains tabs
+69,2,E,E116:unexpected indentation (comment)
+70,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,3,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,75,W,W291:trailing whitespace
+69,1,E,E101:indentation contains mixed spaces and tabs
+69,1,W,W191:indentation contains tabs
+69,2,E,E116:unexpected indentation (comment)
+70,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+39,80,E,E501:line too long (81 > 79 characters)
+67,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,80,E,E501:line too long (81 > 79 characters)
+67,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,3,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,80,E,E501:line too long (81 > 79 characters)
+67,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,9,E,E101:indentation contains mixed spaces and tabs
+39,9,W,W191:indentation contains tabs
+39,11,E,E116:unexpected indentation (comment)
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,5,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+39,9,E,E101:indentation contains mixed spaces and tabs
+39,9,W,W191:indentation contains tabs
+39,11,E,E116:unexpected indentation (comment)
+39,72,W,W291:trailing whitespace
+40,1,E,E101:indentation contains mixed spaces and tabs
+40,1,W,W191:indentation contains tabs
+40,5,E,E116:unexpected indentation (comment)
+42,1,E,E101:indentation contains mixed spaces and tabs
+68,80,E,E501:line too long (80 > 79 characters)
+68,81,W,W291:trailing whitespace
+69,1,E,E101:indentation contains mixed spaces and tabs
+69,1,W,W191:indentation contains tabs
+69,2,E,E116:unexpected indentation (comment)
+70,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+68,80,E,E501:line too long (80 > 79 characters)
+##########Linting Output - pep8##########
+68,75,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+4,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+23,1,E,E302:expected 2 blank lines, found 1
+63,22,E,E711:comparison to None should be 'if cond is None:'
+95,80,E,E501:line too long (110 > 79 characters)
+98,80,E,E501:line too long (85 > 79 characters)
+98,82,E,E231:missing whitespace after ','
+100,80,E,E501:line too long (97 > 79 characters)
+102,80,E,E501:line too long (99 > 79 characters)
+107,80,E,E501:line too long (93 > 79 characters)
+108,80,E,E501:line too long (90 > 79 characters)
+114,80,E,E501:line too long (99 > 79 characters)
+123,14,E,E231:missing whitespace after ','
+126,14,E,E231:missing whitespace after ','
+133,22,E,E711:comparison to None should be 'if cond is None:'
+137,9,E,E303:too many blank lines (2)
+143,80,E,E501:line too long (90 > 79 characters)
+153,80,E,E501:line too long (88 > 79 characters)
+178,80,E,E501:line too long (125 > 79 characters)
+184,32,E,E261:at least two spaces before inline comment
+189,51,E,E261:at least two spaces before inline comment
+190,49,E,E231:missing whitespace after ','
+190,80,E,E501:line too long (80 > 79 characters)
+192,80,E,E501:line too long (80 > 79 characters)
+215,80,E,E501:line too long (83 > 79 characters)
+221,80,E,E501:line too long (94 > 79 characters)
+294,80,E,E501:line too long (108 > 79 characters)
+296,56,E,E231:missing whitespace after ','
+296,73,E,E231:missing whitespace after ','
+300,80,E,E501:line too long (85 > 79 characters)
+331,43,E,E251:unexpected spaces around keyword / parameter equals
+331,45,E,E251:unexpected spaces around keyword / parameter equals
+367,80,E,E501:line too long (113 > 79 characters)
+367,82,E,E231:missing whitespace after ','
+376,32,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+23,1,E,E302:expected 2 blank lines, found 1
+63,22,E,E711:comparison to None should be 'if cond is None:'
+95,80,E,E501:line too long (110 > 79 characters)
+98,80,E,E501:line too long (85 > 79 characters)
+98,82,E,E231:missing whitespace after ','
+100,80,E,E501:line too long (97 > 79 characters)
+102,80,E,E501:line too long (99 > 79 characters)
+107,80,E,E501:line too long (93 > 79 characters)
+108,80,E,E501:line too long (90 > 79 characters)
+114,80,E,E501:line too long (99 > 79 characters)
+123,14,E,E231:missing whitespace after ','
+126,14,E,E231:missing whitespace after ','
+133,22,E,E711:comparison to None should be 'if cond is None:'
+137,9,E,E303:too many blank lines (2)
+143,80,E,E501:line too long (90 > 79 characters)
+153,80,E,E501:line too long (88 > 79 characters)
+178,80,E,E501:line too long (125 > 79 characters)
+184,32,E,E261:at least two spaces before inline comment
+189,51,E,E261:at least two spaces before inline comment
+190,49,E,E231:missing whitespace after ','
+190,80,E,E501:line too long (80 > 79 characters)
+192,80,E,E501:line too long (80 > 79 characters)
+215,80,E,E501:line too long (83 > 79 characters)
+221,80,E,E501:line too long (94 > 79 characters)
+294,80,E,E501:line too long (108 > 79 characters)
+296,56,E,E231:missing whitespace after ','
+296,73,E,E231:missing whitespace after ','
+300,80,E,E501:line too long (85 > 79 characters)
+331,43,E,E251:unexpected spaces around keyword / parameter equals
+331,45,E,E251:unexpected spaces around keyword / parameter equals
+367,80,E,E501:line too long (113 > 79 characters)
+367,82,E,E231:missing whitespace after ','
+376,32,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+64,22,E,E711:comparison to None should be 'if cond is None:'
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+138,22,E,E711:comparison to None should be 'if cond is None:'
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+138,22,E,E711:comparison to None should be 'if cond is None:'
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+112,80,E,E501:line too long (93 > 79 characters)
+113,80,E,E501:line too long (90 > 79 characters)
+159,80,E,E501:line too long (88 > 79 characters)
+185,80,E,E501:line too long (91 > 79 characters)
+224,80,E,E501:line too long (83 > 79 characters)
+230,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,80,E,E501:line too long (88 > 79 characters)
+187,80,E,E501:line too long (91 > 79 characters)
+226,80,E,E501:line too long (83 > 79 characters)
+232,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+188,80,E,E501:line too long (91 > 79 characters)
+227,80,E,E501:line too long (83 > 79 characters)
+233,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+189,18,E,E225:missing whitespace around operator
+228,80,E,E501:line too long (83 > 79 characters)
+234,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+189,18,E,E225:missing whitespace around operator
+229,6,E,E128:continuation line under-indented for visual indent
+235,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+189,18,E,E225:missing whitespace around operator
+229,6,E,E128:continuation line under-indented for visual indent
+235,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+229,6,E,E128:continuation line under-indented for visual indent
+235,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+161,68,W,W291:trailing whitespace
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+229,6,E,E128:continuation line under-indented for visual indent
+235,70,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+162,5,E,E128:continuation line under-indented for visual indent
+189,17,E,E128:continuation line under-indented for visual indent
+189,17,W,W503:line break before binary operator
+229,6,E,E128:continuation line under-indented for visual indent
+235,70,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+162,5,E,E128:continuation line under-indented for visual indent
+229,6,E,E128:continuation line under-indented for visual indent
+235,70,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+107,6,E,E128:continuation line under-indented for visual indent
+162,5,E,E128:continuation line under-indented for visual indent
+229,6,E,E128:continuation line under-indented for visual indent
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+15,80,E,E501:line too long (90 > 79 characters)
+##########Linting Output - pep8##########
+15,80,E,E501:line too long (90 > 79 characters)
+##########Linting Output - pep8##########
+16,6,E,E128:continuation line under-indented for visual indent
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E302:expected 2 blank lines, found 1
+22,1,E,E302:expected 2 blank lines, found 1
+48,1,E,E302:expected 2 blank lines, found 1
+51,5,E,E122:continuation line missing indentation or outdented
+52,5,E,E122:continuation line missing indentation or outdented
+53,5,E,E122:continuation line missing indentation or outdented
+69,1,E,E302:expected 2 blank lines, found 1
+73,5,E,E122:continuation line missing indentation or outdented
+90,80,E,E501:line too long (87 > 79 characters)
+92,1,E,E302:expected 2 blank lines, found 1
+97,1,E,E302:expected 2 blank lines, found 1
+106,1,E,E302:expected 2 blank lines, found 1
+114,1,E,E302:expected 2 blank lines, found 1
+123,1,E,E302:expected 2 blank lines, found 1
+142,1,E,E303:too many blank lines (3)
+150,20,E,E203:whitespace before ':'
+##########Linting Output - pep8##########
+94,80,E,E501:line too long (87 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+16,80,E,E501:line too long (87 > 79 characters)
+98,80,E,E501:line too long (91 > 79 characters)
+101,80,E,E501:line too long (81 > 79 characters)
+104,80,E,E501:line too long (82 > 79 characters)
+107,80,E,E501:line too long (83 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+16,80,E,E501:line too long (87 > 79 characters)
+98,80,E,E501:line too long (91 > 79 characters)
+101,80,E,E501:line too long (81 > 79 characters)
+104,80,E,E501:line too long (82 > 79 characters)
+107,80,E,E501:line too long (83 > 79 characters)
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+##########Linting Output - pep8##########
+4,1,E,E302:expected 2 blank lines, found 0
+20,5,E,E303:too many blank lines (2)
+21,40,E,E231:missing whitespace after ','
+23,55,E,E251:unexpected spaces around keyword / parameter equals
+23,57,E,E251:unexpected spaces around keyword / parameter equals
+25,1,E,E302:expected 2 blank lines, found 1
+31,1,E,E302:expected 2 blank lines, found 1
+33,43,E,E231:missing whitespace after ','
+34,47,E,E231:missing whitespace after ','
+35,35,E,E231:missing whitespace after ','
+36,37,E,E231:missing whitespace after ','
+37,80,E,E501:line too long (94 > 79 characters)
+38,1,W,W293:blank line contains whitespace
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+16,80,E,E501:line too long (90 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+33,1,E,E302:expected 2 blank lines, found 1
+35,80,E,E501:line too long (103 > 79 characters)
+35,82,E,E251:unexpected spaces around keyword / parameter equals
+35,84,E,E251:unexpected spaces around keyword / parameter equals
+51,1,E,E302:expected 2 blank lines, found 1
+60,43,E,E231:missing whitespace after ','
+61,47,E,E231:missing whitespace after ','
+62,35,E,E231:missing whitespace after ','
+63,37,E,E231:missing whitespace after ','
+68,47,E,E231:missing whitespace after ','
+68,80,E,E501:line too long (81 > 79 characters)
+70,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+1,3,E,E227:missing whitespace around bitwise or shift operator
+1,7,E,E225:missing whitespace around operator
+2,1,E,E402:module level import not at top of file
+2,35,E,E231:missing whitespace after ','
+2,52,E,E231:missing whitespace after ','
+3,1,E,E402:module level import not at top of file
+4,3,E,E225:missing whitespace around operator
+4,5,E,E225:missing whitespace around operator
+4,7,E,E225:missing whitespace around operator
+5,1,E,E402:module level import not at top of file
+6,1,E,E402:module level import not at top of file
+7,7,E,E225:missing whitespace around operator
+25,3,E,E227:missing whitespace around bitwise or shift operator
+25,7,E,E225:missing whitespace around operator
+30,1,E,E101:indentation contains mixed spaces and tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+33,1,W,W191:indentation contains tabs
+33,1,W,W293:blank line contains whitespace
+34,3,E,E225:missing whitespace around operator
+34,5,E,E225:missing whitespace around operator
+34,7,E,E225:missing whitespace around operator
+35,7,E,E225:missing whitespace around operator
+##########Linting Output - pep8##########
+20,3,E,E227:missing whitespace around bitwise or shift operator
+20,7,E,E225:missing whitespace around operator
+25,1,E,E101:indentation contains mixed spaces and tabs
+25,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+28,1,W,W191:indentation contains tabs
+28,1,W,W293:blank line contains whitespace
+29,3,E,E225:missing whitespace around operator
+29,5,E,E225:missing whitespace around operator
+29,7,E,E225:missing whitespace around operator
+30,7,E,E225:missing whitespace around operator
+##########Linting Output - pep8##########
+24,1,E,E101:indentation contains mixed spaces and tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,1,W,W293:blank line contains whitespace
+27,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+24,1,E,E101:indentation contains mixed spaces and tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,1,W,W293:blank line contains whitespace
+27,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+15,3,E,E227:missing whitespace around bitwise or shift operator
+15,7,E,E225:missing whitespace around operator
+16,1,E,E302:expected 2 blank lines, found 0
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+27,27,E,E231:missing whitespace after ','
+28,1,W,W191:indentation contains tabs
+30,1,W,W191:indentation contains tabs
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+32,14,E,E231:missing whitespace after ','
+34,1,W,W191:indentation contains tabs
+35,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+37,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+40,3,E,E225:missing whitespace around operator
+40,5,E,E225:missing whitespace around operator
+40,7,E,E225:missing whitespace around operator
+42,1,E,E302:expected 2 blank lines, found 1
+43,1,E,E101:indentation contains mixed spaces and tabs
+47,7,E,E225:missing whitespace around operator
+49,5,E,E116:unexpected indentation (comment)
+50,5,E,E113:unexpected indentation
+71,3,E,E227:missing whitespace around bitwise or shift operator
+71,7,E,E225:missing whitespace around operator
+73,1,E,E101:indentation contains mixed spaces and tabs
+73,1,W,W191:indentation contains tabs
+73,2,E,E116:unexpected indentation (comment)
+74,1,W,W191:indentation contains tabs
+74,2,E,E116:unexpected indentation (comment)
+75,1,W,W191:indentation contains tabs
+75,2,E,E116:unexpected indentation (comment)
+76,1,W,W191:indentation contains tabs
+76,2,E,E116:unexpected indentation (comment)
+76,80,E,E501:line too long (96 > 79 characters)
+77,1,W,W191:indentation contains tabs
+77,2,E,E113:unexpected indentation
+78,1,W,W191:indentation contains tabs
+79,3,E,E225:missing whitespace around operator
+79,5,E,E225:missing whitespace around operator
+79,7,E,E225:missing whitespace around operator
+80,1,E,E101:indentation contains mixed spaces and tabs
+80,5,E,E116:unexpected indentation (comment)
+81,5,E,E113:unexpected indentation
+83,7,E,E225:missing whitespace around operator
+85,5,E,E113:unexpected indentation
+94,3,E,E227:missing whitespace around bitwise or shift operator
+94,7,E,E225:missing whitespace around operator
+95,1,E,E101:indentation contains mixed spaces and tabs
+95,1,W,W191:indentation contains tabs
+95,2,E,E113:unexpected indentation
+96,3,E,E225:missing whitespace around operator
+96,5,E,E225:missing whitespace around operator
+96,7,E,E225:missing whitespace around operator
+97,1,E,E101:indentation contains mixed spaces and tabs
+97,5,E,E113:unexpected indentation
+119,7,E,E225:missing whitespace around operator
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+45,1,E,E101:indentation contains mixed spaces and tabs
+45,1,W,W191:indentation contains tabs
+45,2,E,E303:too many blank lines (2)
+46,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+48,80,E,E501:line too long (96 > 79 characters)
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+52,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+45,1,E,E101:indentation contains mixed spaces and tabs
+45,1,W,W191:indentation contains tabs
+45,2,E,E303:too many blank lines (2)
+46,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+48,80,E,E501:line too long (96 > 79 characters)
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+52,1,E,E101:indentation contains mixed spaces and tabs
+61,3,E,E227:missing whitespace around bitwise or shift operator
+61,7,E,E225:missing whitespace around operator
+62,1,E,E101:indentation contains mixed spaces and tabs
+62,1,W,W191:indentation contains tabs
+62,2,E,E113:unexpected indentation
+63,3,E,E225:missing whitespace around operator
+63,5,E,E225:missing whitespace around operator
+63,7,E,E225:missing whitespace around operator
+64,1,E,E101:indentation contains mixed spaces and tabs
+64,5,E,E113:unexpected indentation
+86,7,E,E225:missing whitespace around operator
+##########Linting Output - pep8##########
+45,1,E,E101:indentation contains mixed spaces and tabs
+45,1,W,W191:indentation contains tabs
+45,2,E,E303:too many blank lines (2)
+46,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+48,80,E,E501:line too long (96 > 79 characters)
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+52,1,E,E101:indentation contains mixed spaces and tabs
+##########Linting Output - pep8##########
+45,1,E,E101:indentation contains mixed spaces and tabs
+45,1,W,W191:indentation contains tabs
+45,2,E,E303:too many blank lines (2)
+46,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+48,80,E,E501:line too long (96 > 79 characters)
+49,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+52,1,E,E101:indentation contains mixed spaces and tabs
+61,3,E,E227:missing whitespace around bitwise or shift operator
+61,7,E,E225:missing whitespace around operator
+62,1,E,E101:indentation contains mixed spaces and tabs
+62,1,W,W191:indentation contains tabs
+62,2,E,E113:unexpected indentation
+63,3,E,E225:missing whitespace around operator
+63,5,E,E225:missing whitespace around operator
+63,7,E,E225:missing whitespace around operator
+64,1,E,E101:indentation contains mixed spaces and tabs
+64,5,E,E113:unexpected indentation
+86,7,E,E225:missing whitespace around operator
+##########Linting Output - pep8##########
+11,12,E,E401:multiple imports on one line
+13,1,E,E302:expected 2 blank lines, found 1
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+19,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+22,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+24,27,E,E231:missing whitespace after ','
+25,1,W,W191:indentation contains tabs
+27,1,W,W191:indentation contains tabs
+28,1,W,W191:indentation contains tabs
+29,1,W,W191:indentation contains tabs
+29,14,E,E231:missing whitespace after ','
+31,1,W,W191:indentation contains tabs
+32,1,W,W191:indentation contains tabs
+33,1,W,W191:indentation contains tabs
+34,1,W,W191:indentation contains tabs
+36,1,W,W191:indentation contains tabs
+38,1,W,W191:indentation contains tabs
+39,1,W,W191:indentation contains tabs
+41,1,W,W191:indentation contains tabs
+42,1,W,W191:indentation contains tabs
+44,1,W,W191:indentation contains tabs
+45,1,W,W191:indentation contains tabs
+46,1,W,W191:indentation contains tabs
+47,1,W,W191:indentation contains tabs
+48,1,W,W191:indentation contains tabs
+50,1,W,W191:indentation contains tabs
+50,33,E,E261:at least two spaces before inline comment
+51,1,W,W191:indentation contains tabs
+54,1,W,W191:indentation contains tabs
+54,2,E,E303:too many blank lines (2)
+55,1,W,W191:indentation contains tabs
+56,1,E,E101:indentation contains mixed spaces and tabs
+56,57,E,E128:continuation line under-indented for visual indent
+57,57,E,E128:continuation line under-indented for visual indent
+60,1,E,E101:indentation contains mixed spaces and tabs
+60,1,W,W191:indentation contains tabs
+60,2,E,E303:too many blank lines (2)
+61,1,W,W191:indentation contains tabs
+62,1,W,W191:indentation contains tabs
+63,1,W,W191:indentation contains tabs
+63,80,E,E501:line too long (96 > 79 characters)
+64,1,W,W191:indentation contains tabs
+65,1,W,W191:indentation contains tabs
+67,1,W,W191:indentation contains tabs
+68,1,W,W191:indentation contains tabs
+70,1,W,W191:indentation contains tabs
+72,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+37,80,E,E501:line too long (81 > 79 characters)
+64,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+37,80,E,E501:line too long (81 > 79 characters)
+64,80,E,E501:line too long (99 > 79 characters)
+##########Linting Output - pep8##########
+37,80,E,E501:line too long (81 > 79 characters)
+64,75,W,W291:trailing whitespace
+##########Linting Output - pep8##########
+37,80,E,E501:line too long (81 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+7,1,E,E302:expected 2 blank lines, found 1
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+10,1,W,W191:indentation contains tabs
+12,1,W,W191:indentation contains tabs
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+7,1,E,E302:expected 2 blank lines, found 1
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+10,1,W,W191:indentation contains tabs
+12,1,W,W191:indentation contains tabs
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+17,1,W,W191:indentation contains tabs
+18,1,W,W191:indentation contains tabs
+20,1,W,W191:indentation contains tabs
+21,1,W,W191:indentation contains tabs
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+1,35,E,E231:missing whitespace after ','
+1,52,E,E231:missing whitespace after ','
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+23,1,E,E101:indentation contains mixed spaces and tabs
+23,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+26,1,W,W293:blank line contains whitespace
+26,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+1,35,E,E231:missing whitespace after ','
+1,52,E,E231:missing whitespace after ','
+7,1,W,W191:indentation contains tabs
+8,1,W,W191:indentation contains tabs
+9,1,W,W191:indentation contains tabs
+9,19,E,E231:missing whitespace after ','
+9,30,E,E231:missing whitespace after ','
+11,1,E,E302:expected 2 blank lines, found 1
+13,1,W,W191:indentation contains tabs
+14,1,W,W191:indentation contains tabs
+15,1,W,W191:indentation contains tabs
+16,1,W,W191:indentation contains tabs
+17,1,E,E101:indentation contains mixed spaces and tabs
+17,13,E,E122:continuation line missing indentation or outdented
+17,49,E,E251:unexpected spaces around keyword / parameter equals
+17,51,E,E251:unexpected spaces around keyword / parameter equals
+17,59,E,E231:missing whitespace after ','
+18,9,E,E122:continuation line missing indentation or outdented
+23,1,E,E101:indentation contains mixed spaces and tabs
+23,1,W,W191:indentation contains tabs
+24,1,W,W191:indentation contains tabs
+25,1,W,W191:indentation contains tabs
+26,1,W,W191:indentation contains tabs
+26,1,W,W293:blank line contains whitespace
+26,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+4,1,E,E302:expected 2 blank lines, found 0
+20,5,E,E303:too many blank lines (2)
+21,40,E,E231:missing whitespace after ','
+23,55,E,E251:unexpected spaces around keyword / parameter equals
+23,57,E,E251:unexpected spaces around keyword / parameter equals
+25,1,E,E302:expected 2 blank lines, found 1
+31,1,E,E302:expected 2 blank lines, found 1
+33,80,E,E501:line too long (103 > 79 characters)
+33,82,E,E251:unexpected spaces around keyword / parameter equals
+33,84,E,E251:unexpected spaces around keyword / parameter equals
+49,1,E,E302:expected 2 blank lines, found 1
+58,43,E,E231:missing whitespace after ','
+59,47,E,E231:missing whitespace after ','
+60,35,E,E231:missing whitespace after ','
+61,37,E,E231:missing whitespace after ','
+62,47,E,E231:missing whitespace after ','
+62,80,E,E501:line too long (102 > 79 characters)
+68,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+4,1,E,E302:expected 2 blank lines, found 0
+20,5,E,E303:too many blank lines (2)
+21,40,E,E231:missing whitespace after ','
+23,55,E,E251:unexpected spaces around keyword / parameter equals
+23,57,E,E251:unexpected spaces around keyword / parameter equals
+25,1,E,E302:expected 2 blank lines, found 1
+31,1,E,E302:expected 2 blank lines, found 1
+33,80,E,E501:line too long (103 > 79 characters)
+33,82,E,E251:unexpected spaces around keyword / parameter equals
+33,84,E,E251:unexpected spaces around keyword / parameter equals
+49,1,E,E302:expected 2 blank lines, found 1
+58,43,E,E231:missing whitespace after ','
+59,47,E,E231:missing whitespace after ','
+60,35,E,E231:missing whitespace after ','
+61,37,E,E231:missing whitespace after ','
+62,47,E,E231:missing whitespace after ','
+62,80,E,E501:line too long (102 > 79 characters)
+68,1,E,E302:expected 2 blank lines, found 1
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+23,1,E,E302:expected 2 blank lines, found 1
+63,22,E,E711:comparison to None should be 'if cond is None:'
+95,80,E,E501:line too long (110 > 79 characters)
+98,80,E,E501:line too long (85 > 79 characters)
+98,82,E,E231:missing whitespace after ','
+100,80,E,E501:line too long (97 > 79 characters)
+102,80,E,E501:line too long (99 > 79 characters)
+107,80,E,E501:line too long (93 > 79 characters)
+108,80,E,E501:line too long (90 > 79 characters)
+114,80,E,E501:line too long (99 > 79 characters)
+123,14,E,E231:missing whitespace after ','
+126,14,E,E231:missing whitespace after ','
+133,22,E,E711:comparison to None should be 'if cond is None:'
+137,9,E,E303:too many blank lines (2)
+143,80,E,E501:line too long (90 > 79 characters)
+153,80,E,E501:line too long (88 > 79 characters)
+178,80,E,E501:line too long (125 > 79 characters)
+184,32,E,E261:at least two spaces before inline comment
+189,51,E,E261:at least two spaces before inline comment
+190,49,E,E231:missing whitespace after ','
+190,80,E,E501:line too long (80 > 79 characters)
+192,80,E,E501:line too long (80 > 79 characters)
+215,80,E,E501:line too long (83 > 79 characters)
+221,80,E,E501:line too long (94 > 79 characters)
+294,80,E,E501:line too long (108 > 79 characters)
+296,56,E,E231:missing whitespace after ','
+296,73,E,E231:missing whitespace after ','
+300,80,E,E501:line too long (85 > 79 characters)
+331,43,E,E251:unexpected spaces around keyword / parameter equals
+331,45,E,E251:unexpected spaces around keyword / parameter equals
+367,80,E,E501:line too long (113 > 79 characters)
+367,82,E,E231:missing whitespace after ','
+##########Linting Output - pep8##########
+23,1,E,E302:expected 2 blank lines, found 1
+63,22,E,E711:comparison to None should be 'if cond is None:'
+95,80,E,E501:line too long (110 > 79 characters)
+98,80,E,E501:line too long (85 > 79 characters)
+98,82,E,E231:missing whitespace after ','
+100,80,E,E501:line too long (97 > 79 characters)
+102,80,E,E501:line too long (99 > 79 characters)
+107,80,E,E501:line too long (93 > 79 characters)
+108,80,E,E501:line too long (90 > 79 characters)
+114,80,E,E501:line too long (99 > 79 characters)
+123,14,E,E231:missing whitespace after ','
+126,14,E,E231:missing whitespace after ','
+133,22,E,E711:comparison to None should be 'if cond is None:'
+137,9,E,E303:too many blank lines (2)
+143,80,E,E501:line too long (90 > 79 characters)
+153,80,E,E501:line too long (88 > 79 characters)
+178,80,E,E501:line too long (125 > 79 characters)
+184,32,E,E261:at least two spaces before inline comment
+189,51,E,E261:at least two spaces before inline comment
+190,49,E,E231:missing whitespace after ','
+190,80,E,E501:line too long (80 > 79 characters)
+192,80,E,E501:line too long (80 > 79 characters)
+215,80,E,E501:line too long (83 > 79 characters)
+221,80,E,E501:line too long (94 > 79 characters)
+294,80,E,E501:line too long (108 > 79 characters)
+296,56,E,E231:missing whitespace after ','
+296,73,E,E231:missing whitespace after ','
+300,80,E,E501:line too long (85 > 79 characters)
+331,43,E,E251:unexpected spaces around keyword / parameter equals
+331,45,E,E251:unexpected spaces around keyword / parameter equals
+367,80,E,E501:line too long (113 > 79 characters)
+367,82,E,E231:missing whitespace after ','
+##########Linting Output - pep8##########
+64,22,E,E711:comparison to None should be 'if cond is None:'
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+138,22,E,E711:comparison to None should be 'if cond is None:'
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+64,22,E,E711:comparison to None should be 'if cond is None:'
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+138,22,E,E711:comparison to None should be 'if cond is None:'
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+138,22,E,E711:comparison to None should be 'if cond is None:'
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+106,80,E,E501:line too long (99 > 79 characters)
+111,80,E,E501:line too long (93 > 79 characters)
+112,80,E,E501:line too long (90 > 79 characters)
+158,80,E,E501:line too long (88 > 79 characters)
+184,80,E,E501:line too long (91 > 79 characters)
+223,80,E,E501:line too long (83 > 79 characters)
+229,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,9,E,E125:continuation line with same indent as next logical line
+107,9,E,E128:continuation line under-indented for visual indent
+112,80,E,E501:line too long (93 > 79 characters)
+113,80,E,E501:line too long (90 > 79 characters)
+159,80,E,E501:line too long (88 > 79 characters)
+185,80,E,E501:line too long (91 > 79 characters)
+224,80,E,E501:line too long (83 > 79 characters)
+230,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,12,E,E128:continuation line under-indented for visual indent
+112,80,E,E501:line too long (93 > 79 characters)
+113,80,E,E501:line too long (90 > 79 characters)
+159,80,E,E501:line too long (88 > 79 characters)
+185,80,E,E501:line too long (91 > 79 characters)
+224,80,E,E501:line too long (83 > 79 characters)
+230,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+107,13,E,E128:continuation line under-indented for visual indent
+112,80,E,E501:line too long (93 > 79 characters)
+113,80,E,E501:line too long (90 > 79 characters)
+159,80,E,E501:line too long (88 > 79 characters)
+185,80,E,E501:line too long (91 > 79 characters)
+224,80,E,E501:line too long (83 > 79 characters)
+230,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+112,80,E,E501:line too long (93 > 79 characters)
+113,80,E,E501:line too long (90 > 79 characters)
+159,80,E,E501:line too long (88 > 79 characters)
+185,80,E,E501:line too long (91 > 79 characters)
+224,80,E,E501:line too long (83 > 79 characters)
+230,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+161,80,E,E501:line too long (88 > 79 characters)
+187,80,E,E501:line too long (91 > 79 characters)
+226,80,E,E501:line too long (83 > 79 characters)
+232,80,E,E501:line too long (94 > 79 characters)
+##########Linting Output - pep8##########
+161,80,E,E501:line too long (88 > 79 characters)
+187,80,E,E501:line too long (91 > 79 characters)
+226,80,E,E501:line too long (83 > 79 characters)
+##########Linting Output - pep8##########
+162,5,E,E128:continuation line under-indented for visual indent
+228,80,E,E501:line too long (83 > 79 characters)
+##########Linting Output - pep8##########
+162,5,E,E128:continuation line under-indented for visual indent
+229,6,E,E128:continuation line under-indented for visual indent
+##########Linting Output - pep8##########
+2,1,E,E402:module level import not at top of file
+7,1,E,E402:module level import not at top of file
+8,1,E,E402:module level import not at top of file
+9,1,E,E402:module level import not at top of file
+10,1,E,E402:module level import not at top of file
+11,1,E,E402:module level import not at top of file
+13,1,E,E402:module level import not at top of file
+14,1,E,E402:module level import not at top of file
+15,1,E,E402:module level import not at top of file
+16,1,E,E402:module level import not at top of file
+18,1,E,E402:module level import not at top of file
+19,1,E,E402:module level import not at top of file
+20,1,E,E402:module level import not at top of file
+21,1,E,E402:module level import not at top of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+17,80,E,E501:line too long (92 > 79 characters)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+15,1,E,E302:expected 2 blank lines, found 1
+25,1,E,E302:expected 2 blank lines, found 1
+51,1,E,E302:expected 2 blank lines, found 1
+54,5,E,E122:continuation line missing indentation or outdented
+55,5,E,E122:continuation line missing indentation or outdented
+56,5,E,E122:continuation line missing indentation or outdented
+72,1,E,E302:expected 2 blank lines, found 1
+77,5,E,E122:continuation line missing indentation or outdented
+95,1,E,E302:expected 2 blank lines, found 1
+100,1,E,E302:expected 2 blank lines, found 1
+108,1,E,E302:expected 2 blank lines, found 1
+117,80,E,E501:line too long (93 > 79 characters)
+121,16,E,E203:whitespace before ':'
+127,1,E,E302:expected 2 blank lines, found 1
+131,5,E,E303:too many blank lines (2)
+137,80,E,E501:line too long (108 > 79 characters)
+147,1,E,E302:expected 2 blank lines, found 1
+164,1,E,E302:expected 2 blank lines, found 1
+203,80,E,E501:line too long (99 > 79 characters)
+209,5,E,E303:too many blank lines (2)
+210,80,E,E501:line too long (116 > 79 characters)
+218,65,E,E251:unexpected spaces around keyword / parameter equals
+218,67,E,E251:unexpected spaces around keyword / parameter equals
+218,80,E,E501:line too long (83 > 79 characters)
+234,21,E,E231:missing whitespace after ':'
+##########Linting Output - pep8##########
+15,1,E,E302:expected 2 blank lines, found 1
+25,1,E,E302:expected 2 blank lines, found 1
+51,1,E,E302:expected 2 blank lines, found 1
+54,5,E,E122:continuation line missing indentation or outdented
+55,5,E,E122:continuation line missing indentation or outdented
+56,5,E,E122:continuation line missing indentation or outdented
+72,1,E,E302:expected 2 blank lines, found 1
+77,5,E,E122:continuation line missing indentation or outdented
+95,1,E,E302:expected 2 blank lines, found 1
+100,1,E,E302:expected 2 blank lines, found 1
+108,1,E,E302:expected 2 blank lines, found 1
+117,80,E,E501:line too long (93 > 79 characters)
+121,16,E,E203:whitespace before ':'
+127,1,E,E302:expected 2 blank lines, found 1
+131,5,E,E303:too many blank lines (2)
+137,80,E,E501:line too long (108 > 79 characters)
+147,1,E,E302:expected 2 blank lines, found 1
+164,1,E,E302:expected 2 blank lines, found 1
+203,80,E,E501:line too long (99 > 79 characters)
+209,5,E,E303:too many blank lines (2)
+210,80,E,E501:line too long (116 > 79 characters)
+218,65,E,E251:unexpected spaces around keyword / parameter equals
+218,67,E,E251:unexpected spaces around keyword / parameter equals
+218,80,E,E501:line too long (83 > 79 characters)
+234,21,E,E231:missing whitespace after ':'
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+12,1,E,E303:too many blank lines (3)
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+16,80,E,E501:line too long (87 > 79 characters)
+98,80,E,E501:line too long (91 > 79 characters)
+101,80,E,E501:line too long (81 > 79 characters)
+104,80,E,E501:line too long (82 > 79 characters)
+107,80,E,E501:line too long (83 > 79 characters)
+##########Linting Output - pep8##########
+6,4,E,E111:indentation is not a multiple of four
+8,4,E,E111:indentation is not a multiple of four
+9,1,W,W391:blank line at end of file
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########
+##########Linting Output - pep8##########

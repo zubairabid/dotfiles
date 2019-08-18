@@ -1,12 +1,18 @@
 [Desktop Entry]
 FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
-Height 1080=1026
-State=AAAA/wAAAAD9AAAAAAAAAucAAAPJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=1030
+Height 768=718
+State=AAAA/wAAAAD9AAAAAAAAA6sAAAPNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=743
+Width 1366=662
+Width 1920=939
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Getting_back_into_the_Ping_frame_of_mind.md
-Name1[$e]=Getting_back_into_the_Ping_frame_of_mind.md
+File1[$e]=$HOME/Documents/Ping/Jul 19/July-2019.pdf
+File2[$e]=$HOME/Downloads/smai.pdf
+Name1[$e]=July-2019.pdf
+Name2[$e]=smai.pdf

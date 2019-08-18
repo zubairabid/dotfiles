@@ -1,0 +1,314 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/zubair/Documents/Hackathons/IBM_hack/IBM-Hack-2019
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git show :energy-auditor/energyaudit/predictapi.py
+> git check-ignore -v -z --stdin
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%H
+%ae
+%P
+%B b87e2d8c3507ed47a243f0bdf69137d7fcef2802
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/apps.py
+> git show :energy-auditor/energyaudit/for_demo.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/forms.py
+> git show :energy-auditor/energyaudit/models.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/shortseq2pointdisaggregator.py
+> git show :energy-auditor/energyaudit/tests.py
+> git show :energy-auditor/energyaudit/urls.py
+> git show :energy-auditor/energyaudit/views.py
+> git show :energy-auditor/environment.yml
+> git show :energy-auditor/environment.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git push -u origin zpatch
+To github.com:RohanChacko/IBM-Hack-2019.git
+ ! [rejected]        zpatch -> zpatch (non-fast-forward)
+error: failed to push some refs to 'git@github.com:RohanChacko/IBM-Hack-2019.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git show :energy-auditor/environment.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/environment.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/environment.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/environment.yml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git show :environment.yml
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.cfignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :energy-auditor/energyaudit/predictapi.py
+> git check-ignore -v -z --stdin
+> git show :energy-auditor/energyaudit/predictapi.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse zpatch
+> git rev-parse --symbolic-full-name zpatch@{u}
+fatal: no upstream configured for branch 'zpatch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

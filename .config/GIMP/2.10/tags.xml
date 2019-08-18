@@ -16,6 +16,9 @@
   <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
+  <resource identifier="${gimp_dir}/brushes/Untitled.vbr" checksum="fcae96b6d3ddbadd5fa1fec1b3902eee">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
   </resource>
 
@@ -1177,7 +1180,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="2c05e687b80d69d938312d39c3cb3b63">
+  <resource identifier="gimp-palette-color-history" checksum="a31569ff18e82dce3b7aa629f43f653d">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">

@@ -1,0 +1,13 @@
+[Bookmarks]
+/usr/share/fonts/
+[Recent]
+/home/zubair/Videos/NLE/BadGuyBloopers/
+/home/zubair/Videos/NLE/
+/home/zubair/Videos/NLE/Stock/
+/usr/share/fonts/TTF/
+/usr/share/fonts/OpenImageIO/
+/usr/share/fonts/cantarell/
+/home/zubair/Videos/NLE/BadGuy/process/credits/
+/usr/share/fonts/adobe-source-serif-pro/
+/home/zubair/Videos/NLE/BadGuy/
+/home/zubair/Videos/NLE/BadGuy/final/promos/

@@ -1,0 +1,57 @@
+[2019-07-19 12:21:56.479] [exthost] [info] extension host started
+[2019-07-19 12:21:56.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-19 12:21:56.544] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-07-19 12:21:56.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-19 12:21:56.552] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-07-19 12:21:56.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-19 12:21:56.601] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-07-19 12:21:56.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-19 12:21:56.923] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-07-19 12:21:56.954] [exthost] [info] eager extensions activated
+[2019-07-19 12:22:51.518] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-19 12:22:51.519] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2019-07-19 12:22:51.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-07-19 12:22:51.702] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/markdown-language-features/dist/extension
+[2019-07-19 19:37:04.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-19 19:37:04.287] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2019-07-20 01:43:04.578] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-07-20 01:43:04.578] [exthost] [info] ExtensionService#loadCommonJSModule /home/zubair/.vscode-oss/extensions/ms-python.python-2019.6.24221/out/client/extension
+[2019-07-20 01:43:37.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-20 01:43:37.140] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-07-20 01:43:37.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-20 01:43:37.571] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-07-20 01:43:38.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-20 01:43:38.185] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2019-07-20 03:50:06.543] [exthost] [info] ExtensionService#_doActivateExtension himanoa.Python-autopep8 {"startup":false,"activationEvent":"onCommand:extension.sayHello"}
+[2019-07-20 03:50:06.543] [exthost] [info] ExtensionService#loadCommonJSModule /home/zubair/.vscode-oss/extensions/himanoa.python-autopep8-1.0.2/extension
+[2019-07-20 03:56:33.675] [exthost] [error] TypeError: Cannot read property 'document' of undefined
+	at /home/zubair/.vscode-oss/extensions/himanoa.python-autopep8-1.0.2/extension.js:21:55
+	at d._executeContributedCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:498:463)
+	at d.$executeContributedCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:498:838)
+	at d._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:644:1006)
+	at d._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:644:698)
+	at d._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:643:346)
+	at d._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:642:141)
+	at define.constructor._protocol.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:640:400)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:176:766)
+	at e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:176:812)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at n.constructor.e.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:748:721)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at a (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:176:766)
+	at e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:176:812)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at y._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:185:670)
+	at define.constructor._socketDisposables.push._socketReader.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:182:981)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:720)
+	at f.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:179:532)
+	at define.constructor._register._socket.onData.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:178:869)
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:187:141)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17) extension.sayHello
+[2019-07-21 03:28:53.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-21 03:28:53.404] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/html-language-features/client/dist/htmlMain

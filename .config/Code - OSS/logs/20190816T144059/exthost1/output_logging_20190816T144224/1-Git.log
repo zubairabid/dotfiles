@@ -1,0 +1,70 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/zubair/Documents/Extras/SraFavour/angelsite
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/post.html
+> git pull --tags origin master
+> git show :_includes/themes/bootstrap/post.html
+From github.com:zubairabid/ProjectAngel
+ * branch            master     -> FETCH_HEAD
+   9cf1cff..224821f  master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/post.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/post.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/post.html
+> git show :_includes/themes/bootstrap/post.html
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse new_theme
+> git rev-parse --symbolic-full-name new_theme@{u}
+> git rev-list --left-right new_theme...refs/remotes/origin/new_theme
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_theme
+> git rev-parse --symbolic-full-name new_theme@{u}
+> git rev-list --left-right new_theme...refs/remotes/origin/new_theme
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :_includes/themes/bootstrap/post.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_theme
+> git rev-parse --symbolic-full-name new_theme@{u}
+> git rev-list --left-right new_theme...refs/remotes/origin/new_theme
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
