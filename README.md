@@ -2,6 +2,6 @@
 
 Files inside `dotconfig` are part of `~/.config`
 
-The other directories are as-is on home: i.e, `.mpdscribble` goes into `~/.mpdscribble`
+Files inside `home` are as-is on home: i.e, `home/.mpdscribble` goes into `~/.mpdscribble`
 
-All files in `zsh` are directly on home.
+`Scripts/` should go in `~/Scripts/`
