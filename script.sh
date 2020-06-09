@@ -1,20 +1,22 @@
-rsync -av --delete ~/.config/blender dotconfig
-rsync -av --delete ~/.config/compton dotconfig
-rsync -av --delete ~/.config/GIMP dotconfig
-rsync -av --delete ~/.config/gtk-2.0 dotconfig
-rsync -av --delete ~/.config/gtk-3.0 dotconfig
-rsync -av --delete ~/.config/i3 dotconfig
-rsync -av --delete ~/.config/inkscape dotconfig
-rsync -av --delete ~/.config/mpv dotconfig
-rsync -av --delete ~/.config/neofetch dotconfig
-rsync -av --delete ~/.config/nvim dotconfig
-rsync -av --delete ~/.config/polybar dotconfig
-rsync -av --delete ~/.config/ranger dotconfig
-rsync -av --delete ~/.config/rofi dotconfig
-rsync -av --delete ~/.config/termite dotconfig
-rsync -av --delete ~/.config/vlc dotconfig
-rsync -av --delete ~/.config/zathura dotconfig
+dir=`pwd`
 
-git add dotconfig
+rsync -av --delete ~/.config/blender $dir/dotconfig
+rsync -av --delete ~/.config/compton $dir/dotconfig
+rsync -av --delete ~/.config/GIMP $dir/dotconfig
+rsync -av --delete ~/.config/gtk-2.0 $dir/dotconfig
+rsync -av --delete ~/.config/gtk-3.0 $dir/dotconfig
+rsync -av --delete ~/.config/i3 $dir/dotconfig
+rsync -av --delete ~/.config/inkscape $dir/dotconfig
+rsync -av --delete ~/.config/mpv $dir/dotconfig
+rsync -av --delete ~/.config/neofetch $dir/dotconfig
+rsync -av --delete ~/.config/nvim $dir/dotconfig
+rsync -av --delete ~/.config/polybar $dir/dotconfig
+rsync -av --delete ~/.config/ranger $dir/dotconfig
+rsync -av --delete ~/.config/rofi $dir/dotconfig
+rsync -av --delete ~/.config/termite $dir/dotconfig
+rsync -av --delete ~/.config/vlc $dir/dotconfig
+rsync -av --delete ~/.config/zathura $dir/dotconfig
+
+git add $dir/dotconfig
 git commit -m "`date`"
 git push origin zxc3
