@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.79136690647482011 0.79136690647482011 0.79136690647482011))
+(palette "Color History")
+(font "Montserrat")
+(font-size 20)
+(box-mode fixed)
+
+# end of gimp-text-tool options

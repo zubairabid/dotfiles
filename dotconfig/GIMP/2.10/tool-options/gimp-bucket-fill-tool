@@ -1,0 +1,9 @@
+# GIMP gimp-bucket-fill-tool options
+
+(foreground (color-rgb 0.79136690647482011 0.79136690647482011 0.79136690647482011))
+(background (color-rgb 0 0 0))
+(pattern "Paper")
+(brush-size 51)
+(brush-hardness 0.5)
+
+# end of gimp-bucket-fill-tool options

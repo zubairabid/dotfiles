@@ -1,0 +1,8 @@
+# GIMP gimp-color-picker-tool options
+
+(foreground (color-rgb 0.79136690647482011 0.79136690647482011 0.79136690647482011))
+(background (color-rgb 0 0 0))
+(sample-average yes)
+(use-info-window yes)
+
+# end of gimp-color-picker-tool options

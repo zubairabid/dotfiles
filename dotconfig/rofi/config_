@@ -1,0 +1,21 @@
+rofi.combi-modi:    window,drun,ssh
+rofi.modi:          combi,run
+rofi.width: 40
+rofi.lines: 6
+rofi.padding: 30
+
+rofi.eh: 2
+
+! does not seem to do anything
+rofi.opacity: 60
+
+rofi.bw: 0
+
+!rofi-color-normal unselback1 unseltext	unselback2 selback   seltext
+rofi.color-normal: #000b0c0f, #f3f4f5, #000b0c0f, #000b0c0f, #9575cd
+
+!rofi-color-window  back	.	dotted-line
+rofi.color-window: #800b0c0f, #800b0c0f, #800b0c0f
+rofi.font: Ubuntu Light 14
+
+rofi.theme: /usr/share/rofi/themes/sidetab.rasi
