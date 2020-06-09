@@ -16,4 +16,5 @@ rsync -av --delete ~/.config/vlc dotconfig
 rsync -av --delete ~/.config/zathura dotconfig
 
 git add dotconfig
-git commit -m ""
+git commit -m "`date`"
+git push origin zxc3
