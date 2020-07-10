@@ -1303,66 +1303,6 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
-  <resource identifier="Adobe Courier" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Alegreya" checksum="(null)">
   </resource>
 
@@ -1417,48 +1357,6 @@
   <resource identifier="Alegreya Sans Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Alegreya Sans SC" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Heavy Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC weight=250" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya Sans SC weight=250 Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Alegreya Sans Ultra-Bold" checksum="(null)">
   </resource>
 
@@ -1469,36 +1367,6 @@
   </resource>
 
   <resource identifier="Alegreya Sans weight=250 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Heavy Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Alegreya SC Ultra-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Alegreya Ultra-Bold" checksum="(null)">
@@ -1517,27 +1385,6 @@
   </resource>
 
   <resource identifier="Anonymous Pro Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Black," checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Archivo Narrow" checksum="(null)">
@@ -1564,42 +1411,6 @@
   <resource identifier="Archivo Narrow Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Archivo Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=468" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=468 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=545" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=545 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=622" checksum="(null)">
-  </resource>
-
-  <resource identifier="Archivo VF Beta weight=622 Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Arimo" checksum="(null)">
   </resource>
 
@@ -1624,49 +1435,10 @@
   <resource identifier="Arvo Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Medium" checksum="(null)">
-  </resource>
-
   <resource identifier="BioRhyme" checksum="(null)">
   </resource>
 
   <resource identifier="BioRhyme Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="BioRhyme Expanded, Bold Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="BioRhyme Expanded, Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="BioRhyme Expanded, Light Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="BioRhyme Expanded, Ultra-Bold Expanded" checksum="(null)">
-  </resource>
-
-  <resource identifier="BioRhyme Expanded, weight=275 Expanded" checksum="(null)">
   </resource>
 
   <resource identifier="BioRhyme Light" checksum="(null)">
@@ -1676,33 +1448,6 @@
   </resource>
 
   <resource identifier="BioRhyme weight=275" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitter" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitter Italic" checksum="(null)">
   </resource>
 
   <resource identifier="C059" checksum="(null)">
@@ -1726,18 +1471,6 @@
   <resource identifier="Cabin Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Cabin Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
   <resource identifier="Cabin Italic" checksum="(null)">
   </resource>
 
@@ -1751,45 +1484,6 @@
   </resource>
 
   <resource identifier="Cabin Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin Sketch" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin Sketch Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=395" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=446 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=458" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=488" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=496 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=538" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cabin VF Beta weight=538 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell" checksum="(null)">
@@ -1867,66 +1561,6 @@
   <resource identifier="Cormorant Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Cormorant Garamond" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Garamond Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Infant Semi-Bold Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Cormorant Italic" checksum="(null)">
   </resource>
 
@@ -1942,55 +1576,10 @@
   <resource identifier="Cormorant Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Cormorant SC" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant SC Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant SC Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant SC Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant SC Semi-Bold" checksum="(null)">
-  </resource>
-
   <resource identifier="Cormorant Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Cormorant Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Unicase" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Unicase Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Unicase Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Unicase Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Unicase Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Upright" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Upright Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Upright Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Upright Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cormorant Upright Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Cousine" checksum="(null)">
@@ -2024,12 +1613,6 @@
   </resource>
 
   <resource identifier="D050000L" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal Bold" checksum="(null)">
   </resource>
 
   <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
@@ -2096,12 +1679,6 @@
   </resource>
 
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Domine" checksum="(null)">
-  </resource>
-
-  <resource identifier="Domine Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Droid Arabic Kufi" checksum="(null)">
@@ -2200,114 +1777,6 @@
   <resource identifier="Fira Sans Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Fira Sans Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Heavy Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Medium Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Semi-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, Ultra-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, weight=250 Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, weight=250 Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, weight=275 Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Condensed, weight=275 Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Bold Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Heavy Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Heavy Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Light Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Medium Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Medium Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Semi-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Semi-Bold Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Ultra-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Ultra-Bold Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, weight=250 Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, weight=250 Ultra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, weight=275 Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fira Sans Extra Condensed, weight=275 Ultra-Condensed" checksum="(null)">
-  </resource>
-
   <resource identifier="Fira Sans Heavy" checksum="(null)">
   </resource>
 
@@ -2353,19 +1822,49 @@
   <resource identifier="Fira Sans weight=275 Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Gentium Basic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Gentium Basic Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Gentium Basic Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Gentium Basic Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Humor Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Inconsolata" checksum="(null)">
@@ -2374,10 +1873,316 @@
   <resource identifier="Inconsolata Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Karla" checksum="(null)">
+  <resource identifier="Inconsolata Bold Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Karla" checksum="(null)">
+  <resource identifier="Inconsolata Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Bold Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Heavy Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Light Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Medium Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Bold Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Bold Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Extra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Ultra-Light Ultra-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inknut Antiqua Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inter Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Karla" checksum="(null)">
@@ -2386,58 +2191,10 @@
   <resource identifier="Karla Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Karla Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Bold Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Karla Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Karla Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Tamil Inclined Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Tamil Inclined Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Tamil Upright" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Tamil Upright Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Karla Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Lato" checksum="(null)">
@@ -2593,6 +2350,12 @@
   <resource identifier="Libre Franklin weight=275 Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Ligconsolata" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ligconsolata Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Lora" checksum="(null)">
   </resource>
 
@@ -2603,6 +2366,12 @@
   </resource>
 
   <resource identifier="Lora Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lora Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lora Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Material Icons" checksum="(null)">
@@ -2632,25 +2401,7 @@
   <resource identifier="Merriweather Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Merriweather Sans" checksum="(null)">
-  </resource>
-
-  <resource identifier="Merriweather Sans Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Merriweather Sans Bold Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Merriweather Sans Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Merriweather Sans Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Merriweather Sans Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Merriweather Sans Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Merriweather Sans Ultra-Bold Italic" checksum="(null)">
@@ -2669,60 +2420,6 @@
   </resource>
 
   <resource identifier="Montserrat" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Heavy Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates weight=250" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates weight=250 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates weight=275" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Alternates weight=275 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Montserrat Bold" checksum="(null)">
@@ -2756,12 +2453,6 @@
   </resource>
 
   <resource identifier="Montserrat Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Subrayada" checksum="(null)">
-  </resource>
-
-  <resource identifier="Montserrat Subrayada Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Montserrat Ultra-Bold" checksum="(null)">
@@ -9016,15 +8707,6 @@
   <resource identifier="Noto Serif Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Old Standard TT" checksum="(null)">
-  </resource>
-
-  <resource identifier="Old Standard TT Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Old Standard TT Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Open Sans" checksum="(null)">
   </resource>
 
@@ -9032,63 +8714,6 @@
   </resource>
 
   <resource identifier="Open Sans Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Condensed, Ultra-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Open Sans Hebrew Ultra-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans Italic" checksum="(null)">
@@ -9145,9 +8770,6 @@
   <resource identifier="Playfair Display" checksum="(null)">
   </resource>
 
-  <resource identifier="Playfair Display" checksum="(null)">
-  </resource>
-
   <resource identifier="Playfair Display Bold" checksum="(null)">
   </resource>
 
@@ -9157,37 +8779,10 @@
   <resource identifier="Playfair Display Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Playfair Display Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display Heavy Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Playfair Display Heavy Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Playfair Display Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC Heavy Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Playfair Display SC Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Poppins" checksum="(null)">
@@ -9244,6 +8839,36 @@
   <resource identifier="Poppins weight=275 Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Proza Libre" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Proza Libre Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="PT Sans" checksum="(null)">
   </resource>
 
@@ -9253,19 +8878,7 @@
   <resource identifier="PT Sans Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="PT Sans Caption" checksum="(null)">
-  </resource>
-
-  <resource identifier="PT Sans Caption Bold" checksum="(null)">
-  </resource>
-
   <resource identifier="PT Sans Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="PT Sans Narrow Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="PT Sans Narrow Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="PT Serif" checksum="(null)">
@@ -9277,31 +8890,10 @@
   <resource identifier="PT Serif Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="PT Serif Caption" checksum="(null)">
-  </resource>
-
-  <resource identifier="PT Serif Caption Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="PT Serif Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Quintessential" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rajdhani" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rajdhani Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rajdhani Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rajdhani Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rajdhani Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Raleway" checksum="(null)">
@@ -9311,9 +8903,6 @@
   </resource>
 
   <resource identifier="Raleway Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Raleway Dots" checksum="(null)">
   </resource>
 
   <resource identifier="Raleway Heavy" checksum="(null)">
@@ -9409,46 +8998,22 @@
   <resource identifier="Roboto Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Roboto Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono weight=250" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono weight=250 Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Roboto Slab" checksum="(null)">
   </resource>
 
   <resource identifier="Roboto Slab Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Roboto Slab Heavy" checksum="(null)">
+  </resource>
+
   <resource identifier="Roboto Slab Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Roboto Slab weight=250" checksum="(null)">
+  <resource identifier="Roboto Slab Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Slab Thin" checksum="(null)">
   </resource>
 
   <resource identifier="Roboto weight=250" checksum="(null)">
@@ -9485,12 +9050,6 @@
   </resource>
 
   <resource identifier="Rubik Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rubik Mono One" checksum="(null)">
-  </resource>
-
-  <resource identifier="Rubik One" checksum="(null)">
   </resource>
 
   <resource identifier="Rustico" checksum="(null)">
@@ -9712,48 +9271,6 @@
   <resource identifier="Spectral Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Spectral SC" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC weight=275" checksum="(null)">
-  </resource>
-
-  <resource identifier="Spectral SC weight=275 Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Spectral Semi-Bold" checksum="(null)">
   </resource>
 
@@ -9856,31 +9373,52 @@
   <resource identifier="Work Sans Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Work Sans Bold Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Work Sans Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Work Sans Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Work Sans Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Work Sans Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Work Sans Light Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Work Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Work Sans Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Work Sans Semi-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Work Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Work Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Work Sans Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Work Sans Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Work Sans weight=260" checksum="(null)">
+  <resource identifier="Work Sans Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Work Sans weight=280" checksum="(null)">
+  <resource identifier="Work Sans Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="xos4 Terminus" checksum="(null)">
-  </resource>
-
-  <resource identifier="xos4 Terminus Bold" checksum="(null)">
+  <resource identifier="Work Sans Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">

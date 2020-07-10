@@ -131,7 +131,7 @@ else
     if [ -f "/home/zubair/anaconda3/etc/profile.d/conda.sh" ]; then
         . "/home/zubair/anaconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/zubair/anaconda3/bin:$PATH"
+        export PATH="$PATH:/home/zubair/anaconda3/bin"
     fi
 fi
 unset __conda_setup
@@ -154,5 +154,5 @@ echo "...ruby init done"
 # ( ) # Hide shell job control messages.
 # (cat ~/.cache/wal/sequences &)
 
-export PYTHONPATH="$PYTHONPATH:/home/zubair/anaconda3/envs/Inkscape/bin"
+#export PYTHONPATH="$PYTHONPATH:/home/zubair/anaconda3/envs/Inkscape/bin"
 export EDITOR=nvim

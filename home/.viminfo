@@ -20,8 +20,18 @@
 $
 
 # Command Line History (newest to oldest):
+:qa!
+|2,0,1593428513,,"qa!"
 :q
-|2,0,1591267333,,"q"
+|2,0,1593209142,,"q"
+:help vimgrep
+|2,0,1593204209,,"help vimgrep"
+:wq
+|2,0,1591941377,,"wq"
+:e ++enc=utf-32
+|2,0,1591940955,,"e ++enc=utf-32"
+:fileio
+|2,0,1591936102,,"fileio"
 :qa
 |2,0,1590818310,,"qa"
 :20000
@@ -36,10 +46,6 @@ $
 |2,0,1584061286,,"q!"
 :e enc=utf-32
 |2,0,1584061284,,"e enc=utf-32"
-:wq
-|2,0,1583431577,,"wq"
-:qa!
-|2,0,1580560075,,"qa!"
 :W
 |2,0,1578174185,,"W"
 :w!
@@ -185,266 +191,282 @@ $
 "0	CHAR	0
 	error 
 |3,0,0,0,1,0,1580560058,"error "
-""1	LINE	0
-	from anncorrastats import mapping
-|3,1,1,1,1,0,1587902873,"from anncorrastats import mapping"
+"1	LINE	0
+	Locate all entries with a status of 
+|3,0,1,1,1,0,1591941333,"Locate all entries with a status of "
 "2	LINE	0
-	        if (x == 1): 
-|3,0,2,1,1,0,1586012633,"        if (x == 1): "
+	from anncorrastats import mapping
+|3,0,2,1,1,0,1587902873,"from anncorrastats import mapping"
 "3	LINE	0
+	        if (x == 1): 
+|3,0,3,1,1,0,1586012633,"        if (x == 1): "
+"4	LINE	0
 	
 	
 	
-|3,0,3,1,3,0,1578173605,"","",""
-"4	BLOCK	22
+|3,0,4,1,3,0,1578173605,"","",""
+"5	BLOCK	22
 	
 	sample :: DPM Float
 	sample = Sample (\f -> 
-|3,0,4,2,3,22,1578173599,"","sample :: DPM Float","sample = Sample (\\f -> "
-"5	LINE	0
-	
-|3,0,5,1,1,0,1578173529,""
+|3,0,5,2,3,22,1578173599,"","sample :: DPM Float","sample = Sample (\\f -> "
 "6	LINE	0
-	-- | need chain rule
-|3,0,6,1,1,0,1578173385,"-- | need chain rule"
-"7	LINE	0
 	
-|3,0,7,1,1,0,1578173383,""
+|3,0,6,1,1,0,1578173529,""
+"7	LINE	0
+	-- | need chain rule
+|3,0,7,1,1,0,1578173385,"-- | need chain rule"
 "8	LINE	0
-	directder :: 
-|3,0,8,1,1,0,1578173383,"directder :: "
+	
+|3,0,8,1,1,0,1578173383,""
 "9	LINE	0
-	set syntax 
-|3,0,9,1,1,0,1578173022,"set syntax "
-"-	CHAR	0
-	error 
-|3,0,36,0,1,0,1578174779,"error "
+	directder :: 
+|3,0,9,1,1,0,1578173383,"directder :: "
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1593209139,""
+""-	CHAR	0
+	?
+|3,1,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  2  0  ~/.config/polybar/config
-|4,48,2,0,1591267333,"~/.config/polybar/config"
-'1  53  0  ~/.config/polybar/config
-|4,49,53,0,1591267252,"~/.config/polybar/config"
-'2  53  0  ~/.config/polybar/config
-|4,50,53,0,1591267252,"~/.config/polybar/config"
-'3  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt
-|4,51,1,0,1590956647,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt"
-'4  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,52,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
-'5  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,53,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
-'6  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,54,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
-'7  108  0  ~/Downloads/Telegram Desktop/2019-12-01-ChiefEditorsMOM.md
-|4,55,108,0,1589265091,"~/Downloads/Telegram Desktop/2019-12-01-ChiefEditorsMOM.md"
-'8  1  0  ~/Downloads/Telegram Desktop/fra.txt
-|4,56,1,0,1589141854,"~/Downloads/Telegram Desktop/fra.txt"
-'9  48  0  ~/Documents/Work/Acads/Semester6/.gitignore
-|4,57,48,0,1588963764,"~/Documents/Work/Acads/Semester6/.gitignore"
+'0  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,48,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'1  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,49,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'2  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,50,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'3  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,51,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'4  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,52,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'5  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,53,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'6  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,54,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'7  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,55,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'8  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,56,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'9  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,57,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 
 # Jumplist (newest first):
--'  2  0  ~/.config/polybar/config
-|4,39,2,0,1591267333,"~/.config/polybar/config"
--'  1  0  ~/.config/polybar/config
-|4,39,1,0,1591267331,"~/.config/polybar/config"
--'  53  0  ~/.config/polybar/config
-|4,39,53,0,1591267252,"~/.config/polybar/config"
--'  53  0  ~/.config/polybar/config
-|4,39,53,0,1591267252,"~/.config/polybar/config"
--'  1  0  ~/.config/polybar/config
-|4,39,1,0,1591267247,"~/.config/polybar/config"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt
-|4,39,1,0,1590956647,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt
-|4,39,1,0,1590956647,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt
-|4,39,1,0,1590956647,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt
-|4,39,1,0,1590956647,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Community.S01E25.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.srt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  1  0  /media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt
-|4,39,1,0,1590956644,"/media/my_usb/TV shows/Community/Community.S01.Season.1.720p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Facebook Page & Website.txt"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  7  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,7,0,1590818310,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  456563  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,456563,0,1590817951,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  9  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,9,0,1590817941,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210
-|4,39,1,0,1590817934,"~/Documents/Work/CPPractice/IIITSummer2020/Week2-BasicNumTheory/Practice/210"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
--'  1  0  ~/Downloads/Telegram Desktop/20171055.ipynb
-|4,39,1,0,1589265184,"~/Downloads/Telegram Desktop/20171055.ipynb"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
 
 # History of marks within files (newest to oldest):
+
+> /usr/share/vim/vim82/doc/quickfix.txt
+	*	1593204213	0
+	"	1011	26
+
+> ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+	*	1591941376	0
+	"	1	30
+	^	1	0
+	.	1	31
+	+	1	31
+
+> ~/Documents/Work/OpenSource/neovim_enc_bug.txt
+	*	1591893268	0
+	"	1	0
 
 > ~/.config/polybar/config
 	*	1591267331	0
@@ -847,15 +869,3 @@ $
 > ~/javaargs/test/build.xml
 	*	1580560064	0
 	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/1/corpus_20171076_morphed.txt
-	*	1580464756	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/shallow-parser-ben-3.0.fc8/INSTALL
-	*	1580199528	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/shallow-parser-ben-3.0.fc8/README-user
-	*	1580199516	0
-	"	96	0

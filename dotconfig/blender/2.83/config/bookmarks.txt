@@ -1,0 +1,13 @@
+[Bookmarks]
+/usr/share/fonts/
+[Recent]
+/home/zubair/Videos/out/
+/home/zubair/Videos/
+/home/zubair/Pictures/Wallpapers/
+/home/zubair/Videos/PingNews1/
+/home/zubair/Videos/PingNews1/Intermediate/
+/home/zubair/Videos/PingNews1/Intermediate/animatedpic/
+/home/zubair/Videos/PingNews1/Out/
+/home/zubair/Videos/PingNews1/Source/
+/usr/share/fonts/TTF/
+/usr/share/fonts/adobe-source-code-pro/

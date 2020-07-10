@@ -132,8 +132,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="1569.88"
-         height="1129.82"
+         width="219.535"
+         height="87.7929"
          rx="0"
          ry="0" />
       <eventcontext
@@ -171,8 +171,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="772.169"
-         ry="772.169" />
+         rx="157566"
+         ry="157566" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -341,7 +341,7 @@
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
        use_svg2="1"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
+       style="font-family:'Roboto Condensed';font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Roboto Condensed, ';"
        selcue="1"
        align_mode="1">
       <group
@@ -585,14 +585,14 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="2"
+       page="0"
        x="0"
        y="0"
-       w="646"
-       h="765"
+       w="358"
+       h="400"
        visible="1"
        state="2"
-       placement="2" />
+       placement="5" />
     <group
        id="filtereffects" />
     <group
@@ -623,11 +623,11 @@
        align-to="0"
        x="0"
        y="0"
-       w="425"
-       h="676"
-       visible="0"
+       w="358"
+       h="400"
+       visible="1"
        state="2"
-       placement="1" />
+       placement="5" />
     <group
        id="xml" />
     <group
@@ -693,8 +693,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="922"
-       y="277"
+       x="365"
+       y="266"
        w="654"
        h="753"
        visible="0"
@@ -702,7 +702,7 @@
        placement="1">
       <group
          id="exportarea"
-         value="custom" />
+         value="page" />
       <group
          id="defaultxdpi" />
       <group
@@ -725,11 +725,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/zubair/Downloads/Telegram Desktop/" />
+       path="/home/zubair/Pictures/screenshots/" />
     <group
        id="import"
        enable_preview="1"
-       path="/home/zubair/Documents/Work/Ping/Des/ucl/"
+       path="/home/zubair/Videos/PingNews1/Source/logos/"
        ask="1"
        ask_svg="1"
        link="embed"
@@ -752,7 +752,19 @@
     <group
        id="messages" />
     <group
-       id="swatches" />
+       id="swatches"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="425"
+       h="356"
+       visible="0"
+       state="2"
+       placement="5" />
     <group
        id="iconpreview" />
     <group
@@ -769,8 +781,8 @@
        panel_border="0"
        x="0"
        y="0"
-       w="646"
-       h="254"
+       w="358"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -784,10 +796,10 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="1771"
-       y="69"
+       x="665"
+       y="535"
        w="785"
-       h="472"
+       h="527"
        visible="0"
        placement="1" />
     <group
@@ -827,7 +839,8 @@
        add-label-comments="0" />
   </group>
   <group
-     id="options">
+     id="options"
+     onimport="0">
     <group
        id="renderingcache"
        size="64" />
@@ -1103,7 +1116,7 @@
     <group
        id="rendering" />
     <group
-       unitType="4"
+       unitType="2"
        id="font" />
     <group
        id="svgeditor"
@@ -1127,10 +1140,15 @@
      org.inkscape.template.video.size="Custom"
      org.inkscape.template.envelope.size="220mmx110mm"
      org.inkscape.template.dvd_cover.spine="14"
-     org.inkscape.template.desktop.size="Custom" />
+     org.inkscape.template.desktop.size="Custom"
+     org.inkscape.effect.filter.EdgeDetect.type="all"
+     org.inkscape.effect.filter.EdgeDetect.__live_effect__="0"
+     org.inkscape.effect.filter.EdgeDetect.level="11.3718"
+     org.inkscape.effect.filter.EdgeDetect.inverted="0"
+     org.inkscape.input.svg.scale="auto" />
   <group
      id="desktop"
-     style="fill:#ffffff;font-size:72px;-inkscape-font-specification:Rustico;font-family:Rustico;text-anchor:middle;text-align:center;line-height:1.25;stroke:#000000;stroke-width:1.88976378"
+     style="fill:#666666;font-size:32px;-inkscape-font-specification:'Roboto Condensed, Light';font-family:'Roboto Condensed';text-anchor:middle;text-align:center;line-height:1.25;stroke-width:1.88976378;font-weight:300"
      xrayactive="0">
     <group
        width="1253"
