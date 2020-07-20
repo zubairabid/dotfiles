@@ -20,10 +20,10 @@
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1595232393,,"q"
 :qa!
 |2,0,1593428513,,"qa!"
-:q
-|2,0,1593209142,,"q"
 :help vimgrep
 |2,0,1593204209,,"help vimgrep"
 :wq
@@ -230,28 +230,42 @@ $
 |3,1,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,48,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'1  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,49,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'2  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,50,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'3  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,51,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'4  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,52,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'5  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,53,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'6  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,54,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
-'7  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,55,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'0  1  0  ~/NetrwMessage
+|4,48,1,0,1595232393,"~/NetrwMessage"
+'1  1  0  scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php
+|4,49,1,0,1595232135,"scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php"
+'2  1  0  ~/NetrwMessage
+|4,50,1,0,1595232128,"~/NetrwMessage"
+'3  1  0  ~/NetrwMessage
+|4,51,1,0,1595232118,"~/NetrwMessage"
+'4  1  0  ~/NetrwMessage
+|4,52,1,0,1595232118,"~/NetrwMessage"
+'5  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,53,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'6  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,54,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+'7  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,55,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 '8  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,56,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+|4,56,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 '9  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
 |4,57,1,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/NetrwMessage
+|4,39,1,0,1595232393,"~/NetrwMessage"
+-'  1  0  scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php
+|4,39,1,0,1595232135,"scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php"
+-'  1  0  scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php
+|4,39,1,0,1595232135,"scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php"
+-'  1  0  ~/NetrwMessage
+|4,39,1,0,1595232128,"~/NetrwMessage"
+-'  1  0  ~/NetrwMessage
+|4,39,1,0,1595232128,"~/NetrwMessage"
+-'  1  0  ~/NetrwMessage
+|4,39,1,0,1595232118,"~/NetrwMessage"
+-'  1  0  ~/NetrwMessage
+|4,39,1,0,1595232118,"~/NetrwMessage"
 -'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
 |4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 -'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
@@ -264,194 +278,190 @@ $
 |4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 -'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
 |4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591941337,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,0,1591940959,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  2  0  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,2,0,1591940945,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  39  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
-|4,39,1,39,1591940931,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
--'  1  0  ~/Documents/Work/OpenSource/neovim_enc_bug.txt
-|4,39,1,0,1591893269,"~/Documents/Work/OpenSource/neovim_enc_bug.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
+-'  1  30  ~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt
+|4,39,1,30,1591941377,"~/Documents/Work/OpenSource/neovim_enc_bug_copy.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/NetrwMessage
+	*	1595232391	0
+	"	1	0
+
+> scp://zubair.abid@researchweb.iiit.ac.in/~/action_new.php
+	*	1595232134	0
+	"	1	0
 
 > /usr/share/vim/vim82/doc/quickfix.txt
 	*	1593204213	0
@@ -859,13 +869,5 @@ $
 	"	1	0
 
 > ~/javaargs/README.md
-	*	1580560064	0
-	"	1	0
-
-> ~/javaargs/src/build.xml
-	*	1580560064	0
-	"	1	0
-
-> ~/javaargs/test/build.xml
 	*	1580560064	0
 	"	1	0

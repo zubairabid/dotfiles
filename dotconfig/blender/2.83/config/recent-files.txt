@@ -1,3 +1,5 @@
+/home/zubair/Pictures/drawings/original/creationmodelling.blend
+/home/zubair/Documents/Work/Hackathons/Engage2020/marssurface.blend
 /home/zubair/Videos/PingNews1/combinedstrip.blend
 /home/zubair/Videos/PingNews1/rotpap2.blend
 /home/zubair/Videos/PingNews1/rotatingpaper.blend
@@ -6,5 +8,3 @@
 /home/zubair/Videos/PingNews1/CombinedStrip.blend
 /home/zubair/Videos/pingnews1_abhigyan.blend
 /home/zubair/Documents/Personal/Blender/donut.blend
-/home/zubair/Documents/Personal/Blender/cursed.blend
-/home/zubair/Documents/Personal/Blender/iiit.blend
