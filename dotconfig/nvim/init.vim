@@ -100,7 +100,7 @@ let g:tex_conceal='abdmg'
 let g:vimwiki_list = [
 			\{'path': '~/Documents/notes/', 'syntax': 'markdown', 'ext': '.md'},
 			\{'path': '~/Documents/Work/RWiki/', 'syntax': 'markdown', 'ext': '.md'},
-			\{'path': '~/Documents/Work/Acads/Semester6/', 'syntax': 'markdown', 'ext': '.md'}
+			\{'path': '~/Documents/Work/Acads/Semester7/', 'syntax': 'markdown', 'ext': '.md'}
 			\]
 let g:vimwiki_global_ext = 0
 

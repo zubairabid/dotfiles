@@ -23,6 +23,7 @@ rsync -av --delete ~/.bashrc $dir/home/
 rsync -av --delete ~/.bash_profile $dir/home/
 rsync -av --delete ~/.condarc $dir/home/
 rsync -av --delete ~/.ctags $dir/home/
+rsync -av --delete ~/.emacs.d $dir/home/
 rsync -av --delete ~/.fehbg $dir/home/
 rsync -av --delete ~/.gitconfig $dir/home/
 rsync -av --delete ~/.viminfo $dir/home/

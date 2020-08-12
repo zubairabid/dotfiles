@@ -22,10 +22,6 @@
         (side left)
         (book
             (current-page 0)
-            (dockable "gimp-tool-options"
-                (tab-style automatic)
-                (aux-info
-                    (show-button-bar "true")))
             (dockable "gimp-device-status"
                 (tab-style automatic)
                 (aux-info
@@ -35,6 +31,10 @@
                 (aux-info
                     (show-button-bar "true")))
             (dockable "gimp-undo-history"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-tool-options"
                 (tab-style automatic)
                 (aux-info
                     (show-button-bar "true")))))
@@ -88,7 +88,7 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 359 216)
+    (position 359 14)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")

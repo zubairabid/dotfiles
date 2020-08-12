@@ -132,8 +132,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="1678.09"
-         height="1745.29"
+         width="23971.2"
+         height="24931.2"
          rx="0"
          ry="0" />
       <eventcontext
@@ -171,8 +171,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="595525"
-         ry="595525" />
+         rx="1e+06"
+         ry="1e+06" />
       <eventcontext
          id="star"
          magnitude="5"
@@ -589,7 +589,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="390"
        visible="1"
        state="2"
        placement="5" />
@@ -624,7 +624,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="390"
        visible="1"
        state="2"
        placement="5" />
@@ -725,7 +725,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/zubair/" />
+       path="/home/zubair/Pictures/me/" />
     <group
        id="import"
        enable_preview="1"
@@ -782,7 +782,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="390"
        visible="1"
        state="2"
        placement="5" />
@@ -796,8 +796,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="3029"
-       y="332"
+       x="3127"
+       y="276"
        w="785"
        h="527"
        visible="0"
@@ -1145,10 +1145,34 @@
      org.inkscape.effect.filter.EdgeDetect.__live_effect__="0"
      org.inkscape.effect.filter.EdgeDetect.level="11.3718"
      org.inkscape.effect.filter.EdgeDetect.inverted="0"
-     org.inkscape.input.svg.scale="auto" />
+     org.inkscape.input.svg.scale="auto"
+     org.inkscape.effect.filter.Drawing.__live_effect__="0"
+     org.inkscape.effect.filter.Drawing.tab="optionstab"
+     org.inkscape.effect.filter.Posterize.type="normal"
+     org.inkscape.effect.filter.Posterize.table="discrete"
+     org.inkscape.effect.filter.Posterize.blend="lighten"
+     org.inkscape.effect.filter.Posterize.__live_effect__="0"
+     org.inkscape.effect.filter.Posterize.levels="6"
+     org.inkscape.effect.filter.Posterize.blur1="100"
+     org.inkscape.effect.filter.Posterize.blur2="0.01"
+     org.inkscape.effect.filter.Posterize.presaturation="1"
+     org.inkscape.effect.filter.Posterize.postsaturation="1"
+     org.inkscape.effect.filter.PosterizeBasic.__live_effect__="0"
+     org.inkscape.effect.filter.PosterizeBasic.blur="7.96649"
+     org.inkscape.effect.filter.PosterizeBasic.levels="3"
+     org.inkscape.effect.filter.PointEngraving.type="fractalNoise"
+     org.inkscape.effect.filter.PointEngraving.blend="multiply"
+     org.inkscape.effect.filter.PointEngraving.__live_effect__="0"
+     org.inkscape.effect.filter.PointEngraving.tab="fcolortab"
+     org.inkscape.effect.filter.NeonDraw.type="table"
+     org.inkscape.effect.filter.NeonDraw.blend="normal"
+     org.inkscape.effect.filter.NeonDraw.__live_effect__="0"
+     org.inkscape.effect.filter.NeonDraw.lightness="0"
+     org.inkscape.effect.filter.NeonDraw.width="0.03"
+     org.inkscape.effect.filter.NeonDraw.simply="0.01" />
   <group
      id="desktop"
-     style="fill:#f9f9f9;font-size:32px;-inkscape-font-specification:'Roboto Condensed, Light';font-family:'Roboto Condensed';text-anchor:middle;text-align:center;line-height:1.25;stroke-width:1.53070866;font-weight:300;stroke-linecap:round"
+     style="fill:#550000;font-size:32px;-inkscape-font-specification:'Roboto Condensed, Light';font-family:'Roboto Condensed';text-anchor:middle;text-align:center;line-height:1.25;stroke-width:3;font-weight:300;stroke-linecap:round;stroke:#ffffff"
      xrayactive="0">
     <group
        width="1253"
