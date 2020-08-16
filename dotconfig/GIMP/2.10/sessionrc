@@ -11,8 +11,8 @@
     (size 640 480))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 14 44)
-    (size 1892 1022)
+    (position 14 64)
+    (size 1892 1002)
     (open-on-exit)
     (aux-info
         (left-docks-width "276")
@@ -21,7 +21,7 @@
     (gimp-toolbox
         (side left)
         (book
-            (current-page 0)
+            (current-page 3)
             (dockable "gimp-device-status"
                 (tab-style automatic)
                 (aux-info
@@ -69,7 +69,7 @@
                     (edit-active "true")
                     (current-data "2. Hardness 100"))))
         (book
-            (position 622)
+            (position 719)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)
@@ -105,7 +105,7 @@
     (position 777 335))
 (session-info "toplevel"
     (factory-entry "gimp-levels-tool-dialog")
-    (position 1778 203)
+    (position 58 170)
     (size 534 616))
 (session-info "toplevel"
     (factory-entry "gimp-curves-tool-dialog")
@@ -120,7 +120,7 @@
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
-    (position 351 360))
+    (position 211 324))
 (session-info "toplevel"
     (factory-entry "gimp-scale-tool-dialog")
     (position 1623 687))

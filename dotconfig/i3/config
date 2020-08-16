@@ -385,7 +385,7 @@ bindsym $mod+Ctrl+Right resize grow width 2 px or 2 ppt
 ################## GAPS ####################
 # Disabling window titlebars
 # You can also use any non-zero value if you'd like to have a border
-for_window [class=".*"] border pixel 0 
+for_window [class=".*"] border pixel 1
 
 gaps inner 5
 gaps outer 10
@@ -393,13 +393,13 @@ gaps outer 10
 # smart_gaps on
 
 # Change gap sizes
-bindsym $mod+Mod1+g gaps inner all set 5
+bindsym $mod+Mod1+g gaps inner all set 15
 
 bindsym $mod+Mod1+plus gaps inner all plus 5
 bindsym $mod+Mod1+minus gaps inner all minus 5
 
 
-bindsym $mod+Mod1+Shift+g gaps outer all set 10
+bindsym $mod+Mod1+Shift+g gaps outer all set 15
 
 bindsym $mod+Mod1+Shift+plus gaps outer all plus 5
 bindsym $mod+Mod1+Shift+minus gaps outer all minus 5

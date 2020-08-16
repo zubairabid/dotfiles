@@ -5,9 +5,6 @@ call plug#begin('~/.local/share/nvim/plugged')
 "  List of all Plugins installed  "
 """""""""""""""""""""""""""""""""""
 
-" Distraction free writing
-Plug 'junegunn/goyo.vim'
-
 " Status line
 Plug 'bling/vim-airline'
 
@@ -37,17 +34,10 @@ Plug 'vimwiki/vimwiki'
 " Using coc - completion engine
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
-" R Support
-Plug 'jalvesaq/Nvim-R'
-
-" Solidity Syntax Highlighting
-Plug 'tomlion/vim-solidity'
-
 """""""""""""""""""""
 "  Markdown tables  "
 """""""""""""""""""""
 let g:table_mode_corner='|'
-
 
 """""""""""""""""""""""""""""""""
 "  pandoc_syntax configutation  "
@@ -65,6 +55,7 @@ let g:mkdp_auto_close = 0
 """""""""""""""""""""""""""""
 "  UltiSnips Configuration  "
 """""""""""""""""""""""""""""
+
 " Trigger configuration. Do not use <tab> if you use
 " https://github.com/Valloric/YouCompleteMe.
 let g:UltiSnipsExpandTrigger='<c-n>'
@@ -78,6 +69,7 @@ let g:UltiSnipsSnippetDirectories=["UltiSnips"]
 """"""""""""""""""""""""""
 "  Vimtex Configuration  "
 """"""""""""""""""""""""""
+
 " Taking vimtex plugin config from https://castel.dev/post/lecture-notes-1/
 let g:tex_flavor='latex'
 let g:vimtex_compiler_latexmk = { 
@@ -97,6 +89,7 @@ let g:tex_conceal='abdmg'
 """""""""""""""""""""""""""
 "  Vimwiki configuration  "
 """""""""""""""""""""""""""
+
 let g:vimwiki_list = [
 			\{'path': '~/Documents/notes/', 'syntax': 'markdown', 'ext': '.md'},
 			\{'path': '~/Documents/Work/RWiki/', 'syntax': 'markdown', 'ext': '.md'},
@@ -109,10 +102,10 @@ let g:vimwiki_global_ext = 0
 """""""""""""""""""""""""""""""
 let g:airline#extensions#coc#enabled = 1
 
-
 """"""""""""""""""""""
 "  Configuring Coc-snippets. Does not seem to be optimal."
 """"""""""""""""""""""
+
 " Use <C-l> for trigger snippet expand.
 imap <C-l> <Plug>(coc-snippets-expand)
 " Use <C-j> for select text for visual placeholder of snippet.
@@ -124,11 +117,10 @@ let g:coc_snippet_prev = '<c-k>'
 " Use <C-j> for both expand and jump (make expand higher priority.)
 imap <C-j> <Plug>(coc-snippets-expand-jump)
 
-
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
-set spell
+set nospell
 
 set showmatch
 set ignorecase smartcase
@@ -146,7 +138,6 @@ set number relativenumber
 set nu rnu
 set cc=80
 
-set nocompatible
 filetype plugin on
 syntax on
 
@@ -159,6 +150,7 @@ hi CursorLine cterm=NONE ctermbg=0
 """""""""""""""""""""""""
 "  Working with splits  "
 """""""""""""""""""""""""
+
 " Navigation
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
@@ -179,15 +171,5 @@ let g:netrw_winsize = 25
 
 nnoremap <silent> <leader>f :FZF<cr>
 nnoremap <silent> <leader>F :FZF ~<cr>
-
-" Interesting function I found here: https://statico.github.io/vim3.html
-function! ProseMode()
-  call goyo#execute(0, [])
-  set spell noci nosi noai nolist noshowmode noshowcmd
-  set complete+=s
-endfunction
-
-command! ProseMode call ProseMode()
-nmap \p :ProseMode<CR>
 
 command! MakeTags !ctags -R .

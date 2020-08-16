@@ -27,7 +27,8 @@
 ;secondary = #e60053
 ;alert = #bd2c40
 
-background = #000b0c0f
+# background = #000b0c0f
+background = #292B2E
 background-p = #000b0c0f
 foreground = #acacac
 foreground-alt = #292929
