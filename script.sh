@@ -41,5 +41,9 @@ git add $dir/home
 git add $dir/Scripts
 git add $dir/script.sh
 
-git commit -m "`date`"
+if [[ "$#" -eq 0 ]]; then
+    git commit -m "`date`"
+else
+    git commit -m "$*"
+fi
 git push origin zxc3

@@ -332,7 +332,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="mm"
+       unit="px"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -589,7 +589,7 @@
        x="0"
        y="0"
        w="358"
-       h="390"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -624,7 +624,7 @@
        x="0"
        y="0"
        w="358"
-       h="390"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -782,7 +782,7 @@
        x="0"
        y="0"
        w="358"
-       h="390"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -1179,9 +1179,9 @@
        height="1349"
        x="1284"
        y="68"
-       fullscreen="0"
+       fullscreen="1"
        id="geometry"
-       maximized="1" />
+       maximized="0" />
     <group
        id="XYfront" />
     <group

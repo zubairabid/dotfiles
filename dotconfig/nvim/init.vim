@@ -15,6 +15,9 @@ Plug 'junegunn/fzf'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 
+" Org-mode syntax highlighting only
+Plug 'axvr/org.vim'
+
 " Markdown live preview. If you don't have nodejs and yarn, use pre build
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }}
 
@@ -37,18 +40,25 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 """""""""""""""""""""
 "  Markdown tables  "
 """""""""""""""""""""
+
 let g:table_mode_corner='|'
 
 """""""""""""""""""""""""""""""""
 "  pandoc_syntax configutation  "
 """""""""""""""""""""""""""""""""
+
 augroup pandoc_syntax
     au! BufNewFile,BufFilePre,BufRead *.md set filetype=markdown.pandoc
 augroup END
 
+augroup pandoc_syntax
+  autocmd! FileType vimwiki set syntax=markdown.pandoc
+augroup END 
+
 """"""""""""""""""""""""""""""""""""
 "  Markdown Preview Configuration  "
 """"""""""""""""""""""""""""""""""""
+
 " do not close the preview tab when switching to other buffers
 let g:mkdp_auto_close = 0
 
@@ -100,6 +110,7 @@ let g:vimwiki_global_ext = 0
 """""""""""""""""""""""""""""""
 "  Vim-Airline Configuration  "
 """""""""""""""""""""""""""""""
+
 let g:airline#extensions#coc#enabled = 1
 
 """"""""""""""""""""""
@@ -137,6 +148,7 @@ set autoindent smartindent
 set number relativenumber
 set nu rnu
 set cc=80
+set tw=80
 
 filetype plugin on
 syntax on
@@ -173,3 +185,7 @@ nnoremap <silent> <leader>f :FZF<cr>
 nnoremap <silent> <leader>F :FZF ~<cr>
 
 command! MakeTags !ctags -R .
+
+" command to tangle org files
+command! Tangle !emacs --batch --eval "(require 'org)" --eval '(org-babel-tangle-file "%")'
+command! Publish !pandoc -s -f org -t html % -o %:r.html

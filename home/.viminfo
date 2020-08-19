@@ -20,6 +20,8 @@
 $
 
 # Command Line History (newest to oldest):
+:q!
+|2,0,1597571464,,"q!"
 :wqa
 |2,0,1596440013,,"wqa"
 :w
@@ -58,8 +60,6 @@ $
 |2,0,1586836255,,"set relativenumber"
 :set number
 |2,0,1586836251,,"set number"
-:q!
-|2,0,1584061286,,"q!"
 :e enc=utf-32
 |2,0,1584061284,,"e enc=utf-32"
 :W
@@ -247,38 +247,58 @@ $
 |3,0,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,48,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
-'1  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,49,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
-'2  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,50,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
-'3  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,51,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
-'4  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,52,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
-'5  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,53,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
-'6  6  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py
-|4,54,6,0,1596438294,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py"
-'7  3  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py
-|4,55,3,7,1596438170,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py"
-'8  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,56,1,0,1596393813,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+'0  4  0  ~/test2.md
+|4,48,4,0,1597571464,"~/test2.md"
+'1  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,49,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+'2  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
+|4,50,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
+'3  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,51,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+'4  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,52,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+'5  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,53,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+'6  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
+|4,54,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
+'7  6  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py
+|4,55,6,0,1596438294,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py"
+'8  3  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py
+|4,56,3,7,1596438170,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py"
 '9  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,57,1,0,1596393813,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 
 # Jumplist (newest first):
+-'  4  0  ~/test2.md
+|4,39,4,0,1597571464,"~/test2.md"
+-'  1  0  ~/test2.md
+|4,39,1,0,1597571450,"~/test2.md"
+-'  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  132  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,132,0,1596439807,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  132  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,132,0,1596439807,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  11  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,11,0,1596439436,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  11  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,11,0,1596439436,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,12,0,1596439416,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,12,0,1596439416,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  9  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,9,0,1596439358,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  9  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,9,0,1596439358,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
+|4,39,1,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+-'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
+|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
+-'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
+|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
 -'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 |4,39,1,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
 -'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
@@ -297,6 +317,42 @@ $
 |4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
 -'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
 |4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
+|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
+-'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
+|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
+-'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
+|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
 -'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
 |4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
 -'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
@@ -369,108 +425,59 @@ $
 |4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
 -'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
 |4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,1,0,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  27  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,27,0,1596438401,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
--'  27  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,39,27,0,1596438401,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
+|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
+-'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
+|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/test2.md
+	*	1597571463	0
+	"	4	0
+	^	4	0
+	.	3	9
+	+	3	9
 
 > ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
 	*	1596440012	0
@@ -915,7 +922,3 @@ $
 > ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Data/Training/KHELA2_1010114.txt
 	*	1587817514	0
 	"	1092	3
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/4/dataformatter.ipynb
-	*	1587816392	0
-	"	1	0

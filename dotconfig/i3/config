@@ -342,6 +342,9 @@ bindsym $mod+m exec termite -e htop
 # Launch gotop
 bindsym $mod+g exec termite -e gotop
 
+# Launch vim
+bindsym $mod+v exec termite -e nvim
+
 
 ############ SCREENSHOT WITH SCROT ###############
 # Multi-screen screenshots with scrot
@@ -387,8 +390,8 @@ bindsym $mod+Ctrl+Right resize grow width 2 px or 2 ppt
 # You can also use any non-zero value if you'd like to have a border
 for_window [class=".*"] border pixel 1
 
-gaps inner 5
-gaps outer 10
+gaps inner 15
+gaps outer 15
 
 # smart_gaps on
 
