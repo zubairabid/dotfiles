@@ -1,6 +1,6 @@
 # GIMP user context
 
-(tool "gimp-move-tool")
+(tool "gimp-rect-select-tool")
 (paint-info "gimp-paintbrush")
 (foreground (color-rgb 0.67826086956521747 0.21850014590020428 0.21850014590020428))
 (background (color-rgb 1 0.9882352941176471 0.99215686274509807))
@@ -11,6 +11,6 @@
 (gradient "FG to BG (RGB)")
 (palette "Color History")
 (font "Montserrat")
-(tool-preset "Core Pointer")
+(tool-preset "XPPEN Tablet Pen (0)")
 
 # end of user context
