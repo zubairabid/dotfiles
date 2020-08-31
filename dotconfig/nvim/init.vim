@@ -18,6 +18,9 @@ Plug 'vim-pandoc/vim-pandoc-syntax'
 " Org-mode syntax highlighting only
 Plug 'axvr/org.vim'
 
+" Elm support
+Plug 'elmcast/elm-vim'
+
 " Markdown live preview. If you don't have nodejs and yarn, use pre build
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }}
 

@@ -332,7 +332,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px"
+       unit="mm"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -345,8 +345,8 @@
        selcue="1"
        align_mode="1">
       <group
-         display_unit="0"
-         id="lineheight" />
+         id="lineheight"
+         display_unit="0" />
     </eventcontext>
     <eventcontext
        id="nodes"
@@ -434,14 +434,14 @@
        offset="0"
        offsetunits="mm" />
     <group
-       unit="mm"
-       offset="5"
-       scale="100"
-       precision="2"
-       fontsize="10"
-       id="measure"
+       measure-end="0,0"
        measure-start="0,0"
-       measure-end="0,0" />
+       id="measure"
+       fontsize="10"
+       precision="2"
+       scale="100"
+       offset="5"
+       unit="mm" />
   </group>
   <group
      id="palette">
@@ -589,7 +589,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="426"
        visible="1"
        state="2"
        placement="5" />
@@ -624,7 +624,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="426"
        visible="1"
        state="2"
        placement="5" />
@@ -706,8 +706,8 @@
       <group
          id="defaultxdpi" />
       <group
-         value="0"
-         id="hideexceptselected" />
+         id="hideexceptselected"
+         value="0" />
     </group>
     <group
        id="save_as"
@@ -782,7 +782,7 @@
        x="0"
        y="0"
        w="358"
-       h="400"
+       h="426"
        visible="1"
        state="2"
        placement="5" />
@@ -811,24 +811,24 @@
     <group
        id="undo-history" />
     <group
-       animate-time="100"
-       on-blur="0.50"
+       id="transparency"
        on-focus="1.0"
-       id="transparency" />
+       on-blur="0.50"
+       animate-time="100" />
     <group
-       placement="1"
-       state="2"
-       visible="0"
-       h="472"
-       w="506"
-       y="0"
-       x="0"
-       panel_border="0"
-       panel_wrap="0"
-       panel_mode="1"
-       panel_ratio="100"
+       id="inputdevices"
        panel_size="1"
-       id="inputdevices" />
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="0"
+       y="0"
+       w="506"
+       h="472"
+       visible="0"
+       state="2"
+       placement="1" />
   </group>
   <group
      id="printing">
@@ -971,8 +971,8 @@
        id="dialogsskiptaskbar"
        value="1" />
     <group
-       value="2"
-       id="defaultwindowsize" />
+       id="defaultwindowsize"
+       value="2" />
     <group
        id="arenatilescachesize"
        value="8192" />
@@ -1030,14 +1030,14 @@
        id="outlinemode"
        value="0" />
     <group
-       str="openclipart.org"
-       id="ocalurl" />
+       id="ocalurl"
+       str="openclipart.org" />
     <group
-       str=""
-       id="ocalusername" />
+       id="ocalusername"
+       str="" />
     <group
-       str=""
-       id="ocalpassword" />
+       id="ocalpassword"
+       str="" />
     <group
        id="wireframecolors"
        onlight="255"
@@ -1116,8 +1116,8 @@
     <group
        id="rendering" />
     <group
-       id="font"
-       unitType="2" />
+       unitType="2"
+       id="font" />
     <group
        id="svgeditor"
        value="inkscape" />
@@ -1179,9 +1179,9 @@
        height="1349"
        x="1284"
        y="68"
-       fullscreen="1"
+       fullscreen="0"
        id="geometry"
-       maximized="0" />
+       maximized="1" />
     <group
        id="XYfront" />
     <group
@@ -1198,15 +1198,15 @@
   <group
      id="devices">
     <group
-       keys=""
+       id="P:XPPEN Tablet Pen (0)"
+       mode="screen"
        axes="x;y;pressure"
-       mode="screen"
-       id="P:XPPEN Tablet Pen (0)" />
+       keys="" />
     <group
-       keys=""
-       axes="x;y;pressure;xtilt"
+       id="P:UGTABLET 10 inch PenTablet Mouse"
        mode="screen"
-       id="P:UGTABLET 10 inch PenTablet Mouse" />
+       axes="x;y;pressure;xtilt"
+       keys="" />
   </group>
   <group
      id="toolbox"
@@ -1290,42 +1290,42 @@
      id="ui"
      language="" />
   <group
-     symbolicDefaultColors="0"
-     symbolicIcons="1"
-     darkTheme="1"
-     preferDarkTheme="1"
-     id="theme"
-     defaultTheme="Arc-Dark"
-     defaultIconTheme="flattrcolor-dark"
-     gtkTheme="Arc-Darker"
-     iconTheme="hicolor"
-     menuIcons_canvas="0"
+     menuIcons_objects="0"
      menuIcons_layers="0"
-     menuIcons_objects="0">
+     menuIcons_canvas="0"
+     iconTheme="hicolor"
+     gtkTheme="Arc-Darker"
+     defaultIconTheme="flattrcolor-dark"
+     defaultTheme="Arc-Dark"
+     id="theme"
+     preferDarkTheme="1"
+     darkTheme="1"
+     symbolicIcons="1"
+     symbolicDefaultColors="0">
     <group
-       symbolicErrorColor="-66635521"
-       symbolicWarningColor="4067964415"
-       symbolicSuccessColor="1943148287"
+       id="flattrcolor-dark"
        symbolicBaseColor="-471604225"
-       id="flattrcolor-dark" />
-    <group
-       symbolicErrorColor="10086143"
-       symbolicWarningColor="4279865599"
-       symbolicSuccessColor="10029823"
-       symbolicBaseColor="3958107135"
-       id="multicolor" />
-    <group
-       symbolicErrorColor="4232132863"
-       symbolicWarningColor="4067964415"
        symbolicSuccessColor="1943148287"
+       symbolicWarningColor="4067964415"
+       symbolicErrorColor="-66635521" />
+    <group
+       id="multicolor"
+       symbolicBaseColor="3958107135"
+       symbolicSuccessColor="10029823"
+       symbolicWarningColor="4279865599"
+       symbolicErrorColor="10086143" />
+    <group
+       id="hicolor"
        symbolicBaseColor="-1263410177"
-       id="hicolor" />
+       symbolicSuccessColor="1943148287"
+       symbolicWarningColor="4067964415"
+       symbolicErrorColor="4232132863" />
   </group>
   <group
      id="live_effects">
     <group
-       powerpencilcap="2"
+       id="powerstroke"
        powerpencil="0"
-       id="powerstroke" />
+       powerpencilcap="2" />
   </group>
 </inkscape>

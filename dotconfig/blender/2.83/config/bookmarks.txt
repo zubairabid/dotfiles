@@ -1,13 +1,14 @@
 [Bookmarks]
 /usr/share/fonts/
 [Recent]
+/home/zubair/Videos/out/
+/home/zubair/Downloads/Telegram Desktop/
+/home/zubair/Pictures/screenshots/
 /home/zubair/Documents/Work/Ping/Des/
+!Home
+/home/zubair/
 /usr/share/fonts/TTF/
 /usr/share/fonts/Rustico/
-/home/zubair/Downloads/Telegram Desktop/
 /home/zubair/Videos/MotionTracking/
 /home/zubair/Documents/Work/Hackathons/Engage2020/concepts/
 /home/zubair/Pictures/drawings/original/
-/home/zubair/Documents/Work/Hackathons/Engage2020/
-/home/zubair/Videos/out/
-/home/zubair/Videos/

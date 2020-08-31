@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/sys
+~MSle0~/Sacrament of Penance
 
 # Last Substitute Search Pattern:
 ~MSle0&10 ppt
@@ -20,8 +20,22 @@
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1598794812,,"q"
+:set 
+|2,0,1598726039,,"set "
+:set hlsearch
+|2,0,1598642633,,"set hlsearch"
+:set hlsearch=true
+|2,0,1598642630,,"set hlsearch=true"
+:set clipboard=default
+|2,0,1598561459,,"set clipboard=default"
+:unset clipboard
+|2,0,1598561454,,"unset clipboard"
+:set clipboard=unnamedplus
+|2,0,1598561434,,"set clipboard=unnamedplus"
 :q!
-|2,0,1597571464,,"q!"
+|2,0,1598546508,,"q!"
 :wqa
 |2,0,1596440013,,"wqa"
 :w
@@ -42,8 +56,6 @@ $
 |2,0,1596438030,,"diffg RE"
 :!qa
 |2,0,1596393802,,"!qa"
-:q
-|2,0,1596393738,,"q"
 :diffg BA
 |2,0,1596393674,,"diffg BA"
 :help vimgrep
@@ -96,6 +108,78 @@ $
 |2,0,1566408864,,"%s/HDMI1/HDMI2/gc"
 
 # Search String History (newest to oldest):
+?/Sacrament of Penance
+|2,1,1598654163,47,"Sacrament of Penance"
+?/{{Cite
+|2,1,1598651237,47,"{{Cite"
+?/== Exter
+|2,1,1598650429,47,"== Exter"
+?/<title>Arabic</title>
+|2,1,1598650282,47,"<title>Arabic</title>"
+?/<title>A</title>
+|2,1,1598650190,47,"<title>A</title>"
+?/<title>A
+|2,1,1598650183,47,"<title>A"
+?/autism
+|2,1,1598650055,47,"autism"
+?/also|
+|2,1,1598649740,47,"also|"
+?/Ayn Rand
+|2,1,1598649652,47,"Ayn Rand"
+?/{{Infobox
+|2,1,1598649417,47,"{{Infobox"
+?/[[Category
+|2,1,1598646530,47,"[[Category"
+?/[[category:
+|2,1,1598646527,47,"[[category:"
+?/{{ Infobox
+|2,1,1598643108,47,"{{ Infobox"
+?/{{ infobox
+|2,1,1598643104,47,"{{ infobox"
+?/{{infobox
+|2,1,1598643086,47,"{{infobox"
+?/[[category
+|2,1,1598643073,47,"[[category"
+?/External links
+|2,1,1598642776,47,"External links"
+?/== External links ==
+|2,1,1598642761,47,"== External links =="
+?/[[Category:
+|2,1,1598640081,47,"[[Category:"
+?/<ref>
+|2,1,1598625501,47,"<ref>"
+?/Cite
+|2,1,1598625350,47,"Cite"
+?/cite
+|2,1,1598625345,47,"cite"
+?/Articles of Confederation
+|2,1,1598625001,47,"Articles of Confederation"
+?/Infobox
+|2,1,1598562607,47,"Infobox"
+?/[http
+|2,1,1598562564,47,"[http"
+?/cit
+|2,1,1598561307,47,"cit"
+?/<title>Altruism
+|2,1,1598559614,47,"<title>Altruism"
+?/{{short description|Academic field within biology}}
+|2,1,1598559383,47,"{{short description|Academic field within biology}}"
+?/<title>Agricultural Science
+|2,1,1598559354,47,"<title>Agricultural Science"
+?/Agricultural Science
+|2,1,1598559315,47,"Agricultural Science"
+?/{{Ancient Egyptian royal
+|2,1,1598638079,47,"{{Ancient Egyptian royal"
+?/Asia Minor
+|2,1,1598636552,47,"Asia Minor"
+?/http
+|2,1,1598636095,47,"http"
+?/==References
+|2,1,1598634283,47,"==References"
+?/<title>Algeria
+|2,1,1598556104,47,"<title>Algeria"
+?/algeria
+|2,1,1598556079,47,"algeria"
 ?/sys
 |2,1,1596438164,47,"sys"
 ?/%
@@ -124,78 +208,6 @@ $
 |2,1,1588026388,47,"obl"
 ?/I\ 
 |2,1,1587915608,47,"I\\ "
-?/I 
-|2,1,1587915597,47,"I "
-?/	NULL
-|2,1,1587817484,47,"	NULL"
-?/NULL
-|2,1,1587817466,47,"NULL"
-?/os.list
-|2,1,1587816392,47,"os.list"
-? @$
-|2,1,1580560058,,"@$"
-?/polyb
-|2,1,1579618788,47,"polyb"
-?/poly
-|2,1,1579618563,47,"poly"
-?/rofi
-|2,1,1579618500,47,"rofi"
-? \<ws12\>
-|2,1,1578172498,,"\\<ws12\\>"
-? 10 ppt
-|2,1,1574533274,,"10 ppt"
-? 10 px
-|2,1,1574533251,,"10 px"
-? 10px
-|2,1,1574533234,,"10px"
-?/resiz
-|2,1,1574533191,47,"resiz"
-?/coc
-|2,1,1572496052,47,"coc"
-?/snipp
-|2,1,1572441977,47,"snipp"
-?/depe
-|2,1,1570969274,47,"depe"
-?/vol
-|2,1,1566877956,47,"vol"
-? HDMI1
-|2,1,1566408864,,"HDMI1"
-?/HDMI1
-|2,1,1566408836,47,"HDMI1"
-?/Mater
-|2,1,1566407194,47,"Mater"
-?/materiak
-|2,1,1566407185,47,"materiak"
-?/cpu
-|2,1,1566407171,47,"cpu"
-?/battery
-|2,1,1566406909,47,"battery"
-?/filesys
-|2,1,1566406889,47,"filesys"
-?/dmen
-|2,1,1566403863,47,"dmen"
-?/rof
-|2,1,1566403853,47,"rof"
-?/files
-|2,1,1566402679,47,"files"
-?/date
-|2,1,1566402511,47,"date"
-?/center
-|2,1,1566401785,47,"center"
-?/cernter
-|2,1,1566401217,47,"cernter"
-?/i3
-|2,1,1566401004,47,"i3"
-?/muted
-|2,1,1566391129,47,"muted"
-?/pulse
-|2,1,1566391106,47,"pulse"
-?/xback
-|2,1,1566391094,47,"xback"
-?/wlan
-|2,1,1566390204,47,"wlan"
-?/memory
-|2,1,1566390108,47,"memory"
 
 # Expression History (newest to oldest):
 
@@ -204,13 +216,20 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	error 
-|3,0,0,0,1,0,1580560058,"error "
-""1	LINE	0
+""0	LINE	0
+	2764
+<&lt;!--add something about his estate--&gt;His last public appearance was on 16 March 1980, when he introduced the next year's winner of the American Film Institute award.&lt;ref name=&quot;Spoto 1999 553&quot;/&gt; He died of kidney failure the following month, on 29 April, in his [[Bel Air, Los Angeles|Bel Air]] home.&lt;ref name=&quot;Variety obituary&quot;&gt;{{cite news |last=McCarthy |first=Todd |url=https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342 |title=Alfred Hitchcock Dies Of Natural Causes at Bel-Air Home |work=Variety |date=7 May 1980|access-date=12 December 2017|archive-url=https://web.archive.org/web/20171213010210/https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342/|archive-date=13 December 2017|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|McGilligan|2003|p= 745}}&lt;/ref&gt; [[Donald Spoto]], one of Hitchcock's biographers, wrote that Hitchcock had declined to see a priest,&lt;ref&gt;{{Cite web |url=https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |title=NY Times – 'And Suddenly Evil Erupts' biography review 1996 |access-date=16 July 2019 |archive-url=https://web.archive.org/web/20190716081110/https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |archive-date=16 July 2019 |url-status=live}}&lt;/ref&gt; but according to Jesuit priest Mark Henninger, he and another priest, Tom Sullivan, celebrated Mass at the filmmaker's home, and Sullivan heard his [[Sacrament of Penance|confession]].&lt;ref&gt;{{cite news |first=Mark |last=Henninger |work=The Wall Street Journal |title=Alfred Hitchcock's Surprise Ending |url=https://www.wsj.com/articles/SB10001424127887323401904578159573738040636 |date=6 December 2012 |archiveurl=https://web.archive.org/web/20130207190149/http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html |archivedate=7 February 2013|url-status=live}}&lt;/ref&gt; Hitchcock was survived by his wife and daughter. His funeral was held at Good Shepherd Catholic Church in Beverly Hills on 30 April, after which his body was cremated. His remains were scattered over the Pacific Ocean on 10 May 1980.&lt;ref name=&quot;obit&quot;&gt;{{cite news |last=Flint |first=Peter B. |title=Alfred Hitchcock Dies; A Master of Suspense |url=https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html |date=30 April 1980 |work=The New York Times|access-date=25 July 2018|archive-url=https://web.archive.org/web/20180725214925/https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html|archive-date=25 July 2018|url-status=live}}&lt;/ref&gt;
+|3,1,0,1,1,0,1598651325,>2763
+|<"&lt;!--add something about his estate--&gt;His last public appearance was on 16 March 1980, when he introduced the next year's winner of the American Film Institute award.&lt;ref name=&quot;Spoto 1999 553&quot;/&gt; He died of kidney failure the following month, on 29 April, in his [[Bel Air, Los Angeles|Bel Air]] home.&lt;ref name=&quot;Variety obituary&quot;&gt;{{cite news |last=McCarthy |first=Todd |url=https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-be
+|<l-air-home-1201344342 |title=Alfred Hitchcock Dies Of Natural Causes at Bel-Air Home |work=Variety |date=7 May 1980|access-date=12 December 2017|archive-url=https://web.archive.org/web/20171213010210/https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342/|archive-date=13 December 2017|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|McGilligan|2003|p= 745}}&lt;/ref&gt; [[Donald Spoto]], one of Hitchcock's biographers, wrote that Hitchcock 
+|<had declined to see a priest,&lt;ref&gt;{{Cite web |url=https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |title=NY Times – 'And Suddenly Evil Erupts' biography review 1996 |access-date=16 July 2019 |archive-url=https://web.archive.org/web/20190716081110/https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |archive-date=16 July 2019 |url-status=live}}&lt;/ref&gt; but according to Jesuit priest Mark Henninger, he and another priest, Tom Sullivan,
+|< celebrated Mass at the filmmaker's home, and Sullivan heard his [[Sacrament of Penance|confession]].&lt;ref&gt;{{cite news |first=Mark |last=Henninger |work=The Wall Street Journal |title=Alfred Hitchcock's Surprise Ending |url=https://www.wsj.com/articles/SB10001424127887323401904578159573738040636 |date=6 December 2012 |archiveurl=https://web.archive.org/web/20130207190149/http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html |archivedate=7 February 2013|url
+|<-status=live}}&lt;/ref&gt; Hitchcock was survived by his wife and daughter. His funeral was held at Good Shepherd Catholic Church in Beverly Hills on 30 April, after which his body was cremated. His remains were scattered over the Pacific Ocean on 10 May 1980.&lt;ref name=&quot;obit&quot;&gt;{{cite news |last=Flint |first=Peter B. |title=Alfred Hitchcock Dies; A Master of Suspense |url=https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchco
+|<ck-master.html |date=30 April 1980 |work=The New York Times|access-date=25 July 2018|archive-url=https://web.archive.org/web/20180725214925/https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html|archive-date=25 July 2018|url-status=live}}&lt;/ref&gt;"
+"1	LINE	0
 	from .forms import RegisterForm, PermForm
 	from .face_extract import get_features, recognize
-|3,1,1,1,2,0,1596439415,"from .forms import RegisterForm, PermForm","from .face_extract import get_features, recognize"
+|3,0,1,1,2,0,1596439415,"from .forms import RegisterForm, PermForm","from .face_extract import get_features, recognize"
 "2	LINE	0
 	Locate all entries with a status of 
 |3,0,2,1,1,0,1591941333,"Locate all entries with a status of "
@@ -247,230 +266,257 @@ $
 |3,0,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  4  0  ~/test2.md
-|4,48,4,0,1597571464,"~/test2.md"
-'1  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,49,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
-'2  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,50,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
-'3  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,51,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
-'4  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,52,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
-'5  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,53,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
-'6  6  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py
-|4,54,6,7,1596438417,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/models.py"
-'7  6  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py
-|4,55,6,0,1596438294,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/migrations/0001_initial.py"
-'8  3  7  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py
-|4,56,3,7,1596438170,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/face_extract.py"
-'9  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,57,1,0,1596393813,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
+'0  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,48,2,0,1598794812,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+'1  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,49,2,0,1598793343,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+'2  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,50,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+'3  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,51,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+'4  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,52,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+'5  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,53,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+'6  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,54,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+'7  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,55,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+'8  1453  1  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,56,1453,1,1598659666,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+'9  1453  1  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,57,1453,1,1598659666,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
 
 # Jumplist (newest first):
--'  4  0  ~/test2.md
-|4,39,4,0,1597571464,"~/test2.md"
--'  1  0  ~/test2.md
-|4,39,1,0,1597571450,"~/test2.md"
--'  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  179  1  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,179,1,1596440013,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  132  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,132,0,1596439807,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  132  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,132,0,1596439807,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  11  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,11,0,1596439436,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  11  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,11,0,1596439436,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,12,0,1596439416,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,12,0,1596439416,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  9  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,9,0,1596439358,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  9  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,9,0,1596439358,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,1,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py
-|4,39,1,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/views.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  12  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,12,0,1596439236,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py
-|4,39,1,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/urls.py"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  24  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,24,0,1596439213,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html
-|4,39,1,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/home/base.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  71  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,71,0,1596439127,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  115  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html
-|4,39,115,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/base.html"
--'  1  0  ~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html
-|4,39,1,0,1596439016,"~/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing/templates/account/logtable.html"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,39,2,0,1598794812,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,39,1,0,1598794776,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,39,2,0,1598793343,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+|4,39,1,0,1598792749,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
+-'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
+	*	1598794777	0
+	"	2	0
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
+	*	1598726076	0
+	"	3	0
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
+	*	1598725408	0
+	"	1	0
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+	*	1598695150	0
+	"	54576	1537
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
+	*	1598659738	0
+	"	1080	0
+
+> Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+	*	1598530186	0
+	"	1	0
 
 > ~/test2.md
 	*	1597571463	0
@@ -896,29 +942,3 @@ $
 > ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Documents/karaka_relation_gloss.txt
 	*	1587852644	0
 	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/udmodules/dataformatter.ipynb
-	*	1587848633	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Documents/anncorraudmapping.txt
-	*	1587829952	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/readMe.txt
-	*	1587828774	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/anncorrastats.py
-	*	1587825724	0
-	"	122	8
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Documents/panini_dependency_and_stanford_dependency_mapping.txt
-	*	1587823624	0
-	"	68	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Data/Training/KHELA2_1010114.txt
-	*	1587817514	0
-	"	1092	3

@@ -11,8 +11,8 @@
     (size 640 480))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 640 737)
-    (size 618 312)
+    (position 29 59)
+    (size 1860 990)
     (open-on-exit)
     (aux-info
         (left-docks-width "276")
@@ -21,7 +21,7 @@
     (gimp-toolbox
         (side left)
         (book
-            (current-page 3)
+            (current-page 0)
             (dockable "gimp-device-status"
                 (tab-style automatic)
                 (aux-info
@@ -67,7 +67,11 @@
                 (tab-style automatic)
                 (aux-info
                     (edit-active "true")
-                    (current-data "2. Hardness 100"))))
+                    (current-data "2. Hardness 100")))
+            (dockable "gimp-gradient-list"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true"))))
         (book
             (position 502)
             (current-page 0)
@@ -88,11 +92,11 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 358 13)
+    (position 354 9)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 429 11)
+    (position 427 9)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
@@ -102,7 +106,7 @@
     (position 0 0))
 (session-info "toplevel"
     (factory-entry "gimp-input-devices-dialog")
-    (position 777 335))
+    (position 599 265))
 (session-info "toplevel"
     (factory-entry "gimp-levels-tool-dialog")
     (position 58 170)
@@ -120,7 +124,7 @@
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
-    (position 210 323))
+    (position 208 321))
 (session-info "toplevel"
     (factory-entry "gimp-scale-tool-dialog")
     (position 1623 687))
