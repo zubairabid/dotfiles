@@ -3,8 +3,8 @@
 (GimpDeviceInfo "Core Pointer"
     (icon-name "gimp-cursor")
     (name "Core Pointer")
-    (tool-options "GimpRectangleSelectOptions"
-        (tool "gimp-rect-select-tool"))
+    (tool-options "GimpMoveOptions"
+        (tool "gimp-move-tool"))
     (use-fg-bg no)
     (use-opacity-paint-mode no)
     (use-brush no)
@@ -155,6 +155,8 @@
     (icon-name "gimp-tool-paintbrush")
     (name "XPPEN Tablet Pen (0)")
     (tool-options "GimpRectangleSelectOptions"
+        (desired-fixed-size-height 0)
+        (desired-fixed-size-width 0)
         (tool "gimp-rect-select-tool"))
     (use-fg-bg no)
     (use-opacity-paint-mode no)

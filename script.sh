@@ -32,6 +32,7 @@ rsync -av --delete ~/.xinitrc $dir/home/
 rsync -av --delete ~/.Xresources $dir/home/
 rsync -av --delete ~/.zsh_history $dir/home/
 rsync -av --delete ~/.zshrc $dir/home/
+rsync -av --delete ~/.screenlayout $dir/home/
 
 echo "Moving Scripts"
 rsync -av --delete ~/Scripts/ $dir/Scripts

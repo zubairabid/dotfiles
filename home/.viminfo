@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/Sacrament of Penance
+~MSle0~/PRFN
 
 # Last Substitute Search Pattern:
 ~MSle0&10 ppt
@@ -21,7 +21,13 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1598794812,,"q"
+|2,0,1602937462,,"q"
+:wq
+|2,0,1599557021,,"wq"
+:q!
+|2,0,1599468224,,"q!"
+:800000
+|2,0,1599327947,,"800000"
 :set 
 |2,0,1598726039,,"set "
 :set hlsearch
@@ -34,8 +40,6 @@ $
 |2,0,1598561454,,"unset clipboard"
 :set clipboard=unnamedplus
 |2,0,1598561434,,"set clipboard=unnamedplus"
-:q!
-|2,0,1598546508,,"q!"
 :wqa
 |2,0,1596440013,,"wqa"
 :w
@@ -60,8 +64,6 @@ $
 |2,0,1596393674,,"diffg BA"
 :help vimgrep
 |2,0,1593204209,,"help vimgrep"
-:wq
-|2,0,1591941377,,"wq"
 :e ++enc=utf-32
 |2,0,1591940955,,"e ++enc=utf-32"
 :fileio
@@ -108,6 +110,18 @@ $
 |2,0,1566408864,,"%s/HDMI1/HDMI2/gc"
 
 # Search String History (newest to oldest):
+?/PRFN
+|2,1,1602937971,47,"PRFN"
+?/PRO
+|2,1,1602937968,47,"PRO"
+?/PROF
+|2,1,1602937965,47,"PROF"
+?/prof
+|2,1,1602937959,47,"prof"
+?/ozil
+|2,1,1599327970,47,"ozil"
+?/zil
+|2,1,1599327964,47,"zil"
 ?/Sacrament of Penance
 |2,1,1598654163,47,"Sacrament of Penance"
 ?/{{Cite
@@ -196,18 +210,6 @@ $
 |2,1,1588027466,47,"det"
 ?/acl
 |2,1,1588027244,47,"acl"
-?/appos
-|2,1,1588027230,47,"appos"
-?/cop
-|2,1,1588026974,47,"cop"
-?/mark
-|2,1,1588026869,47,"mark"
-?/advcl
-|2,1,1588026451,47,"advcl"
-?/obl
-|2,1,1588026388,47,"obl"
-?/I\ 
-|2,1,1587915608,47,"I\\ "
 
 # Expression History (newest to oldest):
 
@@ -266,230 +268,269 @@ $
 |3,0,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,48,2,0,1598794812,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
-'1  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,49,2,0,1598793343,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
-'2  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,50,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
-'3  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,51,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
-'4  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,52,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
-'5  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,53,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
-'6  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,54,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
-'7  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,55,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
-'8  1453  1  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,56,1453,1,1598659666,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
-'9  1453  1  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,57,1453,1,1598659666,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+'0  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,48,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'1  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,49,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'2  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,50,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'3  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,51,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+'4  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,52,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+'5  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,53,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+'6  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,54,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+'7  38577  1  ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind.txt
+|4,55,38577,1,1599328207,"~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind.txt"
+'8  9  5  ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind2.txt
+|4,56,9,5,1599319183,"~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind2.txt"
+'9  173  0  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream2.xml-p30304p88444
+|4,57,173,0,1599318533,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream2.xml-p30304p88444"
 
 # Jumplist (newest first):
--'  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,39,2,0,1598794812,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,39,1,0,1598794776,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,39,2,0,1598793343,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
-|4,39,1,0,1598792749,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt"
--'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  3  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,3,0,1598726076,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598726020,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl
-|4,39,1,0,1598725436,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.pkl"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt
-|4,39,1,0,1598725357,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/ind.txt"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  54576  1537  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
-|4,39,54576,1537,1598695151,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/enwiki-20200801-pages-articles-multistream1.xml-p1p30303"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1080  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1080,0,1598659739,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp
-|4,39,1,0,1598659706,"~/Documents/Work/Acads/Projects/IREMiniProject/20171076/tmp"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  2728  50  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,2728,50,1602937983,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  2719  166  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,2719,166,1602937973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  2702  21  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,2702,21,1602937971,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  1935  85  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,1935,85,1602937962,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  901  36  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,901,36,1602937961,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  7  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,7,0,1602937959,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1602937925,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  38  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,38,0,1602937459,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  38  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,38,0,1602937459,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1602937454,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+-'  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+-'  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+-'  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+	*	1602947945	0
+	"	8	0
+
+> ~/Downloads/HASOC/bleh/metadata
+	*	1600459488	0
+	"	1	0
+
+> ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+	*	1600440052	0
+	"	31	0
+
+> ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+	*	1600123973	0
+	"	17	0
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
+	*	1599557021	0
+	"	2	36
+	^	2	37
+	.	2	36
+	+	2	36
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind.txt
+	*	1599328206	0
+	"	38577	1
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind2.txt
+	*	1599319183	0
+	"	9	5
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream2.xml-p30304p88444
+	*	1599318532	0
+	"	173	0
+
+> ~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream1.xml-p1p30303
+	*	1599240279	0
+	"	90	0
 
 > ~/Documents/Work/Acads/Projects/IREMiniProject/20171076/outputs/ind.txt
 	*	1598794777	0
@@ -903,42 +944,4 @@ $
 
 > ~/Documents/Work/Acads/Projects/SE/semanticsimilarity/texsim.py
 	*	1588010605	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/SE/imseg/__init__.py
-	*	1588009401	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/SE/text-detection-ctpn/data/readme/img_859.txt
-	*	1588002279	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/ud_marker
-	*	1587915808	0
-	"	8	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/marker_ud_hindi
-	*	1587915624	0
-	"	156	2
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/anncorra_marker
-	*	1587915320	0
-	"	38	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/UD/hi_hdtb-ud-train.conllu.txt
-	*	1587909660	0
-	"	3	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/load.py
-	*	1587902878	0
-	"	4	0
-	.	4	0
-	+	4	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Data/Training/RAJ8_100509.txt
-	*	1587902171	0
-	"	28	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/Bengali/Documents/karaka_relation_gloss.txt
-	*	1587852644	0
 	"	1	0

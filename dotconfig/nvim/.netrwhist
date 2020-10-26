@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/zubair/Documents/Work/Acads/Projects/POPLProj/popl-project-team-2/Py-NFAtoRE/nfa_machines'
+let g:netrw_dirhist_4='/home/zubair/Documents/Personal/zubairabid.github.io'
 let g:netrw_dirhist_3='/home/zubair/Documents/Work/Acads/Projects/popl-monsoon-2020/hws/hw02/tests'
 let g:netrw_dirhist_2='/home/zubair/.oh-my-zsh'
 let g:netrw_dirhist_1='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_9='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/
 let g:netrw_dirhist_8='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/face_detect'
 let g:netrw_dirhist_7='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm'
 let g:netrw_dirhist_6='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM'
-let g:netrw_dirhist_5='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/landing'
-let g:netrw_dirhist_4='/home/zubair/Documents/Work/Hackathons/SIH2020/CK107_SfM/sfm/sfm'
