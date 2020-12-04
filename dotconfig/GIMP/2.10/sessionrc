@@ -23,7 +23,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 5)
+            (current-page 6)
             (dockable "gimp-font-list"
                 (tab-style automatic)
                 (aux-info
@@ -32,7 +32,7 @@
                 (tab-style automatic)
                 (aux-info
                     (edit-active "true")
-                    (current-data "2. Hardness 075")))
+                    (current-data "2. Hardness 050")))
             (dockable "gimp-device-status"
                 (tab-style automatic)
                 (aux-info
@@ -77,11 +77,11 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 431 13)
+    (position 417 0)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 220 0)
+    (position 206 0)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
@@ -109,14 +109,14 @@
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
-    (position 1303 278))
+    (position 1297 272))
 (session-info "toplevel"
     (factory-entry "gimp-scale-tool-dialog")
     (position 1623 687))
 (session-info "toplevel"
     (factory-entry "gimp-action-search-dialog")
-    (position 591 219)
-    (size 166 30))
+    (position 594 177)
+    (size 166 901))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
     (position 329 102)

@@ -10,7 +10,6 @@
 (monitor-xresolution 102)
 (monitor-yresolution 102)
 (icon-theme "Symbolic-High-Contrast")
-(layer-add-mask-type black)
 (selection-feather-radius 10)
 (fill-options
     (style solid)

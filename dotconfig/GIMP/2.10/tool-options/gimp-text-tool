@@ -1,11 +1,10 @@
 # GIMP gimp-text-tool options
 
-(foreground (color-rgb 0.043137408792972565 0.0078431405127048492 0.20392170548439026))
 (palette "Color History")
 (font "Rustico")
 (font-size 14)
 (hint-style full)
-(letter-spacing 37)
+(letter-spacing 1)
 (box-mode fixed)
 
 # end of gimp-text-tool options

@@ -21,11 +21,17 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1602937462,,"q"
-:wq
-|2,0,1599557021,,"wq"
+|2,0,1606821994,,"q"
+:vimtutor
+|2,0,1606821992,,"vimtutor"
+:vim-tutor
+|2,0,1606821985,,"vim-tutor"
 :q!
-|2,0,1599468224,,"q!"
+|2,0,1604119719,,"q!"
+:wq
+|2,0,1603919807,,"wq"
+:w
+|2,0,1603917937,,"w"
 :800000
 |2,0,1599327947,,"800000"
 :set 
@@ -42,8 +48,6 @@ $
 |2,0,1598561434,,"set clipboard=unnamedplus"
 :wqa
 |2,0,1596440013,,"wqa"
-:w
-|2,0,1596439977,,"w"
 :diffget RE
 |2,0,1596439972,,"diffget RE"
 :diffget LO
@@ -268,230 +272,253 @@ $
 |3,0,36,0,1,0,1591941375,"?"
 
 # File marks:
-'0  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,48,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'1  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,49,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'2  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,50,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'3  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,51,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
-'4  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,52,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
-'5  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,53,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
-'6  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,54,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
-'7  38577  1  ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind.txt
-|4,55,38577,1,1599328207,"~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind.txt"
-'8  9  5  ~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind2.txt
-|4,56,9,5,1599319183,"~/Documents/Work/Acads/Projects/IREMiniProject/outputs/ind2.txt"
-'9  173  0  ~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream2.xml-p30304p88444
-|4,57,173,0,1599318533,"~/Documents/Work/Acads/Projects/IREMiniProject/Data/tmp/enwiki-20200801-pages-articles-multistream2.xml-p30304p88444"
+'0  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,48,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+'1  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,49,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+'2  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,50,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+'3  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,51,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+'4  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,52,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'5  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,53,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'6  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,54,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+'7  1  0  ~/Downloads/HASOC/bleh/metadata
+|4,55,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
+'8  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
+|4,56,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
+'9  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
+|4,57,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
 
 # Jumplist (newest first):
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
+-'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
 -'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
 |4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  2728  50  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,2728,50,1602937983,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  2719  166  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,2719,166,1602937973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  2702  21  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,2702,21,1602937971,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  1935  85  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,1935,85,1602937962,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  901  36  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,901,36,1602937961,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  7  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,7,0,1602937959,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1602937925,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  38  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,38,0,1602937459,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  38  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,38,0,1602937459,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1602937454,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
--'  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
--'  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
--'  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,39,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,39,1,0,1600440046,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  1  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,39,1,0,1600123967,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  2  36  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,2,36,1599557021,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMiniProject/search.txt
-|4,39,1,0,1599556980,"~/Documents/Work/Acads/Projects/IREMiniProject/search.txt"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
+|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
+	*	1603980637	0
+	"	1	0
+
+> ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
+	*	1603919807	0
+	"	2	0
+	^	2	0
+	.	1	10349
+	+	1	10349
+
+> ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
+	*	1603918000	0
+	"	2	0
+	^	2	0
+	.	1	70892
+	+	1	70892
+
+> ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
+	*	1603917941	0
+	"	1	0
+	^	2	0
+	.	1	18254
+	+	1	18254
 
 > ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
 	*	1602947945	0
@@ -929,19 +956,3 @@ $
 > ~/Documents/Work/Acads/Projects/NLA-Project/data/wmt-14/europarl-v7.fr-en.fr
 	*	1588212502	0
 	"	70818	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/data/wmt-14/europarl-v7.fr-en.en
-	*	1588212470	0
-	"	35257	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/marker_ud
-	*	1588027529	0
-	"	10	61
-
-> ~/Documents/Work/Acads/Semester6/subjects/LData/Assignment/Project/Code/marker_anncorra
-	*	1588026379	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/SE/semanticsimilarity/texsim.py
-	*	1588010605	0
-	"	1	0

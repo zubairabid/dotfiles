@@ -1,0 +1,1 @@
+{Intel/Mesa Intel(R) HD Graphics 5500 (BDW GT2)/4.6 (Core Profile) Mesa 20.2.3}=SUPPORTED

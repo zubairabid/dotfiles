@@ -132,8 +132,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="369.188"
-         height="727.559"
+         width="352.442"
+         height="187.409"
          rx="0"
          ry="0" />
       <eventcontext
@@ -210,7 +210,9 @@
          mode="drag"
          selcue="1"
          style="stroke-width:1px;"
-         usecurrent="0" />
+         usecurrent="0"
+         freehand-mode="0"
+         shape="1" />
     </group>
     <eventcontext
        id="calligraphic"
@@ -341,7 +343,7 @@
        font_sample="AaBbCcIiPpQq12369$€¢?.;/()"
        show_sample_in_list="1"
        use_svg2="1"
-       style="font-family:'Roboto Condensed';font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Roboto Condensed, ';"
+       style="font-family:Roboto;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Roboto;"
        selcue="1"
        align_mode="1">
       <group
@@ -563,7 +565,7 @@
   </group>
   <group
      id="colorselector"
-     page="3" />
+     page="0" />
   <group
      id="embedded">
     <group
@@ -572,7 +574,7 @@
        panel_mode="1"
        panel_ratio="100"
        panel_wrap="0"
-       palette="Inkscape default"
+       palette="GNOME HIG Colors"
        panel_border="0" />
   </group>
   <group
@@ -586,12 +588,12 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="0"
+       page="1"
        x="0"
        y="0"
        w="358"
-       h="390"
-       visible="1"
+       h="480"
+       visible="0"
        state="2"
        placement="5" />
     <group
@@ -624,9 +626,9 @@
        align-to="0"
        x="0"
        y="0"
-       w="358"
-       h="390"
-       visible="1"
+       w="394"
+       h="314"
+       visible="0"
        state="2"
        placement="5" />
     <group
@@ -659,12 +661,12 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="3312"
-       y="183"
-       w="677"
-       h="601"
+       x="3177"
+       y="221"
+       w="685"
+       h="637"
        visible="0"
-       placement="4" />
+       placement="1" />
     <group
        id="preferences"
        state="1"
@@ -762,8 +764,8 @@
        x="0"
        y="0"
        w="358"
-       h="390"
-       visible="1"
+       h="400"
+       visible="0"
        state="2"
        placement="5" />
     <group
@@ -782,9 +784,9 @@
        panel_border="0"
        x="0"
        y="0"
-       w="358"
-       h="390"
-       visible="1"
+       w="394"
+       h="314"
+       visible="0"
        state="2"
        placement="5" />
     <group
@@ -833,13 +835,13 @@
     <group
        id="livepatheffect"
        dialogmode="0"
-       x="0"
-       y="0"
+       x="3316"
+       y="201"
        w="407"
        h="677"
        visible="0"
        state="1"
-       placement="3" />
+       placement="1" />
   </group>
   <group
      id="printing">
@@ -1183,7 +1185,7 @@
      org.inkscape.effect.filter.NeonDraw.simply="0.01" />
   <group
      id="desktop"
-     style="font-size:60px;-inkscape-font-specification:'EB Garamond Italic';font-family:'EB Garamond';text-anchor:middle;text-align:center;line-height:1.25;stroke-width:5.66929134;stroke-linecap:round;stroke-linejoin:round;fill:#ff00cc;font-style:italic;opacity:0.65233217;stroke:#000000"
+     style="font-size:66.66666667px;-inkscape-font-specification:'Source Code Pro';font-family:'Source Code Pro';text-anchor:middle;text-align:center;line-height:1.25;stroke-width:7.55905512;stroke-linecap:round;stroke-linejoin:round;fill:#1a5fb4;opacity:0.65233217;stroke:#1a5fb4"
      xrayactive="0">
     <group
        width="2500"

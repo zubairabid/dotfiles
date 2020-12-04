@@ -1,8 +1,10 @@
 [Bookmarks]
 /usr/share/fonts/
 [Recent]
-/tmp/
+/home/zubair/Documents/Work/Acads/Semester7/subjects/cogsci/Project/code/repeatplots/
+/home/zubair/Documents/Work/Acads/Semester7/subjects/cogsci/Project/code/plots/
 /home/zubair/Documents/Personal/Blender/
+/tmp/
 /tmp/blender_SKPPVt/
 /home/zubair/Videos/out/
 /home/zubair/Downloads/Telegram Desktop/
@@ -10,5 +12,3 @@
 /home/zubair/Documents/Work/Ping/Des/
 !Home
 /home/zubair/
-/usr/share/fonts/TTF/
-/usr/share/fonts/Rustico/

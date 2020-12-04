@@ -4880,10 +4880,10 @@
         (proc-arg 0 "directionParam" "Sample from:")
         (proc-arg 0 "orderParam" "Filling order:"))
     (locale-def "resynthesizer" "${gimp_installation_dir}/share/locale"))
-(plug-in-def "${gimp_plug_in_dir}/plug-ins/gmic_gimp_qt" 1602523392
+(plug-in-def "${gimp_plug_in_dir}/plug-ins/gmic_gimp_qt" 1606227297
     (proc-def "plug-in-gmic-qt" 1
-         "G'MIC-Qt (2.9.2)"
-         "G'MIC-Qt (2.9.2)"
+         "G'MIC-Qt (2.9.4)"
+         "G'MIC-Qt (2.9.4)"
          "Sébastien Fourey"
          "Sébastien Fourey"
          "2017"

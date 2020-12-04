@@ -1,16 +1,14 @@
 # GIMP user context
 
-(tool "gimp-rect-select-tool")
+(tool "gimp-move-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 0.043137408792972565 0.0078431405127048492 0.20392170548439026))
-(background (color-rgb 0 0 0))
-(brush "2. Hardness 075")
+(brush "2. Hardness 050")
 (dynamics "Dynamics Off")
 (mybrush "texture 12")
 (pattern "Paper")
-(gradient "Custom")
+(gradient "FG to BG (RGB)")
 (palette "Color History")
 (font "Rustico")
-(tool-preset "XPPEN Tablet Pen (0)")
+(tool-preset "2.4G Mouse")
 
 # end of user context

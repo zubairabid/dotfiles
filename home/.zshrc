@@ -119,7 +119,7 @@ export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/Devel
 source /usr/bin/virtualenvwrapper.sh
-workon pywal
+workon test1
 echo "... Virtualenv setup done"
 
 echo "Begin conda init ..."
