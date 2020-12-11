@@ -345,6 +345,9 @@ bindsym $mod+g exec termite -e gotop
 # Launch vim
 bindsym $mod+v exec termite -e nvim
 
+# Launch Spotify-TUI
+bindsym $mod+n exec termite -e spt
+
 
 ############ SCREENSHOT WITH SCROT ###############
 # Multi-screen screenshots with scrot
