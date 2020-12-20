@@ -23,7 +23,7 @@
     (gimp-dock
         (side right)
         (book
-            (current-page 6)
+            (current-page 2)
             (dockable "gimp-font-list"
                 (tab-style automatic)
                 (aux-info
@@ -81,7 +81,7 @@
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 206 0)
+    (position 182 9)
     (size 1488 1066))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
@@ -91,7 +91,7 @@
     (position -1 0))
 (session-info "toplevel"
     (factory-entry "gimp-input-devices-dialog")
-    (position 599 265))
+    (position 595 261))
 (session-info "toplevel"
     (factory-entry "gimp-levels-tool-dialog")
     (position 58 170)
@@ -119,7 +119,7 @@
     (size 166 901))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
-    (position 329 102)
+    (position 328 101)
     (size 878 902))
 (session-info "toplevel"
     (factory-entry "gimp-keyboard-shortcuts-dialog")
