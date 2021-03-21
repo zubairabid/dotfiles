@@ -2,13 +2,14 @@
 
 (tool "gimp-move-tool")
 (paint-info "gimp-paintbrush")
-(brush "2. Hardness 050")
+(foreground (color-rgb 0.9960784912109375 0.98431378602981567 0.9803922176361084))
+(brush "1. Pixel")
 (dynamics "Dynamics Off")
 (mybrush "texture 12")
 (pattern "Paper")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
 (font "Rustico")
-(tool-preset "Logitech G102 LIGHTSYNC Gaming Mouse")
+(tool-preset "Core Pointer")
 
 # end of user context

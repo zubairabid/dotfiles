@@ -1,5 +1,6 @@
 # GIMP gimp-by-color-select-tool options
 
-(threshold 11.800000000000001)
+(operation intersect)
+(threshold 1.8000000000000007)
 
 # end of gimp-by-color-select-tool options

@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="f6ac49bbf89496d475a1479ca729519d">
+  <resource identifier="gimp-palette-color-history" checksum="1619817238a2b481c239716add269a5e">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1423,18 +1423,6 @@
   <resource identifier="Arimo Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Arvo" checksum="(null)">
-  </resource>
-
-  <resource identifier="Arvo Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Arvo Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Arvo Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="BioRhyme" checksum="(null)">
   </resource>
 
@@ -1469,6 +1457,30 @@
   </resource>
 
   <resource identifier="Cabin Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cabin Condensed, Semi-Bold Italic Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Cabin Italic" checksum="(null)">
@@ -2191,10 +2203,16 @@
   <resource identifier="Karla Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Karla Bold Italic" checksum="(null)">
+  <resource identifier="Karla Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Karla Italic" checksum="(null)">
+  <resource identifier="Karla Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Karla Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Karla Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Lato" checksum="(null)">
@@ -2332,22 +2350,22 @@
   <resource identifier="Libre Franklin Semi-Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Libre Franklin Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Libre Franklin Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Libre Franklin Ultra-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Libre Franklin Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Libre Franklin weight=250" checksum="(null)">
+  <resource identifier="Libre Franklin Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Libre Franklin weight=250 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Libre Franklin weight=275" checksum="(null)">
-  </resource>
-
-  <resource identifier="Libre Franklin weight=275 Italic" checksum="(null)">
+  <resource identifier="Libre Franklin Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Ligconsolata" checksum="(null)">
@@ -2572,7 +2590,448 @@
   <resource identifier="Noto Kufi Arabic Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Kufi Arabic Semi-Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Kufi Arabic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao UI Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Lao Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai UI Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Looped Thai Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Music" checksum="(null)">
@@ -5011,114 +5470,6 @@
   <resource identifier="Noto Sans Lao Light Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Lao Looped" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Heavy Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Lao Looped Ultra-Light Semi-Condensed" checksum="(null)">
-  </resource>
-
   <resource identifier="Noto Sans Lao Medium" checksum="(null)">
   </resource>
 
@@ -6490,13 +6841,13 @@
   <resource identifier="Noto Sans Tai Tham" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Tai Tham weight=448" checksum="(null)">
+  <resource identifier="Noto Sans Tai Tham Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Tai Tham weight=508" checksum="(null)">
+  <resource identifier="Noto Sans Tai Tham weight=482" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Tai Tham weight=574" checksum="(null)">
+  <resource identifier="Noto Sans Tai Tham weight=586" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Tai Viet" checksum="(null)">
@@ -7010,114 +7361,6 @@
   </resource>
 
   <resource identifier="Noto Sans Thai Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Heavy Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Thai Looped Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Thai Medium" checksum="(null)">
@@ -8758,19 +9001,25 @@
   <resource identifier="Noto Serif Myanmar" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif Myanmar Bold" checksum="(null)">
+  <resource identifier="Noto Serif Myanmar" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif Myanmar Bold Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Myanmar" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Myanmar" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Myanmar" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Myanmar" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Myanmar Bold Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Myanmar Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Myanmar Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Myanmar Condensed" checksum="(null)">
@@ -8786,12 +9035,6 @@
   </resource>
 
   <resource identifier="Noto Serif Myanmar Heavy Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Myanmar Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Myanmar Light Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Myanmar Light Condensed" checksum="(null)">
@@ -9691,22 +9934,22 @@
   <resource identifier="Raleway Semi-Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Raleway Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Raleway Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Raleway Ultra-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Raleway Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Raleway weight=250" checksum="(null)">
+  <resource identifier="Raleway Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Raleway weight=250 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Raleway weight=275" checksum="(null)">
-  </resource>
-
-  <resource identifier="Raleway weight=275 Italic" checksum="(null)">
+  <resource identifier="Raleway Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Roboto" checksum="(null)">
@@ -9734,6 +9977,12 @@
   </resource>
 
   <resource identifier="Roboto Condensed, Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Roboto Heavy" checksum="(null)">
@@ -9913,6 +10162,9 @@
   <resource identifier="Source Code Variable Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Code Variable Light" checksum="(null)">
   </resource>
 
@@ -9979,16 +10231,46 @@
   <resource identifier="Source Serif Pro Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Serif Pro Bold Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Serif Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Source Serif Pro Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Serif Pro Light Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Serif Pro Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Serif Pro weight=275" checksum="(null)">
+  <resource identifier="Source Serif Pro Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Serif Pro Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Space Grotesk" checksum="(null)">
+  </resource>
+
+  <resource identifier="Space Grotesk Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Space Grotesk Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Space Grotesk Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Space Mono" checksum="(null)">
@@ -10046,6 +10328,12 @@
   </resource>
 
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Terminus" checksum="(null)">
+  </resource>
+
+  <resource identifier="Terminus Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Tinos" checksum="(null)">

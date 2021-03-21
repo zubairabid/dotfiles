@@ -1,65 +1,16 @@
 # settings
 
-(GimpGegl-gegl-gaussian-blur-config "2020-11-13 04:33:40"
-    (time 1605222220)
-    (std-dev-x 6.3899999999999997)
-    (std-dev-y 6.3899999999999997)
+(GimpGegl-gegl-gaussian-blur-config "2021-02-09 17:40:59"
+    (time 1612872659)
+    (std-dev-x 21.620000000000001)
+    (std-dev-y 21.620000000000001)
     (filter auto)
     (abyss-policy clamp)
     (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-10-26 18:01:48"
-    (time 1603715508)
-    (std-dev-x 1.8600000000000001)
-    (std-dev-y 1.8600000000000001)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-10-26 16:52:35"
-    (time 1603711355)
-    (std-dev-x 59.840000000000003)
-    (std-dev-y 59.840000000000003)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-10-26 16:49:00"
-    (time 1603711140)
-    (std-dev-x 6)
-    (std-dev-y 6)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-10-26 16:48:28"
-    (time 1603711108)
-    (std-dev-x 3)
-    (std-dev-y 3)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-10-26 14:22:10"
-    (time 1603702330)
-    (std-dev-x 3.5)
-    (std-dev-y 3.5)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-08-16 14:43:04"
-    (time 1597569184)
-    (std-dev-x 5.5)
-    (std-dev-y 5.5)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-08-15 15:57:43"
-    (time 1597487263)
-    (std-dev-x 2)
-    (std-dev-y 2)
-    (filter auto)
-    (abyss-policy clamp)
-    (clip-extent yes))
-(GimpGegl-gegl-gaussian-blur-config "2020-06-08 01:05:56"
-    (time 1591558556)
-    (std-dev-x 30)
-    (std-dev-y 30)
+(GimpGegl-gegl-gaussian-blur-config "2021-02-09 17:39:58"
+    (time 1612872598)
+    (std-dev-x 23.559999999999999)
+    (std-dev-y 14.17)
     (filter auto)
     (abyss-policy clamp)
     (clip-extent yes))

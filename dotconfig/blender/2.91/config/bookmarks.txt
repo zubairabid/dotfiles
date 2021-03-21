@@ -1,3 +1,7 @@
 [Bookmarks]
 [Recent]
+/tmp/
+/home/zubair/Videos/out/tl2/
 /home/zubair/Videos/out/
+/home/zubair/Videos/
+/home/zubair/Videos/out/tl/

@@ -334,7 +334,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="mm"
+       unit="px"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -588,11 +588,11 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="1"
+       page="0"
        x="0"
        y="0"
        w="358"
-       h="390"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -627,7 +627,7 @@
        x="0"
        y="0"
        w="358"
-       h="390"
+       h="400"
        visible="1"
        state="2"
        placement="5" />
@@ -685,7 +685,14 @@
     <group
        id="gradienteditor" />
     <group
-       id="object" />
+       id="object"
+       x="0"
+       y="0"
+       w="358"
+       h="234"
+       visible="1"
+       state="2"
+       placement="1" />
     <group
        id="export"
        default=""
@@ -800,7 +807,7 @@
        panel_wrap="0"
        panel_border="0"
        x="3127"
-       y="276"
+       y="456"
        w="785"
        h="527"
        visible="0"
@@ -1137,6 +1144,9 @@
     <group
        id="dash"
        scale="1" />
+    <group
+       id="middlemousezoom"
+       value="1" />
   </group>
   <group
      id="extensions"
@@ -1182,19 +1192,20 @@
      org.inkscape.effect.filter.NeonDraw.__live_effect__="0"
      org.inkscape.effect.filter.NeonDraw.lightness="0"
      org.inkscape.effect.filter.NeonDraw.width="0.03"
-     org.inkscape.effect.filter.NeonDraw.simply="0.01" />
+     org.inkscape.effect.filter.NeonDraw.simply="0.01"
+     org.inkscape.print.eps.cairo.PSlevel="PS3" />
   <group
      id="desktop"
      style="font-size:66.66666667px;-inkscape-font-specification:monospace;font-family:monospace;text-anchor:middle;text-align:center;line-height:1.25;stroke-width:2.64566929;stroke-linecap:round;stroke-linejoin:round;fill:#5e5c64;opacity:0.65233217;stroke:#9a9996"
      xrayactive="0">
     <group
-       width="2500"
-       height="1318"
-       x="29"
-       y="92"
+       width="1860"
+       height="973"
+       x="2589"
+       y="257"
        fullscreen="0"
        id="geometry"
-       maximized="1" />
+       maximized="0" />
     <group
        id="XYfront" />
     <group
@@ -1309,7 +1320,7 @@
      preferDarkTheme="1"
      id="theme"
      defaultTheme="Arc-Dark"
-     defaultIconTheme="flattrcolor-dark"
+     defaultIconTheme="Arc"
      gtkTheme="Arc-Darker"
      iconTheme="hicolor"
      menuIcons_canvas="0"

@@ -44,7 +44,9 @@ scrollbar = right
 [colors]
 # If both of these are unset, cursor falls back to the foreground color,
 # and cursor_foreground falls back to the background color.
-cursor = #dcdccc
+# cursor = #dcdccc
+cursor = #ffdccc
+# cursor = rgba(220, 220, 204, .4)
 #cursor_foreground = #dcdccc
 
 #foreground = #dcdccc

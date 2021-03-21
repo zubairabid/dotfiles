@@ -11,23 +11,31 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/PRFN
+~MSle0~/}
 
 # Last Substitute Search Pattern:
-~MSle0&10 ppt
+~MSle0&	*
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1606821994,,"q"
+|2,0,1615615401,,"q"
+:qw
+|2,0,1613848315,,"qw"
+:4
+|2,0,1613847840,,"4"
+:q!
+|2,0,1610814766,,"q!"
+:s/	*
+|2,0,1610793986,,"s/	*"
+:g/\v^(		+)\1+</d
+|2,0,1610793974,,"g/\\v^(		+)\\1+</d"
 :vimtutor
 |2,0,1606821992,,"vimtutor"
 :vim-tutor
 |2,0,1606821985,,"vim-tutor"
-:q!
-|2,0,1604119719,,"q!"
 :wq
 |2,0,1603919807,,"wq"
 :w
@@ -114,6 +122,14 @@ $
 |2,0,1566408864,,"%s/HDMI1/HDMI2/gc"
 
 # Search String History (newest to oldest):
+?/}
+|2,1,1612640515,47,"}"
+?/id
+|2,1,1612639955,47,"id"
+? 	*
+|2,1,1610793986,,"	*"
+? \v^(		+)\1+<
+|2,1,1610793974,,"\\v^(		+)\\1+<"
 ?/PRFN
 |2,1,1602937971,47,"PRFN"
 ?/PRO
@@ -206,14 +222,6 @@ $
 |2,1,1588538511,47,"15835"
 ?/cc
 |2,1,1588027514,47,"cc"
-?/conj
-|2,1,1588027512,47,"conj"
-?/case
-|2,1,1588027486,47,"case"
-?/det
-|2,1,1588027466,47,"det"
-?/acl
-|2,1,1588027244,47,"acl"
 
 # Expression History (newest to oldest):
 
@@ -222,278 +230,349 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
-	2764
-<&lt;!--add something about his estate--&gt;His last public appearance was on 16 March 1980, when he introduced the next year's winner of the American Film Institute award.&lt;ref name=&quot;Spoto 1999 553&quot;/&gt; He died of kidney failure the following month, on 29 April, in his [[Bel Air, Los Angeles|Bel Air]] home.&lt;ref name=&quot;Variety obituary&quot;&gt;{{cite news |last=McCarthy |first=Todd |url=https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342 |title=Alfred Hitchcock Dies Of Natural Causes at Bel-Air Home |work=Variety |date=7 May 1980|access-date=12 December 2017|archive-url=https://web.archive.org/web/20171213010210/https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342/|archive-date=13 December 2017|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|McGilligan|2003|p= 745}}&lt;/ref&gt; [[Donald Spoto]], one of Hitchcock's biographers, wrote that Hitchcock had declined to see a priest,&lt;ref&gt;{{Cite web |url=https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |title=NY Times – 'And Suddenly Evil Erupts' biography review 1996 |access-date=16 July 2019 |archive-url=https://web.archive.org/web/20190716081110/https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |archive-date=16 July 2019 |url-status=live}}&lt;/ref&gt; but according to Jesuit priest Mark Henninger, he and another priest, Tom Sullivan, celebrated Mass at the filmmaker's home, and Sullivan heard his [[Sacrament of Penance|confession]].&lt;ref&gt;{{cite news |first=Mark |last=Henninger |work=The Wall Street Journal |title=Alfred Hitchcock's Surprise Ending |url=https://www.wsj.com/articles/SB10001424127887323401904578159573738040636 |date=6 December 2012 |archiveurl=https://web.archive.org/web/20130207190149/http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html |archivedate=7 February 2013|url-status=live}}&lt;/ref&gt; Hitchcock was survived by his wife and daughter. His funeral was held at Good Shepherd Catholic Church in Beverly Hills on 30 April, after which his body was cremated. His remains were scattered over the Pacific Ocean on 10 May 1980.&lt;ref name=&quot;obit&quot;&gt;{{cite news |last=Flint |first=Peter B. |title=Alfred Hitchcock Dies; A Master of Suspense |url=https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html |date=30 April 1980 |work=The New York Times|access-date=25 July 2018|archive-url=https://web.archive.org/web/20180725214925/https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html|archive-date=25 July 2018|url-status=live}}&lt;/ref&gt;
-|3,1,0,1,1,0,1598651325,>2763
-|<"&lt;!--add something about his estate--&gt;His last public appearance was on 16 March 1980, when he introduced the next year's winner of the American Film Institute award.&lt;ref name=&quot;Spoto 1999 553&quot;/&gt; He died of kidney failure the following month, on 29 April, in his [[Bel Air, Los Angeles|Bel Air]] home.&lt;ref name=&quot;Variety obituary&quot;&gt;{{cite news |last=McCarthy |first=Todd |url=https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-be
-|<l-air-home-1201344342 |title=Alfred Hitchcock Dies Of Natural Causes at Bel-Air Home |work=Variety |date=7 May 1980|access-date=12 December 2017|archive-url=https://web.archive.org/web/20171213010210/https://variety.com/1980/film/news/alfred-hitchcock-dies-of-natural-causes-at-bel-air-home-1201344342/|archive-date=13 December 2017|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|McGilligan|2003|p= 745}}&lt;/ref&gt; [[Donald Spoto]], one of Hitchcock's biographers, wrote that Hitchcock 
-|<had declined to see a priest,&lt;ref&gt;{{Cite web |url=https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |title=NY Times – 'And Suddenly Evil Erupts' biography review 1996 |access-date=16 July 2019 |archive-url=https://web.archive.org/web/20190716081110/https://www.nytimes.com/1983/03/06/books/and-suddenly-evil-erupts.html |archive-date=16 July 2019 |url-status=live}}&lt;/ref&gt; but according to Jesuit priest Mark Henninger, he and another priest, Tom Sullivan,
-|< celebrated Mass at the filmmaker's home, and Sullivan heard his [[Sacrament of Penance|confession]].&lt;ref&gt;{{cite news |first=Mark |last=Henninger |work=The Wall Street Journal |title=Alfred Hitchcock's Surprise Ending |url=https://www.wsj.com/articles/SB10001424127887323401904578159573738040636 |date=6 December 2012 |archiveurl=https://web.archive.org/web/20130207190149/http://online.wsj.com/article/SB10001424127887323401904578159573738040636.html |archivedate=7 February 2013|url
-|<-status=live}}&lt;/ref&gt; Hitchcock was survived by his wife and daughter. His funeral was held at Good Shepherd Catholic Church in Beverly Hills on 30 April, after which his body was cremated. His remains were scattered over the Pacific Ocean on 10 May 1980.&lt;ref name=&quot;obit&quot;&gt;{{cite news |last=Flint |first=Peter B. |title=Alfred Hitchcock Dies; A Master of Suspense |url=https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchco
-|<ck-master.html |date=30 April 1980 |work=The New York Times|access-date=25 July 2018|archive-url=https://web.archive.org/web/20180725214925/https://www.nytimes.com/1980/04/30/archives/alfred-hitchcock-dies-a-master-of-suspense-alfred-hitchcock-master.html|archive-date=25 July 2018|url-status=live}}&lt;/ref&gt;"
+"0	LINE	0
+	548
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
+|3,0,0,1,1,0,1610793954,>547
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																				542"
 "1	LINE	0
-	from .forms import RegisterForm, PermForm
-	from .face_extract import get_features, recognize
-|3,0,1,1,2,0,1596439415,"from .forms import RegisterForm, PermForm","from .face_extract import get_features, recognize"
+	548
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
+|3,0,1,1,1,0,1610793975,>547
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																				542"
 "2	LINE	0
-	Locate all entries with a status of 
-|3,0,2,1,1,0,1591941333,"Locate all entries with a status of "
+	548
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
+|3,0,2,1,1,0,1610793975,>547
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																				542"
 "3	LINE	0
-	from anncorrastats import mapping
-|3,0,3,1,1,0,1587902873,"from anncorrastats import mapping"
+	546
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												540
+|3,0,3,1,1,0,1610793975,>545
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																		540"
 "4	LINE	0
-	        if (x == 1): 
-|3,0,4,1,1,0,1586012633,"        if (x == 1): "
+	545
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											539
+|3,0,4,1,1,0,1610793975,>544
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																	539"
 "5	LINE	0
-	
-	
-	
-|3,0,5,1,3,0,1578173605,"","",""
-"6	BLOCK	22
-	
-	sample :: DPM Float
-	sample = Sample (\f -> 
-|3,0,6,2,3,22,1578173599,"","sample :: DPM Float","sample = Sample (\\f -> "
+	544
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										538
+|3,0,5,1,1,0,1610793975,>543
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																538"
+"6	LINE	0
+	543
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									537
+|3,0,6,1,1,0,1610793975,>542
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																															537"
 "7	LINE	0
-	
-|3,0,7,1,1,0,1578173529,""
+	542
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								536
+|3,0,7,1,1,0,1610793975,>541
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																														536"
 "8	LINE	0
-	-- | need chain rule
-|3,0,8,1,1,0,1578173385,"-- | need chain rule"
+	541
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							535
+|3,0,8,1,1,0,1610793975,>540
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																													535"
 "9	LINE	0
-	
-|3,0,9,1,1,0,1578173383,""
-"q	CHAR	0
-	
-|3,0,26,0,1,0,1593209139,""
-"-	CHAR	0
-	?
-|3,0,36,0,1,0,1591941375,"?"
+	540
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						534
+|3,0,9,1,1,0,1610793975,>539
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																												534"
+"q@	CHAR	0
+	0dwj
+|3,2,26,0,1,0,1610794020,"0dwj"
+"w	CHAR	0
+	>>Yp
+|3,0,32,0,1,0,1610793950,">>Yp"
+""-	CHAR	0
+	446
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																											
+|3,1,36,0,1,0,1610794027,>445
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																											"
 
 # File marks:
-'0  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,48,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
-'1  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,49,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
-'2  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,50,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
-'3  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,51,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
-'4  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,52,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'5  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,53,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'6  2  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,54,2,0,1602937462,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
-'7  1  0  ~/Downloads/HASOC/bleh/metadata
-|4,55,1,0,1600459490,"~/Downloads/HASOC/bleh/metadata"
-'8  31  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv
-|4,56,31,0,1600440054,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/2020_test_data/german_test_1509.csv"
-'9  17  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv
-|4,57,17,0,1600123973,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/train_sets/hasoc_2020_de_train.csv"
+'0  1  102  ~/testfile2.midi
+|4,48,1,102,1615119284,"~/testfile2.midi"
+'1  3  0  ~/testfile
+|4,49,3,0,1615118642,"~/testfile"
+'2  2351  0  ~/Downloads/19449753.eps
+|4,50,2351,0,1614770767,"~/Downloads/19449753.eps"
+'3  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,51,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+'4  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,52,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+'5  1  21188  ~/Downloads/temp/nela-eng-2019/reuters.json
+|4,53,1,21188,1612640537,"~/Downloads/temp/nela-eng-2019/reuters.json"
+'6  1  24310  ~/Downloads/temp/nela-eng-2019/fivethirtyeight.json
+|4,54,1,24310,1612640505,"~/Downloads/temp/nela-eng-2019/fivethirtyeight.json"
+'7  1  9597  ~/Downloads/temp/nela-eng-2019/theonion.json
+|4,55,1,9597,1612640229,"~/Downloads/temp/nela-eng-2019/theonion.json"
+'8  1  162781  ~/Downloads/temp/nela-eng-2019/washingtonpost.json
+|4,56,1,162781,1612640167,"~/Downloads/temp/nela-eng-2019/washingtonpost.json"
+'9  1  52807  ~/Downloads/temp/nela-eng-2019/foreignpolicy.json
+|4,57,1,52807,1612640020,"~/Downloads/temp/nela-eng-2019/foreignpolicy.json"
 
 # Jumplist (newest first):
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,1,0,1603980638,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  6144  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,6144,0,1603980634,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  13  0  ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
-|4,39,13,0,1603980632,"~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,2,0,1603919807,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort
-|4,39,1,0,1603919803,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPshort"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  2  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,2,0,1603918001,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc
-|4,39,1,0,1603917989,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/NLPpreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  1  0  ~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc
-|4,39,1,0,1603917942,"~/Documents/Work/Acads/Projects/IREMajorProject/eval/COApreproc"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
--'  8  0  ~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv
-|4,39,8,0,1602947946,"~/Documents/Work/Research/HASOC/Hate-Speech-Detection/data/train_sets/hasoc_2020_de_train.csv"
+-'  1  102  ~/testfile2.midi
+|4,39,1,102,1615119284,"~/testfile2.midi"
+-'  1  102  ~/testfile2.midi
+|4,39,1,102,1615119284,"~/testfile2.midi"
+-'  3  0  ~/testfile
+|4,39,3,0,1615118642,"~/testfile"
+-'  3  0  ~/testfile
+|4,39,3,0,1615118642,"~/testfile"
+-'  3  0  ~/testfile
+|4,39,3,0,1615118642,"~/testfile"
+-'  3  0  ~/testfile
+|4,39,3,0,1615118642,"~/testfile"
+-'  1  0  ~/testfile
+|4,39,1,0,1615118640,"~/testfile"
+-'  1  0  ~/testfile
+|4,39,1,0,1615118640,"~/testfile"
+-'  1  0  ~/testfile
+|4,39,1,0,1615118640,"~/testfile"
+-'  1  0  ~/testfile
+|4,39,1,0,1615118640,"~/testfile"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  2351  0  ~/Downloads/19449753.eps
+|4,39,2351,0,1614770767,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  0  ~/Downloads/19449753.eps
+|4,39,1,0,1614770747,"~/Downloads/19449753.eps"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  1  7679  ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+|4,39,1,7679,1614524432,"~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  4  3937  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,4,3937,1613848316,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,0,1613847831,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
 
 # History of marks within files (newest to oldest):
+
+> ~/testfile2.midi
+	*	1615119283	0
+	"	1	102
+
+> ~/testfile
+	*	1615118641	0
+	"	3	0
+
+> ~/Downloads/19449753.eps
+	*	1614770765	0
+	"	2351	0
+
+> ~/Downloads/temp/nela-gt-2020/newsdata/trumptimes.json
+	*	1614524431	0
+	"	1	7679
+
+> ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+	*	1613848315	0
+	"	4	3937
+
+> ~/Downloads/temp/nela-eng-2019/reuters.json
+	*	1612640536	0
+	"	1	21188
+
+> ~/Downloads/temp/nela-eng-2019/fivethirtyeight.json
+	*	1612640252	0
+	"	1	24310
+
+> ~/Downloads/temp/nela-eng-2019/theonion.json
+	*	1612640226	0
+	"	1	9597
+
+> ~/Downloads/temp/nela-eng-2019/washingtonpost.json
+	*	1612640163	0
+	"	1	162781
+
+> ~/Downloads/temp/nela-eng-2019/foreignpolicy.json
+	*	1612640016	0
+	"	1	52807
+
+> ~/Downloads/temp/nela-eng-2019/obamawatcher.json
+	*	1612639845	0
+	"	1	0
+
+> ~/.cache/mozilla/firefox/a1fer8qm.dev-edition-default/cache2/entries/98BE8B897C601FA64FC99BC13E76056EC41CDD52
+	*	1610547470	0
+	"	1	0
 
 > ~/Documents/Work/Acads/Projects/IREMajorProject/datasets/prideandprejudice_cleaned.txt
 	*	1603980637	0
@@ -908,51 +987,3 @@ $
 > ~/Documents/Work/Acads/Projects/NLA-Project/souvik/outputs/data-bin/wmt14_en2fr/dict.fr.txt
 	*	1588619993	0
 	"	1	0
-
-> ~/Documents/Work/Acads/Semester6/subjects/POIS/eval2/util.py
-	*	1588605866	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/multi30k-dataset/data/task1/image_splits/train.txt
-	*	1588538512	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/multi30k-dataset/data/task1/pairs
-	*	1588538015	0
-	"	2	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/wmt14_en_fr/bpe.multi30k.en
-	*	1588452757	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/wmt14_en_fr/tmp/bpe.test.fr
-	*	1588452464	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/wmt14_en_fr/tmp/bpe.train.en
-	*	1588452086	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/souvik/wmt14_en_fr/tmp/bpe.test.en
-	*	1588452082	0
-	"	3	0
-
-> ~/Downloads/Games/piano/README_LINUX.txt
-	*	1588445169	0
-	"	138	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/multi30k-dataset/data/task1/pairs
-	*	1588344972	0
-	"	1	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/multi30k-dataset/data/task1/image_splits/test_2017_mscoco.txt
-	*	1588344937	0
-	"	1	0
-
-> ~/Downloads/prepare-wmt-en2fr.sh
-	*	1588278011	0
-	"	13	0
-
-> ~/Documents/Work/Acads/Projects/NLA-Project/data/wmt-14/europarl-v7.fr-en.fr
-	*	1588212502	0
-	"	70818	0
