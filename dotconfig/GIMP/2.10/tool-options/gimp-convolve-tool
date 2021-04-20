@@ -1,10 +1,10 @@
 # GIMP gimp-convolve-tool options
 
-(foreground (color-rgb 0.9960784912109375 0.98431378602981567 0.9803922176361084))
+(foreground (color-rgb 0.9960784912109375 0.5058823823928833 0.34117648005485535))
 (brush "1. Pixel")
 (dynamics "Dynamics Off")
 (palette "Color History")
-(brush-size 1)
+(brush-size 61)
 (brush-spacing 0.20000000000000001)
 
 # end of gimp-convolve-tool options

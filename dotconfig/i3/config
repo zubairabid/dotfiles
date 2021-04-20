@@ -341,7 +341,13 @@ client.urgent		    $urgent-bg-color	$urgent-bg-color	$text-color
 #                     Non-core keystroke configuration                         #
 ################################################################################
 ################################################################################
-#
+
+###################
+#  KILLING STUFF  #
+###################
+
+bindsym --release $mod+x exec xkill
+
 ########################
 #  MULTIMEDIA BUTTONS  #
 ########################

@@ -1,15 +1,15 @@
 # GIMP user context
 
-(tool "gimp-move-tool")
+(tool "gimp-paintbrush-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 0.9960784912109375 0.98431378602981567 0.9803922176361084))
+(foreground (color-rgb 0.9960784912109375 0.5058823823928833 0.34117648005485535))
 (brush "1. Pixel")
 (dynamics "Dynamics Off")
 (mybrush "texture 12")
 (pattern "Paper")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(font "Rustico")
+(font "Source Code Pro Bold")
 (tool-preset "Core Pointer")
 
 # end of user context

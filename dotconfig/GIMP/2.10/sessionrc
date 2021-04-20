@@ -109,7 +109,7 @@
     (position 323 199))
 (session-info "toplevel"
     (factory-entry "gimp-file-save-dialog")
-    (position 427 62)
+    (position 426 61)
     (size 1237 849))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
