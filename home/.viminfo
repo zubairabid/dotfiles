@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1617106356,,"q"
+|2,0,1622047858,,"q"
 :qw
 |2,0,1613848315,,"qw"
 :4
@@ -236,12 +236,9 @@ $
 |3,0,0,1,1,0,1610793954,>547
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																																				542"
-"1	LINE	0
-	548
-<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
-|3,0,1,1,1,0,1610793975,>547
-|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
-|<																																																				542"
+""1	LINE	0
+	this is what I
+|3,1,1,1,1,0,1621776198,"this is what I"
 "2	LINE	0
 	548
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
@@ -249,57 +246,57 @@ $
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																																				542"
 "3	LINE	0
+	548
+<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														542
+|3,0,3,1,1,0,1610793975,>547
+|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
+|<																																																				542"
+"4	LINE	0
 	546
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												540
-|3,0,3,1,1,0,1610793975,>545
+|3,0,4,1,1,0,1610793975,>545
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																																		540"
-"4	LINE	0
+"5	LINE	0
 	545
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											539
-|3,0,4,1,1,0,1610793975,>544
+|3,0,5,1,1,0,1610793975,>544
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																																	539"
-"5	LINE	0
+"6	LINE	0
 	544
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										538
-|3,0,5,1,1,0,1610793975,>543
+|3,0,6,1,1,0,1610793975,>543
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																																538"
-"6	LINE	0
+"7	LINE	0
 	543
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									537
-|3,0,6,1,1,0,1610793975,>542
+|3,0,7,1,1,0,1610793975,>542
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																															537"
-"7	LINE	0
+"8	LINE	0
 	542
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								536
-|3,0,7,1,1,0,1610793975,>541
+|3,0,8,1,1,0,1610793975,>541
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																														536"
-"8	LINE	0
+"9	LINE	0
 	541
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							535
-|3,0,8,1,1,0,1610793975,>540
+|3,0,9,1,1,0,1610793975,>540
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
 |<																																													535"
-"9	LINE	0
-	540
-<																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						534
-|3,0,9,1,1,0,1610793975,>539
-|<"																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										
-|<																																												534"
 "q@	CHAR	0
 	0dwj
 |3,2,26,0,1,0,1610794020,"0dwj"
 "w	CHAR	0
 	>>Yp
 |3,0,32,0,1,0,1610793950,">>Yp"
-""-	CHAR	0
+"-	CHAR	0
 	446
 <																																																																																																																																																																																																																																																																																																																																																																																																																																																											
-|3,1,36,0,1,0,1610794027,>445
+|3,0,36,0,1,0,1610794027,>445
 |<"																																																																																																																																																																																																																																																																																																																																																																																																																																																											"
 
 # File marks:
@@ -327,12 +324,62 @@ $
 # Jumplist (newest first):
 -'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
 |4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  9552  5259  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,9552,5259,1617106356,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
 -'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
 |4,39,1,0,1617106336,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
 -'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
 |4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
 -'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
 |4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  23  1  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,23,1,1617106309,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
+|4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
 -'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv
 |4,39,1,0,1617106289,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.test.tsv"
 -'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
@@ -343,6 +390,86 @@ $
 |4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
 -'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
 |4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  8  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,8,0,1616955619,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
+-'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
+|4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
 -'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
 |4,39,1,0,1616955614,"~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt"
 -'  1  0  ~/Documents/Work/Acads/Projects/NoProp/Datasets/proppy_train_text.txt
@@ -367,164 +494,32 @@ $
 |4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
 -'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
 |4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  1  102  ~/testfile2.midi
-|4,39,1,102,1615119284,"~/testfile2.midi"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
--'  3  0  ~/testfile
-|4,39,3,0,1615118642,"~/testfile"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
+-'  1  1777  ~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv
+|4,39,1,1777,1616949471,"~/Documents/Work/Acads/Projects/NoProp/Datasets/Proppy/proppy_1.0.train.tsv"
 
 # History of marks within files (newest to oldest):
 
